@@ -1,0 +1,17 @@
+name: Deploy Drogon CRON
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Daily at 2am EST
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+
+  UpdateCoordinates:
+    uses: ./.github/workflows/update_regions_to_coordinates.yml
+    secrets:
+      OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}

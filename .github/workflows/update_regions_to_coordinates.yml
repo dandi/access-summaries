@@ -1,0 +1,23 @@
+name: Update coordinates
+on:
+  workflow_call:
+    secrets:
+      OPENCAGE_API_KEY:
+        required: true
+
+jobs:
+
+  run:
+    # Will read on PR dashboard as 'Deploy / UpdateCoordinates / ??'
+    # Action dashboard identified by 'Update coordinates'
+    # Requirement settings identified as 'UpdateCoordinates / ??'
+    name: Drogon
+    runs-on: self-hosted
+    strategy:
+      fail-fast: false
+
+    steps:
+      - name: Test
+        run: |
+          pwd
+          ls /mnt/backup/dandi

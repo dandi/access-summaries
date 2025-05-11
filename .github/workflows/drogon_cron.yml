@@ -21,11 +21,10 @@ jobs:
       - run: ls ./.github/actions
 
       - name: Cancel if offline
-        id: runner-check
-        uses: ./.github/actions/check_runner.yml
+        uses: ./.github/actions/check_runner
         with:
           org: dandi
-          label: Drogon
+          label: drogon
           token: ${{ secrets.API_KEY_GITHUB }}
 
   UpdateCoordinates:
@@ -43,7 +42,7 @@ jobs:
       - name: Send email notification
         uses: dawidd6/action-send-mail@v3
         with:
-          server_address: smtp.example.com
+          server_address: smtp.gmail.com
           server_port: 465
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}

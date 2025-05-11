@@ -1,5 +1,5 @@
-name: Cancel workflow if self-hosted runner is offline
-description: Immediately cancels workflow if self-hosted runner isn't online.
+name: Check self-hosted runner
+description: Used to immediately cancel workflow if self-hosted runner isn't online.
 
 inputs:
   org:
@@ -16,7 +16,7 @@ runs:
   using: "composite"
   steps:
     - shell: bash
-      run: chmod +x "$GITHUB_ACTION_PATH/check_runner.sh"
+      run: chmod +x "$GITHUB_ACTION_PATH/check_runner_script.sh"
     - shell: bash
       run: |
         set -e

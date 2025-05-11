@@ -11,8 +11,24 @@ concurrency:
 
 jobs:
 
+  check-runner:
+    name: Pre Run Check
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cancel if offline
+        id: runner-check
+        uses: ./actions/check_runner.yml
+        with:
+          org: dandi
+          label: Drogon
+          token: ${{ secrets.API_KEY_GITHUB }}
+
   UpdateCoordinates:
     uses: ./.github/workflows/update_regions_to_coordinates.yml
+    needs: check-runner
     secrets:
       OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
       IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}

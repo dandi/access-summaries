@@ -1,0 +1,32 @@
+name: Cancel workflow if self-hosted runner is offline
+description: Immediately cancels workflow if self-hosted runner isn't online.
+
+inputs:
+  org:
+    description: "GitHub organization or repository (org or owner/repo)"
+    required: true
+  label:
+    description: "Runner label"
+    required: true
+  token:
+    description: "GitHub token"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - shell: bash
+      run: chmod +x "$GITHUB_ACTION_PATH/check_runner.sh"
+    - shell: bash
+      run: |
+        set -e
+        export GH_TOKEN="${{ inputs.token }}"
+        output=$("$GITHUB_ACTION_PATH/check_runner.sh" "${{ inputs.org }}" "${{ inputs.label }}")
+        echo "Runner check output: $output"
+        if [[ "$output" != "true" ]]; then
+          echo "Runner offline. Cancelling workflow ${{ github.run_id }}."
+          gh run cancel ${{ github.run_id }} --repo "${{ github.repository }}"
+          sleep infinity
+        else
+          echo "Runner is online. Proceeding."
+        fi

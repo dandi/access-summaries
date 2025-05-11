@@ -15,6 +15,7 @@ jobs:
     # Requirement settings identified as 'UpdateCoordinates / ??'
     name: Drogon
     runs-on: self-hosted
+    timeout-minutes: 30
     strategy:
       fail-fast: false
 

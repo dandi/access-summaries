@@ -13,7 +13,6 @@ jobs:
 
   UpdateCoordinates:
     uses: ./.github/workflows/update_regions_to_coordinates.yml
-    timeout-minutes: 30  # Set timeout to 30 minutes
     secrets:
       OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
       IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}

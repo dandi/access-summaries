@@ -17,18 +17,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: ls ./.github
-      - run: ls ./.github/actions
-
       - name: Cancel if offline
-        uses: ./.github/actions/check_runner
+        uses: ./.github/actions/check-runner
         with:
           org: dandi
           label: drogon
           token: ${{ secrets.API_KEY_GITHUB }}
 
   UpdateCoordinates:
-    uses: ./.github/workflows/update_regions_to_coordinates.yml
+    uses: ./github/workflows/update-regions-to-coordinates.yml
     needs: CheckDrogon
     secrets:
       OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}

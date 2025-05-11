@@ -16,7 +16,7 @@ runs:
   using: "composite"
   steps:
     - shell: bash
-      run: chmod +x "$GITHUB_ACTION_PATH/check_runner_script.sh"
+      run: chmod +x "$GITHUB_ACTION_PATH/script.sh"
     - shell: bash
       run: |
         set -e

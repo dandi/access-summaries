@@ -2,9 +2,7 @@ name: Upload content
 on:
   workflow_call:
     secrets:
-      OPENCAGE_API_KEY:
-        required: true
-      IPINFO_API_KEY:
+      API_TOKEN_GITHUB:
         required: true
 
 jobs:

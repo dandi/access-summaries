@@ -1,11 +1,6 @@
 name: Check for errors
 on:
   workflow_call:
-    secrets:
-      OPENCAGE_API_KEY:
-        required: true
-      IPINFO_API_KEY:
-        required: true
 
 jobs:
 

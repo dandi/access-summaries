@@ -26,15 +26,16 @@ jobs:
 
     - name: Copy latest cache files  # Actual data files should dump to this folder from other workflows
       run: |
-        cp /mnt/backup/dandi/dandiarchive-logs-parser-cache/dandi_s3_log_parser/region_codes_to_coordinates.json \
-        /mnt/backup/dandi/dandiarchive-logs-cody/access-summaries/content/region_codes_to_coordinates.json
+        cp \
+        /mnt/backup/dandi/dandiarchive-logs-parser-cache/dandi_s3_log_parser/region_codes_to_coordinates.json \
+        ./content/region_codes_to_coordinates.json
 
     - name: Add and commit files
       run: |  # `|| true` below to skip if nothing changed from pre-commit
+        cd /mnt/backup/dandi/dandiarchive-logs-cody/access-summaries
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add content
-        git commit -m "update S3 log summary content" || true
+        git commit -m "update S3 log summary content" -a || true
 
     - name: Push changes
       uses: ad-m/github-push-action@v0.8.0

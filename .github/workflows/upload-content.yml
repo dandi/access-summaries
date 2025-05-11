@@ -27,7 +27,7 @@ jobs:
     - name: Copy latest cache files  # Actual data files should dump to this folder from other workflows
       run: |
         cp /mnt/backup/dandi/dandiarchive-logs-parser-cache/dandi_s3_log_parser/region_codes_to_coordinates.json \
-        /mnt/backup/dandi/dandiarchive-logs-cody/access-summaries/region_codes_to_coordinates.json
+        /mnt/backup/dandi/dandiarchive-logs-cody/access-summaries/content/region_codes_to_coordinates.json
 
     - name: Add and commit files
       run: |  # `|| true` below to skip if nothing changed from pre-commit

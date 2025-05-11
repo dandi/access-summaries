@@ -32,7 +32,6 @@ jobs:
 
     - name: Add and commit files
       run: |  # `|| true` below to skip if nothing changed from pre-commit
-        cd /mnt/backup/dandi/dandiarchive-logs-cody/access-summaries
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git commit -m "update S3 log summary content" -a || true

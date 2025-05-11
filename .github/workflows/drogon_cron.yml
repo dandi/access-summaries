@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - run: ls ./.github
+      - run: ls ./.github/actions
+
       - name: Cancel if offline
         id: runner-check
         uses: ./.github/actions/check_runner.yml
@@ -33,7 +36,8 @@ jobs:
       IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}
 
   NotifyOnFailure:
-    if: failure()
+    if: ${{ failure() }}
+    needs: [CheckDrogon, UpdateCoordinates]
     runs-on: ubuntu-latest
     steps:
       - name: Send email notification

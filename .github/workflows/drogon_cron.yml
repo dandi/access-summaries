@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.API_KEY_GITHUB }}
 
   UpdateCoordinates:
-    uses: ./github/workflows/update_regions_to_coordinates.yml
+    uses: ./.github/workflows/update-regions-to-coordinates.yml
     needs: CheckDrogon
     secrets:
       OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}

@@ -24,9 +24,8 @@ runs:
         output=$("$GITHUB_ACTION_PATH/script.sh" "${{ inputs.org }}" "${{ inputs.label }}")
         echo "Runner check output: $output"
         if [[ "$output" != "true" ]]; then
-          echo "Runner offline. Cancelling workflow ${{ github.run_id }}."
-          gh run cancel ${{ github.run_id }} --repo "${{ github.repository }}"
-          sleep infinity
+          echo "Runner is offline. Triggering failure in workflow."
+          exit 1
         else
           echo "Runner is online. Proceeding."
         fi

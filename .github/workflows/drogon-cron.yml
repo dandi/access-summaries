@@ -32,7 +32,7 @@ jobs:
       IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}
 
   NotifyOnFailure:
-    if: ${{ failure() }}
+    if: ${{ always() && failure() }}  # 'always' for if any 'needs' are cancelled/skipped
     needs: [CheckDrogon, UpdateCoordinates]
     runs-on: ubuntu-latest
     steps:

@@ -19,12 +19,7 @@ jobs:
       fail-fast: false
 
     steps:
-      - name: Test
-        run: |
-          pwd
-          ls /mnt/backup/dandi
-
-      - name: Test
+      - name: Update region codes to coordinates
         run: |
           export OPENCAGE_API_KEY=${{ secrets.OPENCAGE_API_KEY }}
           export IPINFO_CREDENTIALS=${{ secrets.IPINFO_API_KEY }}

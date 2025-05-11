@@ -13,5 +13,25 @@ jobs:
 
   UpdateCoordinates:
     uses: ./.github/workflows/update_regions_to_coordinates.yml
+    timeout-minutes: 30  # Set timeout to 30 minutes
     secrets:
       OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
+      IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}
+
+  NotifyOnFailure:
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.example.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Drogon S3 Log CRON Failed"
+          to: cody.c.baker.phd@gmail.com  # Add more with comma separation (no spaces)
+          from: Drogon CRON
+          body: |
+            The scheduled run of S3 log updates encountered an issue, please check status at
+            https://github.com/dandi/access-summaries/actions/workflows/drogon_cron.yml

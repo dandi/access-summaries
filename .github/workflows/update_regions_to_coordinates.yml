@@ -4,6 +4,8 @@ on:
     secrets:
       OPENCAGE_API_KEY:
         required: true
+      IPINFO_API_KEY:
+        required: true
 
 jobs:
 

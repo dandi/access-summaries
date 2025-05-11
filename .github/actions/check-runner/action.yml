@@ -21,7 +21,7 @@ runs:
       run: |
         set -e
         export GH_TOKEN="${{ inputs.token }}"
-        output=$("$GITHUB_ACTION_PATH/check_runner.sh" "${{ inputs.org }}" "${{ inputs.label }}")
+        output=$("$GITHUB_ACTION_PATH/script.sh" "${{ inputs.org }}" "${{ inputs.label }}")
         echo "Runner check output: $output"
         if [[ "$output" != "true" ]]; then
           echo "Runner offline. Cancelling workflow ${{ github.run_id }}."

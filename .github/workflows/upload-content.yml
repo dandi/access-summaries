@@ -33,7 +33,8 @@ jobs:
       run: |  # `|| true` below to skip if nothing changed from pre-commit
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit -m "update S3 log summary content" -a || true
+        git add content
+        git commit -m "update S3 log summary content" || true
 
     - name: Push changes
       uses: ad-m/github-push-action@v0.8.0

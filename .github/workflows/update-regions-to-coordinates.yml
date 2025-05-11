@@ -4,15 +4,18 @@ on:
     secrets:
       OPENCAGE_API_KEY:
         required: true
+      IPINFO_API_KEY:
+        required: true
 
 jobs:
 
   run:
-    # Will read on PR dashboard as 'Deploy / UpdateCoordinates / ??'
+    # Will read on PR dashboard as 'Deploy / UpdateCoordinates / Drogon'
     # Action dashboard identified by 'Update coordinates'
-    # Requirement settings identified as 'UpdateCoordinates / ??'
+    # Requirement settings identified as 'UpdateCoordinates / Drogon'
     name: Drogon
     runs-on: self-hosted
+    timeout-minutes: 1
     strategy:
       fail-fast: false
 

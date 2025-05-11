@@ -1,0 +1,51 @@
+name: Deploy Drogon CRON
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Daily at 2am EST
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  CheckDrogon:
+    name: Pre Run Check
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cancel if offline
+        uses: ./.github/actions/check-runner
+        with:
+          org: dandi/access-summaries
+          label: drogon
+          token: ${{ secrets.API_KEY_GITHUB }}
+
+  UpdateCoordinates:
+    uses: ./.github/workflows/update-regions-to-coordinates.yml
+    needs: CheckDrogon
+    secrets:
+      OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
+      IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}
+
+  NotifyOnFailure:
+    if: ${{ failure() }}
+    needs: [CheckDrogon, UpdateCoordinates]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Drogon S3 Log CRON Failed"
+          to: cody.c.baker.phd@gmail.com  # Add more with comma separation (no spaces)
+          from: Drogon CRON
+          body: |
+            The scheduled run of S3 log updates encountered an issue, please check status at
+            https://github.com/dandi/access-summaries/actions/workflows/drogon_cron.yml

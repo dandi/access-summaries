@@ -37,6 +37,10 @@ jobs:
     secrets:
       API_KEY_GITHUB: ${{ secrets.API_KEY_GITHUB }}
 
+  CheckForErrors:
+    uses: ./.github/workflows/check-for-errors.yml
+    needs: UploadContent
+
   NotifyOnFailure:
     if: ${{ always() && failure() }}  # 'always' for if any 'needs' are cancelled/skipped
     needs: [CheckDrogon, UpdateCoordinates]

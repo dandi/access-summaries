@@ -1,0 +1,26 @@
+name: Check for errors
+on:
+  workflow_call:
+    secrets:
+      OPENCAGE_API_KEY:
+        required: true
+      IPINFO_API_KEY:
+        required: true
+
+jobs:
+
+  run:
+    # Will read on PR dashboard as 'Deploy / CheckForErrors / Drogon'
+    # Action dashboard identified by 'Check for errors'
+    # Requirement settings identified as 'CheckForErrors / Drogon'
+    name: Drogon
+    runs-on: self-hosted
+    strategy:
+      fail-fast: false
+
+    steps:
+      - name: Update region codes to coordinates
+        run: |
+          source /home/dandi/miniconda3/etc/profile.d/conda.sh
+          conda activate s3_logs_cron
+          check_for_errors --cache_directory /mnt/backup/dandi/dandiarchive-logs-parser-cache

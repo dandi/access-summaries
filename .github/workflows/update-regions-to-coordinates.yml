@@ -15,12 +15,16 @@ jobs:
     # Requirement settings identified as 'UpdateCoordinates / Drogon'
     name: Drogon
     runs-on: self-hosted
-    timeout-minutes: 1
     strategy:
       fail-fast: false
 
     steps:
-      - name: Test
+      - name: Update region codes to coordinates
         run: |
-          pwd
-          ls /mnt/backup/dandi
+          export OPENCAGE_API_KEY=${{ secrets.OPENCAGE_API_KEY }}
+          export IPINFO_CREDENTIALS=${{ secrets.IPINFO_API_KEY }}
+          source /home/dandi/miniconda3/etc/profile.d/conda.sh
+          conda activate s3_logs_cron
+          update_region_codes_to_coordinates \
+            --mapped_s3_logs_folder_path /mnt/backup/dandi/dandiarchive-logs-mapped.cbaker239 \
+            --cache_directory /mnt/backup/dandi/dandiarchive-logs-parser-cache

@@ -20,7 +20,7 @@ jobs:
       - name: Cancel if offline
         uses: ./.github/actions/check-runner
         with:
-          org: dandi
+          org: dandi/access-summaries
           label: drogon
           token: ${{ secrets.API_KEY_GITHUB }}
 

@@ -2,7 +2,7 @@ name: Upload content
 on:
   workflow_call:
     secrets:
-      API_TOKEN_GITHUB:
+      API_KEY_GITHUB:
         required: true
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.API_TOKEN_GITHUB }}
+        token: ${{ secrets.API_KEY_GITHUB }}
         ref: ${{ github.head_ref }}
         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN
         fetch-depth: 0  # otherwise, there would be errors pushing refs to the destination repository

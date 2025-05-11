@@ -31,6 +31,12 @@ jobs:
       OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
       IPINFO_API_KEY: ${{ secrets.IPINFO_API_KEY }}
 
+  UploadContent:
+    uses: ./.github/workflows/upload-content.yml
+    needs: UpdateCoordinates
+    secrets:
+      API_KEY_GITHUB: ${{ secrets.API_KEY_GITHUB }}
+
   NotifyOnFailure:
     if: ${{ always() && failure() }}  # 'always' for if any 'needs' are cancelled/skipped
     needs: [CheckDrogon, UpdateCoordinates]

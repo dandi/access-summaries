@@ -1,492 +1,501 @@
-	asset_path	bytes_sent
-0	sub-25ms-PF1/sub-25ms-PF1_ses-20250115-1-bPAC-KX-LED25ms-rec6_ophys.nwb	386205650
-1	sub-25ms-PF3/sub-25ms-PF3_ses-20250115-3-bPAC-KX-LED25ms-rec1_ophys.nwb	197130496
-2	sub-25ms-PF5/sub-25ms-PF5_ses-20250114-5-bPAC-KX-LED25ms-rec6_ophys.nwb	157848
-3	sub-25ms-PF5/sub-25ms-PF5_ses-20250114-5-bPAC-KX-LED25ms-rec1_ophys.nwb	169437756
-4	sub-25ms-PF1/sub-25ms-PF1_ses-20250115-1-bPAC-KX-LED25ms-rec1_ophys.nwb	327155712
-5	sub-25ms-PF7/sub-25ms-PF7_ses-20250114-7-bPAC-KX-LED25ms-rec1_ophys.nwb	327155712
-6	sub-25ms-PF7/sub-25ms-PF7_ses-20250114-7-bPAC-KX-LED25ms-rec6_ophys.nwb	306313416
-7	sub-25ms-PF9/sub-25ms-PF9_ses-20250114-9-bPAC-KX-LED25ms-rec1_ophys.nwb	338062037
-8	sub-25ms-PF9/sub-25ms-PF9_ses-20250114-9-bPAC-KX-LED25ms-rec6_ophys.nwb	126847641
-9	sub-25ms-alb11/sub-25ms-alb11_ses-20250328-11-bPAC-KX-ROI2-LED25ms_ophys.nwb	335409720
-10	sub-25ms-alb11/sub-25ms-alb11_ses-20250328-11-bPAC-KX-ROI3-LED25ms_ophys.nwb	146533232
-11	sub-25ms-alb11/sub-25ms-alb11_ses-20250328-11-bPAC-KX-ROI1-LED25ms_ophys.nwb	356907096
-12	sub-25ms-alb12/sub-25ms-alb12_ses-20250328-12-ctrl-KX-ROI1-LED25ms_ophys.nwb	344992864
-13	sub-25ms-alb12/sub-25ms-alb12_ses-20250328-12-ctrl-KX-ROI3-LED25ms_ophys.nwb	145369570
-14	sub-25ms-alb13/sub-25ms-alb13_ses-20250328-13-ctrl-KX-ROI1-LED25ms_ophys.nwb	355936558
-15	sub-25ms-alb13/sub-25ms-alb13_ses-20250328-13-ctrl-KX-ROI3-LED25ms_ophys.nwb	146229148
-16	sub-25ms-alb13/sub-25ms-alb13_ses-20250328-13-ctrl-KX-ROI4-LED25ms_ophys.nwb	356903512
-17	sub-25ms-alb12/sub-25ms-alb12_ses-20250328-12-ctrl-KX-ROI4-LED25ms_ophys.nwb	155294451
-18	sub-25ms-alb14/sub-25ms-alb14_ses-20250328-14-bPAC-KX-ROI4-LED25ms_ophys.nwb	338474192
-19	sub-25ms-alb15/sub-25ms-alb15_ses-20250328-15-bPAC-KX-ROI4-LED25ms_ophys.nwb	138279224
-20	sub-25ms-alb14/sub-25ms-alb14_ses-20250328-14-bPAC-KX-ROI1-LED25ms_ophys.nwb	79689984
-21	sub-25ms-alb16/sub-25ms-alb16_ses-20250328-16-bPAC-KX-ROI3-LED25ms_ophys.nwb	331217208
-22	sub-25ms-alb16/sub-25ms-alb16_ses-20250328-16-bPAC-KX-ROI4-LED25ms_ophys.nwb	175960660
-23	sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI2-LED25ms_ophys.nwb	150142275
-24	sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI1-LED25ms_ophys.nwb	71324280
-25	sub-25ms-alb16/sub-25ms-alb16_ses-20250328-16-bPAC-KX-ROI2-LED25ms_ophys.nwb	79427952
-26	sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI3-LED25ms_ophys.nwb	67108864
-27	sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI4-LED25ms_ophys.nwb	71235868
-28	sub-25ms-alb20/sub-25ms-alb20_ses-20250328-20-ctrl-KX-ROI3-LED25ms_ophys.nwb	138344732
-29	sub-25ms-alb20/sub-25ms-alb20_ses-20250328-20-ctrl-KX-ROI4-LED25ms_ophys.nwb	81979180
-30	sub-25ms-alb18/sub-25ms-alb18_ses-20250328-18-bPAC-KX-ROI2-LED25ms_ophys.nwb	218899214
-31	sub-25ms-alb19/sub-25ms-alb19_ses-20250328-19-bPAC-KX-ROI3-LED25ms_ophys.nwb	75362872
-32	sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED1s-2_ophys.nwb	71563408
-33	sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED200ms_ophys.nwb	76475581
-34	sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec2_ophys.nwb	71628916
-35	sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED1s_ophys.nwb	145783525
-36	sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec1_ophys.nwb	277734056
-37	sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED3s_ophys.nwb	129956124
-38	sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec3_ophys.nwb	86237200
-39	sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec4_ophys.nwb	62902572
-40	sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED1s-2_ophys.nwb	62786920
-41	sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED200ms_ophys.nwb	68154963
-42	sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED3s_ophys.nwb	104724792
-43	sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED1s_ophys.nwb	281089394
-44	sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec1_ophys.nwb	167772160
-45	sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec2_ophys.nwb	277386094
-46	sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec3_ophys.nwb	215009663
-47	sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec1_ophys.nwb	231825812
-48	sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec2_ophys.nwb	212313511
-49	sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec4_ophys.nwb	280682482
-50	sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec4_ophys.nwb	206632538
-51	sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec3_ophys.nwb	202486713
-52	sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec1_ophys.nwb	293601280
-53	sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec2_ophys.nwb	197327020
-54	sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec3_ophys.nwb	277861539
-55	sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec4_ophys.nwb	202286970
-56	sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec1_ophys.nwb	275207058
-57	sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec3_ophys.nwb	201326592
-58	sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec4_ophys.nwb	197064988
-59	sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec2_ophys.nwb	198501794
-60	sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec1_ophys.nwb	279990225
-61	sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec1_ophys.nwb	152956481
-62	sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec3_ophys.nwb	125829120
-63	sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec2_ophys.nwb	117829976
-64	sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec4_ophys.nwb	269552581
-65	sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec2_ophys.nwb	82899876
-66	sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec3_ophys.nwb	67108864
-67	sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec4_ophys.nwb	68074676
-68	sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED1s-2_ophys.nwb	67108864
-69	sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED1s_ophys.nwb	68055477
-70	sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED200ms_ophys.nwb	75362872
-71	sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED3s_ophys.nwb	58720256
-72	sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec1_ophys.nwb	268435456
-73	sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec2_ophys.nwb	58720256
-74	sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec3_ophys.nwb	264786160
-75	sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec2_ophys.nwb	76864818
-76	sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec1_ophys.nwb	67108864
-77	sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec3_ophys.nwb	264108344
-78	sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec4_ophys.nwb	272562460
-79	sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec4_ophys.nwb	170523496
-80	sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED1s-2_ophys.nwb	260046848
-81	sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED1s_ophys.nwb	303488698
-82	sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED200ms_ophys.nwb	261112516
-83	sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec2_ophys.nwb	328831235
-84	sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED3s_ophys.nwb	322491368
-85	sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec3_ophys.nwb	343732006
-86	sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec1_ophys.nwb	256178292
-87	sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec4_ophys.nwb	81111342
-88	sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED1s-2_ophys.nwb	326546952
-89	sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED1s_ophys.nwb	346094692
-90	sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED200ms_ophys.nwb	329335832
-91	sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED3s_ophys.nwb	317144164
-92	sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec1_ophys.nwb	344191376
-93	sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec4_ophys.nwb	315813289
-94	sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec2_ophys.nwb	335053959
-95	sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED1s-2_ophys.nwb	194080322
-96	sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec3_ophys.nwb	343601804
-97	sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED1s_ophys.nwb	236715248
-98	sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED200ms_ophys.nwb	220812150
-99	sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED3s_ophys.nwb	198061869
-100	sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec2_ophys.nwb	197130496
-101	sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec3_ophys.nwb	203244935
-102	sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec1_ophys.nwb	210280228
-103	sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec4_ophys.nwb	202967361
-104	sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec1_ophys.nwb	138672272
-105	sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec3_ophys.nwb	202328432
-106	sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec2_ophys.nwb	159183444
-107	sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec4_ophys.nwb	205099102
-108	sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec1_ophys.nwb	193920158
-109	sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec2_ophys.nwb	132770330
-110	sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec3_ophys.nwb	201126484
-111	sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-startle-rec1_ophys.nwb	150994944
-112	sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec4_ophys.nwb	176160768
-113	sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec2_ophys.nwb	188999366
-114	sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec1_ophys.nwb	180418788
-115	sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec3_ophys.nwb	231075756
-116	sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec4_ophys.nwb	243069524
-117	sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec2_ophys.nwb	250242760
-118	sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec1_ophys.nwb	247396636
-119	sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec3_ophys.nwb	249232803
-120	sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-startle-rec1_ophys.nwb	430449660
-121	sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec4_ophys.nwb	241362401
-122	sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec1_ophys.nwb	280095880
-123	sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-startle-rec1_ophys.nwb	458768348
-124	sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec2_ophys.nwb	261144852
-125	sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec3_ophys.nwb	247396636
-126	sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED1s-2_ophys.nwb	265186968
-127	sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec4_ophys.nwb	249364205
-128	sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-startle-rec1_ophys.nwb	234881024
-129	sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED200ms_ophys.nwb	146667832
-130	sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED3s_ophys.nwb	121698532
-131	sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec2_ophys.nwb	79821000
-132	sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec3_ophys.nwb	69270628
-133	sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec4_ophys.nwb	71235868
-134	sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED1s_ophys.nwb	213056108
-135	sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec1_ophys.nwb	202306243
-136	sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec1_ophys.nwb	87069705
-137	sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec3_ophys.nwb	72236784
-138	sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec2_ophys.nwb	79620892
-139	sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec4_ophys.nwb	74740594
-140	sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec1_ophys.nwb	206448411
-141	sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec3_ophys.nwb	120468884
-142	sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec2_ophys.nwb	259929328
-143	sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec4_ophys.nwb	71563408
-144	sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec2_ophys.nwb	62847260
-145	sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec4_ophys.nwb	180287772
-146	sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-startle-rec1_ophys.nwb	75497472
-147	sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec3_ophys.nwb	197787856
-148	sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec1_ophys.nwb	309541352
-149	sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-startle-rec1_ophys.nwb	80017524
-150	sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec1_ophys.nwb	121502008
-151	sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec4_ophys.nwb	257890123
-152	sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-startle-rec1_ophys.nwb	280951068
-153	sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED1s_ophys.nwb	202361824
-154	sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec2_ophys.nwb	272234920
-155	sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED1s-2_ophys.nwb	269281304
-156	sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec3_ophys.nwb	50331648
-157	sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED200ms_ophys.nwb	264173852
-158	sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED3s_ophys.nwb	262274120
-159	sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec1_ophys.nwb	276689464
-160	sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec4_ophys.nwb	255785244
-161	sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec2_ophys.nwb	121875594
-162	sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec3_ophys.nwb	461373440
-163	sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED1s_ophys.nwb	285212672
-164	sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED200ms_ophys.nwb	276824064
-165	sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED3s_ophys.nwb	129890616
-166	sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec1_ophys.nwb	281637420
-167	sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED1s-2_ophys.nwb	263977328
-168	sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec2_ophys.nwb	234881024
-169	sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec3_ophys.nwb	131412415
-170	sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec4_ophys.nwb	144137006
-171	sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED1s-2_ophys.nwb	125829120
-172	sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED200ms_ophys.nwb	67108864
-173	sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED3s_ophys.nwb	130939681
-174	sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec1_ophys.nwb	71170360
-175	sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec2_ophys.nwb	125829120
-176	sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec4_ophys.nwb	63043784
-177	sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec3_ophys.nwb	72234880
-178	sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec1_ophys.nwb	76707016
-179	sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec2_ophys.nwb	62781752
-180	sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec3_ophys.nwb	68192264
-181	sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec4_ophys.nwb	63043784
-182	sub-KX-alb1/sub-KX-alb1_ses-20230111-1-bPAC-KX-ROI1-LED1s_ophys.nwb	67108864
-183	sub-KX-alb1/sub-KX-alb1_ses-20230111-1-bPAC-KX-ROI1-LED200ms_ophys.nwb	71235868
-184	sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED1s_ophys.nwb	63846763
-185	sub-KX-alb10/sub-KX-alb10_ses-20231018-10-ctrl-KX-ROI1-LED1s_ophys.nwb	58720256
-186	sub-KX-alb10/sub-KX-alb10_ses-20231018-10-ctrl-KX-ROI2-1-LED1s_ophys.nwb	8450532
-187	sub-KX-alb10/sub-KX-alb10_ses-20231018-10-ctrl-KX-ROI2-LED1s_ophys.nwb	4454544
-188	sub-KX-alb11/sub-KX-alb11_ses-20231018-11-bPAC-KX-ROI3-LED1s_ophys.nwb	310378496
-189	sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI1-LED1s_ophys.nwb	4127004
-190	sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI2-LED1s_ophys.nwb	11795377
-191	sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI3-LED1s_ophys.nwb	13510353
-192	sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI4-LED1s_ophys.nwb	327155712
-193	sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI5-LED1s_ophys.nwb	13122960
-194	sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI1-LED1s_ophys.nwb	354807256
-195	sub-KX-alb1/sub-KX-alb1_ses-20230111-1-bPAC-KX-ROI1-LED3s_ophys.nwb	9353344
-196	sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI3-LED1s_ophys.nwb	7302664
-197	sub-KX-alb14/sub-KX-alb14_ses-20231018-14-ctrl-KX-ROI1-LED1s_ophys.nwb	6578048
-198	sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI4-LED1s_ophys.nwb	4127004
-199	sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI2-LED1s_ophys.nwb	67108864
-200	sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI5-LED1s_ophys.nwb	137189938
-201	sub-KX-alb14/sub-KX-alb14_ses-20231018-14-ctrl-KX-ROI4-LED1s_ophys.nwb	74235737
-202	sub-KX-alb14/sub-KX-alb14_ses-20231018-14-ctrl-KX-ROI2-LED1s_ophys.nwb	75231856
-203	sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI1-LED1s_ophys.nwb	83886080
-204	sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI1-LED1s_ophys.nwb	125829120
-205	sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI3-LED1s_ophys.nwb	67108864
-206	sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI4-LED1s_ophys.nwb	151969392
-207	sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI2-LED1s_ophys.nwb	271627297
-208	sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI1-LED200ms_ophys.nwb	260856399
-209	sub-KX-alb3/sub-KX-alb3_ses-fig2c-Alb-mSc-bPAC-kymograph-representative-image_ophys.nwb	2934792
-210	sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI1-LED3s_ophys.nwb	125829120
-211	sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI2-LED1s_ophys.nwb	130349172
-212	sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI2-LED200ms_ophys.nwb	136483257
-213	sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI2-LED3s_ophys.nwb	138672272
-214	sub-KX-alb4/sub-KX-alb4_ses-20230111-4-ctrl-KX-ROI1-LED200ms_ophys.nwb	134217728
-215	sub-KX-alb4/sub-KX-alb4_ses-20230111-4-ctrl-KX-ROI1-LED1s_ophys.nwb	274301518
-216	sub-KX-alb4/sub-KX-alb4_ses-20230111-4-ctrl-KX-ROI1-LED3s_ophys.nwb	272758984
-217	sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI1-LED1s_ophys.nwb	125829120
-218	sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI1-LED200ms_ophys.nwb	138388470
-219	sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI2-LED200ms_ophys.nwb	140615947
-220	sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI2-LED1s_ophys.nwb	268435456
-221	sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI2-LED3s_ophys.nwb	167772160
-222	sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI1-LED3s_ophys.nwb	280119327
-223	sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI1-Rec1-LED1s_ophys.nwb	4258020
-224	sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI1-Rec2-LED1s_ophys.nwb	134217728
-225	sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI2-LED1s_ophys.nwb	197261512
-226	sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI3-LED1s_ophys.nwb	205658332
-227	sub-KX-alb7/sub-KX-alb7_ses-20231018-7-bPAC-KX-ROI2-LED1s_ophys.nwb	234881024
-228	sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI4-LED1s_ophys.nwb	248121870
-229	sub-KX-alb7/sub-KX-alb7_ses-20231018-7-bPAC-KX-ROI3-LED1s_ophys.nwb	259309314
-230	sub-KX-alb7/sub-KX-alb7_ses-20231018-7-bPAC-KX-ROI1-LED1s_ophys.nwb	169581560
-231	sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI1-LED1s_ophys.nwb	249083946
-232	sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI2-LED1s_ophys.nwb	176160768
-233	sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI3-LED1s_ophys.nwb	234881024
-234	sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI4-LED1s_ophys.nwb	253933330
-235	sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI6-LED1s_ophys.nwb	262362489
-236	sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI1-LED1s_ophys.nwb	185098500
-237	sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI5-LED1s_ophys.nwb	264732070
-238	sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI2-LED1s_ophys.nwb	180746328
-239	sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI3-LED1s_ophys.nwb	243269632
-240	sub-Mlc1-PF1/sub-Mlc1-PF1_ses-figS1jk-2P-Mlc1-PF_ophys.nwb	916451
-241	sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI4-LED1s_ophys.nwb	254768186
-242	sub-Lck-PF1/sub-Lck-PF1_ses-20241219-LckPF1-KX-startle-rec1_ophys.nwb	226525630
-243	sub-Lck-PF3/sub-Lck-PF3_ses-20241219-LckPF3-KX-startle-rec1_ophys.nwb	314505500
-244	sub-Lck-PF5/sub-Lck-PF5_ses-20241219-LckPF5-KX-startle-rec1_ophys.nwb	226594384
-245	sub-Mlc1-PF112/sub-Mlc1-PF112_ses-20220512-Mlc1PF112-awake-startle-rec1_ophys.nwb	1249519638
-246	sub-Mlc1-PF124-t2/sub-Mlc1-PF124-t2_ses-20220725-Mlc1PF124-awake-startle-rec1_ophys.nwb	322337936
-247	sub-Mlc1-PF136/sub-Mlc1-PF136_ses-20220512-Mlc1PF136-awake-startle-rec1_ophys.nwb	297728284
-248	sub-Mlc1-PF124/sub-Mlc1-PF124_ses-20220509-Mlc1PF124-awake-startle-rec1_ophys.nwb	293601280
-249	sub-Mlc1-PF132/sub-Mlc1-PF132_ses-20220729-Mlc1PF132-awake-startle-rec1_ophys.nwb	939524096
-250	sub-Mlc1-PF193/sub-Mlc1-PF193_ses-20220729-Mlc1PF193-awake-startle-rec1_ophys.nwb	310156972
-251	sub-Mlc1-PF195/sub-Mlc1-PF195_ses-20220729-Mlc1PF195-awake-startle-rec1_ophys.nwb	297924808
-252	sub-Mlc1-PF191/sub-Mlc1-PF191_ses-20220725-Mlc1PF191-awake-startle-rec1_ophys.nwb	327414160
-253	sub-PF-GCaMP1/sub-PF-GCaMP1_ses-PF-GCaMP1-bPAC-region1_ophys.nwb	32806206
-254	sub-Mlc1-PF196/sub-Mlc1-PF196_ses-20220729-Mlc1PF196-awake-startle-rec1_ophys.nwb	645904061
-255	sub-Mlc1-PF197/sub-Mlc1-PF197_ses-20220725-Mlc1PF197-awake-startle-rec1_ophys.nwb	641726720
-256	sub-Mlc1-PF204/sub-Mlc1-PF204_ses-20220725-Mlc1PF204-awake-startle-rec1_ophys.nwb	616691912
-257	sub-PF-GCaMP1/sub-PF-GCaMP1_ses-PF-GCaMP1-bPAC-region2_ophys.nwb	78536991
-258	sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region2_ophys.nwb	51076921
-259	sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region4_ophys.nwb	50331648
-260	sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region3_ophys.nwb	52024806
-261	sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region5_ophys.nwb	50331648
-262	sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region1_ophys.nwb	16777216
-263	sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region2_ophys.nwb	20838712
-264	sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region3_ophys.nwb	16777216
-265	sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region4_ophys.nwb	16777216
-266	sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region5_ophys.nwb	16777216
-267	sub-Mlc1-PF210/sub-Mlc1-PF210_ses-20220729-Mlc1PF210-awake-startle-rec1_ophys.nwb	629142016
-268	sub-PF1/sub-PF1_ses-20240409-1-bPAC-KX-LED1s_ophys.nwb	134217728
-269	sub-PF1/sub-PF1_ses-20240409-1-bPAC-KX-LED200ms_ophys.nwb	129956124
-270	sub-PF1/sub-PF1_ses-20240409-1-bPAC-KX-LED3s_ophys.nwb	88340624
-271	sub-PF1/sub-PF1_ses-20240412-1-bPAC-awake-rec1_ophys.nwb	189186426
-272	sub-PF1/sub-PF1_ses-20240412-1-bPAC-awake-rec2_ophys.nwb	121633024
-273	sub-PF1/sub-PF1_ses-20240412-1-bPAC-awake-rec3_ophys.nwb	126846539
-274	sub-PF10/sub-PF10_ses-20240410-10-ctrl-KX-LED1s_ophys.nwb	138934304
-275	sub-PF10/sub-PF10_ses-20240410-10-ctrl-KX-LED200ms_ophys.nwb	134217728
-276	sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec1_ophys.nwb	155318472
-277	sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec2_ophys.nwb	125829120
-278	sub-PF10/sub-PF10_ses-20240410-10-ctrl-KX-LED3s_ophys.nwb	125829120
-279	sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED1s-2_ophys.nwb	134217728
-280	sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED1s_ophys.nwb	134217728
-281	sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED200ms_ophys.nwb	327155712
-282	sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec3_ophys.nwb	118501706
-283	sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED3s_ophys.nwb	307327860
-284	sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec4_ophys.nwb	332457083
-285	sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec1_ophys.nwb	127393985
-286	sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec2_ophys.nwb	324329989
-287	sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec3_ophys.nwb	151850047
-288	sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec4_ophys.nwb	329148326
-289	sub-PF3/sub-PF3_ses-fig1c-PinkFlamindo-fluorescence-representative-image_ophys.nwb	1888990
-290	sub-PF3/sub-PF3_ses-figS1a-PinkFlamindo-bPAC-fluorescence-representative-image_ophys.nwb	675595
-291	sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec1_ophys.nwb	92274688
-292	sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec2_ophys.nwb	80214048
-293	sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec4_ophys.nwb	63174800
-294	sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED1s-2_ophys.nwb	58720256
-295	sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED200ms_ophys.nwb	67108864
-296	sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED1s_ophys.nwb	67108864
-297	sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec3_ophys.nwb	67108864
-298	sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED3s_ophys.nwb	67108864
-299	sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec1_ophys.nwb	319542080
-300	sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec3_ophys.nwb	71497900
-301	sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec2_ophys.nwb	71235868
-302	sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec4_ophys.nwb	62716244
-303	sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec2_ophys.nwb	71432392
-304	sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec1_ophys.nwb	71235868
-305	sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec3_ophys.nwb	71235868
-306	sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec4_ophys.nwb	75497472
-307	sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec1_ophys.nwb	93268748
-308	sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec2_ophys.nwb	181433798
-309	sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec4_ophys.nwb	50331648
-310	sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec3_ophys.nwb	196084547
-311	sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED1s_ophys.nwb	250728157
-312	sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED3s_ophys.nwb	192937984
-313	sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED200ms_ophys.nwb	192937984
-314	sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec2_ophys.nwb	185634944
-315	sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec1_ophys.nwb	185501493
-316	sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec4_ophys.nwb	202342830
-317	sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec3_ophys.nwb	264304868
-318	sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec1_ophys.nwb	193939190
-319	sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec2_ophys.nwb	199459352
-320	sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec3_ophys.nwb	197130496
-321	sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec4_ophys.nwb	201326592
-322	sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec2_ophys.nwb	184439957
-323	sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec3_ophys.nwb	110112736
-324	sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec4_ophys.nwb	109051904
-325	sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec1_ophys.nwb	125829120
-326	sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec1_ophys.nwb	139462868
-327	sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec3_ophys.nwb	117790385
-328	sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec1_ophys.nwb	134217728
-329	sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec2_ophys.nwb	134217728
-330	sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-Ca1-bPAC-RCaMP3_ophys.nwb	2161764
-331	sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec2_ophys.nwb	138344732
-332	sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-fig1k-PinkFlamindo-bPAC-brain-slices_ophys.nwb	1986542
-333	sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec4_ophys.nwb	131818180
-334	sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec3_ophys.nwb	118485804
-335	sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec4_ophys.nwb	139498904
-336	sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec1_ophys.nwb	130218156
-337	sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec4_ophys.nwb	118351028
-338	sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec3_ophys.nwb	143686720
-339	sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec2_ophys.nwb	127545911
-340	sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec2_ophys.nwb	122552839
-341	sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec4_ophys.nwb	223440558
-342	sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec3_ophys.nwb	138541256
-343	sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec1_ophys.nwb	350394804
-344	sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec1_ophys.nwb	336068608
-345	sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec2_ophys.nwb	327336032
-346	sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec3_ophys.nwb	328126153
-347	sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec4_ophys.nwb	331675764
-348	sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec1_ophys.nwb	125829120
-349	sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec4_ophys.nwb	310378496
-350	sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec2_ophys.nwb	315095072
-351	sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec3_ophys.nwb	295604725
-352	sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED1s-2_ophys.nwb	126801017
-353	sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED1s_ophys.nwb	135179447
-354	sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED200ms_ophys.nwb	333768545
-355	sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED3s_ophys.nwb	123005713
-356	sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec2_ophys.nwb	323965740
-357	sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec3_ophys.nwb	117440512
-358	sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec1_ophys.nwb	310378496
-359	sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec4_ophys.nwb	318658053
-360	sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec1_ophys.nwb	209715200
-361	sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec2_ophys.nwb	41943040
-362	sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec3_ophys.nwb	131251926
-363	sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec4_ophys.nwb	125829120
-364	sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec1_ophys.nwb	4127004
-365	sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec2_ophys.nwb	125829120
-366	sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec4_ophys.nwb	5266946
-367	sub-PF7/sub-PF7_ses-20240409-7-ctrl-KX-LED1s_ophys.nwb	143693966
-368	sub-PF7/sub-PF7_ses-20240409-7-ctrl-KX-LED3s_ophys.nwb	964985
-369	sub-PF7/sub-PF7_ses-20240409-7-ctrl-KX-LED200ms_ophys.nwb	134217728
-370	sub-PF8/sub-PF8_ses-20240410-8-ctrl-KX-LED1s_ophys.nwb	1012812
-371	sub-PF8/sub-PF8_ses-20240410-8-ctrl-KX-LED200ms_ophys.nwb	4258020
-372	sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec2_ophys.nwb	30653754
-373	sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec1_ophys.nwb	185622104
-374	sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec3_ophys.nwb	310378496
-375	sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec4_ophys.nwb	92274688
-376	sub-PF7/sub-PF7_ses-20240412-7-ctrl-awake-rec2_ophys.nwb	199554292
-377	sub-PF9/sub-PF9_ses-20240409-9-ctrl-KX-LED200ms_ophys.nwb	205715628
-378	sub-PF9/sub-PF9_ses-20240409-9-ctrl-KX-LED3s_ophys.nwb	205846644
-379	sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec1_ophys.nwb	218103808
-380	sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec3_ophys.nwb	249013466
-381	sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec4_ophys.nwb	296889651
-382	sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI1_ophys.nwb	217158167
-383	sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI2_ophys.nwb	267371900
-384	sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI3_ophys.nwb	267559991
-385	sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI4_ophys.nwb	272937313
-386	sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI1_ophys.nwb	260046848
-387	sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI2_ophys.nwb	251292548
-388	sub-PF9/sub-PF9_ses-20240409-9-ctrl-KX-LED1s_ophys.nwb	209715200
-389	sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec2_ophys.nwb	293601280
-390	sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI3_ophys.nwb	189070215
-391	sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI4_ophys.nwb	261401450
-392	sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI1_ophys.nwb	200269594
-393	sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI4_ophys.nwb	230619420
-394	sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI3_ophys.nwb	188676380
-395	sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI2_ophys.nwb	276824064
-396	sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI2_ophys.nwb	331610256
-397	sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI1_ophys.nwb	192937984
-398	sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI3_ophys.nwb	340064372
-399	sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI1_ophys.nwb	263333907
-400	sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI4_ophys.nwb	255981768
-401	sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI2_ophys.nwb	282644168
-402	sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI3_ophys.nwb	204259140
-403	sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI2_ophys.nwb	67108864
-404	sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI4_ophys.nwb	279617068
-405	sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI1_ophys.nwb	177904300
-406	sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI4_ophys.nwb	242914554
-407	sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI1_ophys.nwb	310378496
-408	sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI3_ophys.nwb	149006828
-409	sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI3_ophys.nwb	298179546
-410	sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI2_ophys.nwb	335544320
-411	sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI4_ophys.nwb	190800128
-412	sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI2_ophys.nwb	301989888
-413	sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI1_ophys.nwb	237067270
-414	sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI4_ophys.nwb	321993001
-415	sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI3_ophys.nwb	244925622
-416	sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI2_ophys.nwb	206318949
-417	sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI3_ophys.nwb	167073196
-418	sub-alb20/sub-alb20_ses-20240423-20-ctrl-awake-ROI2_ophys.nwb	272890000
-419	sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI1_ophys.nwb	137055380
-420	sub-alb20/sub-alb20_ses-20240423-20-ctrl-awake-ROI3_ophys.nwb	253494955
-421	sub-alb20/sub-alb20_ses-20240423-20-ctrl-awake-ROI4_ophys.nwb	134217728
-422	sub-alb487-IP3R2-KO/sub-alb487-IP3R2-KO_ses-20240315-487-KO-awake-ROI1_ophys.nwb	281278608
-423	sub-alb487-IP3R2-KO/sub-alb487-IP3R2-KO_ses-20240315-487-KO-awake-ROI4_ophys.nwb	146376514
-424	sub-alb487-IP3R2-KO/sub-alb487-IP3R2-KO_ses-20240315-487-KO-awake-ROI2_ophys.nwb	284455939
-425	sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI1_ophys.nwb	134217728
-426	sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI2_ophys.nwb	251658240
-427	sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI3_ophys.nwb	133907476
-428	sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI4_ophys.nwb	267713738
-429	sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI1_ophys.nwb	138791472
-430	sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI2_ophys.nwb	260046848
-431	sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI4_ophys.nwb	134217728
-432	sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI4_ophys.nwb	125829120
-433	sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI3_ophys.nwb	272562460
-434	sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI1_ophys.nwb	126160852
-435	sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI2_ophys.nwb	254867099
-436	sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI1_ophys.nwb	184549376
-437	sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI3_ophys.nwb	266657820
-438	sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI2_ophys.nwb	335254994
-439	sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI3_ophys.nwb	243269632
-440	sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI1_ophys.nwb	336853247
-441	sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI4_ophys.nwb	222828719
-442	sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI2_ophys.nwb	313799488
-443	sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI3_ophys.nwb	201326592
-444	sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI4_ophys.nwb	338697746
-445	sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI1_ophys.nwb	352448968
-446	sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI2_ophys.nwb	334170050
-447	sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI4_ophys.nwb	335544320
-448	sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI4_ophys.nwb	339671324
-449	sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI1_ophys.nwb	319877670
-450	sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI2_ophys.nwb	202903280
-451	sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI4_ophys.nwb	310378496
-452	sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI3_ophys.nwb	298133923
-453	sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI2_ophys.nwb	252177578
-454	sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI1_ophys.nwb	208996265
-455	sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI3_ophys.nwb	204249177
-456	sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI4_ophys.nwb	204526348
-457	sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI1_ophys.nwb	192937984
-458	sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI3_ophys.nwb	201126484
-459	sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI4_ophys.nwb	195398224
-460	sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI2_ophys.nwb	176160768
-461	sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI1_ophys.nwb	186711140
-462	sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI4_ophys.nwb	193639642
-463	sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI3_ophys.nwb	188676380
-464	sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI3_ophys.nwb	176160768
-465	sub-whisk-PF1/sub-whisk-PF1_ses-20241217-PF1-whisker1min_ophys.nwb	377487360
-466	sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI2_ophys.nwb	192937984
-467	sub-whisk-PF1/sub-whisk-PF1_ses-20241217-PF1-whisker2min_ophys.nwb	496710152
-468	sub-whisk-PF3/sub-whisk-PF3_ses-20241217-PF3-whisker1min_ophys.nwb	528482304
-469	sub-whisk-PF1/sub-whisk-PF1_ses-20241217-PF1-whisker30sec_ophys.nwb	506789166
-470	sub-whisk-PF3/sub-whisk-PF3_ses-20241217-PF3-whisker2min_ophys.nwb	528301709
-471	sub-whisk-PF483-IP3R2-WT/sub-whisk-PF483-IP3R2-WT_ses-20240104-PF483-whisker1min_ophys.nwb	546363659
-472	sub-whisk-PF3/sub-whisk-PF3_ses-20241217-PF3-whisker30sec_ophys.nwb	524155192
-473	sub-whisk-PF5/sub-whisk-PF5_ses-20241220-PF5-whisker1min_ophys.nwb	142471736
-474	sub-whisk-PF483-IP3R2-WT/sub-whisk-PF483-IP3R2-WT_ses-20240104-PF483-whisker30sec_ophys.nwb	272758984
-475	sub-whisk-PF483-IP3R2-WT/sub-whisk-PF483-IP3R2-WT_ses-20240104-PF483-whisker2min_ophys.nwb	536670804
-476	sub-whisk-PF5/sub-whisk-PF5_ses-20241220-PF5-whisker2min_ophys.nwb	222230812
-477	sub-whisk-alb10/sub-whisk-alb10_ses-20250123-10-ctrl-KX-ROI3-whisker2min_ophys.nwb	66450200
-478	sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI2-whisker2min_ophys.nwb	67108864
-479	sub-whisk-alb10/sub-whisk-alb10_ses-20250123-10-ctrl-KX-ROI4-whisker2min_ophys.nwb	327155712
-480	sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI1-whisker2min_ophys.nwb	71366884
-481	sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI3-whisker2min_ophys.nwb	75362872
-482	sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI4-whisker2min_ophys.nwb	67108864
-483	sub-whisk-alb10/sub-whisk-alb10_ses-20250123-10-ctrl-KX-ROI1-whisker2min_ophys.nwb	335409720
-484	sub-whisk-alb3/sub-whisk-alb3_ses-20250125-3-ctrl-KX-ROI1-whisker2min_ophys.nwb	75559396
-485	sub-whisk-alb3/sub-whisk-alb3_ses-20250125-3-ctrl-KX-ROI2-whisker2min_ophys.nwb	79624476
-486	sub-whisk-alb6/sub-whisk-alb6_ses-20250123-6-ctrl-KX-ROI1-whisker2min_ophys.nwb	346999286
-487	sub-whisk-alb6/sub-whisk-alb6_ses-20250123-6-ctrl-KX-ROI3a-whisker2min_ophys.nwb	62847260
-488	sub-whisk-alb7/sub-whisk-alb7_ses-20250125-7-ctrl-KX-ROI1-whisker2min_ophys.nwb	67108864
-489	sub-whisk-alb7/sub-whisk-alb7_ses-20250125-7-ctrl-KX-ROI2-whisker2min_ophys.nwb	355277611
-490	sub-whisk-alb7/sub-whisk-alb7_ses-20250125-7-ctrl-KX-ROI4-whisker2min_ophys.nwb	213842204
+asset_path	bytes_sent
+sub-25ms-PF1/sub-25ms-PF1_ses-20250115-1-bPAC-KX-LED25ms-rec6_ophys.nwb	709489222
+sub-25ms-PF3/sub-25ms-PF3_ses-20250115-3-bPAC-KX-LED25ms-rec1_ophys.nwb	696767026
+sub-25ms-PF5/sub-25ms-PF5_ses-20250114-5-bPAC-KX-LED25ms-rec6_ophys.nwb	947088
+sub-25ms-PF3/sub-25ms-PF3_ses-20250115-3-bPAC-KX-LED25ms-rec6_ophys.nwb	732505950
+sub-25ms-PF5/sub-25ms-PF5_ses-20250114-5-bPAC-KX-LED25ms-rec1_ophys.nwb	788382484
+sub-25ms-PF1/sub-25ms-PF1_ses-20250115-1-bPAC-KX-LED25ms-rec1_ophys.nwb	805783768
+sub-25ms-PF7/sub-25ms-PF7_ses-20250114-7-bPAC-KX-LED25ms-rec1_ophys.nwb	793925258
+sub-25ms-PF7/sub-25ms-PF7_ses-20250114-7-bPAC-KX-LED25ms-rec6_ophys.nwb	645852152
+sub-25ms-PF9/sub-25ms-PF9_ses-20250114-9-bPAC-KX-LED25ms-rec1_ophys.nwb	657641298
+sub-25ms-PF9/sub-25ms-PF9_ses-20250114-9-bPAC-KX-LED25ms-rec6_ophys.nwb	637468498
+sub-25ms-alb11/sub-25ms-alb11_ses-20250328-11-bPAC-KX-ROI2-LED25ms_ophys.nwb	702172960
+sub-25ms-alb11/sub-25ms-alb11_ses-20250328-11-bPAC-KX-ROI3-LED25ms_ophys.nwb	695213994
+sub-25ms-alb11/sub-25ms-alb11_ses-20250328-11-bPAC-KX-ROI1-LED25ms_ophys.nwb	708968302
+sub-25ms-alb12/sub-25ms-alb12_ses-20250328-12-ctrl-KX-ROI1-LED25ms_ophys.nwb	700269420
+sub-25ms-alb12/sub-25ms-alb12_ses-20250328-12-ctrl-KX-ROI3-LED25ms_ophys.nwb	684805568
+sub-25ms-alb13/sub-25ms-alb13_ses-20250328-13-ctrl-KX-ROI1-LED25ms_ophys.nwb	699748368
+sub-25ms-alb13/sub-25ms-alb13_ses-20250328-13-ctrl-KX-ROI3-LED25ms_ophys.nwb	701004400
+sub-25ms-alb13/sub-25ms-alb13_ses-20250328-13-ctrl-KX-ROI4-LED25ms_ophys.nwb	692930612
+sub-25ms-alb12/sub-25ms-alb12_ses-20250328-12-ctrl-KX-ROI4-LED25ms_ophys.nwb	711860762
+sub-25ms-alb14/sub-25ms-alb14_ses-20250328-14-bPAC-KX-ROI4-LED25ms_ophys.nwb	688080600
+sub-25ms-alb15/sub-25ms-alb15_ses-20250328-15-bPAC-KX-ROI4-LED25ms_ophys.nwb	679768978
+sub-25ms-alb14/sub-25ms-alb14_ses-20250328-14-bPAC-KX-ROI1-LED25ms_ophys.nwb	689082370
+sub-25ms-alb16/sub-25ms-alb16_ses-20250328-16-bPAC-KX-ROI3-LED25ms_ophys.nwb	691446472
+sub-25ms-alb16/sub-25ms-alb16_ses-20250328-16-bPAC-KX-ROI4-LED25ms_ophys.nwb	678588222
+sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI2-LED25ms_ophys.nwb	725545778
+sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI1-LED25ms_ophys.nwb	708916828
+sub-25ms-alb16/sub-25ms-alb16_ses-20250328-16-bPAC-KX-ROI2-LED25ms_ophys.nwb	687689690
+sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI3-LED25ms_ophys.nwb	720614730
+sub-25ms-alb17/sub-25ms-alb17_ses-20250328-17-ctrl-KX-ROI4-LED25ms_ophys.nwb	708358906
+sub-25ms-alb20/sub-25ms-alb20_ses-20250328-20-ctrl-KX-ROI3-LED25ms_ophys.nwb	693578574
+sub-25ms-alb20/sub-25ms-alb20_ses-20250328-20-ctrl-KX-ROI4-LED25ms_ophys.nwb	699998134
+sub-25ms-alb18/sub-25ms-alb18_ses-20250328-18-bPAC-KX-ROI2-LED25ms_ophys.nwb	672801977
+sub-25ms-alb19/sub-25ms-alb19_ses-20250328-19-bPAC-KX-ROI3-LED25ms_ophys.nwb	704618238
+sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED1s-2_ophys.nwb	661951020
+sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED200ms_ophys.nwb	680702742
+sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec2_ophys.nwb	668694704
+sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED1s_ophys.nwb	682486350
+sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec1_ophys.nwb	682081984
+sub-Ca1/sub-Ca1_ses-20250107-1-bPAC-KX-LED3s_ophys.nwb	666487204
+sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec3_ophys.nwb	662495294
+sub-Ca1/sub-Ca1_ses-20250110-1-bPAC-awake-rec4_ophys.nwb	648067216
+sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED1s-2_ophys.nwb	668209904
+sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED200ms_ophys.nwb	690673434
+sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED3s_ophys.nwb	678258470
+sub-Ca10/sub-Ca10_ses-20250108-10-ctrl-KX-LED1s_ophys.nwb	705573572
+sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec1_ophys.nwb	711060258
+sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec2_ophys.nwb	689774388
+sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec3_ophys.nwb	677612318
+sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec1_ophys.nwb	708820148
+sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec2_ophys.nwb	695115235
+sub-Ca10/sub-Ca10_ses-20250110-10-ctrl-awake-rec4_ophys.nwb	670944236
+sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec4_ophys.nwb	681312748
+sub-Ca10/sub-Ca10_ses-20250117-10-ctrl-KX-LED25ms-rec3_ophys.nwb	683432278
+sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec1_ophys.nwb	717996022
+sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec2_ophys.nwb	700050050
+sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec3_ophys.nwb	687707094
+sub-Ca11/sub-Ca11_ses-20250327-11-bPAC-KX-LED25ms-rec4_ophys.nwb	677067700
+sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec1_ophys.nwb	687382676
+sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec3_ophys.nwb	659098894
+sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec4_ophys.nwb	660035454
+sub-Ca13/sub-Ca13_ses-20250327-13-bPAC-KX-LED25ms-rec2_ophys.nwb	671794440
+sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec1_ophys.nwb	696357198
+sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec1_ophys.nwb	703521582
+sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec3_ophys.nwb	670065602
+sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec2_ophys.nwb	678661012
+sub-Ca15/sub-Ca15_ses-20250327-15-bPAC-KX-LED25ms-rec4_ophys.nwb	661923843
+sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec2_ophys.nwb	688663568
+sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec3_ophys.nwb	680620442
+sub-Ca17/sub-Ca17_ses-20250327-17-bPAC-KX-LED25ms-rec4_ophys.nwb	673997788
+sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED1s-2_ophys.nwb	653201926
+sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED1s_ophys.nwb	688967218
+sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED200ms_ophys.nwb	672812066
+sub-Ca2/sub-Ca2_ses-20250108-2-ctrl-KX-LED3s_ophys.nwb	657774586
+sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec1_ophys.nwb	677029316
+sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec2_ophys.nwb	660212692
+sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec3_ophys.nwb	651624824
+sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec2_ophys.nwb	681489112
+sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec1_ophys.nwb	692698166
+sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec3_ophys.nwb	666136064
+sub-Ca2/sub-Ca2_ses-20250117-2-ctrl-KX-LED25ms-rec4_ophys.nwb	655139260
+sub-Ca2/sub-Ca2_ses-20250110-2-ctrl-awake-rec4_ophys.nwb	647216876
+sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED1s-2_ophys.nwb	651027208
+sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED1s_ophys.nwb	682014072
+sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED200ms_ophys.nwb	667242194
+sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec2_ophys.nwb	665916198
+sub-Ca3/sub-Ca3_ses-20250107-3-bPAC-KX-LED3s_ophys.nwb	658874744
+sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec3_ophys.nwb	662034980
+sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec1_ophys.nwb	680020376
+sub-Ca3/sub-Ca3_ses-20250110-3-bPAC-awake-rec4_ophys.nwb	667572712
+sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED1s-2_ophys.nwb	654402888
+sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED1s_ophys.nwb	681596614
+sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED200ms_ophys.nwb	671707252
+sub-Ca4/sub-Ca4_ses-20250108-4-bPAC-KX-LED3s_ophys.nwb	665069496
+sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec1_ophys.nwb	691400240
+sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec4_ophys.nwb	655348930
+sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec2_ophys.nwb	671482410
+sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED1s-2_ophys.nwb	649449120
+sub-Ca4/sub-Ca4_ses-20250110-4-bPAC-awake-rec3_ophys.nwb	661521492
+sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED1s_ophys.nwb	692080618
+sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED200ms_ophys.nwb	683273258
+sub-Ca5/sub-Ca5_ses-20250107-5-ctrl-KX-LED3s_ophys.nwb	667831906
+sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec2_ophys.nwb	673797330
+sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec3_ophys.nwb	657576029
+sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec1_ophys.nwb	693843448
+sub-Ca5/sub-Ca5_ses-20250110-5-ctrl-awake-rec4_ophys.nwb	649005702
+sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec1_ophys.nwb	689451336
+sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec3_ophys.nwb	666992236
+sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec2_ophys.nwb	679285972
+sub-Ca5/sub-Ca5_ses-20250115-5-ctrl-KX-LED25ms-rec4_ophys.nwb	657857432
+sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec1_ophys.nwb	657975228
+sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec2_ophys.nwb	652663918
+sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec3_ophys.nwb	648558632
+sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-startle-rec1_ophys.nwb	751826636
+sub-Ca571-IP3R2-WT/sub-Ca571-IP3R2-WT_ses-20250214-571-WT-awake-rec4_ophys.nwb	645251634
+sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec2_ophys.nwb	642631420
+sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec1_ophys.nwb	652615316
+sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec3_ophys.nwb	643096380
+sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-awake-rec4_ophys.nwb	636249856
+sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec2_ophys.nwb	653641388
+sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec1_ophys.nwb	662046594
+sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec3_ophys.nwb	648603234
+sub-Ca575-IP3R2-WT/sub-Ca575-IP3R2-WT_ses-20250214-575-WT-startle-rec1_ophys.nwb	737826604
+sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-awake-rec4_ophys.nwb	644990370
+sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec1_ophys.nwb	668849456
+sub-Ca581-IP3R2-WT/sub-Ca581-IP3R2-WT_ses-20250214-581-WT-startle-rec1_ophys.nwb	749373280
+sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec2_ophys.nwb	652938846
+sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec3_ophys.nwb	645629986
+sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED1s-2_ophys.nwb	661902980
+sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-awake-rec4_ophys.nwb	640477374
+sub-Ca593-IP3R2-KO/sub-Ca593-IP3R2-KO_ses-20250214-593-KO-startle-rec1_ophys.nwb	742408679
+sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED200ms_ophys.nwb	685400764
+sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED3s_ophys.nwb	671925518
+sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec2_ophys.nwb	674666738
+sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec3_ophys.nwb	665751718
+sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec4_ophys.nwb	667929162
+sub-Ca6/sub-Ca6_ses-20250108-6-ctrl-KX-LED1s_ophys.nwb	699715558
+sub-Ca6/sub-Ca6_ses-20250110-6-ctrl-awake-rec1_ophys.nwb	693491198
+sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec1_ophys.nwb	703933498
+sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec3_ophys.nwb	680818680
+sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec2_ophys.nwb	697146243
+sub-Ca6/sub-Ca6_ses-20250117-6-ctrl-KX-LED25ms-rec4_ophys.nwb	675533256
+sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec1_ophys.nwb	657082222
+sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec3_ophys.nwb	637635432
+sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec2_ophys.nwb	645474172
+sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-awake-rec4_ophys.nwb	633113076
+sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec2_ophys.nwb	635430890
+sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec4_ophys.nwb	636245986
+sub-Ca680-IP3R2-KO/sub-Ca680-IP3R2-KO_ses-20250214-680-KO-startle-rec1_ophys.nwb	726667942
+sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec3_ophys.nwb	639432956
+sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-awake-rec1_ophys.nwb	650075940
+sub-Ca682-IP3R2-KO/sub-Ca682-IP3R2-KO_ses-20250214-682-KO-startle-rec1_ophys.nwb	732015606
+sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec1_ophys.nwb	653764680
+sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec4_ophys.nwb	628180337
+sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-startle-rec1_ophys.nwb	732617164
+sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED1s_ophys.nwb	687702552
+sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec2_ophys.nwb	647467282
+sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED1s-2_ophys.nwb	653253956
+sub-Ca684-IP3R2-KO/sub-Ca684-IP3R2-KO_ses-20250214-684-KO-awake-rec3_ophys.nwb	632320706
+sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED200ms_ophys.nwb	674734627
+sub-Ca7/sub-Ca7_ses-20250107-7-bPAC-KX-LED3s_ophys.nwb	664578444
+sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec1_ophys.nwb	687094264
+sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec4_ophys.nwb	655738336
+sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec2_ophys.nwb	667197038
+sub-Ca7/sub-Ca7_ses-20250110-7-bPAC-awake-rec3_ophys.nwb	662161254
+sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED1s_ophys.nwb	703494896
+sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED200ms_ophys.nwb	683013974
+sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED3s_ophys.nwb	672524534
+sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec1_ophys.nwb	688647308
+sub-Ca8/sub-Ca8_ses-20250108-8-bPAC-KX-LED1s-2_ophys.nwb	663676002
+sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec2_ophys.nwb	661824262
+sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec3_ophys.nwb	648498730
+sub-Ca8/sub-Ca8_ses-20250110-8-bPAC-awake-rec4_ophys.nwb	640265544
+sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED1s-2_ophys.nwb	671039674
+sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED200ms_ophys.nwb	689784930
+sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED3s_ophys.nwb	675147418
+sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec1_ophys.nwb	687242307
+sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec2_ophys.nwb	670235776
+sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec4_ophys.nwb	653846356
+sub-Ca9/sub-Ca9_ses-20250110-9-ctrl-awake-rec3_ophys.nwb	660236288
+sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec1_ophys.nwb	683126572
+sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec2_ophys.nwb	671256360
+sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec3_ophys.nwb	662942520
+sub-Ca9/sub-Ca9_ses-20250115-9-ctrl-KX-LED25ms-rec4_ophys.nwb	647175910
+sub-KX-alb1/sub-KX-alb1_ses-20230111-1-bPAC-KX-ROI1-LED1s_ophys.nwb	668103770
+sub-KX-alb1/sub-KX-alb1_ses-20230111-1-bPAC-KX-ROI1-LED200ms_ophys.nwb	667146450
+sub-Ca9/sub-Ca9_ses-20250107-9-ctrl-KX-LED1s_ophys.nwb	708012874
+sub-KX-alb10/sub-KX-alb10_ses-20231018-10-ctrl-KX-ROI1-LED1s_ophys.nwb	645568778
+sub-KX-alb10/sub-KX-alb10_ses-20231018-10-ctrl-KX-ROI2-1-LED1s_ophys.nwb	631674510
+sub-KX-alb10/sub-KX-alb10_ses-20231018-10-ctrl-KX-ROI2-LED1s_ophys.nwb	626879386
+sub-KX-alb11/sub-KX-alb11_ses-20231018-11-bPAC-KX-ROI1-LED1s_ophys.nwb	630127150
+sub-KX-alb11/sub-KX-alb11_ses-20231018-11-bPAC-KX-ROI3-LED1s_ophys.nwb	622145080
+sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI1-LED1s_ophys.nwb	655904996
+sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI2-LED1s_ophys.nwb	654573098
+sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI3-LED1s_ophys.nwb	666322622
+sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI4-LED1s_ophys.nwb	645966602
+sub-KX-alb12/sub-KX-alb12_ses-20231018-12-bPAC-KX-ROI5-LED1s_ophys.nwb	654081360
+sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI1-LED1s_ophys.nwb	694957916
+sub-KX-alb1/sub-KX-alb1_ses-20230111-1-bPAC-KX-ROI1-LED3s_ophys.nwb	659713828
+sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI3-LED1s_ophys.nwb	684576524
+sub-KX-alb14/sub-KX-alb14_ses-20231018-14-ctrl-KX-ROI1-LED1s_ophys.nwb	725135672
+sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI4-LED1s_ophys.nwb	672828640
+sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI2-LED1s_ophys.nwb	702670082
+sub-KX-alb13/sub-KX-alb13_ses-20231018-13-ctrl-KX-ROI5-LED1s_ophys.nwb	678538456
+sub-KX-alb14/sub-KX-alb14_ses-20231018-14-ctrl-KX-ROI4-LED1s_ophys.nwb	681081566
+sub-KX-alb14/sub-KX-alb14_ses-20231018-14-ctrl-KX-ROI2-LED1s_ophys.nwb	719528014
+sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI1-LED1s_ophys.nwb	668342814
+sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI1-LED1s_ophys.nwb	649813718
+sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI3-LED1s_ophys.nwb	686197570
+sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI4-LED1s_ophys.nwb	688840304
+sub-KX-alb15/sub-KX-alb15_ses-20231018-15-ctrl-KX-ROI2-LED1s_ophys.nwb	689854958
+sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI1-LED200ms_ophys.nwb	645901642
+sub-KX-alb3/sub-KX-alb3_ses-fig2c-Alb-mSc-bPAC-kymograph-representative-image_ophys.nwb	5345296
+sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI1-LED3s_ophys.nwb	643359314
+sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI2-LED1s_ophys.nwb	652040652
+sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI2-LED200ms_ophys.nwb	650320898
+sub-KX-alb3/sub-KX-alb3_ses-20230111-3-bPAC-KX-ROI2-LED3s_ophys.nwb	654407766
+sub-KX-alb4/sub-KX-alb4_ses-20230111-4-ctrl-KX-ROI1-LED200ms_ophys.nwb	686629387
+sub-KX-alb4/sub-KX-alb4_ses-20230111-4-ctrl-KX-ROI1-LED1s_ophys.nwb	689666838
+sub-KX-alb4/sub-KX-alb4_ses-20230111-4-ctrl-KX-ROI1-LED3s_ophys.nwb	683760508
+sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI1-LED1s_ophys.nwb	692527735
+sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI1-LED200ms_ophys.nwb	688168042
+sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI2-LED200ms_ophys.nwb	697121558
+sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI2-LED1s_ophys.nwb	691862186
+sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI2-LED3s_ophys.nwb	688860466
+sub-KX-alb5/sub-KX-alb5_ses-20230111-5-ctrl-KX-ROI1-LED3s_ophys.nwb	685742026
+sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI1-Rec1-LED1s_ophys.nwb	606759218
+sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI1-Rec2-LED1s_ophys.nwb	600591898
+sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI2-LED1s_ophys.nwb	604978632
+sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI3-LED1s_ophys.nwb	607333076
+sub-KX-alb7/sub-KX-alb7_ses-20231018-7-bPAC-KX-ROI2-LED1s_ophys.nwb	602987296
+sub-KX-alb6/sub-KX-alb6_ses-20231018-6-bPAC-KX-ROI4-LED1s_ophys.nwb	616893752
+sub-KX-alb7/sub-KX-alb7_ses-20231018-7-bPAC-KX-ROI3-LED1s_ophys.nwb	625244776
+sub-KX-alb7/sub-KX-alb7_ses-20231018-7-bPAC-KX-ROI1-LED1s_ophys.nwb	604712976
+sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI1-LED1s_ophys.nwb	622420676
+sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI2-LED1s_ophys.nwb	608850736
+sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI3-LED1s_ophys.nwb	603105536
+sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI4-LED1s_ophys.nwb	619094434
+sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI6-LED1s_ophys.nwb	621001142
+sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI1-LED1s_ophys.nwb	625498628
+sub-KX-alb8/sub-KX-alb8_ses-20231018-8-bPAC-KX-ROI5-LED1s_ophys.nwb	629503710
+sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI2-LED1s_ophys.nwb	625971754
+sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI3-LED1s_ophys.nwb	622308558
+sub-Mlc1-PF1/sub-Mlc1-PF1_ses-figS1jk-2P-Mlc1-PF_ophys.nwb	2618281
+sub-KX-alb9/sub-KX-alb9_ses-20231018-9-ctrl-KX-ROI4-LED1s_ophys.nwb	624812152
+sub-Lck-PF1/sub-Lck-PF1_ses-20241219-LckPF1-KX-startle-rec1_ophys.nwb	755007934
+sub-Lck-PF3/sub-Lck-PF3_ses-20241219-LckPF3-KX-startle-rec1_ophys.nwb	792360204
+sub-Lck-PF5/sub-Lck-PF5_ses-20241219-LckPF5-KX-startle-rec1_ophys.nwb	777262524
+sub-Mlc1-PF112/sub-Mlc1-PF112_ses-20220512-Mlc1PF112-awake-startle-rec1_ophys.nwb	2839486602
+sub-Mlc1-PF124-t2/sub-Mlc1-PF124-t2_ses-20220725-Mlc1PF124-awake-startle-rec1_ophys.nwb	3189633484
+sub-Mlc1-PF136/sub-Mlc1-PF136_ses-20220512-Mlc1PF136-awake-startle-rec1_ophys.nwb	2864613484
+sub-Mlc1-PF124/sub-Mlc1-PF124_ses-20220509-Mlc1PF124-awake-startle-rec1_ophys.nwb	2927747824
+sub-Mlc1-PF132/sub-Mlc1-PF132_ses-20220729-Mlc1PF132-awake-startle-rec1_ophys.nwb	3189118308
+sub-Mlc1-PF193/sub-Mlc1-PF193_ses-20220729-Mlc1PF193-awake-startle-rec1_ophys.nwb	3220302494
+sub-Mlc1-PF195/sub-Mlc1-PF195_ses-20220729-Mlc1PF195-awake-startle-rec1_ophys.nwb	3043933378
+sub-Mlc1-PF191/sub-Mlc1-PF191_ses-20220725-Mlc1PF191-awake-startle-rec1_ophys.nwb	3154498778
+sub-PF-GCaMP1/sub-PF-GCaMP1_ses-PF-GCaMP1-bPAC-region1_ophys.nwb	140497121
+sub-Mlc1-PF196/sub-Mlc1-PF196_ses-20220729-Mlc1PF196-awake-startle-rec1_ophys.nwb	3166068630
+sub-Mlc1-PF197/sub-Mlc1-PF197_ses-20220725-Mlc1PF197-awake-startle-rec1_ophys.nwb	3101246784
+sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region1_ophys.nwb	506472
+sub-Mlc1-PF204/sub-Mlc1-PF204_ses-20220725-Mlc1PF204-awake-startle-rec1_ophys.nwb	3024253720
+sub-PF-GCaMP1/sub-PF-GCaMP1_ses-PF-GCaMP1-bPAC-region2_ophys.nwb	200871573
+sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region2_ophys.nwb	114866258
+sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region4_ophys.nwb	115556171
+sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region3_ophys.nwb	115199606
+sub-PF-GCaMP2/sub-PF-GCaMP2_ses-PF-GCaMP2-bPAC-region5_ophys.nwb	114648186
+sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region1_ophys.nwb	98440660
+sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region2_ophys.nwb	121672312
+sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region3_ophys.nwb	112683124
+sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region4_ophys.nwb	116088530
+sub-PF-GCaMP3/sub-PF-GCaMP3_ses-PF-GCaMP3-bPAC-region5_ophys.nwb	110769548
+sub-Mlc1-PF210/sub-Mlc1-PF210_ses-20220729-Mlc1PF210-awake-startle-rec1_ophys.nwb	3106351406
+sub-PF1/sub-PF1_ses-20240409-1-bPAC-KX-LED1s_ophys.nwb	649823446
+sub-PF1/sub-PF1_ses-20240409-1-bPAC-KX-LED200ms_ophys.nwb	642585938
+sub-PF1/sub-PF1_ses-20240409-1-bPAC-KX-LED3s_ophys.nwb	639211548
+sub-PF1/sub-PF1_ses-20240412-1-bPAC-awake-rec1_ophys.nwb	651528804
+sub-PF1/sub-PF1_ses-20240412-1-bPAC-awake-rec2_ophys.nwb	645544994
+sub-PF1/sub-PF1_ses-20240412-1-bPAC-awake-rec3_ophys.nwb	641861042
+sub-PF10/sub-PF10_ses-20240410-10-ctrl-KX-LED1s_ophys.nwb	653877582
+sub-PF10/sub-PF10_ses-20240410-10-ctrl-KX-LED200ms_ophys.nwb	646968242
+sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec1_ophys.nwb	730103905
+sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec2_ophys.nwb	655763912
+sub-PF10/sub-PF10_ses-20240410-10-ctrl-KX-LED3s_ophys.nwb	643153918
+sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED1s-2_ophys.nwb	651339950
+sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED1s_ophys.nwb	663868806
+sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED200ms_ophys.nwb	658827226
+sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec3_ophys.nwb	650396399
+sub-PF2/sub-PF2_ses-20240410-2-bPAC-KX-LED3s_ophys.nwb	656042872
+sub-PF10/sub-PF10_ses-20240413-10-ctrl-awake-rec4_ophys.nwb	643878034
+sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec1_ophys.nwb	661633442
+sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec2_ophys.nwb	656198550
+sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec3_ophys.nwb	650842970
+sub-PF2/sub-PF2_ses-20240413-2-bPAC-awake-rec4_ophys.nwb	648861316
+sub-PF3/sub-PF3_ses-fig1c-PinkFlamindo-fluorescence-representative-image_ophys.nwb	4880538
+sub-PF3/sub-PF3_ses-figS1a-PinkFlamindo-bPAC-fluorescence-representative-image_ophys.nwb	1915948
+sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec1_ophys.nwb	648992332
+sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec2_ophys.nwb	641193988
+sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec4_ophys.nwb	633531082
+sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED1s-2_ophys.nwb	651641628
+sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED200ms_ophys.nwb	660573972
+sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED1s_ophys.nwb	667448160
+sub-PF3/sub-PF3_ses-20240412-3-bPAC-awake-rec3_ophys.nwb	636625163
+sub-PF4/sub-PF4_ses-20240410-4-bPAC-KX-LED3s_ophys.nwb	657021827
+sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec1_ophys.nwb	668966672
+sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec3_ophys.nwb	668901164
+sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec2_ophys.nwb	668639132
+sub-PF4/sub-PF4_ses-20240413-4-bPAC-awake-rec4_ophys.nwb	653058302
+sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec2_ophys.nwb	666490750
+sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec1_ophys.nwb	672068422
+sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec3_ophys.nwb	662767476
+sub-PF495-IP3R2-KO/sub-PF495-IP3R2-KO_ses-20240503-495-KO-awake-rec4_ophys.nwb	661108198
+sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec1_ophys.nwb	666586932
+sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec2_ophys.nwb	659026600
+sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec4_ophys.nwb	650835770
+sub-PF497-IP3R2-KO/sub-PF497-IP3R2-KO_ses-20240503-497-KO-awake-rec3_ophys.nwb	654376866
+sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED1s_ophys.nwb	650155734
+sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED1s-2_ophys.nwb	633336992
+sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED3s_ophys.nwb	638932592
+sub-PF5/sub-PF5_ses-20240409-5-ctrl-KX-LED200ms_ophys.nwb	650548782
+sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec2_ophys.nwb	653382108
+sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec1_ophys.nwb	658835194
+sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec4_ophys.nwb	649591760
+sub-PF5/sub-PF5_ses-20240412-5-ctrl-awake-rec3_ophys.nwb	649329728
+sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec1_ophys.nwb	666994328
+sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec2_ophys.nwb	660832792
+sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec3_ophys.nwb	655677910
+sub-PF505-IP3R2-WT/sub-PF505-IP3R2-WT_ses-20240503-505-WT-awake-rec4_ophys.nwb	653402064
+sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec2_ophys.nwb	644412391
+sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec3_ophys.nwb	638992480
+sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec4_ophys.nwb	635734470
+sub-PF507-IP3R2-KO/sub-PF507-IP3R2-KO_ses-20240530-507-KO-awake-rec1_ophys.nwb	649005156
+sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec1_ophys.nwb	652220584
+sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec3_ophys.nwb	643147334
+sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec1_ophys.nwb	676877858
+sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec2_ophys.nwb	671277316
+sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-Ca1-bPAC-RCaMP3_ophys.nwb	6325684
+sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec2_ophys.nwb	646932304
+sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-fig1k-PinkFlamindo-bPAC-brain-slices_ophys.nwb	4538296
+sub-PF517-IP3R2-WT/sub-PF517-IP3R2-WT_ses-20240801-517-WT-awake-rec4_ophys.nwb	640859560
+sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec3_ophys.nwb	667410096
+sub-PF519-IP3R2-WT/sub-PF519-IP3R2-WT_ses-20240801-519-WT-awake-rec4_ophys.nwb	663938020
+sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec1_ophys.nwb	659530131
+sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec4_ophys.nwb	644006532
+sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec3_ophys.nwb	648131284
+sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec2_ophys.nwb	655068169
+sub-PF584-IP3R2-WT/sub-PF584-IP3R2-WT_ses-20240503-584-WT-awake-rec2_ophys.nwb	640748274
+sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec4_ophys.nwb	643884404
+sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec3_ophys.nwb	648110182
+sub-PF586-IP3R2-KO/sub-PF586-IP3R2-KO_ses-20240503-586-KO-awake-rec1_ophys.nwb	660773300
+sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec1_ophys.nwb	635930994
+sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec2_ophys.nwb	657685768
+sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec3_ophys.nwb	656254266
+sub-PF594-IP3R2-WT/sub-PF594-IP3R2-WT_ses-20240530-594-WT-awake-rec4_ophys.nwb	652433104
+sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec1_ophys.nwb	635225812
+sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec4_ophys.nwb	625140180
+sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec2_ophys.nwb	631884832
+sub-PF596-IP3R2-KO/sub-PF596-IP3R2-KO_ses-20240530-596-KO-awake-rec3_ophys.nwb	627842310
+sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED1s-2_ophys.nwb	635675066
+sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED1s_ophys.nwb	652694126
+sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED200ms_ophys.nwb	645125626
+sub-PF6/sub-PF6_ses-20240410-6-bPAC-KX-LED3s_ophys.nwb	642768330
+sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec2_ophys.nwb	643006516
+sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec3_ophys.nwb	638561732
+sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec1_ophys.nwb	649198712
+sub-PF6/sub-PF6_ses-20240413-6-bPAC-awake-rec4_ophys.nwb	634845743
+sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec1_ophys.nwb	642057498
+sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec2_ophys.nwb	637465432
+sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec3_ophys.nwb	633505024
+sub-PF600-IP3R2-KO/sub-PF600-IP3R2-KO_ses-20240530-600-KO-awake-rec4_ophys.nwb	630238416
+sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec1_ophys.nwb	643194292
+sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec2_ophys.nwb	636713988
+sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec3_ophys.nwb	633192840
+sub-PF602-IP3R2-WT/sub-PF602-IP3R2-WT_ses-20240801-602-WT-awake-rec4_ophys.nwb	629969027
+sub-PF7/sub-PF7_ses-20240409-7-ctrl-KX-LED1s_ophys.nwb	648928585
+sub-PF7/sub-PF7_ses-20240409-7-ctrl-KX-LED3s_ophys.nwb	637561870
+sub-PF7/sub-PF7_ses-20240409-7-ctrl-KX-LED200ms_ophys.nwb	642764102
+sub-PF7/sub-PF7_ses-20240412-7-ctrl-awake-rec1_ophys.nwb	639406838
+sub-PF7/sub-PF7_ses-20240412-7-ctrl-awake-rec3_ophys.nwb	632822998
+sub-PF7/sub-PF7_ses-20240412-7-ctrl-awake-rec4_ophys.nwb	629704692
+sub-PF8/sub-PF8_ses-20240410-8-ctrl-KX-LED1s_ophys.nwb	635756728
+sub-PF8/sub-PF8_ses-20240410-8-ctrl-KX-LED200ms_ophys.nwb	631043074
+sub-PF8/sub-PF8_ses-20240410-8-ctrl-KX-LED3s_ophys.nwb	619826652
+sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec2_ophys.nwb	621944705
+sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec1_ophys.nwb	625903180
+sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec3_ophys.nwb	617918078
+sub-PF8/sub-PF8_ses-20240413-8-ctrl-awake-rec4_ophys.nwb	616038510
+sub-PF7/sub-PF7_ses-20240412-7-ctrl-awake-rec2_ophys.nwb	638971748
+sub-PF9/sub-PF9_ses-20240409-9-ctrl-KX-LED200ms_ophys.nwb	677912959
+sub-PF9/sub-PF9_ses-20240409-9-ctrl-KX-LED3s_ophys.nwb	674973192
+sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec1_ophys.nwb	738423790
+sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec3_ophys.nwb	732381876
+sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec4_ophys.nwb	729907381
+sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI1_ophys.nwb	684924038
+sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI2_ophys.nwb	670025084
+sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI3_ophys.nwb	652296558
+sub-alb11/sub-alb11_ses-20240423-11-bPAC-awake-ROI4_ophys.nwb	670329254
+sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI1_ophys.nwb	637703600
+sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI2_ophys.nwb	635949092
+sub-PF9/sub-PF9_ses-20240409-9-ctrl-KX-LED1s_ophys.nwb	681862152
+sub-PF9/sub-PF9_ses-20240412-9-ctrl-awake-rec2_ophys.nwb	735230754
+sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI3_ophys.nwb	632418038
+sub-alb12/sub-alb12_ses-20240422-12-bPAC-awake-ROI4_ophys.nwb	651600946
+sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI1_ophys.nwb	636477210
+sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI4_ophys.nwb	648570252
+sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI3_ophys.nwb	623317940
+sub-alb13/sub-alb13_ses-20240423-13-bPAC-awake-ROI2_ophys.nwb	652646902
+sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI2_ophys.nwb	640622682
+sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI1_ophys.nwb	650076264
+sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI3_ophys.nwb	641607260
+sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI1_ophys.nwb	681593014
+sub-alb14/sub-alb14_ses-20240422-14-bPAC-awake-ROI4_ophys.nwb	640350904
+sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI2_ophys.nwb	690984480
+sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI3_ophys.nwb	702510816
+sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI2_ophys.nwb	169277066
+sub-alb15/sub-alb15_ses-20240423-15-ctrl-awake-ROI4_ophys.nwb	688145380
+sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI1_ophys.nwb	614870532
+sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI4_ophys.nwb	616729882
+sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI1_ophys.nwb	684678496
+sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI3_ophys.nwb	681878168
+sub-alb16/sub-alb16_ses-20240422-16-bPAC-awake-ROI3_ophys.nwb	602058960
+sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI2_ophys.nwb	673466192
+sub-alb17/sub-alb17_ses-20240423-17-ctrl-awake-ROI4_ophys.nwb	668950784
+sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI2_ophys.nwb	619225028
+sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI1_ophys.nwb	623489320
+sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI4_ophys.nwb	616393358
+sub-alb18/sub-alb18_ses-20240422-18-ctrl-awake-ROI3_ophys.nwb	625315976
+sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI2_ophys.nwb	681792486
+sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI3_ophys.nwb	677618692
+sub-alb20/sub-alb20_ses-20240423-20-ctrl-awake-ROI2_ophys.nwb	674500312
+sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI1_ophys.nwb	670339568
+sub-alb20/sub-alb20_ses-20240423-20-ctrl-awake-ROI3_ophys.nwb	655558090
+sub-alb20/sub-alb20_ses-20240423-20-ctrl-awake-ROI4_ophys.nwb	655219260
+sub-alb487-IP3R2-KO/sub-alb487-IP3R2-KO_ses-20240315-487-KO-awake-ROI1_ophys.nwb	696566118
+sub-alb487-IP3R2-KO/sub-alb487-IP3R2-KO_ses-20240315-487-KO-awake-ROI4_ophys.nwb	686819064
+sub-alb487-IP3R2-KO/sub-alb487-IP3R2-KO_ses-20240315-487-KO-awake-ROI2_ophys.nwb	692121014
+sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI1_ophys.nwb	654659344
+sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI2_ophys.nwb	662345414
+sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI3_ophys.nwb	654803156
+sub-alb489-IP3R2-WT/sub-alb489-IP3R2-WT_ses-20240315-489-WT-awake-ROI4_ophys.nwb	657978742
+sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI1_ophys.nwb	684035480
+sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI2_ophys.nwb	663267008
+sub-alb19/sub-alb19_ses-20240423-19-ctrl-awake-ROI4_ophys.nwb	669469430
+sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI4_ophys.nwb	666410310
+sub-alb493-IP3R2-WT/sub-alb493-IP3R2-WT_ses-20240315-493-WT-awake-ROI3_ophys.nwb	656009848
+sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI1_ophys.nwb	636885048
+sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI2_ophys.nwb	658040402
+sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI1_ophys.nwb	676351620
+sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI3_ophys.nwb	654031104
+sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI2_ophys.nwb	665334576
+sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI3_ophys.nwb	661637742
+sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI1_ophys.nwb	684387042
+sub-alb570-IP3R2-KO/sub-alb570-IP3R2-KO_ses-20240315-570-KO-awake-ROI4_ophys.nwb	665660866
+sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI2_ophys.nwb	648106452
+sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI3_ophys.nwb	683794412
+sub-alb572-IP3R2-WT/sub-alb572-IP3R2-WT_ses-20240315-572-WT-awake-ROI4_ophys.nwb	659837220
+sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI1_ophys.nwb	682212402
+sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI2_ophys.nwb	665449182
+sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI4_ophys.nwb	675683680
+sub-alb566-IP3R2-WT/sub-alb566-IP3R2-WT_ses-20240314-566-WT-awake-ROI4_ophys.nwb	665037010
+sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI1_ophys.nwb	651287818
+sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI2_ophys.nwb	648029408
+sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI4_ophys.nwb	654524178
+sub-alb580-IP3R2-WT/sub-alb580-IP3R2-WT_ses-20240315-580-WT-awake-ROI3_ophys.nwb	664423494
+sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI2_ophys.nwb	662291428
+sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI1_ophys.nwb	680396658
+sub-alb576-IP3R2-KO/sub-alb576-IP3R2-KO_ses-20240315-576-KO-awake-ROI3_ophys.nwb	654056118
+sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI4_ophys.nwb	655331776
+sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI1_ophys.nwb	643064926
+sub-alb588-IP3R2-KO/sub-alb588-IP3R2-KO_ses-20240530-588-KO-awake-ROI3_ophys.nwb	661650118
+sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI4_ophys.nwb	637406484
+sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI2_ophys.nwb	630465882
+sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI1_ophys.nwb	651897326
+sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI4_ophys.nwb	656695736
+sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI3_ophys.nwb	646183252
+sub-alb590-IP3R2-KO/sub-alb590-IP3R2-KO_ses-20240530-590-KO-awake-ROI3_ophys.nwb	643305538
+sub-whisk-PF1/sub-whisk-PF1_ses-20241217-PF1-whisker1min_ophys.nwb	1284651236
+sub-alb592-IP3R2-KO/sub-alb592-IP3R2-KO_ses-20240530-592-KO-awake-ROI2_ophys.nwb	669569192
+sub-whisk-PF1/sub-whisk-PF1_ses-20241217-PF1-whisker2min_ophys.nwb	1265917256
+sub-whisk-PF3/sub-whisk-PF3_ses-20241217-PF3-whisker1min_ophys.nwb	1328998240
+sub-whisk-PF1/sub-whisk-PF1_ses-20241217-PF1-whisker30sec_ophys.nwb	1301407012
+sub-whisk-PF3/sub-whisk-PF3_ses-20241217-PF3-whisker2min_ophys.nwb	1326872314
+sub-whisk-PF483-IP3R2-WT/sub-whisk-PF483-IP3R2-WT_ses-20240104-PF483-whisker1min_ophys.nwb	1341103270
+sub-whisk-PF3/sub-whisk-PF3_ses-20241217-PF3-whisker30sec_ophys.nwb	1346748834
+sub-whisk-PF5/sub-whisk-PF5_ses-20241220-PF5-whisker1min_ophys.nwb	1306232462
+sub-whisk-PF483-IP3R2-WT/sub-whisk-PF483-IP3R2-WT_ses-20240104-PF483-whisker30sec_ophys.nwb	1363996792
+sub-whisk-PF483-IP3R2-WT/sub-whisk-PF483-IP3R2-WT_ses-20240104-PF483-whisker2min_ophys.nwb	1325925034
+sub-whisk-PF5/sub-whisk-PF5_ses-20241220-PF5-whisker2min_ophys.nwb	1302101478
+sub-whisk-alb10/sub-whisk-alb10_ses-20250123-10-ctrl-KX-ROI3-whisker2min_ophys.nwb	668330896
+sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI2-whisker2min_ophys.nwb	659438236
+sub-whisk-alb10/sub-whisk-alb10_ses-20250123-10-ctrl-KX-ROI4-whisker2min_ophys.nwb	659154266
+sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI1-whisker2min_ophys.nwb	679999456
+sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI3-whisker2min_ophys.nwb	669826236
+sub-whisk-alb2/sub-whisk-alb2_ses-20250123-2-ctrl-KX-ROI4-whisker2min_ophys.nwb	692776154
+sub-whisk-alb10/sub-whisk-alb10_ses-20250123-10-ctrl-KX-ROI1-whisker2min_ophys.nwb	688900196
+sub-whisk-alb3/sub-whisk-alb3_ses-20250125-3-ctrl-KX-ROI1-whisker2min_ophys.nwb	734871284
+sub-whisk-alb3/sub-whisk-alb3_ses-20250125-3-ctrl-KX-ROI2-whisker2min_ophys.nwb	750786872
+sub-whisk-alb6/sub-whisk-alb6_ses-20250123-6-ctrl-KX-ROI1-whisker2min_ophys.nwb	680434384
+sub-whisk-alb6/sub-whisk-alb6_ses-20250123-6-ctrl-KX-ROI3a-whisker2min_ophys.nwb	667080342
+sub-whisk-alb7/sub-whisk-alb7_ses-20250125-7-ctrl-KX-ROI1-whisker2min_ophys.nwb	714285325
+sub-whisk-alb7/sub-whisk-alb7_ses-20250125-7-ctrl-KX-ROI2-whisker2min_ophys.nwb	723722610
+sub-whisk-alb7/sub-whisk-alb7_ses-20250125-7-ctrl-KX-ROI4-whisker2min_ophys.nwb	710101810

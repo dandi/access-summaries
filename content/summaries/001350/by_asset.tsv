@@ -1,126 +1,126 @@
-	asset_path	bytes_sent
-0	dataset_description.json	1330
-1	README.md	3200
-2	derivatives/labels/dataset_description.json	1416
-3	derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-nuclei-manual.png	180954
-4	derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-axonmyelin-manual.png	1644192
-5	derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-process-manual.png	184144
-6	derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-uaxon-manual.png	626844
-7	derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-nuclei-manual.png	97611
-8	derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-process-manual.png	153153
-9	derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-axonmyelin-manual.png	1793172
-10	derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-nuclei-manual.png	29542
-11	derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM_seg-axonmyelin-manual.png	24226
-12	derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-uaxon-manual.png	1142004
-13	derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-axonmyelin-manual.png	2080708
-14	derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-uaxon-manual.png	651502
-15	derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM_seg-uaxon-manual.png	32980
-16	derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM_seg-uaxon-manual.png	5177
-17	derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM_seg-axonmyelin-manual.png	9145
-18	derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-process-manual.png	32023
-19	derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-axonmyelin-manual.png	456468
-20	derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-uaxon-manual.png	334420
-21	derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-nuclei-manual.png	120216
-22	derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-axonmyelin-manual.png	1040650
-23	derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-process-manual.png	152124
-24	derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-uaxon-manual.png	919172
-25	derivatives/labels/sub-375/micr/sub-375_sample-0005_TEM_seg-axonmyelin-manual.png	391346
-26	derivatives/labels/sub-375/micr/sub-375_sample-0005_TEM_seg-nuclei-manual.png	82128
-27	derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-axonmyelin-manual.png	841872
-28	derivatives/labels/sub-375/micr/sub-375_sample-0005_TEM_seg-uaxon-manual.png	2332050
-29	derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-nuclei-manual.png	108196
-30	derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-uaxon-manual.png	1092650
-31	derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-axonmyelin-manual.png	615964
-32	derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-nuclei-manual.png	127525
-33	dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/micr_SPIM/samples.json	1980
-34	derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-uaxon-manual.png	2320338
-35	participants.json	1059
-36	participants.tsv	804
-37	samples.tsv	14634
-38	sub-375/micr/sub-375_TEM.json	55680
-39	sub-366A/micr/sub-366A_sample-0002_TEM.png	3747948
-40	sub-366A/micr/sub-366A_sample-0003_TEM.png	5605293
-41	sub-366A/micr/sub-366A_sample-0001_TEM.png	27220512
-42	sub-366A/micr/sub-366A_sample-0005_TEM.png	17622423
-43	sub-366A/micr/sub-366A_sample-0004_TEM.png	10624730
-44	sub-366A/micr/sub-366A_sample-0007_TEM.png	6329084
-45	sub-366A/micr/sub-366A_sample-0010_TEM.png	5655336
-46	sub-366A/micr/sub-366A_sample-0006_TEM.png	11046952
-47	sub-366A/micr/sub-366A_sample-0009_TEM.png	6348170
-48	sub-366A/micr/sub-366A_sample-0008_TEM.png	17742753
-49	sub-366A/micr/sub-366A_sample-0011_TEM.png	3254836
-50	sub-366A/micr/sub-366A_sample-0014_TEM.png	5632422
-51	sub-366A/micr/sub-366A_sample-0012_TEM.png	14741802
-52	sub-366A/micr/sub-366A_sample-0013_TEM.png	12971668
-53	sub-366A/micr/sub-366A_sample-0016_TEM.png	5291998
-54	sub-366A/micr/sub-366A_sample-0015_TEM.png	4368204
-55	sub-367A/micr/sub-367A_sample-0001_TEM.png	28261842
-56	sub-367A/micr/sub-367A_sample-0002_TEM.png	28957941
-57	sub-367A/micr/sub-367A_sample-0004_TEM.png	18634940
-58	sub-367A/micr/sub-367A_sample-0003_TEM.png	40296812
-59	sub-367A/micr/sub-367A_sample-0008_TEM.png	40334834
-60	sub-367A/micr/sub-367A_sample-0005_TEM.png	71171543
-61	sub-367A/micr/sub-367A_sample-0006_TEM.png	66758453
-62	sub-367A/micr/sub-367A_sample-0007_TEM.png	27812432
-63	sub-368A/micr/sub-368A_sample-0002_TEM.png	47196329
-64	sub-368A/micr/sub-368A_sample-0004_TEM.png	54395087
-65	sub-369B/micr/sub-369B_sample-0001_TEM.png	71376682
-66	sub-369B/micr/sub-369B_sample-0002_TEM.png	16549284
-67	sub-369B/micr/sub-369B_sample-0003_TEM.png	34726393
-68	sub-369B/micr/sub-369B_sample-0006_TEM.png	12832134
-69	sub-369B/micr/sub-369B_sample-0004_TEM.png	70312370
-70	sub-369B/micr/sub-369B_sample-0005_TEM.png	20381206
-71	sub-369B/micr/sub-369B_sample-0007_TEM.png	49020992
-72	sub-369B/micr/sub-369B_sample-0008_TEM.png	24134332
-73	sub-370/micr/sub-370_sample-0001_TEM.png	45668360
-74	sub-370/micr/sub-370_sample-0002_TEM.png	39943270
-75	sub-370/micr/sub-370_sample-0003_TEM.png	49604868
-76	sub-370/micr/sub-370_sample-0006_TEM.png	30464420
-77	sub-370/micr/sub-370_sample-0004_TEM.png	29602196
-78	sub-370/micr/sub-370_sample-0005_TEM.png	23360198
-79	sub-370/micr/sub-370_sample-0007_TEM.png	29828482
-80	sub-370/micr/sub-370_sample-0008_TEM.png	40736568
-81	sub-371/micr/sub-371_sample-0005_TEM.png	20414094
-82	sub-371/micr/sub-371_sample-0003_TEM.png	35993386
-83	sub-371/micr/sub-371_sample-0001_TEM.png	33075756
-84	sub-371/micr/sub-371_sample-0002_TEM.png	29203186
-85	sub-371/micr/sub-371_sample-0004_TEM.png	48151314
-86	sub-371/micr/sub-371_sample-0006_TEM.png	20910876
-87	sub-371/micr/sub-371_sample-0008_TEM.png	10375463
-88	sub-371/micr/sub-371_sample-0007_TEM.png	20800260
-89	sub-372/micr/sub-372_sample-0002_TEM.png	20844012
-90	sub-372/micr/sub-372_sample-0001_TEM.png	37873742
-91	sub-372/micr/sub-372_sample-0003_TEM.png	38135008
-92	sub-372/micr/sub-372_sample-0004_TEM.png	23383570
-93	sub-372/micr/sub-372_sample-0005_TEM.png	52750106
-94	sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM.png	494832
-95	sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM.png	346756
-96	sub-372/micr/sub-372_sample-0006_TEM.png	42586722
-97	sub-372/micr/sub-372_sample-0007_TEM.png	37962020
-98	sub-372/micr/sub-372_sample-0008_TEM.png	38243538
-99	sub-373C/micr/sub-373C_sample-0002_TEM.png	37193304
-100	sub-373C/micr/sub-373C_sample-0001_TEM.png	27138476
-101	sub-373C/micr/sub-373C_sample-0003_TEM.png	23420743
-102	sub-373C/micr/sub-373C_sample-0004_TEM.png	71006800
-103	sub-373C/micr/sub-373C_sample-0005_TEM.png	22812122
-104	sub-373C/micr/sub-373C_sample-0006_TEM.png	42002036
-105	sub-373C/micr/sub-373C_sample-0007_TEM.png	18747725
-106	sub-373C/micr/sub-373C_sample-0008_TEM.png	31171626
-107	sub-374/micr/sub-374_sample-0002_TEM.png	71164212
-108	sub-374/micr/sub-374_sample-0001_TEM.png	38650344
-109	sub-374/micr/sub-374_sample-0003_TEM.png	27728170
-110	sub-374/micr/sub-374_sample-0004_TEM.png	25256632
-111	sub-374/micr/sub-374_sample-0005_TEM.png	56076504
-112	sub-374/micr/sub-374_sample-0006_TEM.png	24834556
-113	sub-374/micr/sub-374_sample-0007_TEM.png	24621700
-114	sub-374/micr/sub-374_sample-0008_TEM.png	28990560
-115	sub-375/micr/sub-375_sample-0001_TEM.png	34958448
-116	sub-375/micr/sub-375_sample-0002_TEM.png	47334933
-117	sub-375/micr/sub-375_sample-0003_TEM.png	30590044
-118	sub-375/micr/sub-375_sample-0004_TEM.png	29872898
-119	sub-375/micr/sub-375_sample-0005_TEM.png	16008539
-120	sub-375/micr/sub-375_sample-0006_TEM.png	48878052
-121	sub-375/micr/sub-375_sample-0007_TEM.png	34471440
-122	sub-375/micr/sub-375_sample-0008_TEM.png	30280052
-123	sub-368A/micr/sub-368A_sample-0001_TEM.png	61424872
-124	sub-368A/micr/sub-368A_sample-0003_TEM.png	72834960
+asset_path	bytes_sent
+dataset_description.json	4256
+README.md	12000
+derivatives/labels/dataset_description.json	4248
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-nuclei-manual.png	392067
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-axonmyelin-manual.png	7672896
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-process-manual.png	598468
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-uaxon-manual.png	2716324
+derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-nuclei-manual.png	422981
+derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-process-manual.png	663663
+derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-axonmyelin-manual.png	5827809
+derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-nuclei-manual.png	354504
+derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM_seg-axonmyelin-manual.png	145356
+derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-uaxon-manual.png	3711513
+derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-axonmyelin-manual.png	6242124
+derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-uaxon-manual.png	3909012
+derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM_seg-uaxon-manual.png	98940
+derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM_seg-uaxon-manual.png	62124
+derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM_seg-axonmyelin-manual.png	109740
+derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-process-manual.png	384276
+derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-axonmyelin-manual.png	5477616
+derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-uaxon-manual.png	3678620
+derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-nuclei-manual.png	330594
+derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-axonmyelin-manual.png	5723575
+derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-process-manual.png	418341
+derivatives/labels/sub-375/micr/sub-375_sample-0001_TEM_seg-uaxon-manual.png	5055446
+derivatives/labels/sub-375/micr/sub-375_sample-0005_TEM_seg-axonmyelin-manual.png	4304806
+derivatives/labels/sub-375/micr/sub-375_sample-0005_TEM_seg-nuclei-manual.png	301136
+derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-axonmyelin-manual.png	4630296
+derivatives/labels/sub-375/micr/sub-375_sample-0005_TEM_seg-uaxon-manual.png	8550850
+derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-nuclei-manual.png	297539
+derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-uaxon-manual.png	6009575
+derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-axonmyelin-manual.png	3387802
+derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-nuclei-manual.png	280555
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/micr_SPIM/samples.json	8250
+derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-uaxon-manual.png	7734460
+participants.json	4236
+participants.tsv	3216
+samples.tsv	39024
+sub-375/micr/sub-375_TEM.json	151680
+sub-366A/micr/sub-366A_sample-0002_TEM.png	16865766
+sub-366A/micr/sub-366A_sample-0003_TEM.png	16815879
+sub-366A/micr/sub-366A_sample-0001_TEM.png	83676230
+sub-366A/micr/sub-366A_sample-0005_TEM.png	38433159
+sub-366A/micr/sub-366A_sample-0004_TEM.png	35843641
+sub-366A/micr/sub-366A_sample-0007_TEM.png	26475322
+sub-366A/micr/sub-366A_sample-0010_TEM.png	16966008
+sub-366A/micr/sub-366A_sample-0006_TEM.png	35421686
+sub-366A/micr/sub-366A_sample-0009_TEM.png	22022071
+sub-366A/micr/sub-366A_sample-0008_TEM.png	44169624
+sub-366A/micr/sub-366A_sample-0011_TEM.png	24159520
+sub-366A/micr/sub-366A_sample-0014_TEM.png	16897266
+sub-366A/micr/sub-366A_sample-0012_TEM.png	35874387
+sub-366A/micr/sub-366A_sample-0013_TEM.png	39374102
+sub-366A/micr/sub-366A_sample-0016_TEM.png	26235166
+sub-366A/micr/sub-366A_sample-0015_TEM.png	31953096
+sub-367A/micr/sub-367A_sample-0001_TEM.png	89764134
+sub-367A/micr/sub-367A_sample-0002_TEM.png	85737216
+sub-367A/micr/sub-367A_sample-0004_TEM.png	73345282
+sub-367A/micr/sub-367A_sample-0003_TEM.png	137496260
+sub-367A/micr/sub-367A_sample-0008_TEM.png	73383886
+sub-367A/micr/sub-367A_sample-0005_TEM.png	160455476
+sub-367A/micr/sub-367A_sample-0006_TEM.png	144646837
+sub-367A/micr/sub-367A_sample-0007_TEM.png	144220776
+sub-368A/micr/sub-368A_sample-0002_TEM.png	93292461
+sub-368A/micr/sub-368A_sample-0004_TEM.png	146338953
+sub-369B/micr/sub-369B_sample-0001_TEM.png	136502658
+sub-369B/micr/sub-369B_sample-0002_TEM.png	95471122
+sub-369B/micr/sub-369B_sample-0003_TEM.png	108921185
+sub-369B/micr/sub-369B_sample-0006_TEM.png	68049337
+sub-369B/micr/sub-369B_sample-0004_TEM.png	162509712
+sub-369B/micr/sub-369B_sample-0005_TEM.png	108948357
+sub-369B/micr/sub-369B_sample-0007_TEM.png	135728052
+sub-369B/micr/sub-369B_sample-0008_TEM.png	107148474
+sub-370/micr/sub-370_sample-0001_TEM.png	102853702
+sub-370/micr/sub-370_sample-0002_TEM.png	115128328
+sub-370/micr/sub-370_sample-0003_TEM.png	108628955
+sub-370/micr/sub-370_sample-0006_TEM.png	95816650
+sub-370/micr/sub-370_sample-0004_TEM.png	112005254
+sub-370/micr/sub-370_sample-0005_TEM.png	109124658
+sub-370/micr/sub-370_sample-0007_TEM.png	112522679
+sub-370/micr/sub-370_sample-0008_TEM.png	103109476
+sub-371/micr/sub-371_sample-0005_TEM.png	80423925
+sub-371/micr/sub-371_sample-0003_TEM.png	107634611
+sub-371/micr/sub-371_sample-0001_TEM.png	108886806
+sub-371/micr/sub-371_sample-0002_TEM.png	110923715
+sub-371/micr/sub-371_sample-0004_TEM.png	110715366
+sub-371/micr/sub-371_sample-0006_TEM.png	80524962
+sub-371/micr/sub-371_sample-0008_TEM.png	76951769
+sub-371/micr/sub-371_sample-0007_TEM.png	81185934
+sub-372/micr/sub-372_sample-0002_TEM.png	125053472
+sub-372/micr/sub-372_sample-0001_TEM.png	111320961
+sub-372/micr/sub-372_sample-0003_TEM.png	110335660
+sub-372/micr/sub-372_sample-0004_TEM.png	113480774
+sub-372/micr/sub-372_sample-0005_TEM.png	111305614
+sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM.png	2226744
+sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM.png	1560402
+sub-372/micr/sub-372_sample-0006_TEM.png	113109845
+sub-372/micr/sub-372_sample-0007_TEM.png	111826458
+sub-372/micr/sub-372_sample-0008_TEM.png	108750275
+sub-373C/micr/sub-373C_sample-0002_TEM.png	108939428
+sub-373C/micr/sub-373C_sample-0001_TEM.png	110679564
+sub-373C/micr/sub-373C_sample-0003_TEM.png	113544461
+sub-373C/micr/sub-373C_sample-0004_TEM.png	110597210
+sub-373C/micr/sub-373C_sample-0005_TEM.png	109087590
+sub-373C/micr/sub-373C_sample-0006_TEM.png	111685770
+sub-373C/micr/sub-373C_sample-0007_TEM.png	111123119
+sub-373C/micr/sub-373C_sample-0008_TEM.png	109957078
+sub-374/micr/sub-374_sample-0002_TEM.png	111003697
+sub-374/micr/sub-374_sample-0001_TEM.png	114301100
+sub-374/micr/sub-374_sample-0003_TEM.png	113562770
+sub-374/micr/sub-374_sample-0004_TEM.png	115170774
+sub-374/micr/sub-374_sample-0005_TEM.png	113583665
+sub-374/micr/sub-374_sample-0006_TEM.png	109861290
+sub-374/micr/sub-374_sample-0007_TEM.png	109443834
+sub-374/micr/sub-374_sample-0008_TEM.png	109786476
+sub-375/micr/sub-375_sample-0001_TEM.png	117637992
+sub-375/micr/sub-375_sample-0002_TEM.png	118964217
+sub-375/micr/sub-375_sample-0003_TEM.png	115581194
+sub-375/micr/sub-375_sample-0004_TEM.png	112874659
+sub-375/micr/sub-375_sample-0005_TEM.png	120379289
+sub-375/micr/sub-375_sample-0006_TEM.png	112673120
+sub-375/micr/sub-375_sample-0007_TEM.png	118029720
+sub-375/micr/sub-375_sample-0008_TEM.png	114365206
+sub-368A/micr/sub-368A_sample-0001_TEM.png	131431292
+sub-368A/micr/sub-368A_sample-0003_TEM.png	128411046

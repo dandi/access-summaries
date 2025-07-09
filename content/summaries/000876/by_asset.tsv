@@ -1,21 +1,22 @@
-	asset_path	bytes_sent
-0	sub-M388/sub-M388_ecephys.nwb	32493044895
-1	code/Containerfile	4968
-2	code/Makefile	6606
-3	code/read_metadata.py	424
-4	code/reposit_bep032.py	13941
-5	code/reposit.py	6750
-6	code/requred_metadata.txt	340
-7	code/requirements.txt	625
-8	participants.tsv	1230
-9	participants.json	1815
-10	sub-M481/ses-20240115165152/ephys/channels.tsv	95442
-11	sub-M388/ses-20231120114021/ephys/probes.tsv	230
-12	sub-M481/ses-20240115165152/ephys/contacts.tsv	81420
-13	sub-M541/ses-M54120240831/ecephys/sub-M541_ses-M54120240831_probes.json	30
-14	sub-M388/sessions.tsv	138
-15	sub-M483/ses-20240122121030/ephys/probes.tsv	1440
-16	sub-M483/ses-20240122121030/ephys/channels.tsv	47475
-17	sub-M481/sessions.tsv	138
-18	sub-M483/ses-20240122121030/ephys/contacts.tsv	8100
-19	sub-M483/sessions.tsv	69
+asset_path	bytes_sent
+sub-M388/sub-M388_ecephys.nwb	102291106917
+code/Containerfile	24840
+code/Makefile	15414
+code/dependencies_reposit.txt	120
+code/read_metadata.py	2120
+code/reposit_bep032.py	27882
+code/reposit.py	40500
+code/requred_metadata.txt	1190
+code/requirements.txt	1375
+participants.tsv	3280
+participants.json	6534
+sub-M481/ses-20240115165152/ephys/channels.tsv	286326
+sub-M388/ses-20231120114021/ephys/probes.tsv	920
+sub-M481/ses-20240115165152/ephys/contacts.tsv	195408
+sub-M541/ses-M54120240831/ecephys/sub-M541_ses-M54120240831_probes.json	132
+sub-M388/sessions.tsv	345
+sub-M483/ses-20240122121030/ephys/probes.tsv	3360
+sub-M483/ses-20240122121030/ephys/channels.tsv	47475
+sub-M481/sessions.tsv	414
+sub-M483/ses-20240122121030/ephys/contacts.tsv	32400
+sub-M483/sessions.tsv	621

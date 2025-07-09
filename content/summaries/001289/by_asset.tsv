@@ -1,15 +1,16 @@
-	asset_path	bytes_sent
-0	dataset_description.json	676
-1	participants.tsv	1128
-2	samples.tsv	679
-3	derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell.bvecs	28896
-4	derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvecs	31665
-5	derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell.bvals	10200
-6	derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvals	34784
-7	derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvals	26088
-8	derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvecs	43911
-9	derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI_desc-DWImasked.nii.gz	948113473
-10	derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI_desc-DWImasked.nii.gz	6356428417
-11	derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	661278730
-12	derivatives/micr/sub-MR256/sub-MR256_sample-brain_stain-LY_space-dwi_desc-injection.nii.gz	12618
-13	derivatives/micr/sub-MR243/sub-MR243_sample-brain_stain-FS_space-dwi_desc-injection.nii.gz	86140
+asset_path	bytes_sent
+dataset_description.json	4732
+participants.tsv	2820
+samples.tsv	2813
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell.bvecs	166152
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvecs	94995
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell.bvals	48960
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvals	173920
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvals	104352
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvecs	175644
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	1512315819
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI_desc-DWImasked.nii.gz	5484070391
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI_desc-DWImasked.nii.gz	26436252069
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	1815847857
+derivatives/micr/sub-MR256/sub-MR256_sample-brain_stain-LY_space-dwi_desc-injection.nii.gz	50472
+derivatives/micr/sub-MR243/sub-MR243_sample-brain_stain-FS_space-dwi_desc-injection.nii.gz	357481

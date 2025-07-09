@@ -1,56 +1,56 @@
-	asset_path	bytes_sent
-0	README	620
-1	derivatives/labels/dataset_description.json	222
-2	CHANGES	467
-3	LICENSE	1065
-4	derivatives/labels/sub-rat1/micr/sub-rat1_sample-data1_SEM_seg-axon-manual.png	74974
-5	derivatives/labels/sub-rat1/micr/sub-rat1_sample-data1_SEM_seg-axonmyelin-manual.png	107054
-6	derivatives/labels/sub-rat1/micr/sub-rat1_sample-data1_SEM_seg-myelin-manual.png	271546
-7	derivatives/labels/sub-rat2/micr/sub-rat2_sample-data5_SEM_seg-axon-manual.png	22933
-8	derivatives/labels/sub-rat2/micr/sub-rat2_sample-data5_SEM_seg-axonmyelin-manual.png	51098
-9	derivatives/labels/sub-rat2/micr/sub-rat2_sample-data5_SEM_seg-myelin-manual.png	150858
-10	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data10_SEM_seg-axon-manual.png	29321
-11	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data10_SEM_seg-axonmyelin-manual.png	61600
-12	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data10_SEM_seg-myelin-manual.png	114764
-13	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data11_SEM_seg-axon-manual.png	33093
-14	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data11_SEM_seg-axonmyelin-manual.png	53125
-15	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data11_SEM_seg-myelin-manual.png	129228
-16	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data9_SEM_seg-axon-manual.png	58728
-17	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data9_SEM_seg-axonmyelin-manual.png	48383
-18	derivatives/labels/sub-rat4/micr/sub-rat4_sample-data12_SEM_seg-axon-manual.png	61074
-19	derivatives/labels/sub-rat3/micr/sub-rat3_sample-data9_SEM_seg-myelin-manual.png	56237
-20	derivatives/labels/sub-rat4/micr/sub-rat4_sample-data12_SEM_seg-axonmyelin-manual.png	88482
-21	derivatives/labels/sub-rat4/micr/sub-rat4_sample-data12_SEM_seg-myelin-manual.png	41623
-22	derivatives/labels/sub-rat5/micr/sub-rat5_sample-data14_SEM_seg-axon-manual.png	328126
-23	derivatives/labels/sub-rat5/micr/sub-rat5_sample-data14_SEM_seg-axonmyelin-manual.png	549188
-24	derivatives/labels/sub-rat5/micr/sub-rat5_sample-data14_SEM_seg-myelin-manual.png	949620
-25	derivatives/labels/sub-rat6/micr/sub-rat6_sample-data15_SEM_seg-axon-manual.png	73286
-26	derivatives/labels/sub-rat6/micr/sub-rat6_sample-data15_SEM_seg-axonmyelin-manual.png	63100
-27	derivatives/labels/sub-rat6/micr/sub-rat6_sample-data15_SEM_seg-myelin-manual.png	75098
-28	derivatives/labels/sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM_seg-axon-manual.png	83288
-29	derivatives/labels/sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM_seg-axonmyelin-manual.png	490392
-30	derivatives/labels/sub-rat8/micr/sub-rat8_sample-V915_SEM_seg-axon-manual.png	29129
-31	derivatives/labels/sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM_seg-myelin-manual.png	313312
-32	derivatives/labels/sub-rat8/micr/sub-rat8_sample-V915_SEM_seg-axonmyelin-manual.png	61264
-33	dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/micr_SPIM/samples.json	1980
-34	derivatives/labels/sub-rat8/micr/sub-rat8_sample-V915_SEM_seg-myelin-manual.png	116860
-35	participants.tsv	478
-36	participants.json	702
-37	samples.tsv	337
-38	sub-rat1/micr/sub-rat1_sample-data1_SEM.json	188
-39	sub-rat2/micr/sub-rat2_sample-data5_SEM.json	380
-40	sub-rat1/micr/sub-rat1_sample-data1_SEM.png	1004958
-41	sub-rat2/micr/sub-rat2_sample-data5_SEM.png	926903
-42	sub-rat4/micr/sub-rat4_sample-data12_SEM.json	1860
-43	sub-rat3/micr/sub-rat3_sample-data10_SEM.png	814830
-44	sub-rat3/micr/sub-rat3_sample-data11_SEM.png	418019
-45	sub-rat3/micr/sub-rat3_sample-data9_SEM.png	783498
-46	sub-rat4/micr/sub-rat4_sample-data12_SEM.png	480267
-47	sub-rat6/micr/sub-rat6_sample-data15_SEM.json	752
-48	sub-rat5/micr/sub-rat5_sample-data14_SEM.png	4596435
-49	sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM.json	196
-50	sub-rat6/micr/sub-rat6_sample-data15_SEM.png	722477
-51	sub-rat8/micr/sub-rat8_sample-V915_SEM.json	188
-52	sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM.png	4459566
-53	sub-rat8/micr/sub-rat8_sample-V915_SEM.png	912029
-54	dataset_description.json	499
+asset_path	bytes_sent
+README	3100
+derivatives/labels/dataset_description.json	1110
+CHANGES	2335
+LICENSE	5325
+derivatives/labels/sub-rat1/micr/sub-rat1_sample-data1_SEM_seg-axon-manual.png	374870
+derivatives/labels/sub-rat1/micr/sub-rat1_sample-data1_SEM_seg-axonmyelin-manual.png	535270
+derivatives/labels/sub-rat1/micr/sub-rat1_sample-data1_SEM_seg-myelin-manual.png	678865
+derivatives/labels/sub-rat2/micr/sub-rat2_sample-data5_SEM_seg-axon-manual.png	114665
+derivatives/labels/sub-rat2/micr/sub-rat2_sample-data5_SEM_seg-axonmyelin-manual.png	255490
+derivatives/labels/sub-rat2/micr/sub-rat2_sample-data5_SEM_seg-myelin-manual.png	251430
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data10_SEM_seg-axon-manual.png	146605
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data10_SEM_seg-axonmyelin-manual.png	308000
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data10_SEM_seg-myelin-manual.png	286910
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data11_SEM_seg-axon-manual.png	165465
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data11_SEM_seg-axonmyelin-manual.png	265625
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data11_SEM_seg-myelin-manual.png	323070
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data9_SEM_seg-axon-manual.png	146820
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data9_SEM_seg-axonmyelin-manual.png	241915
+derivatives/labels/sub-rat4/micr/sub-rat4_sample-data12_SEM_seg-axon-manual.png	101790
+derivatives/labels/sub-rat3/micr/sub-rat3_sample-data9_SEM_seg-myelin-manual.png	281185
+derivatives/labels/sub-rat4/micr/sub-rat4_sample-data12_SEM_seg-axonmyelin-manual.png	221205
+derivatives/labels/sub-rat4/micr/sub-rat4_sample-data12_SEM_seg-myelin-manual.png	208115
+derivatives/labels/sub-rat5/micr/sub-rat5_sample-data14_SEM_seg-axon-manual.png	820315
+derivatives/labels/sub-rat5/micr/sub-rat5_sample-data14_SEM_seg-axonmyelin-manual.png	1372970
+derivatives/labels/sub-rat5/micr/sub-rat5_sample-data14_SEM_seg-myelin-manual.png	1582700
+derivatives/labels/sub-rat6/micr/sub-rat6_sample-data15_SEM_seg-axon-manual.png	183215
+derivatives/labels/sub-rat6/micr/sub-rat6_sample-data15_SEM_seg-axonmyelin-manual.png	315500
+derivatives/labels/sub-rat6/micr/sub-rat6_sample-data15_SEM_seg-myelin-manual.png	375490
+derivatives/labels/sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM_seg-axon-manual.png	416440
+derivatives/labels/sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM_seg-axonmyelin-manual.png	817320
+derivatives/labels/sub-rat8/micr/sub-rat8_sample-V915_SEM_seg-axon-manual.png	145645
+derivatives/labels/sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM_seg-myelin-manual.png	783280
+derivatives/labels/sub-rat8/micr/sub-rat8_sample-V915_SEM_seg-axonmyelin-manual.png	306320
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/micr_SPIM/samples.json	8250
+derivatives/labels/sub-rat8/micr/sub-rat8_sample-V915_SEM_seg-myelin-manual.png	350580
+participants.tsv	1195
+participants.json	1170
+samples.tsv	1685
+sub-rat1/micr/sub-rat1_sample-data1_SEM.json	940
+sub-rat2/micr/sub-rat2_sample-data5_SEM.json	950
+sub-rat1/micr/sub-rat1_sample-data1_SEM.png	5024790
+sub-rat2/micr/sub-rat2_sample-data5_SEM.png	5561418
+sub-rat4/micr/sub-rat4_sample-data12_SEM.json	3348
+sub-rat3/micr/sub-rat3_sample-data10_SEM.png	2444490
+sub-rat3/micr/sub-rat3_sample-data11_SEM.png	2090095
+sub-rat3/micr/sub-rat3_sample-data9_SEM.png	1958745
+sub-rat4/micr/sub-rat4_sample-data12_SEM.png	2401335
+sub-rat6/micr/sub-rat6_sample-data15_SEM.json	3384
+sub-rat5/micr/sub-rat5_sample-data14_SEM.png	11900448
+sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM.json	490
+sub-rat6/micr/sub-rat6_sample-data15_SEM.png	3020924
+sub-rat8/micr/sub-rat8_sample-V915_SEM.json	940
+sub-rat7/micr/sub-rat7_sample-Maxo03img60_SEM.png	11216934
+sub-rat8/micr/sub-rat8_sample-V915_SEM.png	4560145
+dataset_description.json	2495

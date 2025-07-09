@@ -1,259 +1,265 @@
-	asset_path	bytes_sent
-0	dataset/participants.tsv	136
-1	dataset/dataset_description.json	368
-2	dataset/participants.json	357
-3	dataset/participants.tsv~	62
-4	dataset/samples.json	514
-5	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-lectin_down-16_LSFM.json	7435392
-6	dataset/samples.tsv	204
-7	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-yo_down-16_LSFM.json	6785280
-8	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-yo_down-16_LSFM.tiff	19324
-9	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-lectin_down-16_LSFM.tiff	703598
-10	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-lectin_down-16_LSFM.tiff	722232
-11	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-yo_down-16_LSFM.tiff	27147
-12	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-lectin_down-16_LSFM.tiff	1415680
-13	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-yo_down-16_LSFM.tiff	35956
-14	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-lectin_down-16_LSFM.tiff	1689230
-15	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-yo_down-16_LSFM.tiff	9478
-16	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-lectin_down-16_LSFM.tiff	1317768
-17	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-yo_down-16_LSFM.tiff	40448
-18	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-lectin_down-16_LSFM.tiff	325884
-19	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-yo_down-16_LSFM.tiff	21508
-20	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-lectin_down-16_LSFM.tiff	987537
-21	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-yo_down-16_LSFM.tiff	48724
-22	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-lectin_down-16_LSFM.tiff	666812
-23	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-yo_down-16_LSFM.tiff	65316
-24	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-yo_down-16_LSFM.tiff	113455
-25	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-lectin_down-16_LSFM.tiff	1035978
-26	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-yo_down-16_LSFM.tiff	75990
-27	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-lectin_down-16_LSFM.tiff	727448
-28	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-yo_down-16_LSFM.tiff	207510
-29	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-lectin_down-16_LSFM.tiff	769690
-30	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-yo_down-16_LSFM.tiff	366180
-31	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-lectin_down-16_LSFM.tiff	1222878
-32	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-lectin_down-16_LSFM.tiff	1332960
-33	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-yo_down-16_LSFM.tiff	616749
-34	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-yo_down-16_LSFM.tiff	648540
-35	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-lectin_down-16_LSFM.tiff	1935396
-36	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-lectin_down-16_LSFM.tiff	1583163
-37	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-yo_down-16_LSFM.tiff	2037573
-38	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-yo_down-16_LSFM.tiff	2655627
-39	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-lectin_down-16_LSFM.tiff	1271982
-40	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-yo_down-16_LSFM.tiff	6496182
-41	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-lectin_down-16_LSFM.tiff	1362464
-42	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-lectin_down-16_LSFM.tiff	4226412
-43	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-yo_down-16_LSFM.tiff	4092576
-44	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-yo_down-16_LSFM.tiff	2925310
-45	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-lectin_down-16_LSFM.tiff	2181912
-46	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-yo_down-16_LSFM.tiff	10789317
-47	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-lectin_down-16_LSFM.tiff	2201214
-48	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-yo_down-16_LSFM.tiff	3209752
-49	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-lectin_down-16_LSFM.tiff	2238021
-50	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-yo_down-16_LSFM.tiff	4970664
-51	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-lectin_down-16_LSFM.tiff	2292096
-52	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-yo_down-16_LSFM.tiff	3403984
-53	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-lectin_down-16_LSFM.tiff	3901145
-54	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-yo_down-16_LSFM.tiff	3477722
-55	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-lectin_down-16_LSFM.tiff	5587806
-56	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-yo_down-16_LSFM.tiff	7071456
-57	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-lectin_down-16_LSFM.tiff	1643074
-58	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-yo_down-16_LSFM.tiff	5374245
-59	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-lectin_down-16_LSFM.tiff	2521335
-60	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-yo_down-16_LSFM.tiff	7255944
-61	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-lectin_down-16_LSFM.tiff	1727288
-62	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-yo_down-16_LSFM.tiff	5498820
-63	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-lectin_down-16_LSFM.tiff	1770986
-64	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-yo_down-16_LSFM.tiff	7392492
-65	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-lectin_down-16_LSFM.tiff	2718108
-66	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-yo_down-16_LSFM.tiff	5590047
-67	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-lectin_down-16_LSFM.tiff	2789508
-68	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-yo_down-16_LSFM.tiff	3752942
-69	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-lectin_down-16_LSFM.tiff	2870007
-70	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-yo_down-16_LSFM.tiff	3766304
-71	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-lectin_down-16_LSFM.tiff	3930232
-72	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-lectin_down-16_LSFM.tiff	3013422
-73	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-yo_down-16_LSFM.tiff	9423670
-74	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-yo_down-16_LSFM.tiff	5647854
-75	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-lectin_down-16_LSFM.tiff	4119316
-76	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-yo_down-16_LSFM.tiff	3761382
-77	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-lectin_down-16_LSFM.tiff	8399096
-78	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-yo_down-16_LSFM.tiff	5637003
-79	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-lectin_down-16_LSFM.tiff	1066933
-80	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-yo_down-16_LSFM.tiff	5633913
-81	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-lectin_down-16_LSFM.tiff	3242895
-82	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-yo_down-16_LSFM.tiff	1877788
-83	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-lectin_down-16_LSFM.tiff	1091762
-84	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-yo_down-16_LSFM.tiff	9392625
-85	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-lectin_down-16_LSFM.tiff	3296607
-86	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-yo_down-16_LSFM.tiff	5637984
-87	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-lectin_down-16_LSFM.tiff	4427692
-88	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-yo_down-16_LSFM.tiff	3760372
-89	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-lectin_down-16_LSFM.tiff	2241062
-90	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-yo_down-16_LSFM.tiff	5643645
-91	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-lectin_down-16_LSFM.tiff	1132904
-92	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-yo_down-16_LSFM.tiff	5646570
-93	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-lectin_down-16_LSFM.tiff	4578264
-94	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-yo_down-16_LSFM.tiff	3766388
-95	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-lectin_down-16_LSFM.tiff	2308648
-96	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-yo_down-16_LSFM.tiff	5651937
-97	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-lectin_down-16_LSFM.tiff	1160645
-98	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-yo_down-16_LSFM.tiff	5653836
-99	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-lectin_down-16_LSFM.tiff	4652652
-100	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-yo_down-16_LSFM.tiff	1885209
-101	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-lectin_down-16_LSFM.tiff	2334090
-102	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-yo_down-16_LSFM.tiff	1885603
-103	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-lectin_down-16_LSFM.tiff	4658776
-104	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-yo_down-16_LSFM.tiff	11318598
-105	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-lectin_down-16_LSFM.tiff	3491064
-106	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-yo_down-16_LSFM.tiff	5661021
-107	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-lectin_down-16_LSFM.tiff	5801820
-108	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-yo_down-16_LSFM.tiff	5664216
-109	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-lectin_down-16_LSFM.tiff	2314170
-110	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-yo_down-16_LSFM.tiff	5665947
-111	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-lectin_down-16_LSFM.tiff	2318712
-112	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-yo_down-16_LSFM.tiff	5667942
-113	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-lectin_down-16_LSFM.tiff	1159191
-114	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-yo_down-16_LSFM.tiff	3778324
-115	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-lectin_down-16_LSFM.tiff	2326324
-116	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-yo_down-16_LSFM.tiff	3778156
-117	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-lectin_down-16_LSFM.tiff	4631288
-118	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-yo_down-16_LSFM.tiff	3777892
-119	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-lectin_down-16_LSFM.tiff	4620268
-120	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-yo_down-16_LSFM.tiff	3777568
-121	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-lectin_down-16_LSFM.tiff	3454890
-122	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-yo_down-16_LSFM.tiff	3777432
-123	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-lectin_down-16_LSFM.tiff	7986265
-124	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-yo_down-16_LSFM.tiff	7553812
-125	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-lectin_down-16_LSFM.tiff	1131366
-126	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-yo_down-16_LSFM.tiff	3776150
-127	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-lectin_down-16_LSFM.tiff	3352194
-128	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-yo_down-16_LSFM.tiff	3777046
-129	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-lectin_down-16_LSFM.tiff	3303099
-130	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-yo_down-16_LSFM.tiff	5662245
-131	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-lectin_down-16_LSFM.tiff	3239913
-132	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-yo_down-16_LSFM.tiff	1886519
-133	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-lectin_down-16_LSFM.tiff	3177291
-134	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-yo_down-16_LSFM.tiff	1885915
-135	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-lectin_down-16_LSFM.tiff	6250464
-136	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-yo_down-16_LSFM.tiff	11310156
-137	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-lectin_down-16_LSFM.tiff	3074769
-138	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-yo_down-16_LSFM.tiff	7536160
-139	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-lectin_down-16_LSFM.tiff	2016576
-140	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-yo_down-16_LSFM.tiff	7529012
-141	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-lectin_down-16_LSFM.tiff	7940256
-142	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-yo_down-16_LSFM.tiff	14791528
-143	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-lectin_down-16_LSFM.tiff	1947580
-144	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-yo_down-16_LSFM.tiff	1879331
-145	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-lectin_down-16_LSFM.tiff	1893720
-146	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-yo_down-16_LSFM.tiff	7510772
-147	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-lectin_down-16_LSFM.tiff	1836714
-148	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-yo_down-16_LSFM.tiff	5627598
-149	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-lectin_down-16_LSFM.tiff	1779052
-150	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-yo_down-16_LSFM.tiff	3747320
-151	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-lectin_down-16_LSFM.tiff	3417420
-152	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-yo_down-16_LSFM.tiff	9355440
-153	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-lectin_down-16_LSFM.tiff	2465394
-154	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-yo_down-16_LSFM.tiff	1869020
-155	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-lectin_down-16_LSFM.tiff	2371182
-156	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-yo_down-16_LSFM.tiff	11196528
-157	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-lectin_down-16_LSFM.tiff	2285610
-158	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-yo_down-16_LSFM.tiff	5583648
-159	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-lectin_down-16_LSFM.tiff	2962404
-160	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-yo_down-16_LSFM.tiff	3707190
-161	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-lectin_down-16_LSFM.tiff	3563635
-162	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-yo_down-16_LSFM.tiff	5530818
-163	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-lectin_down-16_LSFM.tiff	2743072
-164	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-yo_down-16_LSFM.tiff	3659074
-165	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-lectin_down-16_LSFM.tiff	1314346
-166	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-yo_down-16_LSFM.tiff	10874502
-167	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-lectin_down-16_LSFM.tiff	2527448
-168	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-yo_down-16_LSFM.tiff	5382675
-169	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-lectin_down-16_LSFM.tiff	1212520
-170	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-yo_down-16_LSFM.tiff	5319030
-171	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-lectin_down-16_LSFM.tiff	1163966
-172	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-yo_down-16_LSFM.tiff	5247636
-173	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-lectin_down-16_LSFM.tiff	1686255
-174	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-yo_down-16_LSFM.tiff	8583495
-175	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-lectin_down-16_LSFM.tiff	2669840
-176	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-yo_down-16_LSFM.tiff	8364315
-177	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-lectin_down-16_LSFM.tiff	513801
-178	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-yo_down-16_LSFM.tiff	3252814
-179	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-lectin_down-16_LSFM.tiff	1974188
-180	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-yo_down-16_LSFM.tiff	3155292
-181	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-lectin_down-16_LSFM.tiff	2378305
-182	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-yo_down-16_LSFM.tiff	1522650
-183	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-lectin_down-16_LSFM.tiff	1379841
-184	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-lectin_down-16_LSFM.tiff	1793212
-185	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-yo_down-16_LSFM.tiff	2915030
-186	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-yo_down-16_LSFM.tiff	1289892
-187	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-lectin_down-16_LSFM.tiff	1702596
-188	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-yo_down-16_LSFM.tiff	4138479
-189	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-lectin_down-16_LSFM.tiff	783592
-190	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-yo_down-16_LSFM.tiff	3547275
-191	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-lectin_down-16_LSFM.tiff	712384
-192	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-yo_down-16_LSFM.tiff	5268695
-193	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-lectin_down-16_LSFM.tiff	1278628
-194	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-yo_down-16_LSFM.tiff	5395944
-195	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-lectin_down-16_LSFM.tiff	1438445
-196	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-yo_down-16_LSFM.tiff	1436114
-197	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-lectin_down-16_LSFM.tiff	1043948
-198	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-yo_down-16_LSFM.tiff	1589319
-199	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-lectin_down-16_LSFM.tiff	948952
-200	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-yo_down-16_LSFM.tiff	1446828
-201	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-lectin_down-16_LSFM.tiff	444200
-202	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-yo_down-16_LSFM.tiff	701538
-203	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-lectin_down-16_LSFM.tiff	2751606
-204	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-yo_down-16_LSFM.tiff	289418
-205	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-lectin_down-16_LSFM.tiff	203200
-206	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-yo_down-16_LSFM.tiff	253734
-207	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-lectin_down-16_LSFM.tiff	393380
-208	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-yo_down-16_LSFM.tiff	98606
-209	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-yo_down-16_LSFM.tiff	60542
-210	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-lectin_down-16_LSFM.tiff	771252
-211	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-lectin_down-16_LSFM.tiff	570744
-212	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-yo_down-16_LSFM.tiff	115986
-213	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-lectin_down-16_LSFM.tiff	561198
-214	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-yo_down-16_LSFM.tiff	50124
-215	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-lectin_down-16_LSFM.tiff	557721
-216	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-yo_down-16_LSFM.tiff	26961
-217	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-lectin_down-16_LSFM.tiff	182207
-218	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-yo_down-16_LSFM.tiff	22821
-219	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-lectin_down-16_LSFM.tiff	1076514
-220	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-yo_down-16_LSFM.tiff	29064
-221	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-lectin_down-16_LSFM.tiff	357320
-222	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-yo_down-16_LSFM.tiff	28780
-223	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-lectin_down-16_LSFM.tiff	356760
-224	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-yo_down-16_LSFM.tiff	28552
-225	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-lectin_down-16_LSFM.tiff	522573
-226	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-yo_down-16_LSFM.tiff	21345
-227	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-lectin_down-16_LSFM.tiff	528360
-228	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-yo_down-16_LSFM.tiff	21279
-229	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-lectin_down-16_LSFM.tiff	694128
-230	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-yo_down-16_LSFM.tiff	21240
-231	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-lectin_down-16_LSFM.tiff	523461
-232	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-yo_down-16_LSFM.tiff	21174
-233	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-lectin_down-16_LSFM.tiff	519306
-234	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-yo_down-16_LSFM.tiff	21126
-235	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-lectin_down-16_LSFM.tiff	687812
-236	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-yo_down-16_LSFM.tiff	14090
-237	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-lectin_down-16_LSFM.tiff	512232
-238	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-yo_down-16_LSFM.tiff	28192
-239	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-lectin_down-16_LSFM.tiff	2402204
-240	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-yo_down-16_LSFM.tiff	14108
-241	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-lectin_down-16_LSFM.tiff	341954
-242	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-yo_down-16_LSFM.tiff	14148
-243	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-yo_down-16_LSFM.tiff	56920
-244	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-lectin_down-16_LSFM.tiff	342060
-245	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-lectin_down-16_LSFM.tiff	519807
-246	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-yo_down-16_LSFM.tiff	14228
-247	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-lectin_down-16_LSFM.tiff	689936
-248	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-yo_down-16_LSFM.tiff	28444
-249	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-lectin_down-16_LSFM.tiff	874745
-250	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-yo_down-16_LSFM.tiff	14212
-251	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-lectin_down-16_LSFM.tiff	872245
-252	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-yo_down-16_LSFM.tiff	14230
-253	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-yo_down-16_LSFM.tiff	14268
-254	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-lectin_down-16_LSFM.tiff	535278
-255	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-yo_down-16_LSFM.tiff	14338
-256	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-yo_down-16_LSFM.tiff	14296
-257	dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-lectin_down-16_LSFM.tiff	1078494
+asset_path	bytes_sent
+dataset/participants.tsv	442
+dataset/dataset_description.json	1196
+dataset/participants.json	1785
+dataset/participants.tsv~	403
+dataset/samples.json	3598
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-lectin_down-16_LSFM.json	19050880
+dataset/samples.tsv	765
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-yo_down-16_LSFM.json	17364480
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-yo_down-16_LSFM.tiff	96620
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-lectin_down-16_LSFM.tiff	3166191
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-lectin_down-16_LSFM.tiff	2888928
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-yo_down-16_LSFM.tiff	135735
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-lectin_down-16_LSFM.tiff	5662720
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-yo_down-16_LSFM.tiff	98879
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-lectin_down-16_LSFM.tiff	3716306
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-yo_down-16_LSFM.tiff	75824
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-lectin_down-16_LSFM.tiff	2635536
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-yo_down-16_LSFM.tiff	91008
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-lectin_down-16_LSFM.tiff	2607072
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-yo_down-16_LSFM.tiff	86032
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-lectin_down-16_LSFM.tiff	2633432
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-yo_down-16_LSFM.tiff	97448
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-lectin_down-16_LSFM.tiff	2333842
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-yo_down-16_LSFM.tiff	212277
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-lectin_down-16_LSFM.tiff	2370025
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-yo_down-16_LSFM.tiff	294983
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-lectin_down-16_LSFM.tiff	3453260
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-yo_down-16_LSFM.tiff	303960
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-lectin_down-16_LSFM.tiff	2546068
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-yo_down-16_LSFM.tiff	622530
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-lectin_down-16_LSFM.tiff	5772675
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-yo_down-16_LSFM.tiff	1098540
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-lectin_down-16_LSFM.tiff	3668634
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-lectin_down-16_LSFM.tiff	3554560
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-yo_down-16_LSFM.tiff	1850247
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-yo_down-16_LSFM.tiff	2269890
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-lectin_down-16_LSFM.tiff	4354641
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-yo_down-16_LSFM.tiff	4816000
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-lectin_down-16_LSFM.tiff	4221768
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-yo_down-16_LSFM.tiff	4754337
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-lectin_down-16_LSFM.tiff	5223555
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-yo_down-16_LSFM.tiff	8852090
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-lectin_down-16_LSFM.tiff	5087928
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-yo_down-16_LSFM.tiff	9744273
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-lectin_down-16_LSFM.tiff	6131088
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-yo_down-16_LSFM.tiff	9902160
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-lectin_down-16_LSFM.tiff	7748422
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-yo_down-16_LSFM.tiff	13641920
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-lectin_down-16_LSFM.tiff	5748248
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-yo_down-16_LSFM.tiff	19014515
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-lectin_down-16_LSFM.tiff	6545736
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-yo_down-16_LSFM.tiff	32367951
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-lectin_down-16_LSFM.tiff	6603642
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-yo_down-16_LSFM.tiff	12839008
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-lectin_down-16_LSFM.tiff	6714063
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-yo_down-16_LSFM.tiff	14911992
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-lectin_down-16_LSFM.tiff	7640320
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-yo_down-16_LSFM.tiff	13615936
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-lectin_down-16_LSFM.tiff	7022061
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-yo_down-16_LSFM.tiff	12172027
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-lectin_down-16_LSFM.tiff	13570386
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-yo_down-16_LSFM.tiff	15910776
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-lectin_down-16_LSFM.tiff	5750759
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-yo_down-16_LSFM.tiff	14331320
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-lectin_down-16_LSFM.tiff	7564005
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-yo_down-16_LSFM.tiff	16325874
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-lectin_down-16_LSFM.tiff	7772796
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-yo_down-16_LSFM.tiff	16496460
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-lectin_down-16_LSFM.tiff	6198451
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-yo_down-16_LSFM.tiff	16633107
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-lectin_down-16_LSFM.tiff	9060360
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-yo_down-16_LSFM.tiff	14906792
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-lectin_down-16_LSFM.tiff	8368524
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-yo_down-16_LSFM.tiff	16888239
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-lectin_down-16_LSFM.tiff	7653352
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-yo_down-16_LSFM.tiff	15065216
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-lectin_down-16_LSFM.tiff	14738370
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-lectin_down-16_LSFM.tiff	9040266
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-yo_down-16_LSFM.tiff	20732074
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-yo_down-16_LSFM.tiff	15060944
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-lectin_down-16_LSFM.tiff	8238632
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-yo_down-16_LSFM.tiff	16926219
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-lectin_down-16_LSFM.tiff	19947853
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-yo_down-16_LSFM.tiff	18790010
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-lectin_down-16_LSFM.tiff	9602397
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-yo_down-16_LSFM.tiff	13145797
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-lectin_down-16_LSFM.tiff	8647720
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-yo_down-16_LSFM.tiff	15022304
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-lectin_down-16_LSFM.tiff	9825858
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-yo_down-16_LSFM.tiff	18785250
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-lectin_down-16_LSFM.tiff	9889821
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-yo_down-16_LSFM.tiff	15034624
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-lectin_down-16_LSFM.tiff	9962307
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-yo_down-16_LSFM.tiff	16921674
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-lectin_down-16_LSFM.tiff	7843717
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-yo_down-16_LSFM.tiff	16930935
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-lectin_down-16_LSFM.tiff	9063232
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-yo_down-16_LSFM.tiff	18821900
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-lectin_down-16_LSFM.tiff	11445660
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-yo_down-16_LSFM.tiff	15065552
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-lectin_down-16_LSFM.tiff	9234592
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-yo_down-16_LSFM.tiff	15071832
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-lectin_down-16_LSFM.tiff	9285160
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-yo_down-16_LSFM.tiff	20730732
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-lectin_down-16_LSFM.tiff	9305304
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-yo_down-16_LSFM.tiff	15081672
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-lectin_down-16_LSFM.tiff	9336360
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-yo_down-16_LSFM.tiff	15084824
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-lectin_down-16_LSFM.tiff	12811634
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-yo_down-16_LSFM.tiff	16977897
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-lectin_down-16_LSFM.tiff	11636880
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-yo_down-16_LSFM.tiff	16983063
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-lectin_down-16_LSFM.tiff	13924368
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-yo_down-16_LSFM.tiff	13216504
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-lectin_down-16_LSFM.tiff	8099595
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-yo_down-16_LSFM.tiff	15109192
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-lectin_down-16_LSFM.tiff	9274848
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-yo_down-16_LSFM.tiff	17003826
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-lectin_down-16_LSFM.tiff	10432719
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-yo_down-16_LSFM.tiff	17002458
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-lectin_down-16_LSFM.tiff	9305296
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-yo_down-16_LSFM.tiff	24558014
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-lectin_down-16_LSFM.tiff	8104754
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-yo_down-16_LSFM.tiff	15111568
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-lectin_down-16_LSFM.tiff	10395603
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-yo_down-16_LSFM.tiff	16999056
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-lectin_down-16_LSFM.tiff	9213040
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-yo_down-16_LSFM.tiff	15109728
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-lectin_down-16_LSFM.tiff	34226850
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-yo_down-16_LSFM.tiff	16996077
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-lectin_down-16_LSFM.tiff	9050928
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-yo_down-16_LSFM.tiff	13216525
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-lectin_down-16_LSFM.tiff	8939184
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-yo_down-16_LSFM.tiff	16996707
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-lectin_down-16_LSFM.tiff	8808264
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-yo_down-16_LSFM.tiff	15099320
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-lectin_down-16_LSFM.tiff	10799710
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-yo_down-16_LSFM.tiff	16978671
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-lectin_down-16_LSFM.tiff	7413679
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-yo_down-16_LSFM.tiff	15087320
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-lectin_down-16_LSFM.tiff	11459184
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-yo_down-16_LSFM.tiff	15080208
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-lectin_down-16_LSFM.tiff	9224307
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-yo_down-16_LSFM.tiff	18840400
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-lectin_down-16_LSFM.tiff	8066304
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-yo_down-16_LSFM.tiff	20704783
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-lectin_down-16_LSFM.tiff	21835704
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-yo_down-16_LSFM.tiff	28442720
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-lectin_down-16_LSFM.tiff	6816530
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-yo_down-16_LSFM.tiff	18793310
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-lectin_down-16_LSFM.tiff	15149760
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-yo_down-16_LSFM.tiff	24410009
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-lectin_down-16_LSFM.tiff	9183570
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-yo_down-16_LSFM.tiff	15006928
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-lectin_down-16_LSFM.tiff	7116208
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-yo_down-16_LSFM.tiff	20610260
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-lectin_down-16_LSFM.tiff	6834840
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-yo_down-16_LSFM.tiff	31808496
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-lectin_down-16_LSFM.tiff	8217980
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-yo_down-16_LSFM.tiff	13083140
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-lectin_down-16_LSFM.tiff	7113546
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-yo_down-16_LSFM.tiff	18660880
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-lectin_down-16_LSFM.tiff	5333090
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-yo_down-16_LSFM.tiff	27918240
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-lectin_down-16_LSFM.tiff	6665409
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-yo_down-16_LSFM.tiff	14828760
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-lectin_down-16_LSFM.tiff	7127270
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-yo_down-16_LSFM.tiff	18436060
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-lectin_down-16_LSFM.tiff	10286520
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-yo_down-16_LSFM.tiff	14636296
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-lectin_down-16_LSFM.tiff	5257384
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-yo_down-16_LSFM.tiff	32623506
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-lectin_down-16_LSFM.tiff	5054896
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-yo_down-16_LSFM.tiff	14353800
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-lectin_down-16_LSFM.tiff	5456340
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-yo_down-16_LSFM.tiff	12411070
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-lectin_down-16_LSFM.tiff	6401813
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-yo_down-16_LSFM.tiff	12244484
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-lectin_down-16_LSFM.tiff	6182935
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-yo_down-16_LSFM.tiff	15450291
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-lectin_down-16_LSFM.tiff	4271744
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-yo_down-16_LSFM.tiff	15055767
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-lectin_down-16_LSFM.tiff	5651811
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-yo_down-16_LSFM.tiff	14637663
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-lectin_down-16_LSFM.tiff	3948376
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-yo_down-16_LSFM.tiff	11043522
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-lectin_down-16_LSFM.tiff	3329627
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-yo_down-16_LSFM.tiff	13703850
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-lectin_down-16_LSFM.tiff	3679576
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-lectin_down-16_LSFM.tiff	4034727
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-yo_down-16_LSFM.tiff	11660120
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-yo_down-16_LSFM.tiff	12898920
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-lectin_down-16_LSFM.tiff	3830841
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-yo_down-16_LSFM.tiff	15174423
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-lectin_down-16_LSFM.tiff	3526164
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-yo_down-16_LSFM.tiff	13006675
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-lectin_down-16_LSFM.tiff	2849536
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-yo_down-16_LSFM.tiff	9483651
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-lectin_down-16_LSFM.tiff	2557256
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-yo_down-16_LSFM.tiff	8093916
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-lectin_down-16_LSFM.tiff	2301512
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-yo_down-16_LSFM.tiff	8616684
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-lectin_down-16_LSFM.tiff	3392831
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-yo_down-16_LSFM.tiff	3708411
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-lectin_down-16_LSFM.tiff	2372380
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-yo_down-16_LSFM.tiff	2531949
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-lectin_down-16_LSFM.tiff	2221000
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-yo_down-16_LSFM.tiff	1636922
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-lectin_down-16_LSFM.tiff	5926536
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-yo_down-16_LSFM.tiff	1157672
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-lectin_down-16_LSFM.tiff	1625600
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-yo_down-16_LSFM.tiff	845780
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-lectin_down-16_LSFM.tiff	2753660
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-yo_down-16_LSFM.tiff	345121
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-yo_down-16_LSFM.tiff	242168
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-lectin_down-16_LSFM.tiff	1735317
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-lectin_down-16_LSFM.tiff	1331736
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-yo_down-16_LSFM.tiff	193310
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-lectin_down-16_LSFM.tiff	1496528
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-yo_down-16_LSFM.tiff	87717
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-lectin_down-16_LSFM.tiff	1301349
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-yo_down-16_LSFM.tiff	89870
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-lectin_down-16_LSFM.tiff	1457656
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-yo_down-16_LSFM.tiff	60856
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-lectin_down-16_LSFM.tiff	3588380
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-yo_down-16_LSFM.tiff	58128
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-lectin_down-16_LSFM.tiff	1429280
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-yo_down-16_LSFM.tiff	71950
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-lectin_down-16_LSFM.tiff	1248660
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-yo_down-16_LSFM.tiff	107070
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-lectin_down-16_LSFM.tiff	1219337
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-yo_down-16_LSFM.tiff	56920
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-lectin_down-16_LSFM.tiff	1585080
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-yo_down-16_LSFM.tiff	56744
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-lectin_down-16_LSFM.tiff	1561788
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-yo_down-16_LSFM.tiff	56640
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-lectin_down-16_LSFM.tiff	1395896
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-yo_down-16_LSFM.tiff	70580
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-lectin_down-16_LSFM.tiff	2596530
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-yo_down-16_LSFM.tiff	70420
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-lectin_down-16_LSFM.tiff	1719530
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-yo_down-16_LSFM.tiff	49315
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-lectin_down-16_LSFM.tiff	1365952
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-yo_down-16_LSFM.tiff	70480
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-lectin_down-16_LSFM.tiff	7035026
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-yo_down-16_LSFM.tiff	70540
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-lectin_down-16_LSFM.tiff	1538793
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-yo_down-16_LSFM.tiff	49518
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-yo_down-16_LSFM.tiff	71150
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-lectin_down-16_LSFM.tiff	1368240
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-lectin_down-16_LSFM.tiff	1386152
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-yo_down-16_LSFM.tiff	56912
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-lectin_down-16_LSFM.tiff	1552356
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-yo_down-16_LSFM.tiff	78221
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-lectin_down-16_LSFM.tiff	2099388
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-yo_down-16_LSFM.tiff	56848
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-lectin_down-16_LSFM.tiff	2442286
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-yo_down-16_LSFM.tiff	56920
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-yo_down-16_LSFM.tiff	49938
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-lectin_down-16_LSFM.tiff	1427408
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-yo_down-16_LSFM.tiff	86028
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-yo_down-16_LSFM.tiff	57184
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-lectin_down-16_LSFM.tiff	1458760
+dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-lectin_down-16_LSFM.tiff	2336737

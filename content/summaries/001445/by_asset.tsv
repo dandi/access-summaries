@@ -1,205 +1,354 @@
-	asset_path	bytes_sent
-0	sub-G3-10/sub-G3-10_obj-15h11b5_ecephys.nwb	610668
-1	sub-G3-10/sub-G3-10_obj-10ua6ko_ecephys.nwb	814224
-2	sub-G3-10/sub-G3-10_obj-107rduh_ecephys.nwb	594074
-3	sub-G3-10/sub-G3-10_obj-1664m1z_ecephys.nwb	203556
-4	sub-G3-10/sub-G3-10_obj-15mf0c3_ecephys.nwb	203556
-5	sub-G3-10/sub-G3-10_obj-16nek23_ecephys.nwb	407112
-6	sub-G3-10/sub-G3-10_obj-16vvftv_ecephys.nwb	407112
-7	sub-G3-10/sub-G3-10_obj-184j1cz_ecephys.nwb	407112
-8	sub-G3-10/sub-G3-10_obj-17t7boy_ecephys.nwb	203556
-9	sub-G3-10/sub-G3-10_obj-18l7zw5_ecephys.nwb	610668
-10	sub-G3-10/sub-G3-10_obj-18x7d8i_ecephys.nwb	203556
-11	sub-G3-10/sub-G3-10_obj-1aahagl_ecephys.nwb	407112
-12	sub-G3-10/sub-G3-10_obj-1c7kagw_ecephys.nwb	203556
-13	sub-G3-10/sub-G3-10_obj-1czl76a_ecephys.nwb	407112
-14	sub-G3-10/sub-G3-10_obj-1c1rwku_ecephys.nwb	203556
-15	sub-G3-10/sub-G3-10_obj-1eg0kgp_ecephys.nwb	203556
-16	sub-G3-10/sub-G3-10_obj-1f400rf_ecephys.nwb	203556
-17	sub-G3-10/sub-G3-10_obj-1fv7qj_ecephys.nwb	203556
-18	sub-G3-10/sub-G3-10_obj-1hjspgm_ecephys.nwb	610668
-19	sub-G3-10/sub-G3-10_obj-1ioeef2_ecephys.nwb	203556
-20	sub-G3-10/sub-G3-10_obj-1l9c63f_ecephys.nwb	407112
-21	sub-G3-10/sub-G3-10_obj-1lcmlz7_ecephys.nwb	203556
-22	sub-G3-10/sub-G3-10_obj-1m64wo2_ecephys.nwb	407112
-23	sub-G3-10/sub-G3-10_obj-1nqtbg9_ecephys.nwb	407112
-24	sub-G3-10/sub-G3-10_obj-1pajsg7_ecephys.nwb	407112
-25	sub-G3-10/sub-G3-10_obj-1pkl6r0_ecephys.nwb	407112
-26	sub-G3-10/sub-G3-10_obj-1pv3kzc_ecephys.nwb	610668
-27	sub-G3-10/sub-G3-10_obj-1q6pg8a_ecephys.nwb	407112
-28	sub-G3-10/sub-G3-10_obj-1rdjyxp_ecephys.nwb	610668
-29	sub-G3-10/sub-G3-10_obj-1sa4ohu_ecephys.nwb	407112
-30	sub-G3-10/sub-G3-10_obj-1swxgog_ecephys.nwb	203556
-31	sub-G3-10/sub-G3-10_obj-1vx5u1t_ecephys.nwb	407112
-32	sub-G3-10/sub-G3-10_obj-1w4weu1_ecephys.nwb	610668
-33	sub-G3-10/sub-G3-10_obj-1wtqr2o_ecephys.nwb	203556
-34	sub-G3-10/sub-G3-10_obj-2er63r_ecephys.nwb	407112
-35	sub-G3-10/sub-G3-10_obj-3l562s_ecephys.nwb	203556
-36	sub-G3-10/sub-G3-10_obj-4jizit_ecephys.nwb	407112
-37	sub-G3-10/sub-G3-10_obj-5xnki_ecephys.nwb	203556
-38	sub-G3-10/sub-G3-10_obj-66dmjw_ecephys.nwb	407112
-39	sub-G3-10/sub-G3-10_obj-67mvra_ecephys.nwb	407112
-40	sub-G3-10/sub-G3-10_obj-6wm2oy_ecephys.nwb	203556
-41	sub-G3-10/sub-G3-10_obj-70iy6i_ecephys.nwb	203556
-42	sub-G3-10/sub-G3-10_obj-84c34y_ecephys.nwb	407112
-43	sub-G3-10/sub-G3-10_obj-8v2pg0_ecephys.nwb	203556
-44	sub-G3-10/sub-G3-10_obj-a4wez1_ecephys.nwb	203556
-45	sub-G3-10/sub-G3-10_obj-aolxn2_ecephys.nwb	407112
-46	sub-G3-10/sub-G3-10_obj-b2jhcw_ecephys.nwb	203556
-47	sub-G3-10/sub-G3-10_obj-c8w1nd_ecephys.nwb	610668
-48	sub-G3-10/sub-G3-10_obj-cft7vu_ecephys.nwb	203556
-49	sub-G3-10/sub-G3-10_obj-d76wfo_ecephys.nwb	407112
-50	sub-G3-10/sub-G3-10_obj-dcsr9y_ecephys.nwb	203556
-51	sub-G3-10/sub-G3-10_obj-dib2lm_ecephys.nwb	610668
-52	sub-G3-10/sub-G3-10_obj-dnzio1_ecephys.nwb	203556
-53	sub-G3-10/sub-G3-10_obj-dxn3xa_ecephys.nwb	407112
-54	sub-G3-10/sub-G3-10_obj-f7wiw3_ecephys.nwb	203556
-55	sub-G3-10/sub-G3-10_obj-kjap3x_ecephys.nwb	203556
-56	sub-G3-10/sub-G3-10_obj-npguzg_ecephys.nwb	407112
-57	sub-G3-10/sub-G3-10_obj-s928co_ecephys.nwb	203556
-58	sub-G3-10/sub-G3-10_obj-tbm97b_ecephys.nwb	203556
-59	sub-G3-10/sub-G3-10_obj-tulfca_ecephys.nwb	203556
-60	sub-G3-10/sub-G3-10_obj-xkpoky_ecephys.nwb	203556
-61	sub-G3-10/sub-G3-10_obj-yonwiu_ecephys.nwb	407112
-62	sub-G3-10/sub-G3-10_obj-z21nws_ecephys.nwb	407112
-63	sub-G3-10/sub-G3-10_obj-zp1wgt_ecephys.nwb	203556
-64	sub-G3-11/sub-G3-11_obj-102tv1h_ecephys.nwb	407112
-65	sub-G3-11/sub-G3-11_obj-11cgbpp_ecephys.nwb	203556
-66	sub-G3-11/sub-G3-11_obj-11zhh8u_ecephys.nwb	203556
-67	sub-G3-11/sub-G3-11_obj-122es2m_ecephys.nwb	203556
-68	sub-G3-11/sub-G3-11_obj-12rif1g_ecephys.nwb	203556
-69	sub-G3-11/sub-G3-11_obj-138g89s_ecephys.nwb	203556
-70	sub-G3-11/sub-G3-11_obj-13qzdnk_ecephys.nwb	407112
-71	sub-G3-11/sub-G3-11_obj-164k60j_ecephys.nwb	407112
-72	sub-G3-11/sub-G3-11_obj-183kotz_ecephys.nwb	407112
-73	sub-G3-11/sub-G3-11_obj-1b4hpzl_ecephys.nwb	203556
-74	sub-G3-11/sub-G3-11_obj-1djbaj6_ecephys.nwb	407112
-75	sub-G3-11/sub-G3-11_obj-1dl3quw_ecephys.nwb	407112
-76	sub-G3-11/sub-G3-11_obj-1g7jcr8_ecephys.nwb	203556
-77	sub-G3-11/sub-G3-11_obj-1hfxqz_ecephys.nwb	203556
-78	sub-G3-11/sub-G3-11_obj-1izyjvy_ecephys.nwb	203556
-79	sub-G3-11/sub-G3-11_obj-1kx8zvq_ecephys.nwb	203556
-80	sub-G3-11/sub-G3-11_obj-1l8zl2l_ecephys.nwb	407112
-81	sub-G3-11/sub-G3-11_obj-1leds0x_ecephys.nwb	203556
-82	sub-G3-11/sub-G3-11_obj-1lz772o_ecephys.nwb	203556
-83	sub-G3-11/sub-G3-11_obj-1n5st9a_ecephys.nwb	203556
-84	sub-G3-11/sub-G3-11_obj-1ndbmnu_ecephys.nwb	203556
-85	sub-G3-11/sub-G3-11_obj-1oiuq8k_ecephys.nwb	203556
-86	sub-G3-11/sub-G3-11_obj-1ocbygb_ecephys.nwb	203556
-87	sub-G3-11/sub-G3-11_obj-1p72tvt_ecephys.nwb	203556
-88	sub-G3-11/sub-G3-11_obj-1q1fju3_ecephys.nwb	407112
-89	sub-G3-11/sub-G3-11_obj-1qqbkcu_ecephys.nwb	203556
-90	sub-G3-11/sub-G3-11_obj-1sjhzcc_ecephys.nwb	203556
-91	sub-G3-11/sub-G3-11_obj-1su7h6g_ecephys.nwb	203556
-92	sub-G3-11/sub-G3-11_obj-1swpuri_ecephys.nwb	407112
-93	sub-G3-11/sub-G3-11_obj-1uf5h9j_ecephys.nwb	203556
-94	sub-G3-11/sub-G3-11_obj-1wyos26_ecephys.nwb	203556
-95	sub-G3-11/sub-G3-11_obj-1ymqodl_ecephys.nwb	203556
-96	sub-G3-11/sub-G3-11_obj-2qhg4y_ecephys.nwb	203556
-97	sub-G3-11/sub-G3-11_obj-3p85uv_ecephys.nwb	203556
-98	sub-G3-11/sub-G3-11_obj-48u7jh_ecephys.nwb	407112
-99	sub-G3-11/sub-G3-11_obj-4jh97c_ecephys.nwb	407112
-100	sub-G3-11/sub-G3-11_obj-55d5w4_ecephys.nwb	203556
-101	sub-G3-11/sub-G3-11_obj-69q2rk_ecephys.nwb	203556
-102	sub-G3-11/sub-G3-11_obj-6mtavw_ecephys.nwb	203556
-103	sub-G3-11/sub-G3-11_obj-9tkoyn_ecephys.nwb	203556
-104	sub-G3-11/sub-G3-11_obj-9uk96a_ecephys.nwb	203556
-105	sub-G3-11/sub-G3-11_obj-k40503_ecephys.nwb	203556
-106	sub-G3-11/sub-G3-11_obj-ltedqk_ecephys.nwb	203556
-107	sub-G3-11/sub-G3-11_obj-np9nub_ecephys.nwb	203556
-108	sub-G3-11/sub-G3-11_obj-owyu5g_ecephys.nwb	203556
-109	sub-G3-11/sub-G3-11_obj-p0evi7_ecephys.nwb	407112
-110	sub-G3-11/sub-G3-11_obj-rf8a1k_ecephys.nwb	610668
-111	sub-G3-11/sub-G3-11_obj-uckfpt_ecephys.nwb	203556
-112	sub-G3-11/sub-G3-11_obj-umhack_ecephys.nwb	203556
-113	sub-G3-11/sub-G3-11_obj-vqwe7o_ecephys.nwb	203556
-114	sub-G3-11/sub-G3-11_obj-wmnz7a_ecephys.nwb	203556
-115	sub-G3-11/sub-G3-11_obj-x0i0o2_ecephys.nwb	203556
-116	sub-G3-11/sub-G3-11_obj-z8c7kd_ecephys.nwb	203556
-117	sub-G3-13/sub-G3-13_obj-11dmdng_ecephys.nwb	203556
-118	sub-G3-13/sub-G3-13_obj-12lsxv7_ecephys.nwb	203556
-119	sub-G3-13/sub-G3-13_obj-12sdyvj_ecephys.nwb	407112
-120	sub-G3-13/sub-G3-13_obj-15gxz6i_ecephys.nwb	203556
-121	sub-G3-13/sub-G3-13_obj-16rfnv5_ecephys.nwb	203556
-122	sub-G3-13/sub-G3-13_obj-18l464m_ecephys.nwb	407112
-123	sub-G3-13/sub-G3-13_obj-192dhyd_ecephys.nwb	407112
-124	sub-G3-13/sub-G3-13_obj-19mcows_ecephys.nwb	203556
-125	sub-G3-13/sub-G3-13_obj-1fquies_ecephys.nwb	203556
-126	sub-G3-13/sub-G3-13_obj-1i32jbx_ecephys.nwb	203556
-127	sub-G3-13/sub-G3-13_obj-1ihifx6_ecephys.nwb	203556
-128	sub-G3-13/sub-G3-13_obj-1lowszz_ecephys.nwb	610668
-129	sub-G3-13/sub-G3-13_obj-1lqc14q_ecephys.nwb	203556
-130	sub-G3-13/sub-G3-13_obj-1ndifcr_ecephys.nwb	203556
-131	sub-G3-13/sub-G3-13_obj-1so2bhu_ecephys.nwb	203556
-132	sub-G3-13/sub-G3-13_obj-1uwpqp3_ecephys.nwb	203556
-133	sub-G3-13/sub-G3-13_obj-1wlud6t_ecephys.nwb	203556
-134	sub-G3-13/sub-G3-13_obj-1xp27d7_ecephys.nwb	203556
-135	sub-G3-13/sub-G3-13_obj-1xt83ik_ecephys.nwb	203556
-136	sub-G3-13/sub-G3-13_obj-6nc6ey_ecephys.nwb	203556
-137	sub-G3-13/sub-G3-13_obj-6r09z4_ecephys.nwb	203556
-138	sub-G3-13/sub-G3-13_obj-7ie2ps_ecephys.nwb	203556
-139	sub-G3-13/sub-G3-13_obj-7m7ndl_ecephys.nwb	407112
-140	sub-G3-13/sub-G3-13_obj-7rcubq_ecephys.nwb	203556
-141	sub-G3-13/sub-G3-13_obj-8bro3y_ecephys.nwb	203556
-142	sub-G3-13/sub-G3-13_obj-8bufqk_ecephys.nwb	203556
-143	sub-G3-13/sub-G3-13_obj-9hrsuu_ecephys.nwb	203556
-144	sub-G3-13/sub-G3-13_obj-b3xh1g_ecephys.nwb	203556
-145	sub-G3-13/sub-G3-13_obj-dhcd2d_ecephys.nwb	407112
-146	sub-G3-13/sub-G3-13_obj-fek05l_ecephys.nwb	203556
-147	sub-G3-13/sub-G3-13_obj-gyvk6m_ecephys.nwb	203556
-148	sub-G3-13/sub-G3-13_obj-h8szyc_ecephys.nwb	203556
-149	sub-G3-13/sub-G3-13_obj-ilpu5q_ecephys.nwb	203556
-150	sub-G3-13/sub-G3-13_obj-irna0h_ecephys.nwb	203556
-151	sub-G3-13/sub-G3-13_obj-jn732q_ecephys.nwb	203556
-152	sub-G3-13/sub-G3-13_obj-p4e632_ecephys.nwb	407112
-153	sub-G3-13/sub-G3-13_obj-p7gl80_ecephys.nwb	203556
-154	sub-G3-13/sub-G3-13_obj-qjmzzu_ecephys.nwb	203556
-155	sub-G3-13/sub-G3-13_obj-r6m15v_ecephys.nwb	203556
-156	sub-G3-13/sub-G3-13_obj-wbivck_ecephys.nwb	407112
-157	sub-G3-13/sub-G3-13_obj-wc0okd_ecephys.nwb	203556
-158	sub-G3-13/sub-G3-13_obj-y8wuxn_ecephys.nwb	203556
-159	sub-G3-13/sub-G3-13_obj-yh1iqk_ecephys.nwb	203556
-160	sub-G3-13/sub-G3-13_obj-z1yizl_ecephys.nwb	203556
-161	sub-G3-13/sub-G3-13_obj-zk79hr_ecephys.nwb	203556
-162	sub-G3-8/sub-G3-8_obj-11pf61t_ecephys.nwb	203556
-163	sub-G3-8/sub-G3-8_obj-14oa0b3_ecephys.nwb	203556
-164	sub-G3-8/sub-G3-8_obj-1537sp3_ecephys.nwb	203556
-165	sub-G3-8/sub-G3-8_obj-1d10147_ecephys.nwb	203596
-166	sub-G3-8/sub-G3-8_obj-1d6367v_ecephys.nwb	203556
-167	sub-G3-8/sub-G3-8_obj-1dt7adj_ecephys.nwb	203556
-168	sub-G3-8/sub-G3-8_obj-1grjlhb_ecephys.nwb	203556
-169	sub-G3-8/sub-G3-8_obj-1hl7tyt_ecephys.nwb	203556
-170	sub-G3-8/sub-G3-8_obj-1i7kzdu_ecephys.nwb	203596
-171	sub-G3-8/sub-G3-8_obj-1iqmlrr_ecephys.nwb	203556
-172	sub-G3-8/sub-G3-8_obj-1kv8rvk_ecephys.nwb	203556
-173	sub-G3-8/sub-G3-8_obj-1lnednb_ecephys.nwb	334572
-174	sub-G3-8/sub-G3-8_obj-1odax43_ecephys.nwb	203556
-175	sub-G3-8/sub-G3-8_obj-1th560t_ecephys.nwb	407112
-176	sub-G3-8/sub-G3-8_obj-1tj6tld_ecephys.nwb	203556
-177	sub-G3-8/sub-G3-8_obj-1xmm72y_ecephys.nwb	203556
-178	sub-G3-8/sub-G3-8_obj-44i9co_ecephys.nwb	203556
-179	sub-G3-8/sub-G3-8_obj-4tqr3c_ecephys.nwb	203556
-180	sub-G3-8/sub-G3-8_obj-4un6u1_ecephys.nwb	203596
-181	sub-G3-8/sub-G3-8_obj-5msqbe_ecephys.nwb	203556
-182	sub-G3-8/sub-G3-8_obj-60vb9k_ecephys.nwb	407112
-183	sub-G3-8/sub-G3-8_obj-82ksa0_ecephys.nwb	203556
-184	sub-G3-8/sub-G3-8_obj-8uavgd_ecephys.nwb	203556
-185	sub-G3-8/sub-G3-8_obj-8yx4db_ecephys.nwb	407112
-186	sub-G3-8/sub-G3-8_obj-9lvzd4_ecephys.nwb	407112
-187	sub-G3-8/sub-G3-8_obj-akcbki_ecephys.nwb	407112
-188	sub-G3-8/sub-G3-8_obj-ba4q2t_ecephys.nwb	203556
-189	sub-G3-8/sub-G3-8_obj-dgsdsr_ecephys.nwb	203556
-190	sub-G3-8/sub-G3-8_obj-f7j9iq_ecephys.nwb	203596
-191	sub-G3-8/sub-G3-8_obj-goilqh_ecephys.nwb	203556
-192	sub-G3-8/sub-G3-8_obj-hcmnd7_ecephys.nwb	203556
-193	sub-G3-8/sub-G3-8_obj-i1mw55_ecephys.nwb	203556
-194	sub-G3-8/sub-G3-8_obj-ka8pv8_ecephys.nwb	203556
-195	sub-G3-8/sub-G3-8_obj-km25q7_ecephys.nwb	203556
-196	sub-G3-8/sub-G3-8_obj-neszhc_ecephys.nwb	203556
-197	sub-G3-8/sub-G3-8_obj-oh520v_ecephys.nwb	407112
-198	sub-G3-8/sub-G3-8_obj-ot6tgk_ecephys.nwb	407112
-199	sub-G3-8/sub-G3-8_obj-pqe7y6_ecephys.nwb	203556
-200	sub-G3-8/sub-G3-8_obj-rxwznl_ecephys.nwb	203596
-201	sub-G3-8/sub-G3-8_obj-vhbrb3_ecephys.nwb	203556
-202	sub-G3-8/sub-G3-8_obj-vwbzio_ecephys.nwb	203556
-203	sub-G3-8/sub-G3-8_obj-xtrunp_ecephys.nwb	203556
+asset_path	bytes_sent
+sub-G3-10/sub-G3-10_obj-15h11b5_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-10ua6ko_ecephys.nwb	1424892
+sub-G3-10/sub-G3-10_obj-107rduh_ecephys.nwb	1611854
+sub-G3-10/sub-G3-10_obj-1664m1z_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-15mf0c3_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-16nek23_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-16vvftv_ecephys.nwb	1424892
+sub-G3-10/sub-G3-10_obj-184j1cz_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-17t7boy_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-18l7zw5_ecephys.nwb	1424892
+sub-G3-10/sub-G3-10_obj-18cia1f_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-18x7d8i_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1aahagl_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1c7kagw_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1czl76a_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1dx997n_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1c1rwku_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1eg0kgp_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1f400rf_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1fv7qj_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1hjspgm_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-1ioeef2_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-1l9c63f_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1lcmlz7_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1m64wo2_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1nqtbg9_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-1pajsg7_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1pkl6r0_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1pv3kzc_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-1q6pg8a_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1rdjyxp_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-1sa4ohu_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1swxgog_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1vx5u1t_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1w4weu1_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-1wtqr2o_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-2er63r_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-3l562s_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-4jizit_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-5xnki_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-66dmjw_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-67mvra_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-6wm2oy_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-70iy6i_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-84c34y_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-8v2pg0_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-a4wez1_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-aolxn2_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-b2jhcw_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-c8w1nd_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-cft7vu_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-d76wfo_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-dcsr9y_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-dib2lm_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-dnzio1_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-dxn3xa_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-f66k6_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-f7wiw3_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-fh204z_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-grnofx_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-hcfevs_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-hgfhv5_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-k3nexa_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-kjap3x_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-npguzg_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-nxb2dr_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-qek4cr_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-rdd6p8_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-s5c4r9_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-s928co_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-srpzn1_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-tbm97b_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-tulfca_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-u9y4of_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-v0dw1x_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-v1x2k2_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-xcxfos_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-xkpoky_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-yonwiu_ecephys.nwb	1017780
+sub-G3-10/sub-G3-10_obj-z21nws_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-z613yb_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-zcrwrj_ecephys.nwb	610668
+sub-G3-10/sub-G3-10_obj-zp1wgt_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-102tv1h_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-117p0v5_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-11cgbpp_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-11kf5bs_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-11zhh8u_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-122es2m_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-12nbsh2_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-12rif1g_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-138g89s_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-13qzdnk_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-14gpzo3_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-164k60j_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-183kotz_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-18n55th_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-18u6dd0_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1ahric1_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1b4hpzl_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1bpt3n0_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1bvr7gy_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1c2j21u_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1djbaj6_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1dl3quw_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1ejmqug_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1ep4j7q_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1g7jcr8_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1hfxqz_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1ir5upm_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1iue75m_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1k2al5j_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1izyjvy_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1kx8zvq_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1l8zl2l_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1leds0x_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1lz772o_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1n5st9a_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1ndbmnu_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1nj1cnh_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1o7is1z_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1oiuq8k_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1ocbygb_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1p72tvt_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1pbfefb_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1q1fju3_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1q9vqc1_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1qqbkcu_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1sazpi0_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1sjhzcc_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1su7h6g_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1swpuri_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1sy9lzq_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1uf5h9j_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1v9cemy_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1wpt105_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-1wyos26_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-1ymqodl_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-2qhg4y_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-3ka4n5_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-3p85uv_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-3z4m6o_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-3tod9g_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-48u7jh_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-4hijzx_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-4jh97c_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-53ao35_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-55d5w4_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-69q2rk_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-6mtavw_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-7yfoik_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-8qpaxl_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-9tkoyn_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-9uk96a_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-cjimh1_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-dx4gx4_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-k40503_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-ltedqk_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-mr257s_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-np9nub_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-owyu5g_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-p0evi7_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-q65ems_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-rf8a1k_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-t1vkd1_ecephys.nwb	1017780
+sub-G3-11/sub-G3-11_obj-uckfpt_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-umhack_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-vqwe7o_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-wmnz7a_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-x0i0o2_ecephys.nwb	610668
+sub-G3-11/sub-G3-11_obj-z8c7kd_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-11dmdng_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1062jzu_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-12lsxv7_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-12sdyvj_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-15bl8uo_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-15gqpr7_ecephys.nwb	945240
+sub-G3-13/sub-G3-13_obj-15gxz6i_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-16j951x_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-16rfnv5_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-17w6ep8_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-18l464m_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-18xb1si_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-192dhyd_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-19d8vqg_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-19mcows_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-1a95sh_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1bbjr7c_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-1bfdses_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1bpfstg_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1f6iaz3_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1fquies_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1g2ybjj_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1hggxdc_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1i0sa0r_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1i32jbx_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1ihifx6_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-1lowszz_ecephys.nwb	1017780
+sub-G3-13/sub-G3-13_obj-1lqc14q_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1ndifcr_ecephys.nwb	814224
+sub-G3-13/sub-G3-13_obj-1p7m4wm_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1q9x76i_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1roh0uf_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1so2bhu_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1ul7a8q_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1uwpqp3_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1v584wd_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1vm3c3b_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1vvcgb_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1w97y9u_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1w9edpd_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1wlud6t_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1xp27d7_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-1xt83ik_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-4xnz5p_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-6nc6ey_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-6r09z4_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-7ie2ps_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-7m7ndl_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-7rcubq_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-8bro3y_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-8bufqk_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-938r3c_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-9hrsuu_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-afvm46_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-b3xh1g_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-dhcd2d_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-fek05l_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-gippny_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-gyvk6m_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-h8szyc_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-hnxfmr_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-hofilv_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-ilpu5q_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-irna0h_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-jn732q_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-mb83me_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-mtmueu_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-nq9qr6_ecephys.nwb	538128
+sub-G3-13/sub-G3-13_obj-p4e632_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-p7gl80_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-pyqxec_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-qjmzzu_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-r6m15v_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-rqs483_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-twogmq_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-v8kosc_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-vp1t6p_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-wbivck_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-wc0okd_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-wgdij8_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-y8wuxn_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-yh1iqk_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-z1yizl_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-zk79hr_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-z9xe2r_ecephys.nwb	610668
+sub-G3-13/sub-G3-13_obj-zumoga_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-11pf61t_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-110l5cm_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-14oa0b3_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-151wtji_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1537sp3_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-17kesa4_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1clz1nz_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1d10147_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-1d6367v_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1dt7adj_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1eap84t_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1ex4sj6_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1exl2nw_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1grjlhb_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1hgpnk2_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1hl7tyt_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1i36ix0_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1ii79pl_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1i7kzdu_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-1iqmlrr_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1iwka1c_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1kpeit_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-1kv8rvk_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1l3xsn2_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1lnednb_ecephys.nwb	538128
+sub-G3-8/sub-G3-8_obj-1nk8cdn_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1odax43_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1pwiuwt_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1qgevs8_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1qo5f1b_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1rvmiki_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-1s3hdl7_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1t78d0m_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1th560t_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1tj6tld_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1tpxcrp_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1trh7do_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1v4s71q_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1vbeku6_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1vqyiat_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1vsyx3p_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1wb1c12_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1xmm72y_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-1xzem9o_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-1y54jft_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-24l2xp_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-2em8ze_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-44i9co_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-4k2nkg_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-4tqr3c_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-4un6u1_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-5msqbe_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-60vb9k_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-61gkiw_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-6g3pl6_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-82ksa0_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-8ll4mg_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-8uavgd_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-8yx4db_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-9lvzd4_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-9xng91_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-akcbki_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-ba4q2t_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-bl7k0q_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-bvw1d3_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-cyx2pz_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-dgsdsr_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-e5sk5u_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-eiabwg_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-f7j9iq_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-goilqh_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-hcmnd7_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-i1mw55_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-i1x8e7_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-ir7lre_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-k8sbpj_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-k90kn0_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-ka8pv8_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-km25q7_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-lsts5u_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-lxkah2_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-neszhc_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-oh520v_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-ot6tgk_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-ow30jj_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-p4950c_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-pqe7y6_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-r3frad_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-rxwznl_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-svpdnk_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-usmzyx_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-vhbrb3_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-vl2sk5_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-vwbzio_ecephys.nwb	610668
+sub-G3-8/sub-G3-8_obj-x85rlg_ecephys.nwb	610788
+sub-G3-8/sub-G3-8_obj-xtrunp_ecephys.nwb	610668

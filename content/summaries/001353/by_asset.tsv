@@ -1,179 +1,273 @@
-	asset_path	bytes_sent
-0	sub-HK210102/micr/sub-HK210102_sample-slide2section10ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	6472019
-1	sub-HK210102/micr/sub-HK210102_sample-slide2section12ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	7648313
-2	sub-HK210102/micr/sub-HK210102_sample-slide2section13ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	11088733
-3	sub-HK210102/micr/sub-HK210102_sample-slide2section5ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	3157673
-4	sub-HK210102/micr/sub-HK210102_sample-slide2section14ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	6497683
-5	sub-HK210102/micr/sub-HK210102_sample-slide2section6ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	8388608
-6	sub-HK210102/micr/sub-HK210102_sample-slide2section7ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	9009447
-7	sub-HK210102/micr/sub-HK210102_sample-slide2section9ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	9863465
-8	sub-HK210102/micr/sub-HK210102_sample-slide3section12MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37725807
-9	sub-HK210102/micr/sub-HK210102_sample-slide3section2ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	6190073
-10	sub-HK210102/micr/sub-HK210102_sample-slide3section1ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	5243115
-11	sub-HK210102/micr/sub-HK210102_sample-slide3section3ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	4377935
-12	sub-HK210102/micr/sub-HK210102_sample-slide3section11MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37702755
-13	sub-HK210102/micr/sub-HK210102_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37758333
-14	sub-HK210102/micr/sub-HK210102_sample-slide3section9MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	16777216
-15	sub-HK210102/micr/sub-HK210102_sample-slide3section10MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37670218
-16	sub-MG240609/micr/sub-MG240609_sample-slide2section9ipsiIC_acq-5x_stain-Alexa488_FLUO.json	27232
-17	sub-MG240214/micr/sub-MG240214_sample-A2injectionsite_BF.tif	288682
-18	sub-MG240214/micr/sub-MG240214_sample-slide1section2contraCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-19	sub-HK210102/micr/sub-HK210102_sample-slide4section1MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	16777216
-20	sub-MG240214/micr/sub-MG240214_sample-slide1section1ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	6428047
-21	sub-MG240214/micr/sub-MG240214_sample-slide1section3ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-22	sub-MG240214/micr/sub-MG240214_sample-slide1section4contraCN_acq-5x_stain-Alexa488_FLUO.tif	7340868
-23	sub-MG240214/micr/sub-MG240214_sample-slide1section3contraCN_acq-5x_stain-Alexa488_FLUO.tif	7079810
-24	sub-MG240214/micr/sub-MG240214_sample-slide1section4ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-25	sub-MG240214/micr/sub-MG240214_sample-slide1section5ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	7843994
-26	sub-MG240214/micr/sub-MG240214_sample-slide1section6contraCN_acq-5x_stain-Alexa488_FLUO.tif	8120130
-27	sub-MG240214/micr/sub-MG240214_sample-slide1section6ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-28	sub-MG240214/micr/sub-MG240214_sample-slide1section7IC_acq-5x_stain-Alexa488_FLUO.tif	1656419
-29	sub-MG240214/micr/sub-MG240214_sample-slide1section7contraCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-30	sub-HK210102/micr/sub-HK210102_sample-slide4section2MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37652345
-31	sub-MG240214/micr/sub-MG240214_sample-slide1section8IC_acq-5x_stain-Alexa488_FLUO.tif	3238037
-32	sub-MG240214/micr/sub-MG240214_sample-slide2section2IC_acq-5x_stain-Alexa488_FLUO.tif	29547117
-33	sub-MG240214/micr/sub-MG240214_sample-slide2section4IC_acq-5x_stain-Alexa488_FLUO.tif	16777216
-34	sub-MG240214/micr/sub-MG240214_sample-slide2section4ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	7789951
-35	sub-MG240214/micr/sub-MG240214_sample-slide2section6IC_acq-5x_stain-Alexa488_FLUO.tif	26546903
-36	sub-MG240214/micr/sub-MG240214_sample-slide2section8contraIC_acq-5x_stain-Alexa488_FLUO.tif	1349797
-37	sub-MG240214/micr/sub-MG240214_sample-slide2section7contraIC_acq-5x_stain-Alexa488_FLUO.tif	4668429
-38	sub-MG240214/micr/sub-MG240214_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	3358371
-39	sub-MG240214/micr/sub-MG240214_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20578189
-40	sub-MG240214/micr/sub-MG240214_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	12136901
-41	sub-MG240214/micr/sub-MG240214_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20525515
-42	sub-MG240214/micr/sub-MG240214_sample-slide3section7MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20469971
-43	sub-MG240214/micr/sub-MG240214_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	16777216
-44	sub-MG240607/micr/sub-MG240607_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	46207537
-45	sub-MG240607/micr/sub-MG240607_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	8388608
-46	sub-MG240607/micr/sub-MG240607_sample-slide3section7MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	46207519
-47	sub-MG240607/micr/sub-MG240607_sample-slide4section3IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1255343
-48	sub-MG240607/micr/sub-MG240607_sample-slide4section4IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1405353
-49	sub-MG240607/micr/sub-MG240607_sample-slide4section6IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2441102
-50	sub-MG240607/micr/sub-MG240607_sample-slide4section5IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	65020049
-51	sub-MG240607/micr/sub-MG240607_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	25165824
-52	sub-MG240607/micr/sub-MG240607_sample-slide4section8IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	67108864
-53	sub-MG240607/micr/sub-MG240607_sample-slide4section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	41943040
-54	sub-MG240607/micr/sub-MG240607_sample-slide5section4IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1757141
-55	sub-MG240607/micr/sub-MG240607_sample-slide5section2IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	58720256
-56	sub-MG240607/micr/sub-MG240607_sample-slide5section3IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	41943040
-57	sub-MG240607/micr/sub-MG240607_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	33554432
-58	sub-MG240609/micr/sub-MG240609_sample-slide1section1contraCN_acq-5x_stain-Alexa488_FLUO.tif	2618783
-59	sub-MG240609/micr/sub-MG240609_sample-slide1section1ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	2568190
-60	sub-MG240607/micr/sub-MG240607_sample-slide5section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25165824
-61	sub-MG240609/micr/sub-MG240609_sample-slide1section2contraCN_acq-5x_stain-Alexa488_FLUO.tif	4525269
-62	sub-MG240609/micr/sub-MG240609_sample-slide1section2ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	3944648
-63	sub-MG240609/micr/sub-MG240609_sample-slide1section3contraCN_acq-5x_stain-Alexa488_FLUO.tif	3298857
-64	sub-MG240609/micr/sub-MG240609_sample-slide1section3ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	2201190
-65	sub-MG240609/micr/sub-MG240609_sample-slide1section4contraCN_acq-5x_stain-Alexa488_FLUO.tif	6705697
-66	sub-MG240609/micr/sub-MG240609_sample-slide1section4ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-67	sub-MG240609/micr/sub-MG240609_sample-slide1section5contraCN_acq-5x_stain-Alexa488_FLUO.tif	8388608
-68	sub-MG240607/micr/sub-MG240607_sample-slide5section1IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	50331648
-69	sub-MG240609/micr/sub-MG240609_sample-slide1section6ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	1736789
-70	sub-MG240609/micr/sub-MG240609_sample-slide1section9IC_acq-5x_stain-Alexa488_FLUO.tif	25165824
-71	sub-MG240609/micr/sub-MG240609_sample-slide2section3IC_acq-5x_stain-Alexa488_FLUO.tif	1967183
-72	sub-MG240609/micr/sub-MG240609_sample-slide2section4IC_acq-5x_stain-Alexa488_FLUO.tif	2801916
-73	sub-MG240609/micr/sub-MG240609_sample-slide2section1IC_acq-5x_stain-Alexa488_FLUO.tif	33554432
-74	sub-MG240609/micr/sub-MG240609_sample-slide2section5IC_acq-5x_stain-Alexa488_FLUO.tif	25165824
-75	sub-MG240609/micr/sub-MG240609_sample-slide2section7contraIC_acq-5x_stain-Alexa488_FLUO.tif	13437467
-76	sub-MG240609/micr/sub-MG240609_sample-slide2section6ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	2215056
-77	sub-MG240609/micr/sub-MG240609_sample-slide2section7ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10127143
-78	sub-MG240609/micr/sub-MG240609_sample-slide2section10MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37804153
-79	sub-MG240609/micr/sub-MG240609_sample-slide3section1MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	25165824
-80	sub-MG240609/micr/sub-MG240609_sample-slide2section8ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	2311467
-81	sub-MG240609/micr/sub-MG240609_sample-slide3section2MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	25165824
-82	sub-MG240609/micr/sub-MG240609_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	29111161
-83	sub-MG240609/micr/sub-MG240609_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	25165824
-84	sub-MG240609/micr/sub-MG240609_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	25165824
-85	sub-MG240903/micr/sub-MG240903_sample-slide1section10contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	7846455
-86	sub-MG240903/micr/sub-MG240903_sample-slide1section10ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	17749592
-87	sub-MG240903/micr/sub-MG240903_sample-slide1section7contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	22888411
-88	sub-MG240903/micr/sub-MG240903_sample-slide1section8ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	14401933
-89	sub-MG240903/micr/sub-MG240903_sample-slide1section8contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8647018
-90	sub-MG240903/micr/sub-MG240903_sample-slide1section9contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	17330855
-91	sub-MG240903/micr/sub-MG240903_sample-slide1section9ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	21382057
-92	sub-MG240903/micr/sub-MG240903_sample-slide1section7ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25165824
-93	sub-MG240903/micr/sub-MG240903_sample-slide2section1contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	18214763
-94	sub-MG240903/micr/sub-MG240903_sample-slide2section1IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25165824
-95	sub-MG240903/micr/sub-MG240903_sample-slide2section2IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	67108864
-96	sub-MG240903/micr/sub-MG240903_sample-slide2section2ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2055969
-97	sub-MG240903/micr/sub-MG240903_sample-slide2section1ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16777216
-98	sub-MG240903/micr/sub-MG240903_sample-slide2section2contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16777216
-99	sub-MG240903/micr/sub-MG240903_sample-slide2section3contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16777216
-100	sub-MG240903/micr/sub-MG240903_sample-slide2section3ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16777216
-101	sub-MG240903/micr/sub-MG240903_sample-slide2section4contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16106100
-102	sub-MG240609/micr/sub-MG240609_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	12333935
-103	sub-MG240903/micr/sub-MG240903_sample-slide2section4ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8963545
-104	sub-MG240903/micr/sub-MG240903_sample-slide2section6contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	6723864
-105	sub-MG240903/micr/sub-MG240903_sample-slide2section5IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	64427231
-106	sub-MG240903/micr/sub-MG240903_sample-slide2section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1376721
-107	sub-MG240903/micr/sub-MG240903_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.json	2125
-108	sub-MG240903/micr/sub-MG240903_sample-slide2section5contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	14560209
-109	sub-MG240903/micr/sub-MG240903_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	100756913
-110	sub-MG240903/micr/sub-MG240903_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	67108864
-111	sub-MG240903/micr/sub-MG240903_sample-slide2section6IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	67108864
-112	sub-MG240903/micr/sub-MG240903_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	109145517
-113	sub-MG240903/micr/sub-MG240903_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	109145523
-114	sub-MG240910/micr/sub-MG240910_sample-slide1section7contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25165824
-115	sub-MG240903/micr/sub-MG240903_sample-slide3section7MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	109145517
-116	sub-MG240910/micr/sub-MG240910_sample-slide1section7ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	8388608
-117	sub-MG240910/micr/sub-MG240910_sample-slide1section7IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	41943040
-118	sub-MG240903/micr/sub-MG240903_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	127599355
-119	sub-MG240910/micr/sub-MG240910_sample-slide1section8ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	8388608
-120	sub-MG240910/micr/sub-MG240910_sample-slide1section8IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	36894928
-121	sub-MG240910/micr/sub-MG240910_sample-slide1section8contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	13294268
-122	sub-MG240910/micr/sub-MG240910_sample-slide2section1ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1981674
-123	sub-MG240910/micr/sub-MG240910_sample-slide2section2IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	50331648
-124	sub-MG240910/micr/sub-MG240910_sample-slide2section3IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	57418266
-125	sub-MG240910/micr/sub-MG240910_sample-slide2section3contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	16777216
-126	sub-MG240910/micr/sub-MG240910_sample-slide2section4contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	3349888
-127	sub-MG240910/micr/sub-MG240910_sample-slide2section4IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	67108864
-128	sub-MG240910/micr/sub-MG240910_sample-slide2section5IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	67108864
-129	sub-MG240910/micr/sub-MG240910_sample-slide2section6IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	67108864
-130	sub-MG240910/micr/sub-MG240910_sample-slide2section2ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	16777216
-131	sub-MG240910/micr/sub-MG240910_sample-slide2section1IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	67108864
-132	sub-MG240913/micr/sub-MG240913_sample-slide1section10contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	8388608
-133	sub-MG240913/micr/sub-MG240913_sample-slide1section10ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	5918622
-134	sub-MG240913/micr/sub-MG240913_sample-slide1section2contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	5856646
-135	sub-MG240910/micr/sub-MG240910_sample-slide2section7IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	62160418
-136	sub-MG240913/micr/sub-MG240913_sample-slide1section3contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	5919332
-137	sub-MG240913/micr/sub-MG240913_sample-slide1section3ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	6798466
-138	sub-MG240910/micr/sub-MG240910_sample-slide2section8IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	58720256
-139	sub-MG240910/micr/sub-MG240910_sample-slide3section6MGN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25165824
-140	sub-MG240913/micr/sub-MG240913_sample-slide1section4ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1147874
-141	sub-MG240913/micr/sub-MG240913_sample-slide1section6contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25165824
-142	sub-MG240913/micr/sub-MG240913_sample-slide1section10IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	37670256
-143	sub-MG240913/micr/sub-MG240913_sample-slide1section8contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1486917
-144	sub-MG240913/micr/sub-MG240913_sample-slide1section9IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	33554432
-145	sub-MG240913/micr/sub-MG240913_sample-slide2section1contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	2716666
-146	sub-MG240913/micr/sub-MG240913_sample-slide2section2IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	50331648
-147	sub-MG240913/micr/sub-MG240913_sample-slide2section1IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	50331648
-148	sub-MG240913/micr/sub-MG240913_sample-slide2section4IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	26790224
-149	sub-MG240913/micr/sub-MG240913_sample-slide2section6IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	67108864
-150	sub-MG240913/micr/sub-MG240913_sample-slide2section8IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1427106
-151	sub-MG240913/micr/sub-MG240913_sample-slide2section3IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	50331648
-152	sub-MG240920/micr/sub-MG240920_sample-slide1section5IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	19009932
-153	sub-MG240920/micr/sub-MG240920_sample-slide1section10ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2912754
-154	sub-MG240920/micr/sub-MG240920_sample-slide1section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25165824
-155	sub-MG240920/micr/sub-MG240920_sample-slide1section8ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1599235
-156	sub-MG240920/micr/sub-MG240920_sample-slide1section9ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2662247
-157	sub-MG240920/micr/sub-MG240920_sample-slide1section9IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25165824
-158	sub-MG240920/micr/sub-MG240920_sample-slide2section2contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8388608
-159	sub-MG240920/micr/sub-MG240920_sample-slide2section3contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8388608
-160	sub-MG240920/micr/sub-MG240920_sample-slide2section2ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	9542909
-161	sub-MG240920/micr/sub-MG240920_sample-slide2section3ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16777216
-162	sub-MG240920/micr/sub-MG240920_sample-slide2section3contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8388608
-163	sub-MG240920/micr/sub-MG240920_sample-slide2section5contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8388608
-164	sub-MG240920/micr/sub-MG240920_sample-slide2section5contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8388608
-165	sub-MG240920/micr/sub-MG240920_sample-slide2section5ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	4105363
-166	sub-MG240920/micr/sub-MG240920_sample-slide2section6ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1158199
-167	sub-MG240920/micr/sub-MG240920_sample-slide2section6contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	11609301
-168	sub-MG240920/micr/sub-MG240920_sample-slide2section7contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16777216
-169	sub-MG240920/micr/sub-MG240920_sample-slide2section7ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	14401525
-170	sub-MG240920/micr/sub-MG240920_sample-slide2section8contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	11669203
-171	sub-MG240920/micr/sub-MG240920_sample-slide2section8ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	10699197
-172	sub-MG240920/micr/sub-MG240920_sample-slide3section1MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20722507
-173	sub-MG240920/micr/sub-MG240920_sample-slide3section2MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20680995
-174	sub-MG240920/micr/sub-MG240920_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	12310865
-175	sub-MG240920/micr/sub-MG240920_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20699463
-176	sub-MG240920/micr/sub-MG240920_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20704025
-177	sub-MG240920/micr/sub-MG240920_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	12292373
+asset_path	bytes_sent
+sub-MG240920/micr/sub-MG240920_sample-A2injectionsite_BF.json	3996
+README.txt	886
+participants.tsv	279
+samples.tsv	9471
+dataset_description.json	89
+sub-HK210102/micr/sub-HK210102_sample-A1injectionsite_BF.tif	288680
+sub-HK210102/micr/sub-HK210102_sample-slide3section3ipsiIC_acq-5x_stain-Alexa594_FLUO.json	4048
+sub-HK210102/micr/sub-HK210102_sample-slide2section11ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	1275174
+sub-HK210102/micr/sub-HK210102_sample-slide2section10ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	23249235
+sub-HK210102/micr/sub-HK210102_sample-slide2section12ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	24425529
+sub-HK210102/micr/sub-HK210102_sample-slide2section13ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	19477341
+sub-HK210102/micr/sub-HK210102_sample-slide2section5ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	11546281
+sub-HK210102/micr/sub-HK210102_sample-slide2section14ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	14886291
+sub-HK210102/micr/sub-HK210102_sample-slide2section6ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	20561261
+sub-HK210102/micr/sub-HK210102_sample-slide2section7ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	17398055
+sub-HK210102/micr/sub-HK210102_sample-slide2section8ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	1900546
+sub-MG240920/micr/sub-MG240920_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.json	13175
+sub-HK210102/micr/sub-HK210102_sample-slide2section9ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	26640681
+sub-HK210102/micr/sub-HK210102_sample-slide3section12MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54503023
+sub-HK210102/micr/sub-HK210102_sample-slide3section2ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	14578681
+sub-HK210102/micr/sub-HK210102_sample-slide3section1ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	13631723
+sub-HK210102/micr/sub-HK210102_sample-slide3section3ipsiIC_acq-5x_stain-Alexa594_FLUO.tif	12766543
+sub-HK210102/micr/sub-HK210102_sample-slide3section11MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54479971
+sub-HK210102/micr/sub-HK210102_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54535549
+sub-HK210102/micr/sub-HK210102_sample-slide3section9MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54498479
+sub-HK210102/micr/sub-HK210102_sample-slide3section10MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54447434
+sub-MG240609/micr/sub-MG240609_sample-slide2section9ipsiIC_acq-5x_stain-Alexa488_FLUO.json	27232
+sub-MG240214/micr/sub-MG240214_sample-A2injectionsite_BF.tif	288682
+sub-MG240214/micr/sub-MG240214_sample-slide1section2contraCN_acq-5x_stain-Alexa488_FLUO.tif	8698971
+sub-MG240214/micr/sub-MG240214_sample-slide1section1contraCN_acq-5x_stain-Alexa488_FLUO.tif	6847597
+sub-HK210102/micr/sub-HK210102_sample-slide4section1MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54447613
+sub-MG240214/micr/sub-MG240214_sample-slide1section1ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	6428047
+sub-MG240214/micr/sub-MG240214_sample-slide1section3ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8726375
+sub-MG240214/micr/sub-MG240214_sample-slide1section4contraCN_acq-5x_stain-Alexa488_FLUO.tif	7340868
+sub-MG240214/micr/sub-MG240214_sample-slide1section3contraCN_acq-5x_stain-Alexa488_FLUO.tif	7079810
+sub-MG240214/micr/sub-MG240214_sample-slide1section4ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	9887539
+sub-MG240214/micr/sub-MG240214_sample-slide1section2ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	9046143
+sub-MG240214/micr/sub-MG240214_sample-slide1section5contraCN_acq-5x_stain-Alexa488_FLUO.tif	8299492
+sub-MG240214/micr/sub-MG240214_sample-slide1section5ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	7843994
+sub-MG240214/micr/sub-MG240214_sample-slide1section6contraCN_acq-5x_stain-Alexa488_FLUO.tif	8120130
+sub-MG240214/micr/sub-MG240214_sample-slide1section6IC_acq-5x_stain-Alexa488_FLUO.tif	2085023
+sub-MG240214/micr/sub-MG240214_sample-slide1section6ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8674687
+sub-MG240214/micr/sub-MG240214_sample-slide1section7IC_acq-5x_stain-Alexa488_FLUO.tif	1656419
+sub-MG240214/micr/sub-MG240214_sample-slide1section7contraCN_acq-5x_stain-Alexa488_FLUO.tif	10537750
+sub-HK210102/micr/sub-HK210102_sample-slide4section2MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54429561
+sub-MG240214/micr/sub-MG240214_sample-slide1section8IC_acq-5x_stain-Alexa488_FLUO.tif	45181077
+sub-MG240214/micr/sub-MG240214_sample-slide1section8contraCN_acq-5x_stain-Alexa488_FLUO.tif	9143995
+sub-MG240214/micr/sub-MG240214_sample-slide1section8ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	11048981
+sub-MG240214/micr/sub-MG240214_sample-slide2section1IC_acq-5x_stain-Alexa488_FLUO.tif	1414621
+sub-MG240214/micr/sub-MG240214_sample-slide2section1contraCN_acq-5x_stain-Alexa488_FLUO.tif	6790910
+sub-MG240214/micr/sub-MG240214_sample-slide1section7ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	10990255
+sub-MG240214/micr/sub-MG240214_sample-slide2section10contraIC_acq-5x_stain-Alexa488_FLUO.tif	7258005
+sub-MG240214/micr/sub-MG240214_sample-slide2section1ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	9124019
+sub-MG240214/micr/sub-MG240214_sample-slide2section10ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	8841065
+sub-MG240214/micr/sub-MG240214_sample-slide2section2ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8819849
+sub-MG240214/micr/sub-MG240214_sample-slide2section3IC_acq-5x_stain-Alexa488_FLUO.tif	2150645
+sub-MG240214/micr/sub-MG240214_sample-slide2section3ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8945551
+sub-MG240214/micr/sub-MG240214_sample-slide2section2IC_acq-5x_stain-Alexa488_FLUO.tif	46324333
+sub-MG240214/micr/sub-MG240214_sample-slide2section4IC_acq-5x_stain-Alexa488_FLUO.tif	47511071
+sub-MG240214/micr/sub-MG240214_sample-slide2section5IC_acq-5x_stain-Alexa488_FLUO.tif	3247586
+sub-MG240214/micr/sub-MG240214_sample-slide2section4ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	7789951
+sub-MG240214/micr/sub-MG240214_sample-slide2section5ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	4879869
+sub-MG240214/micr/sub-MG240214_sample-slide2section6IC_acq-5x_stain-Alexa488_FLUO.tif	43324119
+sub-MG240214/micr/sub-MG240214_sample-slide2section8contraIC_acq-5x_stain-Alexa488_FLUO.tif	9738405
+sub-MG240214/micr/sub-MG240214_sample-slide2section8ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10861929
+sub-MG240214/micr/sub-MG240214_sample-slide2section7contraIC_acq-5x_stain-Alexa488_FLUO.tif	13057037
+sub-MG240214/micr/sub-MG240214_sample-slide2section9contraIC_acq-5x_stain-Alexa488_FLUO.tif	7970881
+sub-MG240214/micr/sub-MG240214_sample-slide2section7ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10483035
+sub-MG240214/micr/sub-MG240214_sample-slide2section9ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	1176041
+sub-MG240214/micr/sub-MG240214_sample-slide3section1contraIC_acq-5x_stain-Alexa488_FLUO.tif	7905543
+sub-MG240214/micr/sub-MG240214_sample-slide3section1ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10118205
+sub-MG240214/micr/sub-MG240214_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	20135587
+sub-MG240214/micr/sub-MG240214_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37355405
+sub-MG240214/micr/sub-MG240214_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37302725
+sub-MG240214/micr/sub-MG240214_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37302731
+sub-MG240214/micr/sub-MG240214_sample-slide3section7MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	37247187
+sub-MG240607/micr/sub-MG240607_sample-A1injectionsite_BF.tif	288680
+sub-MG240214/micr/sub-MG240214_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54530127
+sub-MG240607/micr/sub-MG240607_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	71373361
+sub-MG240920/micr/sub-MG240920_sample-slide2section8ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.json	29325
+sub-MG240607/micr/sub-MG240607_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	71354889
+sub-MG240607/micr/sub-MG240607_sample-slide3section7MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	71373343
+sub-MG240607/micr/sub-MG240607_sample-slide4section3IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1255343
+sub-MG240607/micr/sub-MG240607_sample-slide4section4IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1405353
+sub-MG240607/micr/sub-MG240607_sample-slide4section6IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2441102
+sub-MG240607/micr/sub-MG240607_sample-slide4section5IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	106963089
+sub-MG240607/micr/sub-MG240607_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	71373375
+sub-MG240607/micr/sub-MG240607_sample-slide4section8IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	116507745
+sub-MG240607/micr/sub-MG240607_sample-slide4section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	128764975
+sub-MG240607/micr/sub-MG240607_sample-slide5section4IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1757141
+sub-MG240607/micr/sub-MG240607_sample-slide5section2IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	105215563
+sub-MG240607/micr/sub-MG240607_sample-slide5section3IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	110414197
+sub-MG240607/micr/sub-MG240607_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	71403803
+sub-MG240607/micr/sub-MG240607_sample-slide5section6IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1892291
+sub-MG240609/micr/sub-MG240609_sample-A1injectionsite_BF.tif	288680
+sub-MG240609/micr/sub-MG240609_sample-slide1section10IC_acq-5x_stain-Alexa488_FLUO.tif	1739009
+sub-MG240609/micr/sub-MG240609_sample-slide1section1contraCN_acq-5x_stain-Alexa488_FLUO.tif	11007391
+sub-MG240609/micr/sub-MG240609_sample-slide1section1ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	10956798
+sub-MG240607/micr/sub-MG240607_sample-slide5section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	61613759
+sub-MG240609/micr/sub-MG240609_sample-slide1section2contraCN_acq-5x_stain-Alexa488_FLUO.tif	12913877
+sub-MG240609/micr/sub-MG240609_sample-slide1section2ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	12333256
+sub-MG240609/micr/sub-MG240609_sample-slide1section3contraCN_acq-5x_stain-Alexa488_FLUO.tif	11687465
+sub-MG240609/micr/sub-MG240609_sample-slide1section3ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	10589798
+sub-MG240609/micr/sub-MG240609_sample-slide1section4contraCN_acq-5x_stain-Alexa488_FLUO.tif	15094305
+sub-MG240609/micr/sub-MG240609_sample-slide1section4ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	11401887
+sub-MG240609/micr/sub-MG240609_sample-slide1section5contraCN_acq-5x_stain-Alexa488_FLUO.tif	8869731
+sub-MG240607/micr/sub-MG240607_sample-slide5section1IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	113295803
+sub-MG240609/micr/sub-MG240609_sample-slide1section6IC_acq-5x_stain-Alexa488_FLUO.tif	39670279
+sub-MG240609/micr/sub-MG240609_sample-slide1section6contraCN_acq-5x_stain-Alexa488_FLUO.tif	7575719
+sub-MG240609/micr/sub-MG240609_sample-slide1section6ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	10125397
+sub-MG240609/micr/sub-MG240609_sample-slide1section7IC_acq-5x_stain-Alexa488_FLUO.tif	1281203
+sub-MG240609/micr/sub-MG240609_sample-slide1section7contraCN_acq-5x_stain-Alexa488_FLUO.tif	5774375
+sub-MG240609/micr/sub-MG240609_sample-slide1section8IC_acq-5x_stain-Alexa488_FLUO.tif	1479125
+sub-MG240609/micr/sub-MG240609_sample-slide1section7ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	8075655
+sub-MG240609/micr/sub-MG240609_sample-slide1section8contraCN_acq-5x_stain-Alexa488_FLUO.tif	4059811
+sub-MG240609/micr/sub-MG240609_sample-slide1section8ipsiCN_acq-5x_stain-Alexa488_FLUO.tif	6319731
+sub-MG240609/micr/sub-MG240609_sample-slide1section9IC_acq-5x_stain-Alexa488_FLUO.tif	48718249
+sub-MG240609/micr/sub-MG240609_sample-slide2section2IC_acq-5x_stain-Alexa488_FLUO.tif	1919243
+sub-MG240609/micr/sub-MG240609_sample-slide2section3IC_acq-5x_stain-Alexa488_FLUO.tif	1967183
+sub-MG240609/micr/sub-MG240609_sample-slide2section4IC_acq-5x_stain-Alexa488_FLUO.tif	2801916
+sub-MG240609/micr/sub-MG240609_sample-slide2section1IC_acq-5x_stain-Alexa488_FLUO.tif	64835453
+sub-MG240609/micr/sub-MG240609_sample-slide2section5IC_acq-5x_stain-Alexa488_FLUO.tif	50257117
+sub-MG240609/micr/sub-MG240609_sample-slide2section7contraIC_acq-5x_stain-Alexa488_FLUO.tif	13437467
+sub-MG240609/micr/sub-MG240609_sample-slide2section6ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	2215056
+sub-MG240609/micr/sub-MG240609_sample-slide2section7ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10127143
+sub-MG240609/micr/sub-MG240609_sample-slide2section10MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	71358585
+sub-MG240609/micr/sub-MG240609_sample-slide2section8contraIC_acq-5x_stain-Alexa488_FLUO.tif	10536187
+sub-MG240609/micr/sub-MG240609_sample-slide2section9contraIC_acq-5x_stain-Alexa488_FLUO.tif	9656793
+sub-MG240609/micr/sub-MG240609_sample-slide2section6contraIC_acq-5x_stain-Alexa488_FLUO.tif	14213879
+sub-MG240609/micr/sub-MG240609_sample-slide2section9ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10446545
+sub-MG240609/micr/sub-MG240609_sample-slide3section1MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54299993
+sub-MG240609/micr/sub-MG240609_sample-slide2section8ipsiIC_acq-5x_stain-Alexa488_FLUO.tif	10700075
+sub-MG240609/micr/sub-MG240609_sample-slide3section2MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54276981
+sub-MG240609/micr/sub-MG240609_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54276985
+sub-MG240609/micr/sub-MG240609_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54276977
+sub-MG240903/micr/sub-MG240903_sample-A1injectionsite_BF.tif	288680
+sub-MG240609/micr/sub-MG240609_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54276967
+sub-MG240903/micr/sub-MG240903_sample-slide1section10contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16235063
+sub-MG240903/micr/sub-MG240903_sample-slide1section10ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	17749592
+sub-MG240903/micr/sub-MG240903_sample-slide1section7contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	22888411
+sub-MG240903/micr/sub-MG240903_sample-slide1section8ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	14401933
+sub-MG240903/micr/sub-MG240903_sample-slide1section8contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	17035626
+sub-MG240903/micr/sub-MG240903_sample-slide1section9contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	17330855
+sub-MG240903/micr/sub-MG240903_sample-slide1section9ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	21382057
+sub-MG240903/micr/sub-MG240903_sample-slide1section7ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	32167238
+sub-MG240903/micr/sub-MG240903_sample-slide2section1contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	18214763
+sub-MG240903/micr/sub-MG240903_sample-slide2section1IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	97227368
+sub-MG240903/micr/sub-MG240903_sample-slide2section2IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	117977021
+sub-MG240903/micr/sub-MG240903_sample-slide2section2ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	18833185
+sub-MG240903/micr/sub-MG240903_sample-slide2section1ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25690774
+sub-MG240903/micr/sub-MG240903_sample-slide2section2contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	19255471
+sub-MG240903/micr/sub-MG240903_sample-slide2section3IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1174747
+sub-MG240903/micr/sub-MG240903_sample-slide2section3contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	17298359
+sub-MG240903/micr/sub-MG240903_sample-slide2section3ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	21956523
+sub-MG240903/micr/sub-MG240903_sample-slide2section4IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2394155
+sub-MG240903/micr/sub-MG240903_sample-slide2section4contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16106100
+sub-MG240609/micr/sub-MG240609_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54276975
+sub-MG240903/micr/sub-MG240903_sample-slide2section4ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	8963545
+sub-MG240903/micr/sub-MG240903_sample-slide2section6contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	6723864
+sub-MG240903/micr/sub-MG240903_sample-slide2section5IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	114758879
+sub-MG240903/micr/sub-MG240903_sample-slide2section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1376721
+sub-MG240903/micr/sub-MG240903_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.json	2125
+sub-MG240903/micr/sub-MG240903_sample-slide2section5contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	14560209
+sub-MG240903/micr/sub-MG240903_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	218197425
+sub-MG240903/micr/sub-MG240903_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	218197409
+sub-MG240903/micr/sub-MG240903_sample-slide2section6IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	127879017
+sub-MG240903/micr/sub-MG240903_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	218197421
+sub-MG240913/micr/sub-MG240913_sample-slide2section9IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.json	22032
+sub-MG240903/micr/sub-MG240903_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	218197427
+sub-MG240910/micr/sub-MG240910_sample-slide1section7contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	37152880
+sub-MG240903/micr/sub-MG240903_sample-slide3section7MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	218197421
+sub-MG240910/micr/sub-MG240910_sample-slide1section7ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	34914054
+sub-MG240910/micr/sub-MG240910_sample-slide1section7IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	105805192
+sub-MG240903/micr/sub-MG240903_sample-slide3section8MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	320537339
+sub-MG240910/micr/sub-MG240910_sample-slide1section8ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	20251126
+sub-MG240910/micr/sub-MG240910_sample-slide1section8IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	129169616
+sub-MG240910/micr/sub-MG240910_sample-slide2section1contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1566809
+sub-MG240910/micr/sub-MG240910_sample-slide1section8contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	30071484
+sub-MG240910/micr/sub-MG240910_sample-slide2section1ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1981674
+sub-MG240910/micr/sub-MG240910_sample-slide2section2contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	4303556
+sub-MG240910/micr/sub-MG240910_sample-slide2section2IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	155326502
+sub-MG240910/micr/sub-MG240910_sample-slide2section3IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	158081562
+sub-MG240910/micr/sub-MG240910_sample-slide2section3contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	28706688
+sub-MG240910/micr/sub-MG240910_sample-slide2section4contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	3349888
+sub-MG240910/micr/sub-MG240910_sample-slide2section4IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	176433197
+sub-MG240910/micr/sub-MG240910_sample-slide2section5IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	175743454
+sub-MG240910/micr/sub-MG240910_sample-slide2section6IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	163858500
+sub-MG240910/micr/sub-MG240910_sample-slide2section2ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	29750570
+sub-MG240910/micr/sub-MG240910_sample-slide2section1IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	153445816
+sub-MG240913/micr/sub-MG240913_sample-slide1section10contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	23780600
+sub-MG240913/micr/sub-MG240913_sample-slide1section10ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	5918622
+sub-MG240913/micr/sub-MG240913_sample-slide1section2contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	5856646
+sub-MG240910/micr/sub-MG240910_sample-slide2section7IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	179600930
+sub-MG240913/micr/sub-MG240913_sample-slide1section2ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	20290544
+sub-MG240913/micr/sub-MG240913_sample-slide1section3contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	5919332
+sub-MG240913/micr/sub-MG240913_sample-slide1section3ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	31964290
+sub-MG240913/micr/sub-MG240913_sample-slide1section4contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	21062192
+sub-MG240910/micr/sub-MG240910_sample-slide2section8IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	172599156
+sub-MG240910/micr/sub-MG240910_sample-slide3section6MGN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	53372057
+sub-MG240913/micr/sub-MG240913_sample-slide1section4ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1147874
+sub-MG240913/micr/sub-MG240913_sample-slide1section5contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25860474
+sub-MG240913/micr/sub-MG240913_sample-slide1section5ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25860452
+sub-MG240913/micr/sub-MG240913_sample-slide1section6contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25860812
+sub-MG240913/micr/sub-MG240913_sample-slide1section6ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25860457
+sub-MG240913/micr/sub-MG240913_sample-slide1section7contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25860474
+sub-MG240913/micr/sub-MG240913_sample-slide1section10IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	121556336
+sub-MG240913/micr/sub-MG240913_sample-slide1section7ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	25860454
+sub-MG240913/micr/sub-MG240913_sample-slide1section8contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1486917
+sub-MG240913/micr/sub-MG240913_sample-slide1section8ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1514939
+sub-MG240913/micr/sub-MG240913_sample-slide1section9ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	21062516
+sub-MG240913/micr/sub-MG240913_sample-slide1section9IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	89999250
+sub-MG240913/micr/sub-MG240913_sample-slide2section1contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	2716666
+sub-MG240913/micr/sub-MG240913_sample-slide1section9contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	23780250
+sub-MG240913/micr/sub-MG240913_sample-slide2section1ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	28004568
+sub-MG240913/micr/sub-MG240913_sample-slide2section2contraCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	15382204
+sub-MG240913/micr/sub-MG240913_sample-slide2section2ipsiCN_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	6108451
+sub-MG240913/micr/sub-MG240913_sample-slide2section2IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	156810750
+sub-MG240913/micr/sub-MG240913_sample-slide2section5IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1293013
+sub-MG240913/micr/sub-MG240913_sample-slide2section7IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1139532
+sub-MG240913/micr/sub-MG240913_sample-slide2section1IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	145926542
+sub-MG240913/micr/sub-MG240913_sample-slide2section4IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	161007952
+sub-MG240913/micr/sub-MG240913_sample-slide2section6IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	172778392
+sub-MG240913/micr/sub-MG240913_sample-slide2section8IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1427106
+sub-MG240913/micr/sub-MG240913_sample-slide3section5MGN_acq-5x_stain-Alexa594andAlexa488_FLUO.json	395
+sub-MG240913/micr/sub-MG240913_sample-slide2section9IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	1094578
+sub-MG240913/micr/sub-MG240913_sample-slide2section3IC_acq-5x_stain-Alexa594andAlexa488andDAPI_FLUO.tif	156810756
+sub-MG240920/micr/sub-MG240920_sample-A2injectionsite_BF.tif	288702
+sub-MG240913/micr/sub-MG240913_sample-slide3section5MGN_acq-5x_stain-Alexa594andAlexa488_FLUO.tif	5211904
+sub-MG240920/micr/sub-MG240920_sample-slide1section10IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2719927
+sub-MG240920/micr/sub-MG240920_sample-slide1section10contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	15520159
+sub-MG240920/micr/sub-MG240920_sample-slide1section5contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	3407267
+sub-MG240920/micr/sub-MG240920_sample-slide1section5IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	52564364
+sub-MG240920/micr/sub-MG240920_sample-slide1section5ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2296897
+sub-MG240920/micr/sub-MG240920_sample-slide1section10ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	19689970
+sub-MG240920/micr/sub-MG240920_sample-slide1section6IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2205445
+sub-MG240920/micr/sub-MG240920_sample-slide1section6contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	10970247
+sub-MG240920/micr/sub-MG240920_sample-slide1section6ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	15442060
+sub-MG240920/micr/sub-MG240920_sample-slide1section7contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	11400757
+sub-MG240920/micr/sub-MG240920_sample-slide1section7ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1522417
+sub-MG240920/micr/sub-MG240920_sample-slide1section7IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	58776179
+sub-MG240920/micr/sub-MG240920_sample-slide1section8IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1979273
+sub-MG240920/micr/sub-MG240920_sample-slide1section8contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1412158
+sub-MG240920/micr/sub-MG240920_sample-slide1section8ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	18376451
+sub-MG240920/micr/sub-MG240920_sample-slide1section9contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1184106
+sub-MG240920/micr/sub-MG240920_sample-slide1section9ipsiCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	19439463
+sub-MG240920/micr/sub-MG240920_sample-slide1section9IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	86271167
+sub-MG240920/micr/sub-MG240920_sample-slide2section1contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	3405441
+sub-MG240920/micr/sub-MG240920_sample-slide2section1IC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	3218281
+sub-MG240920/micr/sub-MG240920_sample-slide2section2contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16479078
+sub-MG240920/micr/sub-MG240920_sample-slide2section2contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	46520313
+sub-MG240920/micr/sub-MG240920_sample-slide2section3contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	16219015
+sub-MG240920/micr/sub-MG240920_sample-slide2section2ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	51485949
+sub-MG240920/micr/sub-MG240920_sample-slide2section3ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	30743331
+sub-MG240920/micr/sub-MG240920_sample-slide2section4contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1192424
+sub-MG240920/micr/sub-MG240920_sample-slide2section4ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1589548
+sub-MG240920/micr/sub-MG240920_sample-slide2section4contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	2357907
+sub-MG240920/micr/sub-MG240920_sample-slide2section3contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	31601445
+sub-MG240920/micr/sub-MG240920_sample-slide2section5contraCN_acq-5x_stain-Alexa488andDAPI_FLUO.tif	11483305
+sub-MG240920/micr/sub-MG240920_sample-slide2section5contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25581989
+sub-MG240920/micr/sub-MG240920_sample-slide2section5ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	20882579
+sub-MG240920/micr/sub-MG240920_sample-slide2section6ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	1158199
+sub-MG240920/micr/sub-MG240920_sample-slide2section6contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	19997909
+sub-MG240920/micr/sub-MG240920_sample-slide2section7contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	25519515
+sub-MG240920/micr/sub-MG240920_sample-slide2section7ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	22790133
+sub-MG240920/micr/sub-MG240920_sample-slide2section8contraIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	20057811
+sub-MG240920/micr/sub-MG240920_sample-slide2section8ipsiIC_acq-5x_stain-Alexa488andDAPI_FLUO.tif	19087805
+sub-MG240920/micr/sub-MG240920_sample-slide3section1MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54276939
+sub-MG240920/micr/sub-MG240920_sample-slide3section2MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54235427
+sub-MG240920/micr/sub-MG240920_sample-slide3section3MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54253905
+sub-MG240920/micr/sub-MG240920_sample-slide3section5MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54253895
+sub-MG240920/micr/sub-MG240920_sample-slide3section4MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54258457
+sub-MG240920/micr/sub-MG240920_sample-slide3section6MGN_acq-10x_stain-Alexa647andAlexa594andAlexa488andDAPI_FLUO.tif	54235413

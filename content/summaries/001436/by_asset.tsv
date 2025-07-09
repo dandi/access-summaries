@@ -1,429 +1,642 @@
-	asset_path	bytes_sent
-0	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM_seg-axon-manual.png	59055
-1	README	1069
-2	CHANGES	554
-3	derivatives/labels/dataset_description.json	255
-4	dataset_description.json	493
-5	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM_seg-axon-manual.png	46965
-6	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM_seg-myelin-manual.png	114146
-7	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM_seg-axonmyelin-manual.png	85147
-8	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM_seg-axonmyelin-manual.png	70212
-9	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM_seg-myelin-manual.png	87267
-10	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM_seg-axon-manual.png	58245
-11	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM_seg-axonmyelin-manual.png	83962
-12	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM_seg-axon-manual.png	50672
-13	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM_seg-myelin-manual.png	210710
-14	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM_seg-axonmyelin-manual.png	64399
-15	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM_seg-myelin-manual.png	90940
-16	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM_seg-axon-manual.png	62205
-17	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM_seg-axonmyelin-manual.png	87586
-18	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM_seg-axon-manual.png	63595
-19	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM_seg-myelin-manual.png	117340
-20	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM_seg-axonmyelin-manual.png	83131
-21	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM_seg-myelin-manual.png	116823
-22	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM_seg-axon-manual.png	74264
-23	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM_seg-axonmyelin-manual.png	103495
-24	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM_seg-myelin-manual.png	138332
-25	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM_seg-axon-manual.png	55550
-26	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM_seg-axonmyelin-manual.png	156284
-27	derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM_seg-myelin-manual.png	99135
-28	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM_seg-axon-manual.png	74410
-29	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM_seg-axonmyelin-manual.png	104893
-30	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM_seg-myelin-manual.png	144456
-31	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM_seg-axon-manual.png	77203
-32	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM_seg-axonmyelin-manual.png	118263
-33	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM_seg-myelin-manual.png	149241
-34	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM_seg-axon-manual.png	81889
-35	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM_seg-axonmyelin-manual.png	107174
-36	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM_seg-myelin-manual.png	154376
-37	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM_seg-axon-manual.png	62221
-38	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM_seg-axonmyelin-manual.png	120387
-39	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM_seg-axon-manual.png	59083
-40	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM_seg-myelin-manual.png	116013
-41	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM_seg-axonmyelin-manual.png	85986
-42	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM_seg-myelin-manual.png	110646
-43	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM_seg-axonmyelin-manual.png	97324
-44	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM_seg-myelin-manual.png	93701
-45	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM_seg-axon-manual.png	51438
-46	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM_seg-axon-manual.png	62253
-47	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM_seg-axonmyelin-manual.png	118891
-48	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM_seg-myelin-manual.png	114450
-49	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM_seg-axonmyelin-manual.png	120570
-50	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM_seg-axon-manual.png	62303
-51	derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM_seg-myelin-manual.png	116192
-52	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM_seg-axon-manual.png	33073
-53	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM_seg-axonmyelin-manual.png	42193
-54	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM_seg-axon-manual.png	30708
-55	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM_seg-myelin-manual.png	55296
-56	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM_seg-myelin-manual.png	50623
-57	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM_seg-axonmyelin-manual.png	40333
-58	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM_seg-axon-manual.png	33063
-59	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM_seg-axonmyelin-manual.png	45076
-60	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM_seg-myelin-manual.png	55780
-61	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM_seg-axonmyelin-manual.png	49726
-62	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM_seg-axon-manual.png	34537
-63	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM_seg-myelin-manual.png	58385
-64	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM_seg-axon-manual.png	20566
-65	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM_seg-axonmyelin-manual.png	42101
-66	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM_seg-myelin-manual.png	31681
-67	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM_seg-axon-manual.png	15331
-68	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM_seg-axonmyelin-manual.png	28544
-69	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM_seg-myelin-manual.png	22016
-70	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM_seg-axon-manual.png	68335
-71	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM_seg-myelin-manual.png	127990
-72	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM_seg-axonmyelin-manual.png	97783
-73	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM_seg-axon-manual.png	75194
-74	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM_seg-axonmyelin-manual.png	104073
-75	derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM_seg-myelin-manual.png	141413
-76	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM_seg-axon-manual.png	57298
-77	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM_seg-myelin-manual.png	105981
-78	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM_seg-axonmyelin-manual.png	79185
-79	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM_seg-axon-manual.png	69866
-80	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM_seg-axonmyelin-manual.png	95474
-81	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM_seg-myelin-manual.png	133982
-82	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM_seg-axonmyelin-manual.png	86211
-83	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM_seg-axon-manual.png	59529
-84	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM_seg-myelin-manual.png	110462
-85	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM_seg-axon-manual.png	57531
-86	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM_seg-axonmyelin-manual.png	82023
-87	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM_seg-myelin-manual.png	105019
-88	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM_seg-axonmyelin-manual.png	99122
-89	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM_seg-axon-manual.png	62388
-90	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM_seg-myelin-manual.png	114440
-91	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM_seg-axon-manual.png	57212
-92	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM_seg-myelin-manual.png	102450
-93	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM_seg-axonmyelin-manual.png	81793
-94	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM_seg-axon-manual.png	70571
-95	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM_seg-axonmyelin-manual.png	112142
-96	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM_seg-myelin-manual.png	130714
-97	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM_seg-axon-manual.png	55434
-98	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM_seg-axonmyelin-manual.png	91025
-99	derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM_seg-myelin-manual.png	98598
-100	derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0011_TEM_seg-myelin-manual.png	122387
-101	derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0008_TEM_seg-myelin-manual.png	164068
-102	derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0003_TEM_seg-axon-manual.png	41698
-103	derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0005_TEM_seg-axonmyelin-manual.png	72955
-104	derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0007_TEM_seg-axonmyelin-manual.png	76812
-105	derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0008_TEM_seg-axonmyelin-manual.png	90587
-106	derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM_seg-axon-manual.png	60500
-107	derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM_seg-myelin-manual.png	111144
-108	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM_seg-axonmyelin-manual.png	138943
-109	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM_seg-myelin-manual.png	176463
-110	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM_seg-axon-manual.png	85943
-111	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM_seg-axonmyelin-manual.png	128030
-112	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM_seg-myelin-manual.png	161802
-113	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM_seg-axon-manual.png	77770
-114	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM_seg-axonmyelin-manual.png	116531
-115	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM_seg-myelin-manual.png	143847
-116	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM_seg-axon-manual.png	91188
-117	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM_seg-axonmyelin-manual.png	132991
-118	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM_seg-myelin-manual.png	341122
-119	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM_seg-axonmyelin-manual.png	141187
-120	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM_seg-axon-manual.png	92391
-121	derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM_seg-myelin-manual.png	176234
-122	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM_seg-axon-manual.png	79731
-123	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM_seg-axonmyelin-manual.png	109943
-124	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM_seg-axon-manual.png	76769
-125	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM_seg-myelin-manual.png	150936
-126	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM_seg-axonmyelin-manual.png	103831
-127	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM_seg-myelin-manual.png	144243
-128	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM_seg-axon-manual.png	77951
-129	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM_seg-axonmyelin-manual.png	100537
-130	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM_seg-myelin-manual.png	145812
-131	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM_seg-axon-manual.png	77408
-132	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM_seg-axonmyelin-manual.png	99545
-133	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM_seg-myelin-manual.png	145744
-134	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM_seg-axon-manual.png	85205
-135	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM_seg-axonmyelin-manual.png	99422
-136	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM_seg-myelin-manual.png	160466
-137	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM_seg-axon-manual.png	77405
-138	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM_seg-axonmyelin-manual.png	107660
-139	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM_seg-myelin-manual.png	145067
-140	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM_seg-axon-manual.png	84176
-141	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM_seg-axonmyelin-manual.png	117834
-142	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM_seg-myelin-manual.png	157861
-143	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM_seg-axonmyelin-manual.png	114414
-144	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM_seg-axon-manual.png	88097
-145	derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM_seg-myelin-manual.png	163852
-146	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM_seg-axon-manual.png	90834
-147	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM_seg-axonmyelin-manual.png	119849
-148	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM_seg-myelin-manual.png	168704
-149	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM_seg-axon-manual.png	174536
-150	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM_seg-axonmyelin-manual.png	119776
-151	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM_seg-myelin-manual.png	163887
-152	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM_seg-axon-manual.png	88417
-153	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM_seg-axonmyelin-manual.png	126197
-154	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM_seg-myelin-manual.png	168106
-155	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM_seg-axon-manual.png	75157
-156	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM_seg-axonmyelin-manual.png	103138
-157	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM_seg-myelin-manual.png	141309
-158	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM_seg-axon-manual.png	68036
-159	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM_seg-axonmyelin-manual.png	102485
-160	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM_seg-myelin-manual.png	129916
-161	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM_seg-axon-manual.png	83361
-162	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM_seg-axonmyelin-manual.png	232348
-163	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM_seg-myelin-manual.png	155437
-164	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM_seg-axon-manual.png	99780
-165	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM_seg-axonmyelin-manual.png	125539
-166	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM_seg-axon-manual.png	83378
-167	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM_seg-myelin-manual.png	183458
-168	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM_seg-axonmyelin-manual.png	115566
-169	derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM_seg-myelin-manual.png	158650
-170	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM_seg-axon-manual.png	60480
-171	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM_seg-axonmyelin-manual.png	82154
-172	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM_seg-myelin-manual.png	114646
-173	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM_seg-axon-manual.png	62278
-174	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM_seg-axonmyelin-manual.png	94579
-175	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM_seg-myelin-manual.png	120279
-176	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM_seg-axonmyelin-manual.png	91395
-177	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM_seg-axon-manual.png	151178
-178	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM_seg-myelin-manual.png	141675
-179	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM_seg-axon-manual.png	127302
-180	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM_seg-axonmyelin-manual.png	252136
-181	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM_seg-myelin-manual.png	242892
-182	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM_seg-axon-manual.png	112890
-183	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM_seg-axonmyelin-manual.png	155334
-184	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM_seg-axon-manual.png	116474
-185	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM_seg-myelin-manual.png	207158
-186	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM_seg-axonmyelin-manual.png	167246
-187	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM_seg-myelin-manual.png	222746
-188	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM_seg-axon-manual.png	95582
-189	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM_seg-axonmyelin-manual.png	124908
-190	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM_seg-myelin-manual.png	168196
-191	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM_seg-axon-manual.png	116192
-192	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM_seg-axonmyelin-manual.png	82395
-193	derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM_seg-myelin-manual.png	218408
-194	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM_seg-axon-manual.png	115078
-195	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM_seg-axonmyelin-manual.png	169920
-196	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM_seg-myelin-manual.png	218456
-197	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM_seg-axon-manual.png	44977
-198	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM_seg-axonmyelin-manual.png	133070
-199	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM_seg-myelin-manual.png	162742
-200	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM_seg-axon-manual.png	46165
-201	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM_seg-myelin-manual.png	167584
-202	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM_seg-axonmyelin-manual.png	69257
-203	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM_seg-axon-manual.png	85736
-204	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM_seg-axonmyelin-manual.png	126846
-205	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM_seg-myelin-manual.png	155692
-206	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM_seg-axon-manual.png	94174
-207	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM_seg-axonmyelin-manual.png	63931
-208	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM_seg-myelin-manual.png	166700
-209	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM_seg-axon-manual.png	108020
-210	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM_seg-axonmyelin-manual.png	144784
-211	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM_seg-axonmyelin-manual.png	143152
-212	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM_seg-myelin-manual.png	99279
-213	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM_seg-axon-manual.png	106384
-214	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM_seg-myelin-manual.png	188304
-215	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM_seg-axon-manual.png	128318
-216	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM_seg-axonmyelin-manual.png	173080
-217	derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM_seg-myelin-manual.png	230194
-218	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM_seg-axon-manual.png	127824
-219	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM_seg-axonmyelin-manual.png	189980
-220	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM_seg-myelin-manual.png	240642
-221	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM_seg-axonmyelin-manual.png	196730
-222	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM_seg-axon-manual.png	141894
-223	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM_seg-myelin-manual.png	264284
-224	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM_seg-axonmyelin-manual.png	182642
-225	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM_seg-axon-manual.png	141996
-226	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM_seg-myelin-manual.png	261940
-227	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM_seg-axon-manual.png	133684
-228	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM_seg-axonmyelin-manual.png	131854
-229	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM_seg-axon-manual.png	71657
-230	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM_seg-myelin-manual.png	126815
-231	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM_seg-axonmyelin-manual.png	92503
-232	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM_seg-axon-manual.png	156988
-233	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM_seg-myelin-manual.png	134280
-234	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM_seg-axonmyelin-manual.png	218988
-235	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM_seg-axon-manual.png	126124
-236	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM_seg-myelin-manual.png	301304
-237	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM_seg-axonmyelin-manual.png	174580
-238	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM_seg-myelin-manual.png	226752
-239	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM_seg-axon-manual.png	137786
-240	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM_seg-axonmyelin-manual.png	186996
-241	derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM_seg-myelin-manual.png	255180
-242	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM_seg-axon-manual.png	129912
-243	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM_seg-axonmyelin-manual.png	90509
-244	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM_seg-myelin-manual.png	233680
-245	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM_seg-axon-manual.png	113574
-246	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM_seg-axonmyelin-manual.png	211456
-247	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM_seg-myelin-manual.png	203034
-248	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM_seg-axon-manual.png	56251
-249	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM_seg-axonmyelin-manual.png	165138
-250	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM_seg-myelin-manual.png	201218
-251	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM_seg-axon-manual.png	113820
-252	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM_seg-axonmyelin-manual.png	160754
-253	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM_seg-myelin-manual.png	202814
-254	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM_seg-axonmyelin-manual.png	89918
-255	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM_seg-axon-manual.png	121238
-256	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM_seg-axon-manual.png	113552
-257	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM_seg-myelin-manual.png	109525
-258	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM_seg-axonmyelin-manual.png	159742
-259	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM_seg-myelin-manual.png	100101
-260	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM_seg-axon-manual.png	104046
-261	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM_seg-myelin-manual.png	182240
-262	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM_seg-axonmyelin-manual.png	168854
-263	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM_seg-axon-manual.png	79312
-264	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM_seg-axonmyelin-manual.png	98072
-265	derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM_seg-myelin-manual.png	131612
-266	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM_seg-axon-manual.png	79488
-267	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM_seg-axonmyelin-manual.png	117360
-268	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM_seg-myelin-manual.png	138424
-269	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM_seg-axon-manual.png	86992
-270	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM_seg-axonmyelin-manual.png	129380
-271	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM_seg-myelin-manual.png	152814
-272	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM_seg-axon-manual.png	104062
-273	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM_seg-axonmyelin-manual.png	187936
-274	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM_seg-myelin-manual.png	189386
-275	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM_seg-axon-manual.png	105910
-276	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM_seg-axonmyelin-manual.png	197920
-277	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM_seg-myelin-manual.png	190384
-278	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM_seg-axon-manual.png	125776
-279	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM_seg-axonmyelin-manual.png	188206
-280	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM_seg-myelin-manual.png	230612
-281	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM_seg-axon-manual.png	101700
-282	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM_seg-axonmyelin-manual.png	94876
-283	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM_seg-myelin-manual.png	91297
-284	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM_seg-axon-manual.png	62868
-285	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM_seg-axonmyelin-manual.png	96333
-286	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM_seg-myelin-manual.png	116163
-287	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM_seg-axon-manual.png	59524
-288	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM_seg-axonmyelin-manual.png	91115
-289	derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM_seg-myelin-manual.png	108181
-290	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM_seg-axon-manual.png	69507
-291	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM_seg-axonmyelin-manual.png	131546
-292	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM_seg-myelin-manual.png	126560
-293	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM_seg-axon-manual.png	74248
-294	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM_seg-axonmyelin-manual.png	103632
-295	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM_seg-myelin-manual.png	136216
-296	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM_seg-axon-manual.png	65612
-297	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM_seg-axonmyelin-manual.png	113760
-298	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM_seg-myelin-manual.png	121690
-299	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM_seg-axon-manual.png	68933
-300	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM_seg-axonmyelin-manual.png	114131
-301	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM_seg-myelin-manual.png	125388
-302	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM_seg-axon-manual.png	69704
-303	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM_seg-axonmyelin-manual.png	100522
-304	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM_seg-myelin-manual.png	127927
-305	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM_seg-axonmyelin-manual.png	110437
-306	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM_seg-axon-manual.png	80038
-307	derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM_seg-myelin-manual.png	147022
-308	sub-nyuMouse36/micr/sub-nyuMouse36_TEM.json	55220
-309	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM.png	6380069
-310	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM.png	6417698
-311	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM.png	6414399
-312	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM.png	6410642
-313	sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM.png	6331051
-314	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM.png	5629770
-315	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM.png	6374220
-316	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM.png	6174496
-317	sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM.png	6175144
-318	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM.png	6278014
-319	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM.png	6264496
-320	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM.png	6053027
-321	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM.png	6265484
-322	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM.png	6265466
-323	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM.png	6292818
-324	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM.png	6277152
-325	sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM.png	6259670
-326	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0002_TEM.png	6518425
-327	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0003_TEM.png	6333637
-328	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0008_TEM.png	6400389
-329	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0004_TEM.png	6555223
-330	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0005_TEM.png	6397278
-331	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0011_TEM.png	6462292
-332	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0009_TEM.png	6367235
-333	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0001_TEM.png	6398872
-334	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0002_TEM.png	6256340
-335	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0003_TEM.png	6445773
-336	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0005_TEM.png	6356928
-337	sub-nyuMouse12/micr/sub-nyuMouse12_sample-0010_TEM.png	6347375
-338	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0007_TEM.png	6529359
-339	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0008_TEM.png	6447977
-340	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0004_TEM.png	6241970
-341	sub-nyuMouse13/micr/sub-nyuMouse13_sample-0006_TEM.png	6328864
-342	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0004_TEM.png	6070668
-343	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0002_TEM.png	6217239
-344	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0003_TEM.png	6310438
-345	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0001_TEM.png	6185857
-346	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0005_TEM.png	6553204
-347	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0008_TEM.png	6463554
-348	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0007_TEM.png	6290609
-349	sub-nyuMouse14/micr/sub-nyuMouse14_sample-0006_TEM.png	6403421
-350	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM.png	6252719
-351	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0002_TEM.png	6473822
-352	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0003_TEM.png	6556324
-353	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0006_TEM.png	6454514
-354	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0007_TEM.png	6313978
-355	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0005_TEM.png	6534200
-356	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0004_TEM.png	6531093
-357	sub-nyuMouse15/micr/sub-nyuMouse15_sample-0008_TEM.png	6436772
-358	sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM.png	6520202
-359	sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM.png	6425883
-360	sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM.png	6596254
-361	sub-nyuMouse25/micr/sub-nyuMouse25_sample-0001_TEM.png	6577082
-362	sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM.png	6437507
-363	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM.png	6335650
-364	sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM.png	6536036
-365	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM.png	6413013
-366	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM.png	6455059
-367	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM.png	6374912
-368	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM.png	6455082
-369	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM.png	6405608
-370	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM.png	6420838
-371	sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM.png	6428309
-372	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM.png	6283288
-373	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM.png	6424100
-374	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM.png	6338433
-375	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM.png	6236739
-376	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM.png	6327501
-377	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM.png	6370756
-378	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM.png	6248303
-379	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM.png	6393916
-380	sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM.png	6358428
-381	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM.png	6255320
-382	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM.png	6237462
-383	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM.png	6219614
-384	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM.png	6313264
-385	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM.png	6319956
-386	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM.png	6288754
-387	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM.png	12118680
-388	sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM.png	12612688
-389	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM.png	12597166
-390	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM.png	6281333
-391	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM.png	12475698
-392	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM.png	12593232
-393	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM.png	12288986
-394	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM.png	12514950
-395	sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM.png	12880694
-396	sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM.png	13130476
-397	sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM.png	6469356
-398	sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM.png	6497254
-399	sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM.png	6475701
-400	sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM.png	6534242
-401	sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM.png	6551066
-402	sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM.png	5993637
-403	sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM.png	6086677
-404	sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM.png	5960184
-405	sub-nyuMouse33/micr/sub-nyuMouse33_sample-0009_TEM.png	6074704
-406	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0003_TEM.png	6291104
-407	sub-nyuMouse33/micr/sub-nyuMouse33_sample-0008_TEM.png	6170211
-408	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0002_TEM.png	6405610
-409	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0001_TEM.png	6661414
-410	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0004_TEM.png	6385100
-411	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0006_TEM.png	6391667
-412	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0005_TEM.png	6310128
-413	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0008_TEM.png	6291392
-414	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0001_TEM.png	6243318
-415	sub-nyuMouse34/micr/sub-nyuMouse34_sample-0009_TEM.png	6464974
-416	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0003_TEM.png	6335848
-417	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0004_TEM.png	6274940
-418	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0002_TEM.png	6168385
-419	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0005_TEM.png	6321739
-420	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0009_TEM.png	6119591
-421	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0006_TEM.png	6238940
-422	sub-nyuMouse35/micr/sub-nyuMouse35_sample-0007_TEM.png	6269497
-423	sub-nyuMouse36/micr/sub-nyuMouse36_sample-0002_TEM.png	6128942
-424	sub-nyuMouse36/micr/sub-nyuMouse36_sample-0004_TEM.png	6275892
-425	sub-nyuMouse36/micr/sub-nyuMouse36_sample-0005_TEM.png	6195861
-426	sub-nyuMouse36/micr/sub-nyuMouse36_sample-0006_TEM.png	6396160
-427	sub-nyuMouse36/micr/sub-nyuMouse36_sample-0008_TEM.png	6295286
+asset_path	bytes_sent
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM_seg-axon-manual.png	177165
+README	4276
+CHANGES	1662
+derivatives/labels/dataset_description.json	1275
+dataset_description.json	1479
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM_seg-axon-manual.png	140895
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM_seg-myelin-manual.png	342438
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM_seg-axonmyelin-manual.png	255441
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM_seg-axonmyelin-manual.png	210636
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM_seg-myelin-manual.png	261801
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM_seg-axon-manual.png	174735
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM_seg-axonmyelin-manual.png	251886
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM_seg-axon-manual.png	152016
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM_seg-myelin-manual.png	526775
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM_seg-axonmyelin-manual.png	193197
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM_seg-myelin-manual.png	272820
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM_seg-axon-manual.png	186615
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM_seg-axonmyelin-manual.png	262758
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM_seg-axon-manual.png	190785
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM_seg-myelin-manual.png	352020
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM_seg-axonmyelin-manual.png	249393
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM_seg-myelin-manual.png	350469
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM_seg-axon-manual.png	222792
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM_seg-axonmyelin-manual.png	310485
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM_seg-myelin-manual.png	414996
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM_seg-axon-manual.png	166650
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM_seg-axonmyelin-manual.png	390710
+derivatives/labels/sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM_seg-myelin-manual.png	297405
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM_seg-axon-manual.png	223230
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM_seg-axonmyelin-manual.png	314679
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM_seg-myelin-manual.png	433368
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM_seg-axon-manual.png	231609
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM_seg-axonmyelin-manual.png	354789
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM_seg-myelin-manual.png	447723
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM_seg-axon-manual.png	245667
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM_seg-axonmyelin-manual.png	321522
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM_seg-myelin-manual.png	463128
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM_seg-axon-manual.png	186663
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM_seg-axonmyelin-manual.png	361161
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM_seg-axon-manual.png	177249
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM_seg-myelin-manual.png	348039
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM_seg-axonmyelin-manual.png	257958
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM_seg-myelin-manual.png	331938
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM_seg-axonmyelin-manual.png	291972
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM_seg-myelin-manual.png	281103
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM_seg-axon-manual.png	154314
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM_seg-axon-manual.png	186759
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM_seg-axonmyelin-manual.png	356673
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM_seg-myelin-manual.png	343350
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM_seg-axonmyelin-manual.png	361710
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM_seg-axon-manual.png	186909
+derivatives/labels/sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM_seg-myelin-manual.png	348576
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM_seg-axon-manual.png	99219
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM_seg-axonmyelin-manual.png	126579
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM_seg-axon-manual.png	92124
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM_seg-myelin-manual.png	165888
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM_seg-myelin-manual.png	151869
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM_seg-axonmyelin-manual.png	201665
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM_seg-axon-manual.png	99189
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM_seg-axonmyelin-manual.png	135228
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM_seg-myelin-manual.png	167340
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM_seg-axonmyelin-manual.png	149178
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM_seg-axon-manual.png	103611
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM_seg-myelin-manual.png	175155
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM_seg-axon-manual.png	61698
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM_seg-axonmyelin-manual.png	126303
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM_seg-myelin-manual.png	95043
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM_seg-axon-manual.png	45993
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM_seg-axonmyelin-manual.png	85632
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM_seg-myelin-manual.png	66048
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM_seg-axon-manual.png	205005
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM_seg-myelin-manual.png	383970
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM_seg-axonmyelin-manual.png	293349
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM_seg-axon-manual.png	375970
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM_seg-axonmyelin-manual.png	312219
+derivatives/labels/sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM_seg-myelin-manual.png	424239
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM_seg-axon-manual.png	171894
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM_seg-myelin-manual.png	317943
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM_seg-axonmyelin-manual.png	237555
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM_seg-axon-manual.png	209598
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM_seg-axonmyelin-manual.png	286422
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM_seg-myelin-manual.png	401946
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM_seg-axonmyelin-manual.png	258633
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM_seg-axon-manual.png	178587
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM_seg-myelin-manual.png	552310
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM_seg-axon-manual.png	172593
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM_seg-axonmyelin-manual.png	246069
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM_seg-myelin-manual.png	525095
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM_seg-axonmyelin-manual.png	495610
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM_seg-axon-manual.png	187164
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM_seg-myelin-manual.png	343320
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM_seg-axon-manual.png	171636
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM_seg-myelin-manual.png	307350
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM_seg-axonmyelin-manual.png	245379
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM_seg-axon-manual.png	211713
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM_seg-axonmyelin-manual.png	336426
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM_seg-myelin-manual.png	392142
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM_seg-axon-manual.png	166302
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM_seg-axonmyelin-manual.png	273075
+derivatives/labels/sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM_seg-myelin-manual.png	295794
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0002_TEM_seg-axon-manual.png	180870
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0002_TEM_seg-axonmyelin-manual.png	282120
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0003_TEM_seg-axon-manual.png	182466
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0002_TEM_seg-myelin-manual.png	347652
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0003_TEM_seg-axonmyelin-manual.png	332871
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0003_TEM_seg-myelin-manual.png	345060
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0004_TEM_seg-axon-manual.png	164820
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0004_TEM_seg-axonmyelin-manual.png	292992
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0005_TEM_seg-axon-manual.png	173790
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0005_TEM_seg-axonmyelin-manual.png	333852
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0004_TEM_seg-myelin-manual.png	308820
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0005_TEM_seg-myelin-manual.png	324708
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0008_TEM_seg-axon-manual.png	250465
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0009_TEM_seg-axon-manual.png	175596
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0008_TEM_seg-axonmyelin-manual.png	255204
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0008_TEM_seg-myelin-manual.png	266109
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0009_TEM_seg-axonmyelin-manual.png	288096
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0009_TEM_seg-myelin-manual.png	320280
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0010_TEM_seg-axonmyelin-manual.png	316035
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0010_TEM_seg-axon-manual.png	191154
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0010_TEM_seg-myelin-manual.png	352908
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0011_TEM_seg-axon-manual.png	195363
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0011_TEM_seg-axonmyelin-manual.png	339852
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0001_TEM_seg-axon-manual.png	69984
+derivatives/labels/sub-nyuMouse12/micr/sub-nyuMouse12_sample-0011_TEM_seg-myelin-manual.png	611935
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0001_TEM_seg-axonmyelin-manual.png	153675
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0001_TEM_seg-myelin-manual.png	114507
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0002_TEM_seg-axon-manual.png	119814
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0002_TEM_seg-axonmyelin-manual.png	153954
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0002_TEM_seg-myelin-manual.png	207216
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0003_TEM_seg-axon-manual.png	165030
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0003_TEM_seg-axonmyelin-manual.png	229266
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0003_TEM_seg-myelin-manual.png	297699
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0004_TEM_seg-axon-manual.png	165177
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0004_TEM_seg-myelin-manual.png	293205
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0005_TEM_seg-axon-manual.png	98871
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0005_TEM_seg-axonmyelin-manual.png	138504
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0004_TEM_seg-axonmyelin-manual.png	207552
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0005_TEM_seg-myelin-manual.png	170379
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0006_TEM_seg-axon-manual.png	82935
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0007_TEM_seg-axon-manual.png	96660
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0006_TEM_seg-axonmyelin-manual.png	134764
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0006_TEM_seg-myelin-manual.png	135327
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0007_TEM_seg-axonmyelin-manual.png	132033
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0008_TEM_seg-axon-manual.png	138549
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0007_TEM_seg-myelin-manual.png	158244
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0008_TEM_seg-axonmyelin-manual.png	192387
+derivatives/labels/sub-nyuMouse13/micr/sub-nyuMouse13_sample-0008_TEM_seg-myelin-manual.png	410170
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0001_TEM_seg-axon-manual.png	112623
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0001_TEM_seg-axonmyelin-manual.png	225180
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0001_TEM_seg-myelin-manual.png	197649
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0002_TEM_seg-axonmyelin-manual.png	215400
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0002_TEM_seg-axon-manual.png	155010
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0002_TEM_seg-myelin-manual.png	278277
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0003_TEM_seg-axonmyelin-manual.png	178482
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0003_TEM_seg-axon-manual.png	125094
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0003_TEM_seg-myelin-manual.png	217884
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0004_TEM_seg-axon-manual.png	170205
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0004_TEM_seg-axonmyelin-manual.png	325374
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0004_TEM_seg-myelin-manual.png	312354
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0005_TEM_seg-axon-manual.png	160125
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0005_TEM_seg-axonmyelin-manual.png	218865
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0005_TEM_seg-myelin-manual.png	293376
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0006_TEM_seg-axon-manual.png	186642
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0006_TEM_seg-axonmyelin-manual.png	245550
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0006_TEM_seg-myelin-manual.png	343194
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0007_TEM_seg-axon-manual.png	168798
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0007_TEM_seg-myelin-manual.png	306474
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0007_TEM_seg-axonmyelin-manual.png	230436
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0008_TEM_seg-axon-manual.png	177039
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0008_TEM_seg-myelin-manual.png	330135
+derivatives/labels/sub-nyuMouse14/micr/sub-nyuMouse14_sample-0008_TEM_seg-axonmyelin-manual.png	271761
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM_seg-axon-manual.png	181500
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM_seg-axonmyelin-manual.png	259059
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM_seg-myelin-manual.png	333432
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0002_TEM_seg-axon-manual.png	178782
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0002_TEM_seg-axonmyelin-manual.png	274890
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0003_TEM_seg-axon-manual.png	207528
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0002_TEM_seg-myelin-manual.png	332151
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0003_TEM_seg-axonmyelin-manual.png	285669
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0003_TEM_seg-myelin-manual.png	381327
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0004_TEM_seg-axon-manual.png	193662
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0004_TEM_seg-axonmyelin-manual.png	278577
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0004_TEM_seg-myelin-manual.png	360429
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0005_TEM_seg-axon-manual.png	179535
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0005_TEM_seg-axonmyelin-manual.png	341016
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0005_TEM_seg-myelin-manual.png	325809
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0006_TEM_seg-axon-manual.png	209709
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0006_TEM_seg-axonmyelin-manual.png	314832
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0006_TEM_seg-myelin-manual.png	393711
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0007_TEM_seg-axon-manual.png	188427
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0007_TEM_seg-axonmyelin-manual.png	274593
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0007_TEM_seg-myelin-manual.png	343803
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0008_TEM_seg-axon-manual.png	210399
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0008_TEM_seg-axonmyelin-manual.png	311133
+derivatives/labels/sub-nyuMouse15/micr/sub-nyuMouse15_sample-0008_TEM_seg-myelin-manual.png	396474
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0001_TEM_seg-axon-manual.png	267516
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0001_TEM_seg-axonmyelin-manual.png	402174
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0001_TEM_seg-myelin-manual.png	499872
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM_seg-axon-manual.png	281439
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM_seg-axonmyelin-manual.png	416829
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM_seg-myelin-manual.png	529389
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM_seg-axon-manual.png	257829
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM_seg-axonmyelin-manual.png	384090
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM_seg-myelin-manual.png	485406
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM_seg-axon-manual.png	233310
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM_seg-axonmyelin-manual.png	349593
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM_seg-myelin-manual.png	431541
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM_seg-axon-manual.png	273564
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM_seg-axonmyelin-manual.png	398973
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM_seg-myelin-manual.png	511683
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM_seg-axonmyelin-manual.png	423561
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM_seg-axon-manual.png	277173
+derivatives/labels/sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM_seg-myelin-manual.png	528702
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM_seg-axon-manual.png	239193
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM_seg-axonmyelin-manual.png	329829
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM_seg-axon-manual.png	230307
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM_seg-myelin-manual.png	452808
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM_seg-axonmyelin-manual.png	311493
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM_seg-myelin-manual.png	432729
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM_seg-axon-manual.png	233853
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM_seg-axonmyelin-manual.png	301611
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM_seg-myelin-manual.png	437436
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM_seg-axon-manual.png	232224
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM_seg-axonmyelin-manual.png	298635
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM_seg-myelin-manual.png	437232
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM_seg-axon-manual.png	255615
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM_seg-axonmyelin-manual.png	298266
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM_seg-myelin-manual.png	481398
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM_seg-axon-manual.png	232215
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM_seg-axonmyelin-manual.png	322980
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM_seg-myelin-manual.png	435201
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM_seg-axon-manual.png	252528
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM_seg-axonmyelin-manual.png	353502
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM_seg-myelin-manual.png	473583
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM_seg-axonmyelin-manual.png	343242
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM_seg-axon-manual.png	264291
+derivatives/labels/sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM_seg-myelin-manual.png	491556
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM_seg-axon-manual.png	272502
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM_seg-axonmyelin-manual.png	359547
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM_seg-myelin-manual.png	506112
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM_seg-axon-manual.png	261804
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM_seg-axonmyelin-manual.png	359328
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM_seg-myelin-manual.png	491661
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM_seg-axon-manual.png	265251
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM_seg-axonmyelin-manual.png	378591
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM_seg-myelin-manual.png	504318
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM_seg-axon-manual.png	225471
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM_seg-axonmyelin-manual.png	309414
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM_seg-myelin-manual.png	423927
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM_seg-axon-manual.png	204108
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM_seg-axonmyelin-manual.png	307455
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM_seg-myelin-manual.png	389748
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM_seg-axon-manual.png	250083
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM_seg-axonmyelin-manual.png	348522
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM_seg-myelin-manual.png	466311
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM_seg-axon-manual.png	299340
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM_seg-axonmyelin-manual.png	376617
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM_seg-axon-manual.png	250134
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM_seg-myelin-manual.png	550374
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM_seg-axonmyelin-manual.png	346698
+derivatives/labels/sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM_seg-myelin-manual.png	475950
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM_seg-axon-manual.png	181440
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM_seg-axonmyelin-manual.png	246462
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM_seg-myelin-manual.png	343938
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM_seg-axon-manual.png	186834
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM_seg-axonmyelin-manual.png	283737
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM_seg-myelin-manual.png	360837
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM_seg-axonmyelin-manual.png	274185
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM_seg-axon-manual.png	226767
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM_seg-myelin-manual.png	425025
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM_seg-axon-manual.png	190953
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM_seg-axonmyelin-manual.png	378204
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM_seg-myelin-manual.png	364338
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM_seg-axon-manual.png	169335
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM_seg-axonmyelin-manual.png	233001
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM_seg-axon-manual.png	174711
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM_seg-myelin-manual.png	310737
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM_seg-axonmyelin-manual.png	250869
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM_seg-myelin-manual.png	334119
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM_seg-axon-manual.png	143373
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM_seg-axonmyelin-manual.png	187362
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM_seg-myelin-manual.png	252294
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM_seg-axon-manual.png	174288
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM_seg-axonmyelin-manual.png	247185
+derivatives/labels/sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM_seg-myelin-manual.png	327612
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM_seg-axon-manual.png	172617
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM_seg-axonmyelin-manual.png	254880
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM_seg-myelin-manual.png	327684
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM_seg-axon-manual.png	134931
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM_seg-axonmyelin-manual.png	199605
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM_seg-myelin-manual.png	244113
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM_seg-axon-manual.png	138495
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM_seg-myelin-manual.png	251376
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM_seg-axonmyelin-manual.png	207771
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM_seg-axon-manual.png	128604
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM_seg-axonmyelin-manual.png	190269
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM_seg-myelin-manual.png	233538
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM_seg-axon-manual.png	141261
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM_seg-axonmyelin-manual.png	191793
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM_seg-myelin-manual.png	250050
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM_seg-axon-manual.png	162030
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM_seg-axonmyelin-manual.png	217176
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM_seg-axonmyelin-manual.png	214728
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM_seg-myelin-manual.png	297837
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM_seg-axon-manual.png	159576
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM_seg-myelin-manual.png	282456
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM_seg-axon-manual.png	192477
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM_seg-axonmyelin-manual.png	259620
+derivatives/labels/sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM_seg-myelin-manual.png	345291
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM_seg-axon-manual.png	191736
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM_seg-axonmyelin-manual.png	284970
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM_seg-myelin-manual.png	360963
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM_seg-axonmyelin-manual.png	295095
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM_seg-axon-manual.png	212841
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM_seg-myelin-manual.png	396426
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM_seg-axonmyelin-manual.png	273963
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM_seg-axon-manual.png	212994
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM_seg-myelin-manual.png	392910
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM_seg-axon-manual.png	200526
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM_seg-axonmyelin-manual.png	395562
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM_seg-axon-manual.png	214971
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM_seg-myelin-manual.png	380445
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM_seg-axonmyelin-manual.png	277509
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM_seg-axon-manual.png	235482
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM_seg-myelin-manual.png	402840
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM_seg-axonmyelin-manual.png	328482
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM_seg-axon-manual.png	189186
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM_seg-myelin-manual.png	451956
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM_seg-axonmyelin-manual.png	261870
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM_seg-myelin-manual.png	340128
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM_seg-axon-manual.png	206679
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM_seg-axonmyelin-manual.png	280494
+derivatives/labels/sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM_seg-myelin-manual.png	382770
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM_seg-axon-manual.png	194868
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM_seg-axonmyelin-manual.png	271527
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM_seg-myelin-manual.png	350520
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM_seg-axon-manual.png	170361
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM_seg-axonmyelin-manual.png	317184
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM_seg-myelin-manual.png	304551
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM_seg-axon-manual.png	168753
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM_seg-axonmyelin-manual.png	247707
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM_seg-myelin-manual.png	301827
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM_seg-axon-manual.png	170730
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM_seg-axonmyelin-manual.png	241131
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM_seg-myelin-manual.png	304221
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM_seg-axonmyelin-manual.png	269754
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM_seg-axon-manual.png	181857
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM_seg-axon-manual.png	170328
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM_seg-myelin-manual.png	328575
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM_seg-axonmyelin-manual.png	239613
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM_seg-myelin-manual.png	300303
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM_seg-axon-manual.png	156069
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM_seg-myelin-manual.png	273360
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM_seg-axonmyelin-manual.png	253281
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM_seg-axon-manual.png	118968
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM_seg-axonmyelin-manual.png	147108
+derivatives/labels/sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM_seg-myelin-manual.png	197418
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM_seg-axon-manual.png	119232
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM_seg-axonmyelin-manual.png	176040
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM_seg-myelin-manual.png	207636
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM_seg-axon-manual.png	130488
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM_seg-axonmyelin-manual.png	194070
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM_seg-myelin-manual.png	229221
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM_seg-axon-manual.png	156093
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM_seg-axonmyelin-manual.png	281904
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM_seg-myelin-manual.png	284079
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM_seg-axon-manual.png	158865
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM_seg-axonmyelin-manual.png	296880
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM_seg-myelin-manual.png	285576
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM_seg-axon-manual.png	188664
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM_seg-axonmyelin-manual.png	282309
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM_seg-myelin-manual.png	345918
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM_seg-axon-manual.png	152550
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM_seg-axonmyelin-manual.png	284628
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM_seg-myelin-manual.png	273891
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM_seg-axon-manual.png	188604
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM_seg-axonmyelin-manual.png	288999
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM_seg-myelin-manual.png	348489
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM_seg-axon-manual.png	178572
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM_seg-axonmyelin-manual.png	273345
+derivatives/labels/sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM_seg-myelin-manual.png	324543
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM_seg-axon-manual.png	208521
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM_seg-axonmyelin-manual.png	394638
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM_seg-myelin-manual.png	379680
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM_seg-axon-manual.png	222744
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM_seg-axonmyelin-manual.png	310896
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM_seg-myelin-manual.png	408648
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM_seg-axon-manual.png	196836
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM_seg-axonmyelin-manual.png	341280
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM_seg-myelin-manual.png	365070
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM_seg-axon-manual.png	206799
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM_seg-axonmyelin-manual.png	342393
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM_seg-myelin-manual.png	376164
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM_seg-axon-manual.png	209112
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM_seg-axonmyelin-manual.png	301566
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM_seg-myelin-manual.png	383781
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM_seg-axonmyelin-manual.png	331311
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM_seg-axon-manual.png	240114
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM_seg-myelin-manual.png	441066
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0008_TEM_seg-axon-manual.png	184947
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0008_TEM_seg-axonmyelin-manual.png	296793
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0008_TEM_seg-myelin-manual.png	327792
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0009_TEM_seg-axon-manual.png	176355
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0009_TEM_seg-myelin-manual.png	306582
+derivatives/labels/sub-nyuMouse33/micr/sub-nyuMouse33_sample-0009_TEM_seg-axonmyelin-manual.png	299913
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0001_TEM_seg-axonmyelin-manual.png	239745
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0001_TEM_seg-axon-manual.png	166023
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0001_TEM_seg-myelin-manual.png	304536
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0002_TEM_seg-axon-manual.png	162090
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0002_TEM_seg-axonmyelin-manual.png	247770
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0002_TEM_seg-myelin-manual.png	300087
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0003_TEM_seg-axon-manual.png	198837
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0003_TEM_seg-axonmyelin-manual.png	296205
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0003_TEM_seg-myelin-manual.png	369918
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0004_TEM_seg-axon-manual.png	183210
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0004_TEM_seg-axonmyelin-manual.png	271179
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0004_TEM_seg-myelin-manual.png	336936
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0005_TEM_seg-axon-manual.png	190641
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0005_TEM_seg-axonmyelin-manual.png	288492
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0005_TEM_seg-myelin-manual.png	352116
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0006_TEM_seg-axon-manual.png	180783
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0006_TEM_seg-myelin-manual.png	331137
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0006_TEM_seg-axonmyelin-manual.png	265440
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0008_TEM_seg-axon-manual.png	227352
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0008_TEM_seg-axonmyelin-manual.png	332034
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0008_TEM_seg-myelin-manual.png	423597
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0009_TEM_seg-axon-manual.png	195360
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0009_TEM_seg-axonmyelin-manual.png	326784
+derivatives/labels/sub-nyuMouse34/micr/sub-nyuMouse34_sample-0009_TEM_seg-myelin-manual.png	352167
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0001_TEM_seg-axon-manual.png	227379
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0001_TEM_seg-axonmyelin-manual.png	322845
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0002_TEM_seg-axon-manual.png	262425
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0001_TEM_seg-myelin-manual.png	441294
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0002_TEM_seg-axonmyelin-manual.png	344169
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0002_TEM_seg-myelin-manual.png	489525
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0003_TEM_seg-axon-manual.png	236748
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0003_TEM_seg-axonmyelin-manual.png	338490
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0003_TEM_seg-myelin-manual.png	455694
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0004_TEM_seg-axon-manual.png	239985
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0004_TEM_seg-axonmyelin-manual.png	467592
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0004_TEM_seg-myelin-manual.png	447114
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0005_TEM_seg-axonmyelin-manual.png	359772
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0005_TEM_seg-axon-manual.png	256548
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0006_TEM_seg-axon-manual.png	251718
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0005_TEM_seg-myelin-manual.png	487608
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0006_TEM_seg-axonmyelin-manual.png	340584
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0006_TEM_seg-myelin-manual.png	476886
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0007_TEM_seg-axon-manual.png	234483
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0007_TEM_seg-axonmyelin-manual.png	326877
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0007_TEM_seg-myelin-manual.png	436887
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0009_TEM_seg-axon-manual.png	255438
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0009_TEM_seg-axonmyelin-manual.png	346554
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0001_TEM_seg-axonmyelin-manual.png	341607
+derivatives/labels/sub-nyuMouse35/micr/sub-nyuMouse35_sample-0009_TEM_seg-myelin-manual.png	488583
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0001_TEM_seg-axon-manual.png	241638
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0001_TEM_seg-myelin-manual.png	449394
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0002_TEM_seg-axon-manual.png	235965
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0003_TEM_seg-axon-manual.png	213387
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0002_TEM_seg-myelin-manual.png	436893
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0002_TEM_seg-axonmyelin-manual.png	339954
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0003_TEM_seg-axonmyelin-manual.png	295002
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0003_TEM_seg-myelin-manual.png	387081
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0004_TEM_seg-axon-manual.png	244929
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0004_TEM_seg-axonmyelin-manual.png	349998
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0004_TEM_seg-myelin-manual.png	461397
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0005_TEM_seg-axon-manual.png	236040
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0005_TEM_seg-axonmyelin-manual.png	327258
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0005_TEM_seg-myelin-manual.png	434205
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0006_TEM_seg-axon-manual.png	256683
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0006_TEM_seg-axonmyelin-manual.png	337548
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0007_TEM_seg-axon-manual.png	206958
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0006_TEM_seg-myelin-manual.png	479934
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0007_TEM_seg-axonmyelin-manual.png	305229
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0007_TEM_seg-myelin-manual.png	380337
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0008_TEM_seg-axonmyelin-manual.png	300924
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0008_TEM_seg-axon-manual.png	214893
+participants.json	1631
+derivatives/labels/sub-nyuMouse36/micr/sub-nyuMouse36_sample-0008_TEM_seg-myelin-manual.png	395706
+participants.tsv	1749
+samples.json	987
+samples.tsv	16227
+sub-nyuMouse36/micr/sub-nyuMouse36_TEM.json	205820
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0002_TEM.png	19722027
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0003_TEM.png	19698855
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0005_TEM.png	19496994
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0004_TEM.png	19491864
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0006_TEM.png	19801692
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0007_TEM.png	19584915
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0001_TEM.png	19257681
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0001_TEM.png	19359753
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0002_TEM.png	19388856
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0003_TEM.png	19113513
+sub-nyuMouse07/micr/sub-nyuMouse07_sample-0008_TEM.png	19611423
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0004_TEM.png	18942465
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0006_TEM.png	19050819
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0007_TEM.png	19596762
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0005_TEM.png	19013823
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0001_TEM.png	19140207
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0003_TEM.png	19253094
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0002_TEM.png	19243197
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0004_TEM.png	19231926
+sub-nyuMouse09/micr/sub-nyuMouse09_sample-0008_TEM.png	18993153
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0005_TEM.png	16889310
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0006_TEM.png	19122660
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0007_TEM.png	18523488
+sub-nyuMouse10/micr/sub-nyuMouse10_sample-0008_TEM.png	18525432
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0001_TEM.png	18834042
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0003_TEM.png	18793488
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0002_TEM.png	18159081
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0004_TEM.png	18796452
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0006_TEM.png	18796398
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0008_TEM.png	18878454
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0007_TEM.png	18831456
+sub-nyuMouse11/micr/sub-nyuMouse11_sample-0005_TEM.png	18779010
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0002_TEM.png	19555275
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0003_TEM.png	19000911
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0008_TEM.png	19201167
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0004_TEM.png	19665669
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0005_TEM.png	19191834
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0011_TEM.png	19386876
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0009_TEM.png	19101705
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0001_TEM.png	19196616
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0002_TEM.png	18769020
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0003_TEM.png	19337319
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0005_TEM.png	19070784
+sub-nyuMouse12/micr/sub-nyuMouse12_sample-0010_TEM.png	19042125
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0007_TEM.png	19588077
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0008_TEM.png	19343931
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0004_TEM.png	18725910
+sub-nyuMouse13/micr/sub-nyuMouse13_sample-0006_TEM.png	18986592
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0004_TEM.png	18212004
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0002_TEM.png	18651717
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0003_TEM.png	18931314
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0001_TEM.png	18557571
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0005_TEM.png	19659612
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0008_TEM.png	19390662
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0007_TEM.png	18871827
+sub-nyuMouse14/micr/sub-nyuMouse14_sample-0006_TEM.png	19210263
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0001_TEM.png	18758157
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0002_TEM.png	19421466
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0003_TEM.png	19668972
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0006_TEM.png	19363542
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0007_TEM.png	18941934
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0005_TEM.png	19602600
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0004_TEM.png	19593279
+sub-nyuMouse15/micr/sub-nyuMouse15_sample-0008_TEM.png	19310316
+sub-nyuMouse25/micr/sub-nyuMouse25_sample-0003_TEM.png	19560606
+sub-nyuMouse25/micr/sub-nyuMouse25_sample-0006_TEM.png	19277649
+sub-nyuMouse25/micr/sub-nyuMouse25_sample-0004_TEM.png	19788762
+sub-nyuMouse25/micr/sub-nyuMouse25_sample-0001_TEM.png	19731246
+sub-nyuMouse25/micr/sub-nyuMouse25_sample-0008_TEM.png	19312521
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0001_TEM.png	19006950
+sub-nyuMouse25/micr/sub-nyuMouse25_sample-0005_TEM.png	19608108
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0002_TEM.png	19239039
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0004_TEM.png	19365177
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0003_TEM.png	19124736
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0005_TEM.png	19365246
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0007_TEM.png	19216824
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0008_TEM.png	19262514
+sub-nyuMouse26/micr/sub-nyuMouse26_sample-0006_TEM.png	19284927
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0002_TEM.png	18849864
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0003_TEM.png	19272300
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0001_TEM.png	19015299
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0004_TEM.png	18710217
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0006_TEM.png	18982503
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0007_TEM.png	19112268
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0005_TEM.png	18744909
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0002_TEM.png	19181748
+sub-nyuMouse27/micr/sub-nyuMouse27_sample-0008_TEM.png	19075284
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0004_TEM.png	18765960
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0006_TEM.png	18712386
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0001_TEM.png	18658842
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0005_TEM.png	18939792
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0003_TEM.png	18959868
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0008_TEM.png	18866262
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0001_TEM.png	18178020
+sub-nyuMouse28/micr/sub-nyuMouse28_sample-0009_TEM.png	18919032
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0002_TEM.png	18895749
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0005_TEM.png	18843999
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0004_TEM.png	18713547
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0007_TEM.png	18889848
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0006_TEM.png	18433479
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0003_TEM.png	18772425
+sub-nyuMouse29/micr/sub-nyuMouse29_sample-0009_TEM.png	19321041
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0001_TEM.png	19695714
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0002_TEM.png	19408068
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0004_TEM.png	19491762
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0003_TEM.png	19427103
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0006_TEM.png	19602726
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0008_TEM.png	19653198
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0005_TEM.png	19212483
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0001_TEM.png	18490761
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0002_TEM.png	18334089
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0003_TEM.png	18440814
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0004_TEM.png	18765279
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0005_TEM.png	18319131
+sub-nyuMouse30/micr/sub-nyuMouse30_sample-0009_TEM.png	19691769
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0006_TEM.png	17968185
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0007_TEM.png	18049152
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0001_TEM.png	18518076
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0002_TEM.png	18555333
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0004_TEM.png	18840171
+sub-nyuMouse31/micr/sub-nyuMouse31_sample-0009_TEM.png	18102969
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0007_TEM.png	18372870
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0003_TEM.png	18438006
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0009_TEM.png	17863749
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0005_TEM.png	18741063
+sub-nyuMouse32/micr/sub-nyuMouse32_sample-0006_TEM.png	18806883
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0002_TEM.png	18202908
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0003_TEM.png	18251973
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0004_TEM.png	18133830
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0001_TEM.png	17980911
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0005_TEM.png	18260031
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0006_TEM.png	17880552
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0009_TEM.png	18224112
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0003_TEM.png	18873312
+sub-nyuMouse33/micr/sub-nyuMouse33_sample-0008_TEM.png	18510633
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0002_TEM.png	19216830
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0001_TEM.png	19984242
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0004_TEM.png	19155300
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0006_TEM.png	19175001
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0005_TEM.png	18930384
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0008_TEM.png	18874176
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0001_TEM.png	18729954
+sub-nyuMouse34/micr/sub-nyuMouse34_sample-0009_TEM.png	19394922
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0003_TEM.png	19007544
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0004_TEM.png	18824820
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0002_TEM.png	18505155
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0005_TEM.png	18965217
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0009_TEM.png	18358773
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0006_TEM.png	18716820
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0001_TEM.png	18382509
+sub-nyuMouse35/micr/sub-nyuMouse35_sample-0007_TEM.png	18808491
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0003_TEM.png	18592893
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0002_TEM.png	18386826
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0004_TEM.png	18827676
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0005_TEM.png	18587583
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0006_TEM.png	19188480
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0008_TEM.png	18885858
+sub-nyuMouse36/micr/sub-nyuMouse36_sample-0007_TEM.png	18884841

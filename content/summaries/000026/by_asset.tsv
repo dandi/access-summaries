@@ -570,8 +570,8 @@ sub-EXC022/ses-MRI/anat/sub-EXC022_ses-MRI_echo-3_flip-4_VFA.nii.gz	29344146877
 sub-EXC022/ses-MRI/anat/sub-EXC022_ses-MRI_echo-4_flip-4_VFA.nii.gz	34076794706
 sub-EXC022/sub-EXC022_sessions.tsv	940
 sub-EXC022/ses-MRI/anat/sub-EXC022_ses-MRI_echo-4_flip-3_VFA.nii.gz	33059134507
-dataset_description.json	422125
-samples.tsv	186450
+dataset_description.json	425502
+samples.tsv	189275
 sub-I38/ses-MRI/anat/sub-I38_ses-MRI_echo-1_flip-1_VFA.nii.gz	94727894863
 sub-I38/ses-MRI/anat/sub-I38_ses-MRI_echo-1_flip-2_VFA.nii.gz	35713713773
 sub-I38/ses-MRI/anat/sub-I38_ses-MRI_echo-1_flip-4_VFA.nii.gz	33484330201
@@ -36027,7 +36027,7 @@ sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS44_stain-Somatostatin_SP
 sub-I59/ses-SPIM/micr/sub-I59_ses-SPIM_sample-BrocaAreaS42_stain-NeuN_SPIM.ome.zarr	46538619869
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS01_stain-NeuN_SPIM.ome.zarr	71240042480
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS01_stain-Calretinin_SPIM.ome.zarr	69003853588
-sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS01_stain-Somatostatin_SPIM.ome.zarr	68426139752
+sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS01_stain-Somatostatin_SPIM.ome.zarr	68433996448
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS02_stain-NeuN_SPIM.ome.zarr	79374155426
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS02_stain-Calretinin_SPIM.ome.zarr	73384679667
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS03_stain-Calretinin_SPIM.ome.zarr	68556000825
@@ -36092,7 +36092,7 @@ sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS25_stain-NeuN_SPIM.ome.z
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS25_stain-Somatostatin_SPIM.ome.zarr	44882451984
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS26_stain-Calretinin_SPIM.ome.zarr	53768675421
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS26_stain-NeuN_SPIM.ome.zarr	60510761332
-sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS26_stain-Somatostatin_SPIM.ome.zarr	57466325860
+sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS26_stain-Somatostatin_SPIM.ome.zarr	57479881117
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS27_stain-Calretinin_SPIM.ome.zarr	43837704741
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS27_stain-NeuN_SPIM.ome.zarr	51706336764
 sub-I57/ses-SPIM/micr/sub-I57_ses-SPIM_sample-BrocaAreaS27_stain-Somatostatin_SPIM.ome.zarr	47067598296
@@ -36802,7 +36802,7 @@ sub-I61/ses-SPIM/micr/sub-I61_ses-SPIM_sample-BrocaAreaS37_stain-NeuN_SPIM.ome.z
 sub-I61/ses-SPIM/micr/sub-I61_ses-SPIM_sample-BrocaAreaS37_stain-Somatostatin_SPIM.ome.zarr	17799820965
 sub-I61/ses-SPIM/micr/sub-I61_ses-SPIM_sample-BrocaAreaS37_stain-Calretinin_SPIM.ome.zarr	17321745242
 sub-I61/ses-SPIM/micr/sub-I61_ses-SPIM_sample-BrocaAreaS32_stain-NeuN_SPIM.ome.zarr	51121764969
-sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS01_stain-Calretinin_SPIM.ome.zarr	40553974957
+sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS01_stain-Calretinin_SPIM.ome.zarr	40556989745
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS02_stain-Calretinin_SPIM.ome.zarr	46296263725
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS02_stain-NeuN_SPIM.ome.zarr	44877887112
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS01_stain-NeuN_SPIM.ome.zarr	45260870091
@@ -36834,7 +36834,7 @@ sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS11_stain-NeuN_SPIM.ome.z
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS11_stain-Calretinin_SPIM.ome.zarr	52565188714
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS10_stain-Somatostatin_SPIM.ome.zarr	50351084074
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS10_stain-NeuN_SPIM.ome.zarr	52325789760
-sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS11_stain-Somatostatin_SPIM.ome.zarr	45971026891
+sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS11_stain-Somatostatin_SPIM.ome.zarr	45971027286
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS12_stain-Calretinin_SPIM.ome.zarr	29802752117
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS12_stain-Somatostatin_SPIM.ome.zarr	47485040100
 sub-I58/ses-SPIM/micr/sub-I58_ses-SPIM_sample-BrocaAreaS13_stain-Calretinin_SPIM.ome.zarr	45110137300
@@ -37156,4 +37156,4 @@ sub-I48/ses-SPIM/micr/sub-I48_ses-SPIM_sample-BrocaAreaS04_stain-Nuclei_SPIM.ome
 sub-I48/ses-SPIM/micr/sub-I48_ses-SPIM_sample-BrocaAreaS04_stain-NeuN_SPIM.ome.zarr	102436077135
 sub-I45/ses-SPIM/micr/sub-I45_ses-SPIM_sample-BrocaAreaS38_stain-Calretinin_SPIM.ome.zarr	89808109119
 sub-I45/ses-SPIM/micr/sub-I45_ses-SPIM_sample-BrocaAreaS32_stain-Somatostatin_SPIM.ome.zarr	118421735490
-participants.tsv	15134
+participants.tsv	17296

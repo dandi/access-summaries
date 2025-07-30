@@ -8,7 +8,7 @@ derivatives/AtlasLabel/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_sp
 derivatives/AtlasLabel/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_space-orig_dseg.ome.btf	62853364
 derivatives/AtlasLabel/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_space-orig_dseg.ome.btf	64418368
 derivatives/AtlasLabel/sub-45476ko/micr/sub-45476ko_sample-RightHemisphere_space-orig_dseg.ome.btf	64789808
-derivatives/AtlasLabel/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_space-orig_dseg.ome.btf	51410718
+derivatives/AtlasLabel/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_space-orig_dseg.ome.btf	102821436
 derivatives/AtlasLabel/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_space-orig_dseg.ome.btf	72092112
 derivatives/AtlasLabel/sub-45644ko/micr/sub-45644ko_sample-LeftHemisphere_space-orig_dseg.ome.btf	64267250
 derivatives/AtlasLabel/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_space-orig_dseg.ome.btf	69478232
@@ -21,7 +21,7 @@ derivatives/AtlasLabel/sub-45925flox/micr/sub-45925flox_sample-LeftHemisphere_sp
 derivatives/AtlasLabel/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_space-orig_dseg.ome.btf	66341440
 derivatives/AtlasLabel/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_space-orig_dseg.ome.btf	70504720
 derivatives/AtlasLabel/sub-45926flox/micr/sub-45926flox_sample-RightHemisphere_space-orig_dseg.ome.btf	64040426
-derivatives/AtlasLabel/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_space-orig_dseg.ome.btf	54852830
+derivatives/AtlasLabel/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_space-orig_dseg.ome.btf	109705660
 derivatives/AtlasLabelMasked/SPIM.json	741
 derivatives/AtlasLabel/sub-45930flox/micr/sub-45930flox_sample-LeftHemisphere_space-orig_dseg.ome.btf	56728336
 derivatives/AtlasLabel/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_space-orig_dseg.ome.btf	75173924
@@ -51,7 +51,7 @@ derivatives/FastRadialSymmetryTransform/sub-45467ko/micr/sub-45467ko_sample-Righ
 derivatives/FastRadialSymmetryTransform/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_SPIM.ome.btf	9645383621
 derivatives/FastRadialSymmetryTransform/sub-45476ko/micr/sub-45476ko_sample-RightHemisphere_SPIM.ome.btf	7646678015
 derivatives/FastRadialSymmetryTransform/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_SPIM.ome.btf	7484766177
-derivatives/FastRadialSymmetryTransform/sub-45644ko/micr/sub-45644ko_sample-LeftHemisphere_SPIM.ome.btf	8443983213
+derivatives/FastRadialSymmetryTransform/sub-45644ko/micr/sub-45644ko_sample-LeftHemisphere_SPIM.ome.btf	16727733613
 derivatives/FastRadialSymmetryTransform/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_SPIM.ome.btf	8273888467
 derivatives/FastRadialSymmetryTransform/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_SPIM.ome.btf	8685525659
 derivatives/FastRadialSymmetryTransform/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_SPIM.ome.btf	7995366491
@@ -71,8 +71,8 @@ derivatives/FastRadialSymmetryTransform/sub-45930flox/micr/sub-45930flox_sample-
 derivatives/FastRadialSymmetryTransformHemisphere/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_SPIM.ome.btf	6339509983
 derivatives/FastRadialSymmetryTransformHemisphere/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_SPIM.ome.btf	6458805185
 derivatives/FastRadialSymmetryTransformHemisphere/sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_SPIM.ome.btf	6264124687
-derivatives/FastRadialSymmetryTransformHemisphere/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_SPIM.ome.btf	6137183023
-derivatives/FastRadialSymmetryTransformHemisphere/sub-45476ko/micr/sub-45476ko_sample-RightHemisphere_SPIM.ome.btf	6342175505
+derivatives/FastRadialSymmetryTransformHemisphere/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_SPIM.ome.btf	12274366046
+derivatives/FastRadialSymmetryTransformHemisphere/sub-45476ko/micr/sub-45476ko_sample-RightHemisphere_SPIM.ome.btf	12704988718
 derivatives/FastRadialSymmetryTransformHemisphere/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_SPIM.ome.btf	5690685665
 derivatives/FastRadialSymmetryTransformHemisphere/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_SPIM.ome.btf	6629218513
 derivatives/FastRadialSymmetryTransformHemisphere/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_SPIM.ome.btf	13827535458
@@ -109,7 +109,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-040000_SPIM.ome.btf	30735129
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-004000_SPIM.ome.btf	21287593
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-006000_SPIM.ome.btf	32543858
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-008000_SPIM.ome.btf	13478297
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-008000_SPIM.ome.btf	26956594
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-010000_SPIM.ome.btf	11676121
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-012000_SPIM.ome.btf	10444569
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-014000_SPIM.ome.btf	9581449
@@ -119,21 +119,21 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-022000_SPIM.ome.btf	15746290
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-026000_SPIM.ome.btf	7476089
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-024000_SPIM.ome.btf	7653769
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-028000_SPIM.ome.btf	7329289
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-028000_SPIM.ome.btf	14658578
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-032000_SPIM.ome.btf	7103769
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-034000_SPIM.ome.btf	7016281
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-030000_SPIM.ome.btf	7206281
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-036000_SPIM.ome.btf	11067669
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-040000_SPIM.ome.btf	6818265
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-038000_SPIM.ome.btf	15260153
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-006000_SPIM.ome.btf	24398539
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-006000_SPIM.ome.btf	48797078
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-008000_SPIM.ome.btf	27912363
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-004000_SPIM.ome.btf	32082251
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-010000_SPIM.ome.btf	16733691
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-012000_SPIM.ome.btf	14605931
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-014000_SPIM.ome.btf	13074011
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-018000_SPIM.ome.btf	11065851
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-016000_SPIM.ome.btf	11934811
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-016000_SPIM.ome.btf	23869622
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-020000_SPIM.ome.btf	10388123
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-022000_SPIM.ome.btf	9849595
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_acq-024000_SPIM.ome.btf	9411483
@@ -164,7 +164,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_acq-034000_SPIM.ome.btf	7051865
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_acq-036000_SPIM.ome.btf	6887049
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_acq-038000_SPIM.ome.btf	6743881
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_acq-040000_SPIM.ome.btf	6620281
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_acq-040000_SPIM.ome.btf	13240562
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-006000_SPIM.ome.btf	34300427
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-008000_SPIM.ome.btf	27480379
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-010000_SPIM.ome.btf	23077835
@@ -179,7 +179,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-020000_SPIM.ome.btf	14094203
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-028000_SPIM.ome.btf	11768731
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-030000_SPIM.ome.btf	11409659
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-032000_SPIM.ome.btf	11105835
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-032000_SPIM.ome.btf	22211670
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-034000_SPIM.ome.btf	10845883
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-036000_SPIM.ome.btf	10621643
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_acq-038000_SPIM.ome.btf	10426331
@@ -208,7 +208,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-005000_SPIM.ome.btf	22501129
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-003000_SPIM.ome.btf	40513453
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-006000_SPIM.ome.btf	19693433
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-007000_SPIM.ome.btf	17585897
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-007000_SPIM.ome.btf	35171794
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-008000_SPIM.ome.btf	15953481
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-009000_SPIM.ome.btf	14651289
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-011000_SPIM.ome.btf	12721785
@@ -243,7 +243,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-018000_SPIM.ome.btf	11454139
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-020000_SPIM.ome.btf	10714651
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-024000_SPIM.ome.btf	9656139
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-022000_SPIM.ome.btf	10128539
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-022000_SPIM.ome.btf	20257078
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-026000_SPIM.ome.btf	17721311
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-028000_SPIM.ome.btf	8949659
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-030000_SPIM.ome.btf	8681339
@@ -268,7 +268,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-030000_SPIM.ome.btf	8908315
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-032000_SPIM.ome.btf	8638283
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-034000_SPIM.ome.btf	8410331
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-036000_SPIM.ome.btf	8213291
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-036000_SPIM.ome.btf	16426582
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-038000_SPIM.ome.btf	8042667
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-040000_SPIM.ome.btf	7894059
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-006000_SPIM.ome.btf	31216299
@@ -307,7 +307,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-008000_SPIM.ome.btf	32951355
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-010000_SPIM.ome.btf	27396107
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-012000_SPIM.ome.btf	23463531
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-014000_SPIM.ome.btf	41112502
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-014000_SPIM.ome.btf	61668753
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-016000_SPIM.ome.btf	18339435
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-018000_SPIM.ome.btf	16612555
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-020000_SPIM.ome.btf	15229563
@@ -317,7 +317,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-026000_SPIM.ome.btf	12419003
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-030000_SPIM.ome.btf	11212891
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-032000_SPIM.ome.btf	21477366
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-034000_SPIM.ome.btf	10327419
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-034000_SPIM.ome.btf	20654838
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-036000_SPIM.ome.btf	9971019
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-040000_SPIM.ome.btf	9385723
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-038000_SPIM.ome.btf	19318102
@@ -325,7 +325,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-008000_SPIM.ome.btf	30706011
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-004000_SPIM.ome.btf	50080091
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-012000_SPIM.ome.btf	22384235
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-010000_SPIM.ome.btf	25840587
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-010000_SPIM.ome.btf	51681174
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-014000_SPIM.ome.btf	19816235
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-022000_SPIM.ome.btf	14054251
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-018000_SPIM.ome.btf	16301899
@@ -341,7 +341,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-038000_SPIM.ome.btf	9992923
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-036000_SPIM.ome.btf	10281467
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-006000_SPIM.ome.btf	38126491
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-004000_SPIM.ome.btf	50620379
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-004000_SPIM.ome.btf	101240758
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-010000_SPIM.ome.btf	25814875
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-008000_SPIM.ome.btf	61409846
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-016000_SPIM.ome.btf	18006731
@@ -375,7 +375,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-006000_SPIM.ome.btf	29162811
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-010000_SPIM.ome.btf	20212043
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-012000_SPIM.ome.btf	17811435
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-014000_SPIM.ome.btf	16116715
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-014000_SPIM.ome.btf	32233430
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-016000_SPIM.ome.btf	14857099
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-018000_SPIM.ome.btf	13894091
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-020000_SPIM.ome.btf	13143963
@@ -396,7 +396,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-014000_SPIM.ome.btf	16370811
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-016000_SPIM.ome.btf	15019051
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-018000_SPIM.ome.btf	13981483
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-020000_SPIM.ome.btf	13170651
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-020000_SPIM.ome.btf	26341302
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-022000_SPIM.ome.btf	12524763
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-024000_SPIM.ome.btf	12001931
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-026000_SPIM.ome.btf	11571643
@@ -425,7 +425,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-010000_SPIM.ome.btf	22653291
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-014000_SPIM.ome.btf	17855579
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-012000_SPIM.ome.btf	19868907
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-018000_SPIM.ome.btf	15193275
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-018000_SPIM.ome.btf	30386550
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-020000_SPIM.ome.btf	14284379
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-022000_SPIM.ome.btf	13552059
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-026000_SPIM.ome.btf	12459355
@@ -465,7 +465,7 @@ derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-016000_SPIM.ome.btf	13381483
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-012000_SPIM.ome.btf	15757515
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-018000_SPIM.ome.btf	12623339
-derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-020000_SPIM.ome.btf	12037179
+derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-020000_SPIM.ome.btf	24074358
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-024000_SPIM.ome.btf	11194619
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-022000_SPIM.ome.btf	11570523
 derivatives/FastRadialSymmetryTransformSegmentation/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-026000_SPIM.ome.btf	10888155
@@ -487,15 +487,15 @@ derivatives/HeatmapsAtlasSpace/sub-45476ko/micr/sub-45476ko_sample-RightHemisphe
 derivatives/HeatmapsAtlasSpace/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	23956861
 derivatives/HeatmapsAtlasSpace/sub-45645ko/micr/sub-45645ko_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	41709389
 derivatives/HeatmapsAtlasSpace/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	27337261
-derivatives/HeatmapsAtlasSpace/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	39734813
-derivatives/HeatmapsAtlasSpace/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	34307709
+derivatives/HeatmapsAtlasSpace/sub-45670ko/micr/sub-45670ko_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	79469626
+derivatives/HeatmapsAtlasSpace/sub-45923flox/micr/sub-45923flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	68615418
 derivatives/HeatmapsAtlasSpace/sub-45923flox/micr/sub-45923flox_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	32311405
 derivatives/HeatmapsAtlasSpace/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	41580589
-derivatives/HeatmapsAtlasSpace/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	52084346
+derivatives/HeatmapsAtlasSpace/sub-45925flox/micr/sub-45925flox_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	78126519
 derivatives/HeatmapsAtlasSpace/sub-45925flox/micr/sub-45925flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	37831469
 derivatives/HeatmapsAtlasSpace/sub-45926flox/micr/sub-45926flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	21724205
 derivatives/HeatmapsAtlasSpace/sub-45926flox/micr/sub-45926flox_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	40648637
-derivatives/HeatmapsAtlasSpace/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	60615546
+derivatives/HeatmapsAtlasSpace/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	90923319
 derivatives/HeatmapsAtlasSpace/sub-45930flox/micr/sub-45930flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	18689229
 derivatives/HeatmapsAtlasSpace/sub-45930flox/micr/sub-45930flox_sample-RightHemisphere_acq-heatmap_res-25um_SPIM.ome.btf	20854861
 participants.tsv	2420
@@ -506,7 +506,7 @@ sub-45476ko/micr/sub-45476ko_sample-LeftHemisphere_SPIM.ome.btf	8109359600
 sub-45469ko/micr/sub-45469ko_sample-RightHemisphere_SPIM.ome.btf	5945557564
 sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_SPIM.ome.btf	176501289133
 sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_SPIM.ome.btf	7252418096
-sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_SPIM.ome.btf	6987053502
+sub-45469ko/micr/sub-45469ko_sample-LeftHemisphere_SPIM.ome.btf	13905737360
 sub-45476ko/micr/sub-45476ko_sample-RightHemisphere_SPIM.ome.btf	7764617808
 sub-45644ko/micr/sub-45644ko_sample-LeftHemisphere_SPIM.ome.btf	7180393276
 sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_SPIM.ome.btf	6073326318
@@ -530,7 +530,7 @@ dataset_description.json	8554
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-004000_SPIM.tsv	351480
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/SPIM.json	1734
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-010000_SPIM.tsv	58301
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-008000_SPIM.tsv	58381
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-008000_SPIM.tsv	116762
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-006000_SPIM.tsv	116964
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-014000_SPIM.tsv	58195
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-016000_SPIM.tsv	58154
@@ -544,7 +544,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-028000_SPIM.tsv	57949
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-030000_SPIM.tsv	57933
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-036000_SPIM.tsv	57884
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-034000_SPIM.tsv	57903
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-034000_SPIM.tsv	115806
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-008000_SPIM.tsv	58500
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-040000_SPIM.tsv	57848
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-006000_SPIM.tsv	58573
@@ -561,7 +561,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-4
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-026000_SPIM.tsv	58125
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-030000_SPIM.tsv	58080
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-034000_SPIM.tsv	58039
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-028000_SPIM.tsv	58109
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-028000_SPIM.tsv	116218
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-032000_SPIM.tsv	58058
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-036000_SPIM.tsv	58014
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45467ko/micr/sub-45467ko_sample-RightHemisphere_acq-040000_SPIM.tsv	57986
@@ -615,7 +615,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45478ko/micr/sub-4
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-011000_SPIM.tsv	58495
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-008000_SPIM.tsv	58585
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45478ko/micr/sub-45478ko_sample-LeftHemisphere_acq-012000_SPIM.tsv	58465
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-004000_SPIM.tsv	58844
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-004000_SPIM.tsv	117688
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-006000_SPIM.tsv	58758
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-008000_SPIM.tsv	58699
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-012000_SPIM.tsv	58604
@@ -626,7 +626,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-4
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-020000_SPIM.tsv	58432
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-022000_SPIM.tsv	58397
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-024000_SPIM.tsv	116714
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-028000_SPIM.tsv	58310
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-028000_SPIM.tsv	116620
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-026000_SPIM.tsv	58335
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-030000_SPIM.tsv	58283
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45644ko/micr/sub-45644ko_sample-RightHemisphere_acq-032000_SPIM.tsv	58256
@@ -642,7 +642,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-4
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-012000_SPIM.tsv	58714
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-016000_SPIM.tsv	58640
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-020000_SPIM.tsv	58549
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-018000_SPIM.tsv	58592
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-018000_SPIM.tsv	117184
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-022000_SPIM.tsv	58508
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-024000_SPIM.tsv	58469
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-034000_SPIM.tsv	58316
@@ -654,7 +654,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-4
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-038000_SPIM.tsv	58255
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45645ko/micr/sub-45645ko_sample-RightHemisphere_acq-040000_SPIM.tsv	58237
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-002000_SPIM.tsv	58932
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-003000_SPIM.tsv	58921
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-003000_SPIM.tsv	117842
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-004000_SPIM.tsv	58896
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-005000_SPIM.tsv	58871
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45670ko/micr/sub-45670ko_sample-LeftHemisphere_acq-006000_SPIM.tsv	58842
@@ -726,7 +726,7 @@ derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-008000_SPIM.tsv	58706
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-010000_SPIM.tsv	58663
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-014000_SPIM.tsv	58574
-derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-016000_SPIM.tsv	58546
+derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-016000_SPIM.tsv	117092
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-012000_SPIM.tsv	58616
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-018000_SPIM.tsv	58500
 derivatives/FastRadialSymmetryTransformSegmentationCounts/sub-45929flox/micr/sub-45929flox_sample-LeftHemisphere_acq-020000_SPIM.tsv	58472

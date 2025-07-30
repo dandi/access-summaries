@@ -1,8 +1,8 @@
 asset_path	bytes_sent
 sub-1-4/sub-1-4_ses-20Hz-sine-stimulation-4-5V_image.nwb	10342448
 sub-1-4/sub-1-4_ses-2kHz-sine-stimulation-4-8V_image.nwb	6207628
-sub-1-4/sub-1-4_ses-20Hz-sine-stimulation-4-8V_image.nwb	6864508
-sub-1-4/sub-1-4_ses-20Hz-sine-stimulation-4V_image.nwb	6872142
+sub-1-4/sub-1-4_ses-20Hz-sine-stimulation-4-8V_image.nwb	7560048
+sub-1-4/sub-1-4_ses-20Hz-sine-stimulation-4V_image.nwb	7568376
 sub-1-4/sub-1-4_ses-2kHz-sine-stimulation-5-4V_image.nwb	6206908
 sub-1-4/sub-1-4_ses-2kHz-sine-stimulation-6-2V_image.nwb	7583964
 sub-1-4/sub-1-4_ses-2kHz-sine-stimulation-5-6V_image.nwb	6896210
@@ -40,7 +40,7 @@ sub-12-4/sub-12-4_ses-20Hz-sine-stimulation-4-8V_image.nwb	6620287
 sub-12-4/sub-12-4_ses-20Hz-sine-stimulation-5-2V_image.nwb	6983715
 sub-12-4/sub-12-4_ses-20Hz-sine-stimulation-4V_image.nwb	15996984
 sub-12-4/sub-12-4_ses-20Hz-sine-stimulation-5V_image.nwb	5894952
-sub-12-4/sub-12-4_ses-20kHz-sine-stimulation-10V_obj-1sebsfe_image.nwb	6140262
+sub-12-4/sub-12-4_ses-20kHz-sine-stimulation-10V_obj-1sebsfe_image.nwb	6872253
 sub-12-4/sub-12-4_ses-20kHz-sine-stimulation-10V_obj-wawtjs_image.nwb	6484476
 sub-12-4/sub-12-4_ses-20kHz-sine-stimulation-6-4V_image.nwb	7638876
 sub-12-4/sub-12-4_ses-20kHz-sine-stimulation-6-6V_image.nwb	11232426
@@ -70,7 +70,7 @@ sub-18-4/sub-18-4_ses-20kHz-sine-stimulation-8-4V_image.nwb	6723829
 sub-18-4/sub-18-4_ses-20kHz-sine-stimulation-7V_image.nwb	6728944
 sub-18-4/sub-18-4_ses-20kHz-sine-stimulation-8-6V_image.nwb	10128784
 sub-18-4/sub-18-4_ses-20kHz-sine-stimulation-8-8V_image.nwb	6708671
-sub-18-4/sub-18-4_ses-20kHz-sine-stimulation-8V_image.nwb	7425012
+sub-18-4/sub-18-4_ses-20kHz-sine-stimulation-8V_image.nwb	8109299
 sub-2-4/sub-2-4_ses-20Hz-sine-stimulation-4-5V_image.nwb	6236888
 sub-2-4/sub-2-4_ses-20kHz-sine-stimulation-10V_image.nwb	7588620
 sub-2-4/sub-2-4_ses-20kHz-sine-stimulation-12V_image.nwb	7581852
@@ -96,8 +96,8 @@ sub-20-4/sub-20-4_ses-10kHz-sine-stimulation-7V_image.nwb	11934276
 sub-20-4/sub-20-4_ses-10kHz-sine-stimulation-8V_image.nwb	6612774
 sub-20-4/sub-20-4_ses-10kHz-sine-stimulation-9V_image.nwb	6610211
 sub-20-4/sub-20-4_ses-1280Hz-sine-stimulation-3-5V_image.nwb	6973881
-sub-20-4/sub-20-4_ses-1280Hz-sine-stimulation-4V_image.nwb	7678848
-sub-20-4/sub-20-4_ses-160Hz-sine-stimulation-3-2V_image.nwb	6966764
+sub-20-4/sub-20-4_ses-1280Hz-sine-stimulation-4V_image.nwb	8384288
+sub-20-4/sub-20-4_ses-160Hz-sine-stimulation-3-2V_image.nwb	7671600
 sub-20-4/sub-20-4_ses-160Hz-sine-stimulation-3-5V_image.nwb	6277848
 sub-20-4/sub-20-4_ses-160Hz-sine-stimulation-3-3V_image.nwb	6970383
 sub-20-4/sub-20-4_ses-20Hz-sine-stimulation-4-2V_image.nwb	6627052
@@ -105,7 +105,7 @@ sub-20-4/sub-20-4_ses-160Hz-sine-stimulation-3V_image.nwb	7672452
 sub-20-4/sub-20-4_ses-20Hz-sine-stimulation-4-4V_image.nwb	6650779
 sub-20-4/sub-20-4_ses-2560Hz-sine-stimulation-4-4V_image.nwb	7672392
 sub-20-4/sub-20-4_ses-20Hz-sine-stimulation-4V_image.nwb	6680842
-sub-20-4/sub-20-4_ses-2560Hz-sine-stimulation-4-6V_image.nwb	7672944
+sub-20-4/sub-20-4_ses-2560Hz-sine-stimulation-4-6V_image.nwb	8377892
 sub-20-4/sub-20-4_ses-2560Hz-sine-stimulation-4-5V_image.nwb	7672164
 sub-20-4/sub-20-4_ses-2560Hz-sine-stimulation-4V_image.nwb	7679904
 sub-20-4/sub-20-4_ses-2560Hz-sine-stimulation-5-4V_image.nwb	11215789
@@ -119,7 +119,7 @@ sub-20-4/sub-20-4_ses-5120Hz-sine-stimulation-4-6V_image.nwb	8390580
 sub-20-4/sub-20-4_ses-5120Hz-sine-stimulation-5-2V_image.nwb	7668252
 sub-20-4/sub-20-4_ses-5120Hz-sine-stimulation-5-4V_image.nwb	6962628
 sub-20-4/sub-20-4_ses-5120Hz-sine-stimulation-5-6V_image.nwb	7663560
-sub-20-4/sub-20-4_ses-5120Hz-sine-stimulation-5V_image.nwb	7674924
+sub-20-4/sub-20-4_ses-5120Hz-sine-stimulation-5V_image.nwb	8380037
 sub-20-4/sub-20-4_ses-640Hz-sine-stimulation-3-4V_image.nwb	6970471
 sub-20-4/sub-20-4_ses-640Hz-sine-stimulation-3-5V_image.nwb	6966082
 sub-20-4/sub-20-4_ses-640Hz-sine-stimulation-3-2V_image.nwb	7104941
@@ -163,7 +163,7 @@ sub-5-4/sub-5-4_ses-2kHz-sine-stimulation-2-8V_obj-8glghr_image.nwb	6496173
 sub-5-4/sub-5-4_ses-2kHz-sine-stimulation-3-4V_image.nwb	6509373
 sub-5-4/sub-5-4_ses-2kHz-sine-stimulation-3V_image.nwb	10468112
 sub-6-4/sub-6-4_ses-20Hz-sine-stimulation-4-2V_image.nwb	6895242
-sub-5-4/sub-5-4_ses-2kHz-sine-stimulation-4-8V_image.nwb	7862988
+sub-5-4/sub-5-4_ses-2kHz-sine-stimulation-4-8V_image.nwb	8528328
 sub-5-4/sub-5-4_ses-2kHz-sine-stimulation-4V_image.nwb	6513091
 sub-6-4/sub-6-4_ses-20Hz-sine-stimulation-4-4V_image.nwb	8254470
 sub-6-4/sub-6-4_ses-20Hz-sine-stimulation-4-6V_image.nwb	6853882
@@ -176,15 +176,15 @@ sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-2V_image.nwb	11703516
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-4V_image.nwb	6822983
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-6V_obj-1dsdlpg_image.nwb	10361296
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-8V_obj-1nc552s_image.nwb	13101668
-sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-6V_obj-x2ndki_image.nwb	6822653
+sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-6V_obj-x2ndki_image.nwb	7514388
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3-8V_obj-1vkqm3v_image.nwb	6871152
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-3V_image.nwb	6151378
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4-2V_image.nwb	6863518
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4-6V_obj-1jhh9t6_image.nwb	6854960
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4-4V_image.nwb	6164408
-sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4-6V_obj-198eml9_image.nwb	7555380
+sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4-6V_obj-198eml9_image.nwb	8250531
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4-8V_image.nwb	6850802
-sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4V_image.nwb	8256823
+sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-4V_image.nwb	8952458
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-5-2V_image.nwb	6847876
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-5-4V_image.nwb	6154368
 sub-6-4/sub-6-4_ses-2kHz-sine-stimulation-5-6V_image.nwb	6146988
@@ -212,7 +212,7 @@ sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-13V_obj-1osr1ga_image.nwb	8136716
 sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-15V_image.nwb	7439388
 sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-14V_image.nwb	6755157
 sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-13V_obj-1xriksq_image.nwb	7461852
-sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-16V_image.nwb	9496833
+sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-16V_image.nwb	10182384
 sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-17V_image.nwb	6071428
 sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-18V_image.nwb	6746863
 sub-7-4/sub-7-4_ses-20kHz-sine-stimulation-20V_image.nwb	6754387
@@ -238,7 +238,7 @@ sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3-2V_image.nwb	8775232
 sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3-4V_obj-gpgep9_image.nwb	6719396
 sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3-4V_obj-og1ybt_image.nwb	6711773
 sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3-6V_image.nwb	6711465
-sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3-8V_image.nwb	6708209
+sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3-8V_image.nwb	7389540
 sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-3V_image.nwb	7423248
 sub-9-4/sub-9-4_ses-20Hz-sine-stimulation-4V_image.nwb	8164445
 sub-9-4/sub-9-4_ses-20kHz-sine-stimulation-11V_image.nwb	8729102

@@ -1,7 +1,7 @@
 asset_path	bytes_sent
 sub-23/sub-23_ses-20150324T134114_slice-slice-1_cell-C1_icephys.nwb	2179810886
 sub-23/sub-23_ses-20150324T161217_slice-slice-2_cell-B3_icephys.nwb	285725636
-sub-235/sub-235_ses-20200921T142415_slice-slice-1_cell-C3_icephys.nwb	62519829
+sub-235/sub-235_ses-20200921T142415_slice-slice-1_cell-C3_icephys.nwb	76101034
 sub-23/sub-23_ses-20150324T154615_slice-slice-2_cell-B2_icephys.nwb	291120108
 sub-23/sub-23_ses-20150324T152016_slice-slice-2_cell-B1_icephys.nwb	556671511
 sub-235/sub-235_ses-20200921T150553_slice-slice-1_cell-C5_icephys.nwb	72033832
@@ -24,7 +24,7 @@ sub-3003/sub-3003_ses-20180226T141748_slice-slice-1_cell-C3_icephys.nwb	70914770
 sub-235-cage/sub-235-cage_ses-20200922T162915_slice-slice-2_cell-C7_icephys.nwb	951876768
 sub-3003/sub-3003_ses-20180226T170600_slice-slice-2_cell-B6_icephys.nwb	27798440
 sub-3003/sub-3003_ses-20180226T154720_slice-slice-2_cell-B4_icephys.nwb	624923944
-sub-235-cage/sub-235-cage_ses-20200922T155231_slice-slice-2_cell-C6_icephys.nwb	1004106695
+sub-235-cage/sub-235-cage_ses-20200922T155231_slice-slice-2_cell-C6_icephys.nwb	1312336806
 sub-4481/sub-4481_ses-20190312T125911_slice-slice-1_cell-C29_icephys.nwb	113978811
 sub-3003/sub-3003_ses-20180226T163447_slice-slice-2_cell-B5_icephys.nwb	600598064
 sub-4481/sub-4481_ses-20190312T132441_slice-slice-1_cell-C30_icephys.nwb	462325210
@@ -48,7 +48,7 @@ sub-4484-/sub-4484-_ses-20190311T151635_slice-slice-1_cell-P22_icephys.nwb	46886
 sub-5013/sub-5013_ses-20190305T150437_slice-slice-1_cell-C17_icephys.nwb	80412768
 sub-5013/sub-5013_ses-20190305T144522_slice-slice-1_cell-C16_icephys.nwb	452888292
 sub-5013/sub-5013_ses-20190305T151045_slice-slice-1_cell-C18_icephys.nwb	284705320
-sub-4945/sub-4945_ses-20190224T171134_slice-slice-3_cell-B9_icephys.nwb	1042184008
+sub-4945/sub-4945_ses-20190224T171134_slice-slice-3_cell-B9_icephys.nwb	1365875290
 sub-4484-/sub-4484-_ses-20190311T033310_slice-slice-1_cell-P21_icephys.nwb	1559560660
 sub-5013/sub-5013_ses-20190305T153945_slice-slice-1_cell-C19_icephys.nwb	438120252
 sub-5013/sub-5013_ses-20190305T171105_slice-slice-3_cell-B12_icephys.nwb	527757964
@@ -78,7 +78,7 @@ sub-5196/sub-5196_ses-20190307T181528_slice-slice-4_cell-C27_icephys.nwb	6826643
 sub-5196/sub-5196_ses-20190307T193233_slice-slice-5_cell-P19_icephys.nwb	545130537
 sub-5196/sub-5196_ses-20190307T190638_slice-slice-5_cell-P18_icephys.nwb	510314072
 sub-C137/sub-C137_ses-20200205T120854_slice-slice-2_cell-P54_icephys.nwb	1032970883
-sub-C137/sub-C137_ses-20200205T144955_slice-slice-4_cell-C53_icephys.nwb	349290052
+sub-C137/sub-C137_ses-20200205T144955_slice-slice-4_cell-C53_icephys.nwb	451179754
 sub-C137/sub-C137_ses-20200205T163450_slice-slice-5_cell-P56_icephys.nwb	318641304
 sub-C137/sub-C137_ses-20200205T165943_slice-slice-5_cell-P57_icephys.nwb	235517220
 sub-C141/sub-C141_ses-20200113T170648_slice-slice-2_cell-P40_icephys.nwb	332831800
@@ -88,7 +88,7 @@ sub-C141/sub-C141_ses-20200113T152647_slice-slice-1_cell-C39_icephys.nwb	4216602
 sub-C141/sub-C141_ses-20200113T161710_slice-slice-1_cell-C40_icephys.nwb	645396392
 sub-C141/sub-C141_ses-20200113T182716_slice-slice-3_cell-C41_icephys.nwb	236560979
 sub-C141/sub-C141_ses-20200113T172855_slice-slice-2_cell-P41_icephys.nwb	475664044
-sub-C141/sub-C141_ses-20200113T202831_slice-slice-5_cell-P4x_icephys.nwb	195684636
+sub-C141/sub-C141_ses-20200113T202831_slice-slice-5_cell-P4x_icephys.nwb	248703909
 sub-C145/sub-C145_ses-20200116T132844_slice-slice-2_cell-P46_icephys.nwb	185062392
 sub-C141/sub-C141_ses-20200113T203826_slice-slice-5_cell-P42_icephys.nwb	319100544
 sub-C145/sub-C145_ses-20200116T134519_slice-slice-3_cell-C47_icephys.nwb	326732013
@@ -130,12 +130,12 @@ sub-C395/sub-C395_ses-20230301T174600_image+ophys/fce687de-329d-4820-86bc-c6b58e
 sub-C392/sub-C392_ses-20230301T162942_image+ophys.nwb	3394867885
 sub-C395/sub-C395_ses-20230303T223252_image+ophys/2b622792-f012-442f-9a42-5f92e25a0a53_external_file_0.mp4	426860127
 sub-C395/sub-C395_ses-20230312T195202_image+ophys/822fdef1-47f7-4ed6-a7c5-9b90fc5ff110_external_file_0.mp4	396992259
-sub-C392/sub-C392_ses-20230303T214630_image+ophys.nwb	3590561909
-sub-C398/sub-C398_ses-20230228T181103_image+ophys/a0449956-df4a-44c8-8737-10b1a775546e_external_file_0.mp4	515691810
+sub-C392/sub-C392_ses-20230303T214630_image+ophys.nwb	4645355684
+sub-C398/sub-C398_ses-20230228T181103_image+ophys/a0449956-df4a-44c8-8737-10b1a775546e_external_file_0.mp4	665753080
 sub-C395/sub-C395_ses-20230301T174600_image+ophys.nwb	3184847444
-sub-C392/sub-C392_ses-20230312T190756_image+ophys.nwb	3317269759
+sub-C392/sub-C392_ses-20230312T190756_image+ophys.nwb	4320331544
 sub-C398/sub-C398_ses-20230303T172601_image+ophys/06e99b29-f2f6-40b9-ad2f-cc664bc8185d_external_file_0.mp4	643827668
-sub-C395/sub-C395_ses-20230303T223252_image+ophys.nwb	3245570151
+sub-C395/sub-C395_ses-20230303T223252_image+ophys.nwb	4225541192
 sub-C398/sub-C398_ses-20230312T173556_image+ophys/a85d0543-dba5-4d02-84e8-312dd06b7e90_external_file_0.mp4	681250036
 sub-C395/sub-C395_ses-20230312T195202_image+ophys.nwb	4248420760
 sub-C399/sub-C399_ses-20230228T184051_image+ophys/1a7c6c9a-5a2a-44ff-94bd-2e34f6420b0d_external_file_0.mp4	809068574
@@ -201,7 +201,7 @@ sub-in-vivo-5/sub-in-vivo-5_ses-20190313T001402_slice-slice-8_cell-P39_icephys.n
 sub-in-vivo-5/sub-in-vivo-5_ses-20190313T170227_slice-slice-2_cell-C35_icephys.nwb	41345996
 sub-in-vivo-5/sub-in-vivo-5_ses-20190313T160752_slice-slice-2_cell-P28_icephys.nwb	154647468
 sub-in-vivo-5/sub-in-vivo-5_ses-20190313T162911_slice-slice-2_cell-P29_icephys.nwb	112264788
-sub-in-vivo-5/sub-in-vivo-5_ses-20190313T195417_slice-slice-4_cell-P32_icephys.nwb	78094108
+sub-in-vivo-5/sub-in-vivo-5_ses-20190313T195417_slice-slice-4_cell-P32_icephys.nwb	130907194
 sub-in-vivo-5/sub-in-vivo-5_ses-20190313T190105_slice-slice-3_cell-P31_icephys.nwb	170985594
 sub-in-vivo-5/sub-in-vivo-5_ses-20190313T200517_slice-slice-4_cell-P33_icephys.nwb	82272234
 sub-in-vivo-5/sub-in-vivo-5_ses-20190313T201830_slice-slice-4_cell-P34_icephys.nwb	52136266
@@ -222,7 +222,7 @@ sub-in-vivo-9/sub-in-vivo-9_ses-20190118T153524_slice-slice-2_cell-P5_icephys.nw
 sub-in-vivo-9/sub-in-vivo-9_ses-20190118T171354_slice-slice-4_cell-P6_icephys.nwb	172919216
 sub-in-vivo-9/sub-in-vivo-9_ses-20190118T161557_slice-slice-3_cell-C8_icephys.nwb	524233093
 sub-in-vivo-9/sub-in-vivo-9_ses-20190131T162007_slice-slice-4_cell-B7_icephys.nwb	155382800
-sub-in-vivo-9/sub-in-vivo-9_ses-20190131T130728_slice-slice-1_cell-C9_icephys.nwb	330634796
+sub-in-vivo-9/sub-in-vivo-9_ses-20190131T130728_slice-slice-1_cell-C9_icephys.nwb	609825264
 sub-in-vivo-9/sub-in-vivo-9_ses-20190208T141759_slice-slice-1_cell-P7_icephys.nwb	271295342
 sub-in-vivo-9/sub-in-vivo-9_ses-20190208T162935_slice-slice-3_cell-P8_icephys.nwb	408442870
 sub-in-vivo-9/sub-in-vivo-9_ses-20190208T150636_slice-slice-2_cell-C10_icephys.nwb	361536114

@@ -1,10 +1,10 @@
 asset_path	bytes_sent
 sub-M388/sub-M388_ecephys.nwb	121281813186
-code/Containerfile	24840
+code/Containerfile	27324
 code/Makefile	15414
 code/dependencies_reposit.txt	120
 code/read_metadata.py	2120
-code/reposit_bep032.py	27882
+code/reposit_bep032.py	32529
 code/reposit.py	40500
 code/requred_metadata.txt	1360
 code/requirements.txt	1500
@@ -12,7 +12,7 @@ participants.tsv	3485
 participants.json	6534
 undetermined	242547
 sub-M388/ses-20231120114021/ephys/probes.tsv	1150
-sub-M388/sessions.tsv	345
+sub-M388/sessions.tsv	414
 sub-M483/ses-20240122121030/ephys/channels.tsv	47475
 sub-M481/sessions.tsv	483
 sub-M483/ses-20240122121030/ephys/contacts.tsv	40500

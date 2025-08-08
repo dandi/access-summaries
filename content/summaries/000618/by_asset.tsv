@@ -46,9 +46,9 @@ sub-paired-english/sub-paired-english_ses-paired-english-m52-190731-145204-cell3
 sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-163645_ecephys.nwb	7284923774
 sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2014-11-25-Pair-3-0_ecephys.nwb	18441428992
 sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2015-09-03-Pair-9-0A_ecephys.nwb	10570833560
-sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2015-09-03-Pair-9-0B_ecephys.nwb	9284596760
-sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c19_ecephys.nwb	16762586552
-sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c14_ecephys.nwb	14708076772
+sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-2015-09-03-Pair-9-0B_ecephys.nwb	10423881144
+sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c19_ecephys.nwb	18318108968
+sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c14_ecephys.nwb	16782018132
 sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c16_ecephys.nwb	13433778976
 sub-paired-kampff/sub-paired-kampff_ses-paired-kampff-c21_ecephys.nwb	14676125232
 sub-paired-english/sub-paired-english_ses-paired-english-m57-191105-161455_ecephys.nwb	12153440555
@@ -81,8 +81,8 @@ sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-22_e
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-31_ecephys.nwb	7130841736
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-32c-600s-32_ecephys.nwb	8278896376
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-1200s-11_ecephys.nwb	2864949048
-sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-600s-11_ecephys.nwb	16827719000
-sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-600s-12_ecephys.nwb	14036759516
+sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-600s-11_ecephys.nwb	19133868472
+sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-siprobe-rec-64c-600s-12_ecephys.nwb	16342911532
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-1200s-21_ecephys.nwb	2299728204
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-1200s-31_ecephys.nwb	1971570408
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-11_ecephys.nwb	1103118068
@@ -91,7 +91,7 @@ sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-12_ec
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-21_ecephys.nwb	1110449228
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-22_ecephys.nwb	1807096264
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-32_ecephys.nwb	1219254496
-sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-31_ecephys.nwb	1075473692
+sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-drift-tetrode-rec-4c-600s-31_ecephys.nwb	1221612860
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-1200s-11_ecephys.nwb	9582651580
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-1200s-21_ecephys.nwb	7145740676
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-16c-600s-11_ecephys.nwb	7725985968
@@ -112,7 +112,7 @@ sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-31_
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-32c-600s-32_ecephys.nwb	8364882772
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-11_ecephys.nwb	2845100124
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-600s-12_ecephys.nwb	16942666424
-sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-31_ecephys.nwb	2261471532
+sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-31_ecephys.nwb	2553543380
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-11_ecephys.nwb	1386085308
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-1200s-21_ecephys.nwb	2335271172
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-600s-11_ecephys.nwb	24064583392
@@ -120,7 +120,7 @@ sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-22_e
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-21_ecephys.nwb	1402527816
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-12_ecephys.nwb	1063417720
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-31_ecephys.nwb	1061979044
-sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-1200s-11_ecephys.nwb	27933461020
+sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-siprobe-rec-64c-1200s-11_ecephys.nwb	32545543172
 sub-hybrid-janelia/sub-hybrid-janelia_ses-hybrid-static-tetrode-rec-4c-600s-32_ecephys.nwb	1158856120
 sub-paired-english/sub-paired-english_ses-paired-english-m139-200114-222743_desc-ms5-units_ecephys.nwb	76561286
 test2.nwb	62284070

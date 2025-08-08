@@ -1,5 +1,5 @@
 asset_path	bytes_sent
-sub-MS10/sub-MS10_ses-Peter-MS10-170311-180956-concat_desc-processed_behavior+ecephys.nwb	1803906962
+sub-MS10/sub-MS10_ses-Peter-MS10-170311-180956-concat_desc-processed_behavior+ecephys.nwb	1818157617
 sub-MS10/sub-MS10_ses-Peter-MS10-170313-122631-concat_desc-processed_behavior+ecephys.nwb	406509435
 sub-MS10/sub-MS10_ses-Peter-MS10-170314-163038_desc-processed_behavior+ecephys.nwb	238268831
 sub-MS10/sub-MS10_ses-Peter-MS10-170317-153237-concat_desc-processed_behavior+ecephys.nwb	1674339250
@@ -8,8 +8,8 @@ sub-MS10/sub-MS10_ses-Peter-MS10-170320-212321-concat_desc-processed_behavior+ec
 sub-MS10/sub-MS10_ses-Peter-MS10-170321-164406-concat_desc-processed_behavior+ecephys.nwb	1396178346
 sub-MS10/sub-MS10_ses-Peter-MS10-170323-173246_desc-processed_behavior+ecephys.nwb	1277821481
 sub-MS12/sub-MS12_ses-Peter-MS12-170713-093400-concat_desc-processed_behavior+ecephys.nwb	2344806686
-sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_desc-processed_behavior+ecephys.nwb	732757160
-sub-MS12/sub-MS12_ses-Peter-MS12-170716-172307-concat_desc-processed_behavior+ecephys.nwb	4804839738
+sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_desc-processed_behavior+ecephys.nwb	750154804
+sub-MS12/sub-MS12_ses-Peter-MS12-170716-172307-concat_desc-processed_behavior+ecephys.nwb	5359342311
 sub-MS12/sub-MS12_ses-Peter-MS12-170717-111614-concat_desc-processed_behavior+ecephys.nwb	670934740
 sub-MS12/sub-MS12_ses-Peter-MS12-170718-101720-concat_desc-processed_behavior+ecephys.nwb	726533655
 sub-MS12/sub-MS12_ses-Peter-MS12-170719-095305-concat_desc-processed_behavior+ecephys.nwb	6151107078
@@ -19,7 +19,7 @@ sub-MS13/sub-MS13_ses-Peter-MS13-171127-133330-concat_desc-processed_behavior+ec
 sub-MS13/sub-MS13_ses-Peter-MS13-171129-105507-concat_desc-processed_behavior+ecephys.nwb	661475026
 sub-MS13/sub-MS13_ses-Peter-MS13-171130-121758-concat_desc-processed_behavior+ecephys.nwb	723158548
 sub-MS13/sub-MS13_ses-Peter-MS13-171201-130527-concat_desc-processed_behavior+ecephys.nwb	4135662989
-sub-MS21/sub-MS21_ses-Peter-MS21-180622-174411_desc-processed_behavior+ecephys.nwb	601354318
+sub-MS21/sub-MS21_ses-Peter-MS21-180622-174411_desc-processed_behavior+ecephys.nwb	613515766
 sub-MS21/sub-MS21_ses-Peter-MS21-180623-170717-concat_desc-processed_behavior+ecephys.nwb	533294533
 sub-MS21/sub-MS21_ses-Peter-MS21-180625-153927-concat_desc-processed_behavior+ecephys.nwb	3838434743
 sub-MS21/sub-MS21_ses-Peter-MS21-180627-143449-concat_desc-processed_behavior+ecephys.nwb	3895570788
@@ -68,7 +68,7 @@ sub-MS13/sub-MS13_ses-Peter-MS13-171129-105507-concat_desc-raw_ecephys.nwb	50138
 sub-MS21/sub-MS21_ses-Peter-MS21-180623-170717-concat_desc-raw_ecephys.nwb	51141625263
 sub-MS13/sub-MS13_ses-Peter-MS13-171201-130527-concat_desc-raw_ecephys.nwb	505283900748
 sub-MS21/sub-MS21_ses-Peter-MS21-180625-153927-concat_desc-raw_ecephys.nwb	282796970880
-sub-MS21/sub-MS21_ses-Peter-MS21-180627-143449-concat_desc-raw_ecephys.nwb	208137668744
+sub-MS21/sub-MS21_ses-Peter-MS21-180627-143449-concat_desc-raw_ecephys.nwb	249370038050
 sub-MS21/sub-MS21_ses-Peter-MS21-180628-155921-concat_desc-raw_ecephys.nwb	100298638072
 sub-MS21/sub-MS21_ses-Peter-MS21-180629-110332-concat_desc-raw_ecephys.nwb	295416101794
 sub-MS21/sub-MS21_ses-Peter-MS21-180719-155941-concat_desc-raw_ecephys.nwb	121357697298
@@ -88,7 +88,7 @@ sub-MS22/sub-MS22_ses-Peter-MS22-180711-112912-concat_desc-raw_ecephys.nwb	28382
 sub-MS22/sub-MS22_ses-Peter-MS22-180628-120341-concat_desc-raw_ecephys.nwb	275012788270
 sub-MS22/sub-MS22_ses-Peter-MS22-180712-102504-concat_desc-raw_ecephys.nwb	529865896172
 sub-MS22/sub-MS22_ses-Peter-MS22-180626-110916-concat_desc-raw_ecephys.nwb	489192882633
-sub-MS22/sub-MS22_ses-Peter-MS22-180719-122813-concat_desc-raw_ecephys.nwb	263789684049
+sub-MS22/sub-MS22_ses-Peter-MS22-180719-122813-concat_desc-raw_ecephys.nwb	265596917653
 sub-MS22/sub-MS22_ses-Peter-MS22-180720-110055-concat_desc-raw_ecephys.nwb	452718362778
 sub-MS22/sub-MS22_ses-Peter-MS22-180724-144421-concat_desc-raw_ecephys.nwb	988482301427
 sub-MS21/sub-MS21_ses-Peter-MS21-180621-141817-concat_desc-processed_behavior+ecephys.nwb	728481326
@@ -108,7 +108,7 @@ sub-MS10/sub-MS10_ses-Peter-MS10-170320-212321-concat_behavior+ecephys.nwb	83328
 sub-MS10/sub-MS10_ses-Peter-MS10-170323-173246_behavior+ecephys.nwb	19866043184
 sub-MS10/sub-MS10_ses-Peter-MS10-170321-164406-concat_behavior+ecephys.nwb	83670677692
 sub-MS10/sub-MS10_ses-Peter-MS10-170307-154746-concat_behavior+ecephys.nwb	238786304309
-sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_behavior+ecephys.nwb	658035037733
+sub-MS12/sub-MS12_ses-Peter-MS12-170714-122034-concat_behavior+ecephys.nwb	731262475923
 sub-MS12/sub-MS12_ses-Peter-MS12-170716-172307-concat_behavior+ecephys.nwb	606411415923
 sub-MS12/sub-MS12_ses-Peter-MS12-170712-101120-concat_ecephys.nwb	705922047248
 sub-MS12/sub-MS12_ses-Peter-MS12-170713-093400-concat_behavior+ecephys.nwb	969750996831
@@ -117,7 +117,7 @@ sub-MS12/sub-MS12_ses-Peter-MS12-170720-093528-concat_behavior+ecephys.nwb	80572
 sub-MS13/sub-MS13_ses-Peter-MS13-171127-133330-concat_behavior+ecephys.nwb	303178980654
 sub-MS12/sub-MS12_ses-Peter-MS12-170718-101720-concat_behavior+ecephys.nwb	1009599228530
 sub-MS12/sub-MS12_ses-Peter-MS12-170719-095305-concat_behavior+ecephys.nwb	1004541715403
-sub-MS12/sub-MS12_ses-Peter-MS12-170723-141121-concat_behavior+ecephys.nwb	776819886156
+sub-MS12/sub-MS12_ses-Peter-MS12-170723-141121-concat_behavior+ecephys.nwb	825395764276
 sub-MS13/sub-MS13_ses-Peter-MS13-171130-121758-concat_behavior+ecephys.nwb	476755260984
 sub-MS13/sub-MS13_ses-Peter-MS13-171129-105507-concat_behavior+ecephys.nwb	598344770280
 sub-MS13/sub-MS13_ses-Peter-MS13-171128-113924-concat_behavior+ecephys.nwb	1456821556197

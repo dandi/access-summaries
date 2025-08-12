@@ -15,7 +15,7 @@ sub-DT9/sub-DT9_ses-20170519-864um-900um-merge_behavior+ecephys.nwb	42868349456
 sub-DT1/sub-DT1_ses-DT1-rLS-20150728-2304um_ecephys.nwb	99384408279
 sub-DT9/sub-DT9_ses-20170518-828um-864um-merge_behavior+ecephys.nwb	57547424579
 sub-DT9/sub-DT9_ses-20170508-468um-36um-170508-102251_behavior+ecephys.nwb	43935509194
-sub-DT9/sub-DT9_ses-20170430-0um-0um-merge_behavior+ecephys.nwb	21938189685
+sub-DT9/sub-DT9_ses-20170430-0um-0um-merge_behavior+ecephys.nwb	22956749900
 sub-DT1/sub-DT1_ses-DT1-rLS-20150726-2016um_ecephys.nwb	77865607826
 sub-DT9/sub-DT9_ses-20170506-468um-36um-170506-111835_behavior+ecephys.nwb	73615031772
 sub-DT9/sub-DT9_ses-20170429-0um-0um-merge_behavior+ecephys.nwb	68477425402
@@ -25,10 +25,10 @@ sub-DT5/sub-DT5_ses-20161027-1944um-2232um-161027-194125_behavior+ecephys.nwb	41
 sub-DT5/sub-DT5_ses-20161023-1872um-2448um-161023-123504_behavior+ecephys.nwb	9334226569
 sub-DT9/sub-DT9_ses-20170502-288um-0um-merge_behavior+ecephys.nwb	48996717690
 sub-DT9/sub-DT9_ses-20170428-0um-0um-merge_ecephys.nwb	42269365432
-sub-DT9/sub-DT9_ses-20170507-468um-36um-merge_behavior+ecephys.nwb	40259893373
+sub-DT9/sub-DT9_ses-20170507-468um-36um-merge_behavior+ecephys.nwb	46741820507
 sub-DT9/sub-DT9_ses-20170504-396um-0um-merge_behavior+ecephys.nwb	58796086963
 sub-DT5/sub-DT5_ses-20161019-1624um-2340um-161019-095311_behavior+ecephys.nwb	30163061046
-sub-DT5/sub-DT5_ses-20161020-1768um-2376um-161020-102642_behavior+ecephys.nwb	50979546811
+sub-DT5/sub-DT5_ses-20161020-1768um-2376um-161020-102642_behavior+ecephys.nwb	52948038975
 sub-DT5/sub-DT5_ses-20161015-1368um-1476um-merge_behavior+ecephys.nwb	31482351055
 sub-DT5/sub-DT5_ses-20161029-2016um-2232um-merge_ecephys.nwb	40251904306
 sub-DT5/sub-DT5_ses-20161007-720um-720um-merge_ecephys.nwb	28724214889
@@ -72,11 +72,11 @@ sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3612um-1360um-20160304-160304-150220_behavior+
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3540um-1288um-20160228-160228-135001_behavior+ecephys.nwb	331147513729
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3396um-1180um-20160220-160220-141839_behavior+ecephys.nwb	454345557172
 sub-DT8/sub-DT8_ses-20170214-216um-1944um-170214-102804_behavior+ecephys.nwb	31894439018
-sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3036um-362um-20160215-160215-122710_behavior+ecephys.nwb	501967797646
+sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3036um-362um-20160215-160215-122710_behavior+ecephys.nwb	508224922123
 sub-DT8/sub-DT8_ses-20170201-72um-432um-merge_behavior+ecephys.nwb	25531340096
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3540um-1288um-20160227-160227-121226_behavior+ecephys.nwb	502731354053
-sub-DT8/sub-DT8_ses-20170217-216um-1944um-merge_behavior+ecephys.nwb	20385135049
-sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3468um-1216um-20160222-160222-120902_behavior+ecephys.nwb	402119357976
+sub-DT8/sub-DT8_ses-20170217-216um-1944um-merge_behavior+ecephys.nwb	24309764630
+sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3468um-1216um-20160222-160222-120902_behavior+ecephys.nwb	466559778173
 sub-DT8/sub-DT8_ses-20170218-216um-1944um-170218-114724_behavior+ecephys.nwb	32456543285
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3468um-1216um-20160225-160225-130701_behavior+ecephys.nwb	517431904958
 sub-DT8/sub-DT8_ses-20170202-72um-576um-170202-092033_behavior+ecephys.nwb	28666841367
@@ -84,7 +84,7 @@ sub-DT8/sub-DT8_ses-20170211-144um-1944um-merge_behavior+ecephys.nwb	48574535489
 sub-DT8/sub-DT8_ses-20170305-468um-2088um-170305-135233_behavior+ecephys.nwb	26424860783
 sub-DT8/sub-DT8_ses-20170206-72um-1872um-merge_behavior+ecephys.nwb	69856844298
 sub-DT8/sub-DT8_ses-20170308-612um-2088um-merge_behavior+ecephys.nwb	28061093142
-sub-DT8/sub-DT8_ses-20170306-468um-2088um-170306-113628_behavior+ecephys.nwb	27708304077
+sub-DT8/sub-DT8_ses-20170306-468um-2088um-170306-113628_behavior+ecephys.nwb	33103505012
 sub-DT8/sub-DT8_ses-20170224-324um-2088um-170224-101710_behavior+ecephys.nwb	47539784747
 sub-DT8/sub-DT8_ses-20170221-324um-1944um-170221-101929_behavior+ecephys.nwb	30281352779
 sub-DT8/sub-DT8_ses-20170215-216um-1944um-170215-140739_behavior+ecephys.nwb	25727669233
@@ -96,4 +96,4 @@ sub-DT8/sub-DT8_ses-20170207-144um-1944um-merge_behavior+ecephys.nwb	39115473580
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3468um-1252um-20160226-160226-124132_behavior+ecephys.nwb	764364820542
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3324um-1000um-20160217-160217-103121_behavior+ecephys.nwb	735554437532
 sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3324um-1144um-20160219-160219-130435_behavior+ecephys.nwb	578444453842
-sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3396um-1180um-20160221-160221-135947_behavior+ecephys.nwb	698945280814
+sub-DT2/sub-DT2_ses-DT2-rPPC-rCCG-3396um-1180um-20160221-160221-135947_behavior+ecephys.nwb	710899047214

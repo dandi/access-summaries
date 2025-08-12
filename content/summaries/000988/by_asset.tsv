@@ -65,7 +65,7 @@ sub-123632cell1trial1-vsteady/sub-123632cell1trial1-vsteady_ses-20230116T123632_
 sub-123015session2-voltron2-JF585-cell2-vsteps-withblue-2P-1135/sub-123015session2-voltron2-JF585-cell2-vsteps-withblue-2P-1135_ses-20230316T123015_image.nwb	4854270548
 sub-123649cell4-1135nm/sub-123649cell4-1135nm_ses-20230328T123649_image.nwb	2467075940
 sub-123755cell1vsteady1-488on-really-low2p/sub-123755cell1vsteady1-488on-really-low2p_ses-20230117T123755_image.nwb	1347851455
-sub-123848cell4-1135nm-vsteady/sub-123848cell4-1135nm-vsteady_ses-20230328T123848_image.nwb	997476518
+sub-123848cell4-1135nm-vsteady/sub-123848cell4-1135nm-vsteady_ses-20230328T123848_image.nwb	1420369297
 sub-123658cell1vsteady1-488on-really/sub-123658cell1vsteady1-488on-really_ses-20230117T123658_image.nwb	2263973134
 sub-123951cell4-1135nm-findinversion/sub-123951cell4-1135nm-findinversion_ses-20230328T123951_image.nwb	470681950
 sub-124143cell1vsteady1-2Ponly/sub-124143cell1vsteady1-2Ponly_ses-20230117T124143_image.nwb	947375247
@@ -108,7 +108,7 @@ sub-152550V1-549-cell1-vsteps-OD0-54/sub-152550V1-549-cell1-vsteps-OD0-54_ses-20
 sub-153851voltron2549-cell2-sensitivity-OD1-5/sub-153851voltron2549-cell2-sensitivity-OD1-5_ses-20230309T153851_image.nwb	495971627
 sub-153837pp-cell1-try3-2ms-daqtrigg-more2P/sub-153837pp-cell1-try3-2ms-daqtrigg-more2P_ses-20230906T153837_image.nwb	1415598613
 sub-153530voltron2-s2cell1-1135nm/sub-153530voltron2-s2cell1-1135nm_ses-20230328T153530_image.nwb	1397118220
-sub-154010voltron2549-cell2-sensitivity-OD1-04/sub-154010voltron2549-cell2-sensitivity-OD1-04_ses-20230309T154010_image.nwb	538125647
+sub-154010voltron2549-cell2-sensitivity-OD1-04/sub-154010voltron2549-cell2-sensitivity-OD1-04_ses-20230309T154010_image.nwb	675710160
 sub-154107voltron2549-cell2-inversion-OD1-04/sub-154107voltron2549-cell2-inversion-OD1-04_ses-20230309T154107_image.nwb	883697390
 sub-154654pp-cell2-try1-ok/sub-154654pp-cell2-try1-ok_ses-20230906T154654_image.nwb	759836473
 sub-153924V1-cell3-vsteps/sub-153924V1-cell3-vsteps_ses-20231219T153924_image.nwb	1764683920
@@ -128,11 +128,11 @@ sub-160014V1-549-cell2-vsteps-OD0-54/sub-160014V1-549-cell2-vsteps-OD0-54_ses-20
 sub-161137voltron2-s2cell2-findinv/sub-161137voltron2-s2cell2-findinv_ses-20230328T161137_image.nwb	505808722
 sub-160444V1-549-cell2-vsteps-OD0-54-try2/sub-160444V1-549-cell2-vsteps-OD0-54-try2_ses-20230404T160444_image.nwb	4392884978
 sub-160839voltron2-s2cell2-1135nm/sub-160839voltron2-s2cell2-1135nm_ses-20230328T160839_image.nwb	1980881237
-sub-161028voltron2-s2cell2-vsteady/sub-161028voltron2-s2cell2-vsteady_ses-20230328T161028_image.nwb	3791193423
-sub-161253voltron2-s2cell2-findinv-hp/sub-161253voltron2-s2cell2-findinv-hp_ses-20230328T161253_image.nwb	516551896
+sub-161028voltron2-s2cell2-vsteady/sub-161028voltron2-s2cell2-vsteady_ses-20230328T161028_image.nwb	4248260228
+sub-161253voltron2-s2cell2-findinv-hp/sub-161253voltron2-s2cell2-findinv-hp_ses-20230328T161253_image.nwb	720578930
 sub-161415cell2-v-steady-slower/sub-161415cell2-v-steady-slower_ses-20230110T161415_image.nwb	2252376696
 sub-161728pp-cell4-try1-supergood/sub-161728pp-cell4-try1-supergood_ses-20230906T161728_image.nwb	524097458
-sub-161711cell2-v-steady-slower-correct/sub-161711cell2-v-steady-slower-correct_ses-20230110T161711_image.nwb	1228709898
+sub-161711cell2-v-steady-slower-correct/sub-161711cell2-v-steady-slower-correct_ses-20230110T161711_image.nwb	1775245749
 sub-161851pp-cell4-try2-2P-brighter-ok/sub-161851pp-cell4-try2-2P-brighter-ok_ses-20230906T161851_image.nwb	1941544422
 sub-161804voltron1-608-cell4-sensitivity/sub-161804voltron1-608-cell4-sensitivity_ses-20240110T161804_image.nwb	1414210711
 sub-162510voltron2-s2cell3-vsteps/sub-162510voltron2-s2cell3-vsteps_ses-20230328T162510_image.nwb	2030829599
@@ -156,7 +156,7 @@ sub-170250V1-608-cell1-vsteps-OD0-5/sub-170250V1-608-cell1-vsteps-OD0-5_ses-2023
 sub-172005pp-cell8-long2p/sub-172005pp-cell8-long2p_ses-20230906T172005_image.nwb	1621951784
 sub-172157plate2-cell2-sensitivity-vs-I-OD0-05/sub-172157plate2-cell2-sensitivity-vs-I-OD0-05_ses-20230307T172157_image.nwb	361124520
 sub-170318voltron1549-cell1-sensitivity-OD0-54/sub-170318voltron1549-cell1-sensitivity-OD0-54_ses-20230309T170318_image.nwb	423482248
-sub-171449pp-cell8-try2-more488/sub-171449pp-cell8-try2-more488_ses-20230906T171449_image.nwb	533760780
+sub-171449pp-cell8-try2-more488/sub-171449pp-cell8-try2-more488_ses-20230906T171449_image.nwb	743233524
 sub-172406voltron1549-cell2-inversion-OD1-5/sub-172406voltron1549-cell2-inversion-OD1-5_ses-20230309T172406_image.nwb	598532070
 sub-172531voltron1549-cell2-sensitivity-OD1-04/sub-172531voltron1549-cell2-sensitivity-OD1-04_ses-20230309T172531_image.nwb	513324849
 sub-172448voltron1549-cell2-inversion-OD1-04/sub-172448voltron1549-cell2-inversion-OD1-04_ses-20230309T172448_image.nwb	868401321
@@ -194,7 +194,7 @@ sub-120457Plate1-Cell3-0-15-0-3/sub-120457Plate1-Cell3-0-15-0-3_ses-20240924T120
 sub-131751Plate2-Cell1-0-1-0-25/sub-131751Plate2-Cell1-0-1-0-25_ses-20240924T131751_image.nwb	983190212
 sub-131344Plate2-Cell1/sub-131344Plate2-Cell1_ses-20240922T131344_image.nwb	950106504
 sub-132023Plate2-Cell1-0-15-0-3/sub-132023Plate2-Cell1-0-15-0-3_ses-20240924T132023_image.nwb	953400200
-sub-131123Plate2-Cell1-2high-intensity/sub-131123Plate2-Cell1-2high-intensity_ses-20240920T131123_image.nwb	477930492
+sub-131123Plate2-Cell1-2high-intensity/sub-131123Plate2-Cell1-2high-intensity_ses-20240920T131123_image.nwb	950172012
 sub-131911Plate2-Cell1-0-1-0-25/sub-131911Plate2-Cell1-0-1-0-25_ses-20240924T131911_image.nwb	952810628
 sub-133439Plate2-Cell2-0-1-0-25/sub-133439Plate2-Cell2-0-1-0-25_ses-20240924T133439_image.nwb	953334692
 sub-132609Plate2-Cell2/sub-132609Plate2-Cell2_ses-20240920T132609_image.nwb	1422413532
@@ -234,14 +234,14 @@ sub-171904Plate4-Cell2/sub-171904Plate4-Cell2_ses-20240923T171904_image.nwb	4779
 sub-172349Plate5-Cell2-0-2-0-5/sub-172349Plate5-Cell2-0-2-0-5_ses-20240924T172349_image.nwb	952810628
 sub-172059Plate5-Cell2-0-1-0-25/sub-172059Plate5-Cell2-0-1-0-25_ses-20240924T172059_image.nwb	479143464
 sub-172233Plate5-Cell2-0-1-0-25/sub-172233Plate5-Cell2-0-1-0-25_ses-20240924T172233_image.nwb	1586698092
-sub-173907Plate5-Cell3-0-15-0-3/sub-173907Plate5-Cell3-0-15-0-3_ses-20240924T173907_image.nwb	479274480
+sub-173907Plate5-Cell3-0-15-0-3/sub-173907Plate5-Cell3-0-15-0-3_ses-20240924T173907_image.nwb	952876136
 sub-174231Plate5-Cell3-0-2-0-5/sub-174231Plate5-Cell3-0-2-0-5_ses-20240924T174231_image.nwb	953269184
 sub-174146Plate5-Cell3-0-15-0-3/sub-174146Plate5-Cell3-0-15-0-3_ses-20240924T174146_image.nwb	479274480
 sub-174329Plate5-Cell3-0-2-0-5/sub-174329Plate5-Cell3-0-2-0-5_ses-20240924T174329_image.nwb	479405496
 sub-181430Plate6-Cell1-0-15-0-3/sub-181430Plate6-Cell1-0-15-0-3_ses-20240924T181430_image.nwb	953072660
 sub-181246Plate6-Cell1-0-15-0-3/sub-181246Plate6-Cell1-0-15-0-3_ses-20240924T181246_image.nwb	952810628
 sub-181608Plate6-Cell1-0-2-0-5/sub-181608Plate6-Cell1-0-2-0-5_ses-20240924T181608_image.nwb	953203676
-sub-182959Plate6-Cell2-0-15-0-3/sub-182959Plate6-Cell2-0-15-0-3_ses-20240924T182959_image.nwb	479208972
+sub-182959Plate6-Cell2-0-15-0-3/sub-182959Plate6-Cell2-0-15-0-3_ses-20240924T182959_image.nwb	952810628
 sub-182837Plate6-Cell2-0-15-0-3/sub-182837Plate6-Cell2-0-15-0-3_ses-20240924T182837_image.nwb	953269184
 sub-185525Plate6-Cell3-0-1-0-25/sub-185525Plate6-Cell3-0-1-0-25_ses-20240924T185525_image.nwb	953334692
 sub-183039Plate6-Cell2-0-2-0-5/sub-183039Plate6-Cell2-0-2-0-5_ses-20240924T183039_image.nwb	953072660

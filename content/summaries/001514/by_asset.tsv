@@ -1,10 +1,10 @@
 asset_path	bytes_sent
-samples.json	516
+samples.json	688
 participants.json	1434
 undetermined	78516
 sub-CL5/micr/sub-CL5_sample-S01_FLUO.tif	682043340
 sub-CL5/micr/sub-CL5_sample-S02_FLUO.tif	1437143996
-sub-CL5/micr/sub-CL5_sample-S03_FLUO.tif	889007460
+sub-CL5/micr/sub-CL5_sample-S03_FLUO.tif	1765109844
 sub-CL5/micr/sub-CL5_sample-S04_FLUO.tif	811751188
 sub-CL5/micr/sub-CL5_sample-S05_FLUO.tif	936003688
 sub-CL5/micr/sub-CL5_sample-S06_FLUO.tif	1859475752
@@ -56,7 +56,7 @@ sub-100/micr/sub-100_sample-S07_FLUO.tif	1064258832
 sub-100/micr/sub-100_sample-S09_FLUO.tif	2120317896
 sub-100/micr/sub-100_sample-S10_FLUO.tif	1149332580
 sub-100/micr/sub-100_sample-S11_FLUO.tif	1149124868
-sub-100/micr/sub-100_sample-S12_FLUO.tif	1204344756
+sub-100/micr/sub-100_sample-S12_FLUO.tif	2400959568
 sub-100/micr/sub-100_sample-S13_FLUO.tif	2513768272
 sub-100/micr/sub-100_sample-S14_FLUO.tif	1205460148
 sub-100/micr/sub-100_sample-S15_FLUO.tif	2450075784
@@ -126,7 +126,7 @@ sub-OU23A5/micr/sub-OU23A5_sample-S09_FLUO.tif	1847164114
 sub-OU23A5/micr/sub-OU23A5_sample-S10_FLUO.tif	2036921498
 sub-OU23A5/micr/sub-OU23A5_sample-S11_FLUO.tif	970868179
 sub-OU23A5/micr/sub-OU23A5_sample-S12_FLUO.tif	971034823
-sub-OU23A7/micr/sub-OU23A7_sample-S04_FLUO.tif	875828063
+sub-OU23A7/micr/sub-OU23A7_sample-S04_FLUO.tif	1751656126
 sub-OU23A7/micr/sub-OU23A7_sample-S02_FLUO.tif	2112274658
 sub-OU23A7/micr/sub-OU23A7_sample-S01_FLUO.tif	1108185545
 sub-OU23A7/micr/sub-OU23A7_sample-S03_FLUO.tif	2506816658
@@ -150,7 +150,7 @@ sub-OU24A12/micr/sub-OU24A12_sample-S09_FLUO.tif	1056273229
 sub-OU24A12/micr/sub-OU24A12_sample-S10_FLUO.tif	1055985241
 sub-OU24A12/micr/sub-OU24A12_sample-S11_FLUO.tif	2111546594
 sub-OU24A12/micr/sub-OU24A12_sample-S12_FLUO.tif	2214987410
-sub-OU24A12/micr/sub-OU24A12_sample-S16_FLUO.tif	263926315
+sub-OU24A12/micr/sub-OU24A12_sample-S16_FLUO.tif	527852630
 sub-OU24A12/micr/sub-OU24A12_sample-S13_FLUO.tif	2111803846
 sub-OU24A12/micr/sub-OU24A12_sample-S14_FLUO.tif	2036781686
 sub-OU24A12/micr/sub-OU24A12_sample-S15_FLUO.tif	2037445982
@@ -202,7 +202,7 @@ sub-123/micr/sub-123_sample-S01_FLUO.tif	982181008
 sub-123/micr/sub-123_sample-S04_FLUO.tif	823831160
 sub-123/micr/sub-123_sample-S08_FLUO.tif	1085372272
 sub-123/micr/sub-123_sample-S05_FLUO.tif	1875022736
-sub-123/micr/sub-123_sample-S06_FLUO.tif	904748308
+sub-123/micr/sub-123_sample-S06_FLUO.tif	1780411064
 sub-123/micr/sub-123_sample-S02_FLUO.tif	1705897324
 sub-123/micr/sub-123_sample-S12_FLUO.tif	2236020752
 sub-123/micr/sub-123_sample-S07_FLUO.tif	948800124
@@ -295,7 +295,7 @@ sub-OU24R9/micr/sub-OU24R9_sample-S9_acq-2_CONF.tif	148739903
 sub-OU24R9/micr/sub-OU24R9_sample-S9_acq-1_CONF.tif	148739903
 sub-OU24R9/micr/sub-OU24R9_sample-S9_acq-3_CONF.tif	148760204
 sub-OU24R9/micr/sub-OU24R9_sample-S9_acq-4_CONF.tif	148763860
-sub-OU24R10/micr/sub-OU24R10_sample-S7b_acq-1_CONF.tif	42493226
+sub-OU24R10/micr/sub-OU24R10_sample-S7b_acq-1_CONF.tif	76601428
 sub-OU24R10/micr/sub-OU24R10_sample-S7a_acq-2_CONF.tif	97756870
 sub-OU24R10/micr/sub-OU24R10_sample-S7b_acq-2_CONF.tif	76732444
 sub-OU24R10/micr/sub-OU24R10_sample-S7a_acq-3_CONF.tif	204095288
@@ -322,13 +322,13 @@ sub-OU24R12/micr/sub-OU24R12_sample-S10a_acq-4_CONF.tif	137180654
 sub-OU24R12/micr/sub-OU24R12_sample-S10b_acq-1_CONF.tif	128292844
 sub-OU24R12/micr/sub-OU24R12_sample-S10b_acq-2_CONF.tif	256585688
 sub-OU24R12/micr/sub-OU24R12_sample-S10b_acq-3_CONF.tif	263791568
-sub-OU24R12/micr/sub-OU24R12_sample-S10b_acq-4_CONF.tif	128281292
+sub-OU24R12/micr/sub-OU24R12_sample-S10b_acq-4_CONF.tif	256562584
 sub-OU24R12/micr/sub-OU24R12_sample-S9a_acq-1_CONF.tif	233793044
 sub-OU24R12/micr/sub-OU24R12_sample-S9a_acq-2_CONF.tif	124298926
 sub-OU24R12/micr/sub-OU24R12_sample-S9a_acq-4_CONF.tif	124745858
 sub-OU24R12/micr/sub-OU24R12_sample-S9b_acq-1_CONF.tif	148856810
 sub-OU24R12/micr/sub-OU24R12_sample-S9b_acq-2_CONF.tif	297713620
-sub-OU24R12/micr/sub-OU24R12_sample-S9b_acq-3_CONF.tif	148856810
+sub-OU24R12/micr/sub-OU24R12_sample-S9b_acq-3_CONF.tif	297713620
 sub-OU24R12/micr/sub-OU24R12_sample-S9b_acq-4_CONF.tif	297687892
 sub-OU24R17/micr/sub-OU24R17_sample-I3_acq-1_CONF.tif	99818986
 sub-OU24R17/micr/sub-OU24R17_sample-I3_acq-2_CONF.tif	99818986
@@ -339,7 +339,7 @@ sub-OU24R17/micr/sub-OU24R17_sample-I5a_acq-1_CONF.tif	34237272
 sub-OU24R17/micr/sub-OU24R17_sample-I4_acq-2_CONF.tif	269208456
 sub-OU24R17/micr/sub-OU24R17_sample-I5a_acq-2_CONF.tif	68474544
 sub-OU24R17/micr/sub-OU24R17_sample-I4_acq-3_CONF.tif	140892996
-sub-OU24R17/micr/sub-OU24R17_sample-I4_acq-4_CONF.tif	143041895
+sub-OU24R17/micr/sub-OU24R17_sample-I4_acq-4_CONF.tif	277633258
 sub-OU24R17/micr/sub-OU24R17_sample-I5a_acq-3_CONF.tif	68474544
 sub-OU24R17/micr/sub-OU24R17_sample-I5a_acq-4_CONF.tif	34237272
 sub-OU24R17/micr/sub-OU24R17_sample-I5b_acq-1_CONF.tif	272146024
@@ -370,7 +370,7 @@ sub-IH23R26/micr/sub-IH23R26_sample-S7b_acq-1_CONF.tif	74877288
 sub-IH23R26/micr/sub-IH23R26_sample-S7b_acq-2_CONF.tif	71012316
 sub-IH23R26/micr/sub-IH23R26_sample-S7b_acq-3_CONF.tif	133115544
 sub-IH23R26/micr/sub-IH23R26_sample-S7b_acq-4_CONF.tif	133100152
-sub-IH23R26/micr/sub-IH23R26_sample-S7c_acq-1_CONF.tif	125392572
+sub-IH23R26/micr/sub-IH23R26_sample-S7c_acq-1_CONF.tif	242531136
 sub-IH23R26/micr/sub-IH23R26_sample-S7c_acq-2_CONF.tif	124475460
 sub-IH23R26/micr/sub-IH23R26_sample-S7c_acq-3_CONF.tif	117138564
 sub-IH23R26/micr/sub-IH23R26_sample-S7c_acq-4_CONF.tif	242835442
@@ -406,7 +406,7 @@ sub-IH23R26/micr/sub-IH23R26_sample-S8e_acq-1_CONF.tif	161945694
 sub-IH23R26/micr/sub-IH23R26_sample-S8e_acq-2_CONF.tif	154150242
 sub-IH23R26/micr/sub-IH23R26_sample-S8e_acq-3_CONF.tif	154150242
 sub-IH23R26/micr/sub-IH23R26_sample-S8e_acq-4_CONF.tif	308272228
-sub-IH23R26/micr/sub-IH23R26_sample-S8f_acq-2_CONF.tif	113931900
+sub-IH23R26/micr/sub-IH23R26_sample-S8f_acq-2_CONF.tif	219347760
 sub-IH23R26/micr/sub-IH23R26_sample-S8f_acq-1_CONF.tif	219151236
 sub-IH23R26/micr/sub-IH23R26_sample-S8f_acq-4_CONF.tif	113790764
 sub-IH23R26/micr/sub-IH23R26_sample-S8f_acq-3_CONF.tif	210831720
@@ -424,7 +424,7 @@ sub-IH23R31/micr/sub-IH23R31_sample-S6a_acq-2_CONF.tif	377184084
 sub-IH23R31/micr/sub-IH23R31_sample-S6a_acq-3_CONF.tif	196846050
 sub-IH23R31/micr/sub-IH23R31_sample-S6a_acq-4_CONF.tif	188576642
 sub-IH23R31/micr/sub-IH23R31_sample-S6b_acq-1_CONF.tif	217315678
-sub-IH23R31/micr/sub-IH23R31_sample-S6b_acq-2_CONF.tif	209061670
+sub-IH23R31/micr/sub-IH23R31_sample-S6b_acq-2_CONF.tif	418123340
 sub-IH23R31/micr/sub-IH23R31_sample-S6b_acq-3_CONF.tif	217774234
 sub-IH23R31/micr/sub-IH23R31_sample-S6b_acq-4_CONF.tif	209043125
 sub-IH23R31/micr/sub-IH23R31_sample-S6c_acq-1_CONF.tif	199929432
@@ -435,7 +435,7 @@ sub-IH23R31/micr/sub-IH23R31_sample-S6d_acq-1_CONF.tif	191154336
 sub-IH23R31/micr/sub-IH23R31_sample-S6d_acq-2_CONF.tif	199408344
 sub-IH23R31/micr/sub-IH23R31_sample-S6d_acq-3_CONF.tif	191154336
 sub-IH23R31/micr/sub-IH23R31_sample-S6d_acq-4_CONF.tif	191138831
-sub-IH23R31/micr/sub-IH23R31_sample-S6e_acq-1_CONF.tif	191346200
+sub-IH23R31/micr/sub-IH23R31_sample-S6e_acq-1_CONF.tif	382692400
 sub-IH23R31/micr/sub-IH23R31_sample-S6e_acq-2_CONF.tif	382692400
 sub-IH23R31/micr/sub-IH23R31_sample-S6e_acq-3_CONF.tif	382692400
 sub-IH23R31/micr/sub-IH23R31_sample-S6e_acq-4_CONF.tif	390915382
@@ -452,7 +452,7 @@ sub-IH23R31/micr/sub-IH23R31_sample-S7a_acq-2_CONF.tif	347072596
 sub-IH23R31/micr/sub-IH23R31_sample-S7b_acq-1_CONF.tif	101968332
 sub-IH23R31/micr/sub-IH23R31_sample-S7a_acq-3_CONF.tif	338425540
 sub-IH23R31/micr/sub-IH23R31_sample-S7a_acq-4_CONF.tif	346782244
-sub-IH23R31/micr/sub-IH23R31_sample-S7b_acq-2_CONF.tif	97644804
+sub-IH23R31/micr/sub-IH23R31_sample-S7b_acq-2_CONF.tif	195289608
 sub-IH23R31/micr/sub-IH23R31_sample-S7b_acq-3_CONF.tif	97644804
 sub-IH23R31/micr/sub-IH23R31_sample-S7b_acq-4_CONF.tif	195269080
 sub-IH23R31/micr/sub-IH23R31_sample-S7c_acq-1_CONF.tif	281094164

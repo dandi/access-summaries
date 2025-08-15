@@ -1,13 +1,13 @@
 region	bytes_sent
-AWS/us-east-2	280942973283
-GitHub	1242863641267
+AWS/us-east-2	281524002915
+GitHub	1247875021843
 AWS/us-east-1	53465087611
 JP/Tokyo	12886843312
-US/California	131593445391
+US/California	131956588911
 US/Pennsylvania	7591205928
-US/Massachusetts	46628393459
+US/Massachusetts	46773424731
 US/New York	33379318506
-BR/São Paulo	161912044
+BR/São Paulo	3662392652
 ES/Andalusia	8162930122
 US/Maryland	15565798688
 FR/Île-de-France	6826549120
@@ -20,14 +20,14 @@ GCP/us-central1	39356080688
 NO/Oslo	9714022788
 AT/Vienna	292279576
 IT/Lombardy	6961748316
-VPN	34700397228
+VPN	34827441684
 GCP/us-west3	6197474020
 US/New Jersey	20064317952
 IT/Emilia-Romagna	196819900
 US/Virginia	28675495434
 IT/The Marches	73156888
 US/Rhode Island	40969312
-MX/Mexico City	426354185
+MX/Mexico City	572667961
 US/Wisconsin	465439849
 IN/Uttar Pradesh	673451710
 US/North Carolina	202159540
@@ -76,17 +76,17 @@ GCP/us-west1	6343259612
 IN/Delhi	1142095907
 KR/Gyeonggi-do	73156888
 KR/Seoul	4237702096
-US/New Hampshire	3255463984
+US/New Hampshire	3474141056
 HK/Sham Shui Po	6672196984
 DE/North Rhine-Westphalia	7052802032
-CO/Bogota D.C.	6343245308
+CO/Bogota D.C.	6571068936
 DE/State of Berlin	5455744112
 HU/Budapest	812355763
 BE/Flanders	145785592
 UA/Kyiv City	143834548
 NL/South Holland	145785592
 JP/Ibaraki	6197474020
-ZA/Gauteng	73156888
+ZA/Gauteng	219470664
 IL/Central District	12144612
 UA/Sumy	145965800
 CA/British Columbia	235110180
@@ -96,7 +96,7 @@ CN/Jiangsu	22231002
 GR/Central Macedonia	73156888
 GCP/asia-east1	6398551768
 GCP/us-west4	6197474020
-AR/Buenos Aires F.D.	145785592
+AR/Buenos Aires F.D.	365256256
 NP/Bagmati Province	6197474020
 US/Oregon	6487988836
 US/Michigan	6906865812
@@ -113,7 +113,7 @@ AWS/ap-southeast-1	628824560
 AT/Tyrol	6341663532
 RU/Moscow	277940492
 IQ/Sulaymaniyah	73156888
-UA/Kiev	8361774190
+UA/Kiev	8434931078
 US/Alabama	8691796892
 IL/Tel Aviv	262211808
 FI/Uusimaa	13459354032
@@ -123,25 +123,102 @@ IL/Jerusalem	12467273264
 AWS/us-west-2	264858724
 SG/Singapore	17652824
 HK/Kwai Tsing	17254640
-KE/Nairobi County	252717188
+KE/Nairobi County	325874076
 JP/Hokkaido	334245964
 MT/Ir-Rabat	23028308
 PL/Mazovia	862189028
 bogon	1698142000
-BR/Rio de Janeiro	85702412
+VN/Quang Tri	146313776
+VN/Hưng Yên Province	292627552
+VN/Ho Chi Minh City (HCMC)	2324007472
+BR/Mato Grosso	73156888
+VN/Dong Nai	219470664
+BR/Bahia	723249620
+BR/Pernambuco	448165924
+BR/Ceará	218650536
+AR/Cordoba	73156888
+VN/Dong Thap	219470664
+RU/Khabarovsk	73156888
+VN/Hai Phong	242034424
+BR/Rio de Janeiro	915382088
+AR/Buenos Aires	194892224
+VN/Thanh Hóa Province	146313776
+BR/Minas Gerais	1098168532
+CO/Nariño	73156888
+UZ/Tashkent	73156888
+KZ/Pavlodar Region	73156888
+BR/Paraíba	57803044
+IQ/Duhok	73156888
+PE/Lima region	25351048
+MX/Jalisco	73156888
+AWS/sa-east-1	73156888
+VN/Ninh Binh	73156888
+BR/Goiás	280260088
+BR/Espírito Santo	73156888
+BR/Rio Grande do Sul	551361944
+UY/Montevideo Department	219470664
+VN/Bac Ninh	292627552
+EC/Guayas	176310304
+VN/Khanh Hoa	73156888
+VN/Thừa Thiên Huế Province	73156888
+ZA/Western Cape	73156888
+GE/Tbilisi	11348244
+BR/Pará	292627552
+TN/Tunis Governorate	73156888
+CG/Brazzaville	73156888
+VN/An Giang	73156888
+VN/Lam Dong	146313776
+RU/Tyumen Oblast	73156888
+BR/Santa Catarina	421795656
+CO/Huila Department	73156888
+VN/Da Nang City	73156888
+BR/Rio Grande do Norte	73156888
+EC/Pichincha	168412988
+PY/Alto Paraná Department	55812124
+BR/Tocantins	85036044
+RU/Moscow Oblast	73156888
+BR/Piauí	197082236
+BR/Amazonas	306497628
+BD/Chittagong	73156888
+PY/Itapúa	73156888
+DO/Santo Domingo Province	73156888
+BR/Paraná	70611296
+AR/Formosa	32850180
+VN/Phu Tho	73156888
+PK/Punjab	73156888
+BR/Alagoas	219470664
+VE/Carabobo	73156888
+BR/Mato Grosso do Sul	23227400
+BR/Federal District	173191196
+MD/Chișinău Municipality	73156888
+VN/Gia Lai	146313776
+LB/Beyrouth	73156888
+VN/Vinh Long	73156888
+BY/Gomel Oblast	73156888
+VN/Hanoi	401103645
+ZA/North West	73156888
+GT/Guatemala	18382828
+BD/Dhaka Division	146313776
+BN/Brunei-Muara District	73156888
+BR/Maranhão	73156888
+CO/La Guajira Department	73156888
+CL/Santiago Metropolitan	146313776
+DO/Santiago Province	73156888
+AR/Chaco	73156888
+VN/Cao Bằng Province	73156888
+BR/Sergipe	73156888
+SY/Idlib	65036720
+AR/San Juan	73156888
+KW/Al Farwaniyah	73156888
+CO/Risaralda Department	64704900
 IE/Leinster	39486580
 DE/Thuringia	179050072
-VN/Hanoi	125090853
 US/Nebraska	127890916
 CR/Guanacaste Province	128449044
-BR/Amazonas	13870076
-BR/Minas Gerais	16458272
-BR/Piauí	12410068
-BR/Rio Grande do Sul	7565496
 GCP/us-south1	4114568
+DE/Saxony-Anhalt	245183320
 UY/Maldonado	55060760
 RS/Vojvodina	128481812
-DE/Saxony-Anhalt	116734276
 US/Nevada	2574870858
 PT/Braga	72628704
 IT/Tuscany	363143520

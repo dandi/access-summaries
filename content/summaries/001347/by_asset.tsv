@@ -20,7 +20,7 @@ sub-SD172/sub-SD172_ses-puffPostinfusion_ecephys.nwb	3359913132
 sub-SD181/sub-SD181_ses-puff_behavior.nwb	25445544
 sub-SD184/sub-SD184_ses-puff_behavior.nwb	34417120
 sub-SD181/sub-SD181_ses-puffInfusion_ecephys.nwb	2188500244
-sub-SD181/sub-SD181_ses-puffPreinfusion_ecephys.nwb	1915223340
+sub-SD181/sub-SD181_ses-puffPreinfusion_ecephys.nwb	2188107196
 sub-SD185/sub-SD185_ses-puffBaseline_ecephys.nwb	2810678171
 sub-SD181/sub-SD181_ses-puffPostinfusion_ecephys.nwb	2188303720
 sub-SD185/sub-SD185_ses-puffControl_ecephys.nwb	2676776288
@@ -41,9 +41,9 @@ sub-SD211/sub-SD211_ses-puffPostinfusion_ecephys.nwb	2035014484
 sub-SD211/sub-SD211_ses-puff_behavior.nwb	26669472
 sub-SD211/sub-SD211_ses-puffPostinfusionfast_ecephys.nwb	2034424912
 sub-SD211/sub-SD211_ses-puffPreinfusion_ecephys.nwb	2034424912
-sub-H/sub-H_ses-sgramPerChannelPerTrial.nwb	41360055856
+sub-H/sub-H_ses-sgramPerChannelPerTrial.nwb	46519551984
 sub-SD215/sub-SD215_ses-puff_behavior.nwb	32980168
-sub-SD242/sub-SD242_ses-puff_behavior.nwb	26169448
+sub-SD242/sub-SD242_ses-puff_behavior.nwb	29222800
 sub-SD245/sub-SD245_ses-puffInfusion_ecephys.nwb	3912994924
 sub-SD245/sub-SD245_ses-puffBaseline_ecephys.nwb	3479181884
 sub-SD245/sub-SD245_ses-puffControl_ecephys.nwb	3478788836
@@ -51,7 +51,7 @@ sub-SD245/sub-SD245_ses-puffPreinfusion_ecephys.nwb	3046875528
 sub-SD245/sub-SD245_ses-puffPostinfusion_ecephys.nwb	3044844780
 sub-SD245/sub-SD245_ses-puff_behavior.nwb	23015204
 sub-mouse/sub-mouse_ses-1001_behavior.nwb	31363248
-sub-h009/sub-h009_ses-P50_behavior.nwb	10983072
+sub-h009/sub-h009_ses-P50_behavior.nwb	11898328
 sub-h011/sub-h011_ses-P50_behavior.nwb	8237304
 sub-mouse/sub-mouse_ses-1002_behavior.nwb	22688496
 sub-mouse/sub-mouse_ses-1003_behavior.nwb	25471584
@@ -62,7 +62,7 @@ sub-mouse/sub-mouse_ses-1007_behavior.nwb	22688496
 sub-h012/sub-h012_ses-P50_behavior.nwb	8237304
 sub-mouse/sub-mouse_ses-1008_behavior.nwb	22688496
 sub-mouse/sub-mouse_ses-1009_behavior.nwb	24850260
-sub-mouse/sub-mouse_ses-1011_behavior.nwb	22688496
+sub-mouse/sub-mouse_ses-1011_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-1006_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-1013_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-1016_behavior.nwb	25471584
@@ -72,7 +72,7 @@ sub-mouse/sub-mouse_ses-1012_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-1021_behavior.nwb	47522060
 sub-mouse/sub-mouse_ses-1022_behavior.nwb	42736544
 sub-mouse/sub-mouse_ses-1023_behavior.nwb	47784092
-sub-mouse/sub-mouse_ses-1019_behavior.nwb	22688496
+sub-mouse/sub-mouse_ses-1019_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-1024_behavior.nwb	48046124
 sub-mouse/sub-mouse_ses-1026_behavior.nwb	47522060
 sub-mouse/sub-mouse_ses-1027_behavior.nwb	47784092
@@ -117,7 +117,7 @@ sub-mouse/sub-mouse_ses-341_behavior.nwb	47849600
 sub-mouse/sub-mouse_ses-355_behavior.nwb	42409004
 sub-mouse/sub-mouse_ses-356_behavior.nwb	47784092
 sub-mouse/sub-mouse_ses-344_behavior.nwb	42409004
-sub-mouse/sub-mouse_ses-357_behavior.nwb	40836812
+sub-mouse/sub-mouse_ses-357_behavior.nwb	46211900
 sub-mouse/sub-mouse_ses-358_behavior.nwb	45556820
 sub-mouse/sub-mouse_ses-348_behavior.nwb	46211900
 sub-mouse/sub-mouse_ses-359_behavior.nwb	42409004
@@ -163,7 +163,7 @@ sub-mouse/sub-mouse_ses-674_behavior.nwb	47522060
 sub-mouse/sub-mouse_ses-677_behavior.nwb	45556820
 sub-mouse/sub-mouse_ses-678_behavior.nwb	47784092
 sub-mouse/sub-mouse_ses-679_behavior.nwb	42409004
-sub-mouse/sub-mouse_ses-680_behavior.nwb	40771304
+sub-mouse/sub-mouse_ses-680_behavior.nwb	46146392
 sub-mouse/sub-mouse_ses-682_behavior.nwb	47784092
 sub-mouse/sub-mouse_ses-683_behavior.nwb	47784092
 sub-mouse/sub-mouse_ses-684_behavior.nwb	42146972
@@ -173,7 +173,7 @@ sub-mouse/sub-mouse_ses-689_behavior.nwb	47718584
 sub-mouse/sub-mouse_ses-688_behavior.nwb	47325536
 sub-mouse/sub-mouse_ses-681_behavior.nwb	42409004
 sub-mouse/sub-mouse_ses-690_behavior.nwb	43526072
-sub-mouse/sub-mouse_ses-692_behavior.nwb	42409004
+sub-mouse/sub-mouse_ses-692_behavior.nwb	47784092
 sub-mouse/sub-mouse_ses-700_behavior.nwb	47522060
 sub-mouse/sub-mouse_ses-701_behavior.nwb	42605528
 sub-mouse/sub-mouse_ses-687_behavior.nwb	47522060
@@ -183,14 +183,14 @@ sub-mouse/sub-mouse_ses-971_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-709_behavior.nwb	47784092
 sub-mouse/sub-mouse_ses-691_behavior.nwb	43526072
 sub-mouse/sub-mouse_ses-973_behavior.nwb	22067172
-sub-mouse/sub-mouse_ses-974_behavior.nwb	22688496
+sub-mouse/sub-mouse_ses-974_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-975_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-980_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-972_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-981_behavior.nwb	22067172
 sub-mouse/sub-mouse_ses-982_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-984_behavior.nwb	24850260
-sub-mouse/sub-mouse_ses-985_behavior.nwb	22688496
+sub-mouse/sub-mouse_ses-985_behavior.nwb	25471584
 sub-mouse/sub-mouse_ses-986_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-989_behavior.nwb	24850260
 sub-mouse/sub-mouse_ses-988_behavior.nwb	24850260

@@ -32,13 +32,13 @@ sub-028-392/sub-028-392_ses-FP-PR-2020-07-24T12-31-24.nwb	1169477073
 sub-028-392/sub-028-392_ses-FP-PR-2020-07-31T12-03-31.nwb	2589631
 sub-028-392/sub-028-392_ses-FP-PR-2020-08-03T11-23-03.nwb	2243600
 sub-048-392/sub-048-392_ses-FP-PR-2020-06-16T11-59-32.nwb	2804256
-sub-048-392/sub-048-392_ses-FP-PR-2020-06-17T13-02-22.nwb	2529384
+sub-048-392/sub-048-392_ses-FP-PR-2020-06-17T13-02-22.nwb	2759328
 sub-028-392/sub-028-392_ses-FP-PR-2020-08-04T11-50-34.nwb	2646240
 sub-048-392/sub-048-392_ses-FP-PR-2020-06-26T13-41-50.nwb	2205200
-sub-048-392/sub-048-392_ses-FP-PR-2020-06-19T12-45-31.nwb	2299440
+sub-048-392/sub-048-392_ses-FP-PR-2020-06-19T12-45-31.nwb	2529384
 sub-048-392/sub-048-392_ses-FP-PR-2020-06-29T12-58-05.nwb	2529384
 sub-048-392/sub-048-392_ses-FP-PR-2020-06-28T13-14-50.nwb	2299440
-sub-048-392/sub-048-392_ses-FP-PR-2020-06-30T13-26-28.nwb	2243600
+sub-048-392/sub-048-392_ses-FP-PR-2020-06-30T13-26-28.nwb	2467960
 sub-048-392/sub-048-392_ses-FP-PR-2020-06-27T13-51-35.nwb	2529384
 sub-048-392/sub-048-392_ses-FP-PR-2020-07-01T13-53-46.nwb	2745216
 sub-048-392/sub-048-392_ses-FP-PR-2020-07-08T13-08-16.nwb	3622528
@@ -90,7 +90,7 @@ sub-100-258/sub-100-258_ses-FP-RR20-2019-05-13T10-52-10_behavior.nwb	2360160
 sub-101-260/sub-101-260_ses-FP-RR20-2019-04-09T13-55-38_behavior.nwb	2637360
 sub-100-258/sub-100-258_ses-FP-RR20-2019-05-14T11-46-26_behavior.nwb	2807616
 sub-100-258/sub-100-258_ses-FP-RR20-2019-05-09T13-32-40_behavior.nwb	2027394788
-sub-101-260/sub-101-260_ses-FP-RR20-2019-04-10T15-57-24_behavior.nwb	2458936
+sub-101-260/sub-101-260_ses-FP-RR20-2019-04-10T15-57-24_behavior.nwb	2691728
 sub-101-260/sub-101-260_ses-FP-RR20-2019-04-18T15-22-01_behavior.nwb	2832288
 sub-101-260/sub-101-260_ses-FP-RR20-2019-04-17T15-43-15_behavior.nwb	3067064
 sub-101-260/sub-101-260_ses-FP-RR20-2019-04-11T13-15-51_behavior.nwb	2640187
@@ -248,7 +248,7 @@ sub-113-283/sub-113-283_ses-FP-PS-2019-06-19T09-28-41_behavior.nwb	2832672
 sub-113-283/sub-113-283_ses-FP-PS-2019-06-21T09-36-37_behavior.nwb	3068208
 sub-113-283/sub-113-283_ses-FP-PS-2019-06-20T09-32-04_behavior.nwb	3576240
 sub-113-283/sub-113-283_ses-FP-PS-2019-06-18T10-36-28_behavior.nwb	3776896
-sub-113-283/sub-113-283_ses-FP-PS-2019-06-24T12-19-44_behavior.nwb	2127771
+sub-113-283/sub-113-283_ses-FP-PS-2019-06-24T12-19-44_behavior.nwb	2364190
 sub-113-283/sub-113-283_ses-FP-PS-2019-06-27T09-27-18.nwb	2467960
 sub-113-283/sub-113-283_ses-FP-PS-2019-07-09T11-23-34_behavior.nwb	2832192
 sub-113-283/sub-113-283_ses-FP-PS-2019-07-08T13-27-36_behavior.nwb	2832672
@@ -288,7 +288,7 @@ sub-114-273/sub-114-273_ses-FP-PS-2019-06-17T13-03-47_behavior.nwb	2596176
 sub-114-273/sub-114-273_ses-FP-PS-2019-06-19T14-25-11_behavior.nwb	2596176
 sub-114-273/sub-114-273_ses-FP-PS-2019-06-20T12-57-41_behavior.nwb	2615954
 sub-114-273/sub-114-273_ses-FP-PS-2019-06-21T13-00-37_behavior.nwb	2371720
-sub-114-273/sub-114-273_ses-FP-PS-2019-06-18T15-11-02_behavior.nwb	2596176
+sub-114-273/sub-114-273_ses-FP-PS-2019-06-18T15-11-02_behavior.nwb	2832192
 sub-114-273/sub-114-273_ses-FP-PS-2019-06-24T13-20-10_behavior.nwb	2585165
 sub-114-273/sub-114-273_ses-FP-PS-2019-06-25T11-10-11_behavior.nwb	2606263
 sub-114-273/sub-114-273_ses-FP-PS-2019-06-28T12-40-34_behavior.nwb	2245440
@@ -323,7 +323,7 @@ sub-115-273/sub-115-273_ses-FP-PS-2019-06-07T10-37-09_behavior.nwb	2596264
 sub-115-273/sub-115-273_ses-FP-PS-2019-06-10T11-15-04_behavior.nwb	2124144
 sub-115-273/sub-115-273_ses-FP-PS-2019-06-12T11-02-37_behavior.nwb	3041584
 sub-115-273/sub-115-273_ses-FP-PS-2019-06-13T11-05-45_behavior.nwb	3306898
-sub-115-273/sub-115-273_ses-FP-PS-2019-06-14T14-08-35_behavior.nwb	3098329
+sub-115-273/sub-115-273_ses-FP-PS-2019-06-14T14-08-35_behavior.nwb	3336662
 sub-115-273/sub-115-273_ses-FP-PS-2019-06-11T11-52-46_behavior.nwb	1551627898
 sub-115-273/sub-115-273_ses-FP-PS-2019-06-17T11-51-09_behavior.nwb	3465900
 sub-115-273/sub-115-273_ses-FP-PS-2019-06-18T14-02-37_behavior.nwb	3570960
@@ -340,7 +340,7 @@ sub-115-273/sub-115-273_ses-FP-PS-2019-07-02T11-13-07_behavior.nwb	2637360
 sub-115-273/sub-115-273_ses-FP-PS-2019-07-02T12-31-25_behavior.nwb	2283840
 sub-115-273/sub-115-273_ses-FP-PS-2019-07-08T11-09-49_behavior.nwb	2919072
 sub-115-273/sub-115-273_ses-FP-PS-2019-07-10T11-53-26_behavior.nwb	4717220
-sub-115-273/sub-115-273_ses-FP-PS-2019-07-09T12-15-59_behavior.nwb	2804352
+sub-115-273/sub-115-273_ses-FP-PS-2019-07-09T12-15-59_behavior.nwb	3038048
 sub-115-273/sub-115-273_ses-FP-PS-2019-07-11T11-14-00_behavior.nwb	2603920
 sub-115-273/sub-115-273_ses-FP-PS-2019-07-12T11-15-38_behavior.nwb	2762688
 sub-115-273/sub-115-273_ses-FP-PS-2019-07-15T11-38-17_behavior.nwb	2823084
@@ -424,7 +424,7 @@ sub-141-308/sub-141-308_ses-FP-PR-2019-08-02T09-52-40_behavior.nwb	2322720
 sub-140-306/sub-140-306_ses-FP-PS-2019-09-16T09-57-11_behavior.nwb	3150552
 sub-141-308/sub-141-308_ses-FP-PR-2019-08-01T14-01-17_behavior.nwb	2572834
 sub-141-308/sub-141-308_ses-FP-PR-2019-08-06T13-53-39_behavior.nwb	2850312
-sub-141-308/sub-141-308_ses-FP-PR-2019-08-05T12-45-41_behavior.nwb	2341660
+sub-141-308/sub-141-308_ses-FP-PR-2019-08-05T12-45-41_behavior.nwb	2575826
 sub-141-308/sub-141-308_ses-FP-PR-2019-08-10T13-01-23.nwb	2298776
 sub-141-308/sub-141-308_ses-FP-PR-2019-08-07T13-15-37_behavior.nwb	2360400
 sub-141-308/sub-141-308_ses-FP-PR-2019-08-19T09-23-41_behavior.nwb	3068208
@@ -448,7 +448,7 @@ sub-141-308/sub-141-308_ses-FP-PR-2019-09-04T11-00-03_behavior.nwb	2877204
 sub-141-308/sub-141-308_ses-FP-PR-2019-09-05T09-25-30_behavior.nwb	2861052
 sub-141-308/sub-141-308_ses-FP-PR-2019-09-09T11-11-44_behavior.nwb	2629660
 sub-141-308/sub-141-308_ses-FP-PR-2019-09-06T09-11-16.nwb	2205200
-sub-141-308/sub-141-308_ses-FP-PR-2019-09-11T10-34-38_behavior.nwb	2388490
+sub-141-308/sub-141-308_ses-FP-PR-2019-09-11T10-34-38_behavior.nwb	2627339
 sub-141-308/sub-141-308_ses-FP-PR-2019-09-12T10-39-33_behavior.nwb	2406590
 sub-141-308/sub-141-308_ses-FP-PR-2019-09-13T09-26-43_behavior.nwb	2870100
 sub-249-391/sub-249-391_ses-FP-PS-2020-06-16T11-59-32.nwb	2019240
@@ -480,7 +480,7 @@ sub-249-391/sub-249-391_ses-FP-PS-2020-07-23T11-26-15.nwb	1860528
 sub-249-391/sub-249-391_ses-FP-PS-2020-07-24T11-17-27.nwb	2038239
 sub-249-391/sub-249-391_ses-FP-PS-2020-07-22T12-19-35.nwb	1323120
 sub-249-391/sub-249-391_ses-FP-PS-2020-07-21T11-42-49.nwb	1156329668
-sub-249-391/sub-249-391_ses-FP-PS-2020-07-27T11-47-45.nwb	1394580
+sub-249-391/sub-249-391_ses-FP-PS-2020-07-27T11-47-45.nwb	1627010
 sub-249-391/sub-249-391_ses-FP-PS-2020-07-29T11-31-18.nwb	1570520
 sub-271-396/sub-271-396_ses-FP-PS-2020-06-19T13-30-43_behavior.nwb	1202290
 sub-271-396/sub-271-396_ses-FP-PS-2020-06-17T12-54-48_behavior.nwb	1545712
@@ -490,7 +490,7 @@ sub-271-396/sub-271-396_ses-FP-PS-2020-06-30T13-15-43_behavior.nwb	1180280
 sub-271-396/sub-271-396_ses-FP-PS-2020-06-28T13-04-29_behavior.nwb	1416240
 sub-271-396/sub-271-396_ses-FP-PS-2020-06-29T13-28-04_behavior.nwb	1180080
 sub-271-396/sub-271-396_ses-FP-PS-2020-07-01T13-32-57_behavior.nwb	1416096
-sub-271-396/sub-271-396_ses-FP-PS-2020-07-02T13-29-21_behavior.nwb	944160
+sub-271-396/sub-271-396_ses-FP-PS-2020-07-02T13-29-21_behavior.nwb	1180200
 sub-271-396/sub-271-396_ses-FP-PS-2020-07-06T13-42-45_behavior.nwb	1180080
 sub-271-396/sub-271-396_ses-FP-PS-2020-07-07T12-28-11_behavior.nwb	1403808
 sub-271-396/sub-271-396_ses-FP-PS-2020-07-08T14-35-14_behavior.nwb	1347264
@@ -539,7 +539,7 @@ sub-272-396/sub-272-396_ses-FP-DPR-2020-07-20T13-09-31.nwb	2319920
 sub-272-396/sub-272-396_ses-FP-DPR-2020-07-21T13-00-24.nwb	1159960
 sub-272-396/sub-272-396_ses-FP-DPR-2020-07-23T12-25-12.nwb	1178680
 sub-272-396/sub-272-396_ses-FP-DPR-2020-07-23T13-29-33.nwb	1121800
-sub-272-396/sub-272-396_ses-FP-DPR-2020-07-24T12-31-24.nwb	1183560
+sub-272-396/sub-272-396_ses-FP-DPR-2020-07-24T12-31-24.nwb	1420272
 sub-272-396/sub-272-396_ses-FP-DPR-2020-07-27T13-14-26.nwb	1170800
 sub-272-396/sub-272-396_ses-FP-DPR-2020-07-22T13-01-02.nwb	870638124
 sub-272-396/sub-272-396_ses-FP-DPR-2020-07-28T13-21-15.nwb	882080
@@ -613,7 +613,7 @@ sub-333-393/sub-333-393_ses-FP-DPR-2020-07-27T11-47-45.nwb	1855936
 sub-333-393/sub-333-393_ses-FP-DPR-2020-07-28T12-04-01.nwb	927968
 sub-333-393/sub-333-393_ses-FP-DPR-2020-07-30T11-11-28.nwb	1178680
 sub-333-393/sub-333-393_ses-FP-DPR-2020-07-30T12-18-39.nwb	1346160
-sub-333-393/sub-333-393_ses-FP-DPR-2020-08-04T11-42-15.nwb	905728
+sub-333-393/sub-333-393_ses-FP-DPR-2020-08-04T11-42-15.nwb	1132160
 sub-333-393/sub-333-393_ses-FP-DPR-2020-08-03T11-23-03.nwb	937424
 sub-333-393/sub-333-393_ses-FP-DPR-2020-07-29T11-53-42.nwb	1127454582
 sub-334-394/sub-334-394_ses-FP-DPR-2020-06-16T13-08-30.nwb	867104
@@ -636,7 +636,7 @@ sub-334-394/sub-334-394_ses-FP-DPR-2020-07-13T13-06-07.nwb	927968
 sub-334-394/sub-334-394_ses-FP-DPR-2020-07-12T13-18-51.nwb	1159960
 sub-334-394/sub-334-394_ses-FP-DPR-2020-07-14T13-34-53.nwb	1170200
 sub-334-394/sub-334-394_ses-FP-DPR-2020-07-16T12-44-16.nwb	927968
-sub-334-394/sub-334-394_ses-FP-DPR-2020-07-15T13-22-44.nwb	695976
+sub-334-394/sub-334-394_ses-FP-DPR-2020-07-15T13-22-44.nwb	927968
 sub-334-394/sub-334-394_ses-FP-DPR-2020-07-17T12-55-28.nwb	927968
 sub-334-394/sub-334-394_ses-FP-DPR-2020-07-20T12-59-25.nwb	710184
 sub-334-394/sub-334-394_ses-FP-DPR-2020-07-21T13-00-24.nwb	1170880
@@ -654,7 +654,7 @@ sub-346-394/sub-346-394_ses-FP-DPR-2020-06-28T13-14-50.nwb	905664
 sub-346-394/sub-346-394_ses-FP-DPR-2020-06-26T13-41-50.nwb	1300656
 sub-346-394/sub-346-394_ses-FP-DPR-2020-06-29T12-58-05.nwb	1570520
 sub-346-394/sub-346-394_ses-FP-DPR-2020-06-30T13-57-41.nwb	905728
-sub-346-394/sub-346-394_ses-FP-DPR-2020-07-01T14-14-02.nwb	892352
+sub-346-394/sub-346-394_ses-FP-DPR-2020-07-01T14-14-02.nwb	1115440
 sub-346-394/sub-346-394_ses-FP-DPR-2020-07-02T13-19-16.nwb	679296
 sub-346-394/sub-346-394_ses-FP-DPR-2020-07-08T13-08-16.nwb	920608
 sub-346-394/sub-346-394_ses-FP-DPR-2020-07-06T12-49-43.nwb	905728
@@ -680,7 +680,7 @@ sub-346-394/sub-346-394_ses-FP-DPR-2020-07-29T10-28-39.nwb	1411986
 sub-346-394/sub-346-394_ses-FP-DPR-2020-07-31T12-03-31.nwb	936816
 sub-346-394/sub-346-394_ses-FP-DPR-2020-07-22T13-14-32.nwb	699324168
 sub-347-393/sub-347-393_ses-FP-PS-2020-06-16T13-08-30.nwb	673080
-sub-347-393/sub-347-393_ses-FP-PS-2020-06-17T11-58-34.nwb	689832
+sub-347-393/sub-347-393_ses-FP-PS-2020-06-17T11-58-34.nwb	919776
 sub-347-393/sub-347-393_ses-FP-PS-2020-06-26T12-29-11.nwb	1149720
 sub-347-393/sub-347-393_ses-FP-PS-2020-06-19T11-32-53.nwb	927616
 sub-347-393/sub-347-393_ses-FP-PS-2020-06-27T12-38-21.nwb	1149720
@@ -716,7 +716,7 @@ sub-348-393/sub-348-393_ses-FP-PS-2020-06-16T13-08-30.nwb	934752
 sub-348-393/sub-348-393_ses-FP-PS-2020-06-17T11-58-34.nwb	1149720
 sub-348-393/sub-348-393_ses-FP-PS-2020-06-27T12-38-21.nwb	1149720
 sub-348-393/sub-348-393_ses-FP-PS-2020-06-19T11-32-53.nwb	1149720
-sub-348-393/sub-348-393_ses-FP-PS-2020-06-28T11-59-17.nwb	919776
+sub-348-393/sub-348-393_ses-FP-PS-2020-06-28T11-59-17.nwb	1149720
 sub-348-393/sub-348-393_ses-FP-PS-2020-06-26T12-29-11.nwb	1149720
 sub-348-393/sub-348-393_ses-FP-PS-2020-06-29T11-46-47.nwb	1149720
 sub-348-393/sub-348-393_ses-FP-PS-2020-07-01T12-26-27.nwb	1149720
@@ -835,7 +835,7 @@ sub-63-207/sub-63-207_ses-FP-PR-2018-10-19T09-49-09_behavior.nwb	944064
 sub-63-207/sub-63-207_ses-FP-PR-2018-10-15T09-31-11_behavior.nwb	1290308836
 sub-63-207/sub-63-207_ses-FP-PR-2018-10-22T09-37-59_behavior.nwb	952256
 sub-63-207/sub-63-207_ses-FP-PR-2018-10-23T10-14-23_behavior.nwb	1180160
-sub-63-207/sub-63-207_ses-FP-PR-2018-10-24T09-35-43_behavior.nwb	713928
+sub-63-207/sub-63-207_ses-FP-PR-2018-10-24T09-35-43_behavior.nwb	951904
 sub-63-207/sub-63-207_ses-FP-PR-2018-10-25T09-46-37_behavior.nwb	1416096
 sub-63-207/sub-63-207_ses-FP-PR-2018-10-26T10-35-29_behavior.nwb	1180080
 sub-63-207/sub-63-207_ses-FP-PR-2018-10-29T10-07-39_behavior.nwb	960732
@@ -864,7 +864,7 @@ sub-64-205/sub-64-205_ses-FP-DPR-2018-10-17T09-41-46_behavior.nwb	2072527972
 sub-64-205/sub-64-205_ses-FP-DPR-2018-10-23T10-14-23_behavior.nwb	1181075
 sub-64-205/sub-64-205_ses-FP-DPR-2018-10-29T10-07-39_behavior.nwb	1908552
 sub-64-205/sub-64-205_ses-FP-DPR-2018-10-26T10-35-29_behavior.nwb	2150397
-sub-64-205/sub-64-205_ses-FP-DPR-2018-10-24T09-35-43_behavior.nwb	716652
+sub-64-205/sub-64-205_ses-FP-DPR-2018-10-24T09-35-43_behavior.nwb	955536
 sub-64-205/sub-64-205_ses-FP-DPR-2018-10-25T09-46-37_behavior.nwb	955244
 sub-64-205/sub-64-205_ses-FP-DPR-2018-10-30T10-32-07_behavior.nwb	953664
 sub-64-205/sub-64-205_ses-FP-DPR-2018-11-01T09-55-00_behavior.nwb	714312
@@ -888,7 +888,7 @@ sub-75-214/sub-75-214_ses-FP-PS-2018-10-24T13-11-01_behavior.nwb	1180080
 sub-75-214/sub-75-214_ses-FP-PS-2018-11-01T13-48-44_behavior.nwb	931168
 sub-75-214/sub-75-214_ses-FP-PS-2018-11-07T11-00-07_behavior.nwb	944544
 sub-75-214/sub-75-214_ses-FP-PS-2018-10-31T11-06-03_behavior.nwb	935872
-sub-75-214/sub-75-214_ses-FP-PS-2018-11-08T11-06-53_behavior.nwb	929696
+sub-75-214/sub-75-214_ses-FP-PS-2018-11-08T11-06-53_behavior.nwb	1162120
 sub-75-214/sub-75-214_ses-FP-PS-2018-10-29T12-41-44_behavior.nwb	2549759567
 sub-75-214/sub-75-214_ses-FP-PS-2018-11-15T00-00-00_behavior.nwb	944128
 sub-75-214/sub-75-214_ses-FP-PS-2018-11-13T12-38-07_behavior.nwb	1180080
@@ -911,7 +911,7 @@ sub-75-214/sub-75-214_ses-FP-PS-2018-12-07T10-19-06.nwb	867104
 sub-78-214/sub-78-214_ses-FP-PS-2018-10-19T13-06-57_behavior.nwb	1185330
 sub-78-214/sub-78-214_ses-FP-PS-2018-10-15T14-48-42_behavior.nwb	713136
 sub-78-214/sub-78-214_ses-FP-PS-2018-10-17T13-06-09_behavior.nwb	1186690
-sub-78-214/sub-78-214_ses-FP-PS-2018-10-30T14-59-27_behavior.nwb	708048
+sub-78-214/sub-78-214_ses-FP-PS-2018-10-30T14-59-27_behavior.nwb	944064
 sub-78-214/sub-78-214_ses-FP-PS-2018-10-24T13-11-01_behavior.nwb	1180080
 sub-78-214/sub-78-214_ses-FP-PS-2018-10-22T13-16-50_behavior.nwb	946992
 sub-78-214/sub-78-214_ses-FP-PS-2018-10-29T13-47-01_behavior.nwb	2596616
@@ -1017,7 +1017,7 @@ sub-87-239/sub-87-239_ses-FP-DPR-2019-03-05T09-29-18_behavior.nwb	944064
 sub-87-239/sub-87-239_ses-FP-DPR-2019-03-04T11-40-53.nwb	1984680
 sub-87-239/sub-87-239_ses-FP-DPR-2019-02-28T11-14-23_behavior.nwb	803467216
 sub-87-239/sub-87-239_ses-FP-DPR-2019-03-06T15-58-59_behavior.nwb	944064
-sub-87-239/sub-87-239_ses-FP-DPR-2019-03-07T10-39-26_behavior.nwb	714192
+sub-87-239/sub-87-239_ses-FP-DPR-2019-03-07T10-39-26_behavior.nwb	952256
 sub-87-239/sub-87-239_ses-FP-DPR-2019-03-12T14-25-12_behavior.nwb	1180080
 sub-87-239/sub-87-239_ses-FP-DPR-2019-03-11T11-25-24_behavior.nwb	1668338
 sub-87-239/sub-87-239_ses-FP-DPR-2019-03-08T10-59-10_behavior.nwb	952256
@@ -1061,7 +1061,7 @@ sub-88-239/sub-88-239_ses-FP-DPR-2019-03-11T11-20-46_behavior.nwb	1409917739
 sub-89-247/sub-89-247_ses-FP-PR-2019-02-07T13-57-17_behavior.nwb	941760
 sub-89-247/sub-89-247_ses-FP-PR-2019-02-11T14-50-11_behavior.nwb	935872
 sub-89-247/sub-89-247_ses-FP-PR-2019-02-08T11-46-36_behavior.nwb	1871744
-sub-89-247/sub-89-247_ses-FP-PR-2019-02-12T13-11-19_behavior.nwb	1169840
+sub-89-247/sub-89-247_ses-FP-PR-2019-02-12T13-11-19_behavior.nwb	1403808
 sub-89-247/sub-89-247_ses-FP-PR-2019-02-13T13-41-38_behavior.nwb	1169840
 sub-89-247/sub-89-247_ses-FP-PR-2019-02-14T10-49-25_behavior.nwb	935872
 sub-89-247/sub-89-247_ses-FP-PR-2019-02-15T15-01-32_behavior.nwb	935872
@@ -1116,7 +1116,7 @@ sub-90-247/sub-90-247_ses-FP-PS-2019-03-11T10-16-29_behavior.nwb	954252
 sub-90-247/sub-90-247_ses-FP-PS-2019-03-12T10-30-35_behavior.nwb	953812
 sub-90-247/sub-90-247_ses-FP-PS-2019-03-13T12-58-05_behavior.nwb	957460
 sub-90-247/sub-90-247_ses-FP-PS-2019-03-14T00-00-00_behavior.nwb	938016
-sub-90-247/sub-90-247_ses-FP-PS-2019-03-15T10-16-58_behavior.nwb	953088
+sub-90-247/sub-90-247_ses-FP-PS-2019-03-15T10-16-58_behavior.nwb	1191360
 sub-90-247/sub-90-247_ses-FP-PS-2019-03-19T12-55-49_behavior.nwb	952508
 sub-90-247/sub-90-247_ses-FP-PS-2019-03-18T10-06-39_behavior.nwb	954304
 sub-90-247/sub-90-247_ses-FP-PS-2019-03-20T10-33-54_behavior.nwb	1141920
@@ -1168,7 +1168,7 @@ sub-93-246/sub-93-246_ses-FP-PS-2019-02-15T10-40-22_behavior.nwb	944064
 sub-93-246/sub-93-246_ses-FP-PS-2019-02-11T16-06-20_behavior.nwb	821688
 sub-93-246/sub-93-246_ses-FP-PS-2019-02-19T11-29-43_behavior.nwb	931360
 sub-93-246/sub-93-246_ses-FP-PS-2019-02-20T17-31-21_behavior.nwb	1180080
-sub-93-246/sub-93-246_ses-FP-PS-2019-02-16T15-07-52_behavior.nwb	708048
+sub-93-246/sub-93-246_ses-FP-PS-2019-02-16T15-07-52_behavior.nwb	944064
 sub-93-246/sub-93-246_ses-FP-PS-2019-02-17T17-23-58_behavior.nwb	1180280
 sub-93-246/sub-93-246_ses-FP-PS-2019-02-21T12-18-33_behavior.nwb	2339680
 sub-93-246/sub-93-246_ses-FP-PS-2019-02-26T17-04-03_behavior.nwb	1141920
@@ -1186,7 +1186,7 @@ sub-93-246/sub-93-246_ses-FP-PS-2019-03-07T12-43-58_behavior.nwb	934784
 sub-93-246/sub-93-246_ses-FP-PS-2019-03-11T12-35-25_behavior.nwb	696840
 sub-93-246/sub-93-246_ses-FP-PS-2019-03-12T11-36-50_behavior.nwb	944224
 sub-93-246/sub-93-246_ses-FP-PS-2019-03-13T16-36-20_behavior.nwb	944064
-sub-93-246/sub-93-246_ses-FP-PS-2019-03-14T12-03-33_behavior.nwb	708048
+sub-93-246/sub-93-246_ses-FP-PS-2019-03-14T12-03-33_behavior.nwb	944064
 sub-93-246/sub-93-246_ses-FP-PS-2019-03-15T12-39-52_behavior.nwb	949920
 sub-93-246/sub-93-246_ses-FP-PS-2019-03-18T11-13-09_behavior.nwb	944224
 sub-93-246/sub-93-246_ses-FP-PS-2019-03-19T10-28-04_behavior.nwb	1571808
@@ -1200,7 +1200,7 @@ sub-94-246/sub-94-246_ses-FP-PS-2019-02-16T13-47-15_behavior.nwb	930072
 sub-94-246/sub-94-246_ses-FP-PS-2019-02-17T13-26-54_behavior.nwb	944064
 sub-94-246/sub-94-246_ses-FP-PS-2019-02-21T11-50-08_behavior.nwb	959200
 sub-94-246/sub-94-246_ses-FP-PS-2019-02-20T11-45-44_behavior.nwb	2403510
-sub-94-246/sub-94-246_ses-FP-PS-2019-02-22T12-18-34_behavior.nwb	944224
+sub-94-246/sub-94-246_ses-FP-PS-2019-02-22T12-18-34_behavior.nwb	1180280
 sub-94-246/sub-94-246_ses-FP-PS-2019-02-25T11-57-18_behavior.nwb	701208
 sub-94-246/sub-94-246_ses-FP-PS-2019-02-28T12-20-45_behavior.nwb	945428
 sub-94-246/sub-94-246_ses-FP-PS-2019-02-27T13-18-07_behavior.nwb	944224
@@ -1220,7 +1220,7 @@ sub-94-246/sub-94-246_ses-FP-PS-2019-03-14T13-16-50_behavior.nwb	1416240
 sub-94-246/sub-94-246_ses-FP-PS-2019-03-18T12-15-43_behavior.nwb	1168480
 sub-94-246/sub-94-246_ses-FP-PS-2019-03-19T10-31-55_behavior.nwb	1193440
 sub-94-246/sub-94-246_ses-FP-PS-2019-03-15T14-03-11_behavior.nwb	944064
-sub-94-246/sub-94-246_ses-FP-PS-2019-03-19T10-28-04_behavior.nwb	1637776
+sub-94-246/sub-94-246_ses-FP-PS-2019-03-19T10-28-04_behavior.nwb	1871744
 sub-94-246/sub-94-246_ses-FP-PS-2019-03-20T11-51-03_behavior.nwb	2124504
 sub-94-246/sub-94-246_ses-FP-PS-2019-03-21T12-20-37_behavior.nwb	1180080
 sub-94-246/sub-94-246_ses-FP-PS-2019-03-27T14-02-18_behavior.nwb	2124144
@@ -1262,9 +1262,9 @@ sub-97-257/sub-97-257_ses-FP-RR20-2019-04-18T14-01-29_behavior.nwb	959136
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-18T15-09-17_behavior.nwb	1104080
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-19T11-05-40_behavior.nwb	1163960
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-17T13-47-03_behavior.nwb	844444812
-sub-97-257/sub-97-257_ses-FP-RR20-2019-04-22T11-45-45_behavior.nwb	953192
+sub-97-257/sub-97-257_ses-FP-RR20-2019-04-22T11-45-45_behavior.nwb	1191490
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-23T11-12-04_behavior.nwb	939424
-sub-97-257/sub-97-257_ses-FP-RR20-2019-04-29T11-40-52_behavior.nwb	891488
+sub-97-257/sub-97-257_ses-FP-RR20-2019-04-29T11-40-52_behavior.nwb	1114360
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-25T13-18-15_behavior.nwb	938460
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-24T11-42-02_behavior.nwb	1172680
 sub-97-257/sub-97-257_ses-FP-RR20-2019-04-26T11-33-58_behavior.nwb	944064
@@ -1290,7 +1290,7 @@ sub-98-257/sub-98-257_ses-FP-RR20-2019-05-02T12-43-45_behavior.nwb	961856
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-01T11-23-50_behavior.nwb	708048
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-03T10-39-17_behavior.nwb	1416096
 sub-98-257/sub-98-257_ses-FP-RR20-2019-04-30T13-55-38_behavior.nwb	1195380
-sub-98-257/sub-98-257_ses-FP-RR20-2019-04-24T11-42-02_behavior.nwb	904361992
+sub-98-257/sub-98-257_ses-FP-RR20-2019-04-24T11-42-02_behavior.nwb	1299753311
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-06T12-02-18_behavior.nwb	944064
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-07T11-25-47_behavior.nwb	1180200
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-09T09-53-07_behavior.nwb	944096
@@ -1299,7 +1299,7 @@ sub-98-257/sub-98-257_ses-FP-RR20-2019-05-13T09-44-35_behavior.nwb	1416096
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-14T10-37-57_behavior.nwb	941888
 sub-98-257/sub-98-257_ses-FP-RR20-2019-05-15T09-54-26_behavior.nwb	1180120
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-09T12-49-36_behavior.nwb	1203465
-sub-98-257/sub-98-257_ses-FP-RR20-2019-05-10T09-50-25_behavior.nwb	854991440
+sub-98-257/sub-98-257_ses-FP-RR20-2019-05-10T09-50-25_behavior.nwb	1222443617
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-10T14-49-11_behavior.nwb	1888128
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-12T12-22-08_behavior.nwb	944608
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-11T12-06-08_behavior.nwb	1652112
@@ -1310,7 +1310,7 @@ sub-99-257/sub-99-257_ses-FP-RR20-2019-04-22T13-14-13_behavior.nwb	952416
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-25T10-51-59_behavior.nwb	938100
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-19T12-11-52_behavior.nwb	3048344
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-23T12-25-00_behavior.nwb	714264
-sub-99-257/sub-99-257_ses-FP-RR20-2019-04-24T12-54-40_behavior.nwb	722256
+sub-99-257/sub-99-257_ses-FP-RR20-2019-04-24T12-54-40_behavior.nwb	963008
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-26T12-54-19_behavior.nwb	944192
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-29T12-57-55_behavior.nwb	895780
 sub-99-257/sub-99-257_ses-FP-RR20-2019-04-30T12-53-42_behavior.nwb	1114360
@@ -1318,14 +1318,14 @@ sub-99-257/sub-99-257_ses-FP-RR20-2019-05-02T13-44-58_behavior.nwb	1337184
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-01T12-38-16_behavior.nwb	1114320
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-03T11-49-06_behavior.nwb	1973592
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-07T12-41-09_behavior.nwb	673632
-sub-99-257/sub-99-257_ses-FP-RR20-2019-05-07T13-43-22_behavior.nwb	898176
+sub-99-257/sub-99-257_ses-FP-RR20-2019-05-07T13-43-22_behavior.nwb	1122720
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-07T12-43-44_behavior.nwb	950848
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-08T14-25-17_behavior.nwb	952608
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-09T12-42-09_behavior.nwb	944064
 sub-99-257/sub-99-257_ses-FP-RR20-2019-05-06T13-08-42_behavior.nwb	1633686226
 sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-06-27T13-29-43_behavior.nwb	2208160
 sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-06-30T13-15-43_behavior+ogen.nwb	2009544
-sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-06-26T13-19-27_behavior+ogen.nwb	2184912
+sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-06-26T13-19-27_behavior+ogen.nwb	2427680
 sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-06-29T13-28-04_behavior+ogen.nwb	1736056
 sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-06-28T13-04-29_behavior+ogen.nwb	2693328
 sub-079-402/sub-079-402_ses-Opto-DLS-Excitatory-ChR2-2020-07-01T13-32-57_behavior+ogen.nwb	3549308
@@ -1396,13 +1396,13 @@ sub-109-411/sub-109-411_ses-Opto-DMS-Inhibitory-EYFP-2020-11-06T11-36-57_ogen.nw
 sub-109-411/sub-109-411_ses-Opto-DMS-Inhibitory-EYFP-2020-11-09T11-34-59_ogen.nwb	2439480
 sub-109-411/sub-109-411_ses-Opto-DMS-Inhibitory-EYFP-2020-11-10T11-18-50_ogen.nwb	1874112
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-23T12-59-58.nwb	2167760
-sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-22T13-05-48_ogen.nwb	2235816
+sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-22T13-05-48_ogen.nwb	2484240
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-21T13-08-39_ogen.nwb	1909952
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-28T13-25-22_ogen.nwb	1957440
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-29T12-46-32_ogen.nwb	1957440
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-10-30T13-31-09_ogen.nwb	2446800
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-02T12-55-04_ogen.nwb	2202120
-sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-03T12-15-56_ogen.nwb	2936160
+sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-03T12-15-56_ogen.nwb	3180840
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-04T12-35-56_ogen.nwb	2202120
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-05T12-50-08_ogen.nwb	2220840
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-06T14-12-03_ogen.nwb	1973824
@@ -1420,7 +1420,7 @@ sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-20T10-56-07_ogen.nw
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-24T11-54-18_ogen.nwb	2220552
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-25T11-45-22_ogen.nwb	2220552
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-23T11-48-18_ogen.nwb	2220552
-sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-27T13-29-27_ogen.nwb	1990208
+sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-27T13-29-27_ogen.nwb	2238984
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-11-30T11-51-50_ogen.nwb	2239272
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-12-02T11-36-49_ogen.nwb	2238984
 sub-112-415/sub-112-415_ses-Opto-DMS-Inhibitory-NpHR-2020-12-03T12-24-18_ogen.nwb	2319440
@@ -1574,7 +1574,7 @@ sub-119-416/sub-119-416_ses-Opto-DMS-Excitatory-ChR2-2020-11-21T10-56-12_ogen.nw
 sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-27T13-15-35_behavior+ogen.nwb	2230776
 sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-28T11-01-00_behavior+ogen.nwb	2020080
 sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-26T15-32-25_behavior+ogen.nwb	2064760
-sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-02T11-07-57_behavior+ogen.nwb	2034816
+sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-02T11-07-57_behavior+ogen.nwb	2289168
 sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-03T11-38-17_behavior+ogen.nwb	3548496
 sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-09T13-32-50_behavior.nwb	1987344
 sub-120-279/sub-120-279_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-09T12-41-54_behavior+ogen.nwb	3671640
@@ -1656,7 +1656,7 @@ sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-17T11-33-25_behavio
 sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-22T11-37-53_behavior+ogen.nwb	2316807
 sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-19T11-54-32_behavior+ogen.nwb	2326851
 sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-23T12-31-04_behavior.nwb	1801152
-sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-23T11-24-34_behavior+ogen.nwb	2493500
+sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-23T11-24-34_behavior+ogen.nwb	2742850
 sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-25T11-33-58_ogen.nwb	4919544
 sub-123-280/sub-123-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-24T11-12-18_behavior+ogen.nwb	2318229
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-07T12-34-47_ogen.nwb	2235816
@@ -1666,7 +1666,7 @@ sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-14T14-44-33.nwb	198
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-13T12-07-28_ogen.nwb	1909952
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-12T11-54-53_ogen.nwb	2148696
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-15T11-52-03_ogen.nwb	1904640
-sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-16T12-05-31_ogen.nwb	2173896
+sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-16T12-05-31_ogen.nwb	2415440
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-21T11-58-24_ogen.nwb	2220552
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-20T12-52-02_ogen.nwb	2220552
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-10-19T12-11-02_ogen.nwb	1974080
@@ -1694,7 +1694,7 @@ sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-11-20T13-43-03_ogen.nw
 sub-123-411/sub-123-411_ses-Opto-DMS-Inhibitory-NpHR-2020-11-21T12-03-45_ogen.nwb	1782208
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-26T15-32-25_behavior+ogen.nwb	2329767
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-27T10-42-18_behavior+ogen.nwb	2485600
-sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-27T14-11-33_behavior+ogen.nwb	1958720
+sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-27T14-11-33_behavior+ogen.nwb	2203560
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-06-28T10-05-38_behavior+ogen.nwb	2521730
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-02T08-52-18_behavior+ogen.nwb	2280276
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-09T11-03-19_behavior.nwb	2020896
@@ -1711,8 +1711,8 @@ sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-19T10-51-1
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-22T10-37-45_behavior+ogen.nwb	2327643
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-24T13-21-36_behavior+ogen.nwb	3220490
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-25T09-35-04_behavior+ogen.nwb	2191104
-sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-24T13-36-16_behavior+ogen.nwb	3122784
-sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-25T09-56-06_behavior.nwb	1796352
+sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-24T13-36-16_behavior+ogen.nwb	3383016
+sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-25T09-56-06_behavior.nwb	2020896
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-26T09-17-13_behavior+ogen.nwb	2528870
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-29T09-14-06_behavior+ogen.nwb	2052696
 sub-124-280/sub-124-280_ses-Opto-DMS-Excitatory-ChR2Scrambled-2019-07-30T10-28-37_ogen.nwb	2106981
@@ -1730,7 +1730,7 @@ sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-11T10-17-28_behavio
 sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-15T10-40-11_behavior+ogen.nwb	1791923
 sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-16T10-22-53_behavior+ogen.nwb	2312334
 sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-17T10-33-32_behavior+ogen.nwb	2314098
-sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-18T10-55-06_behavior+ogen.nwb	1798475
+sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-18T10-55-06_behavior+ogen.nwb	2055400
 sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-22T10-37-45_behavior+ogen.nwb	2309085
 sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-19T10-30-44_behavior+ogen.nwb	2054584
 sub-125-280/sub-125-280_ses-Opto-DMS-Excitatory-EYFP-2019-07-23T10-07-54_behavior+ogen.nwb	2245464
@@ -1746,7 +1746,7 @@ sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-09T13-05-5
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-10T12-39-29_ogen.nwb	2411430
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-11T12-05-11_ogen.nwb	2967516
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-13T12-53-16_ogen.nwb	2414800
-sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-12T13-03-37_ogen.nwb	2263887
+sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-12T13-03-37_ogen.nwb	2515430
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-16T13-45-20_ogen.nwb	2018312
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-17T13-01-56_ogen.nwb	3026712
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-18T14-16-42_ogen.nwb	2294586
@@ -1756,8 +1756,8 @@ sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-21T12-01-1
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-24T13-55-58_ogen.nwb	2020328
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-25T13-17-11_ogen.nwb	2270988
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-27T14-39-32_ogen.nwb	2021144
-sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-30T11-51-50_ogen.nwb	2276514
-sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-12-02T11-36-49_ogen.nwb	2275110
+sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-30T11-51-50_ogen.nwb	2529460
+sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-12-02T11-36-49_ogen.nwb	2527900
 sub-128-424/sub-128-424_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-12-03T12-24-18_ogen.nwb	2087496
 sub-130-425/sub-130-425_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-03T13-44-54_behavior+ogen.nwb	2035968
 sub-130-425/sub-130-425_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-04T13-23-42_behavior+ogen.nwb	2005304
@@ -1828,10 +1828,10 @@ sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-11-24T14-16-47_ogen.nw
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-11-25T14-40-10_ogen.nwb	2356880
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-11-25T14-42-29_ogen.nwb	2494080
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-11-30T13-05-23_ogen.nwb	2493900
-sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-11-27T15-49-27_ogen.nwb	1989352
+sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-11-27T15-49-27_ogen.nwb	2238021
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-12-01T12-32-27_ogen.nwb	3742230
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-12-02T11-35-08_ogen.nwb	2244969
-sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-12-03T12-22-47_ogen.nwb	2173536
+sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-12-03T12-22-47_ogen.nwb	2415040
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-12-04T11-52-01_ogen.nwb	1990280
 sub-150-425/sub-150-425_ses-Opto-DMS-Excitatory-ChR2-2020-12-05T12-35-54_ogen.nwb	2121192
 sub-202-465/sub-202-465_ses-Opto-DMS-Inhibitory-NpHR-2021-09-15T10-39-25_ogen.nwb	2220552
@@ -1901,7 +1901,7 @@ sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-23T13-41-23_ogen.nw
 sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-25T14-56-01_ogen.nwb	2220552
 sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-28T12-37-50_ogen.nwb	2714360
 sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-29T14-12-17_ogen.nwb	1973824
-sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-30T13-48-03_ogen.nwb	1973824
+sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-30T13-48-03_ogen.nwb	2220552
 sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2020-12-31T12-43-34_ogen.nwb	1973824
 sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2021-01-04T12-22-14_ogen.nwb	2238984
 sub-227-430/sub-227-430_ses-Opto-DMS-Inhibitory-NpHR-2021-01-05T11-32-27_ogen.nwb	2173320
@@ -1926,7 +1926,7 @@ sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-22T13-43-42_ogen.nw
 sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-23T13-41-23_ogen.nwb	2658920
 sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-25T14-45-16_ogen.nwb	2470000
 sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-29T14-12-17_ogen.nwb	1976000
-sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-28T12-37-50_ogen.nwb	1976000
+sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-28T12-37-50_ogen.nwb	2223000
 sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-30T13-48-03_ogen.nwb	2470320
 sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2020-12-31T12-56-26_ogen.nwb	2490800
 sub-229-431/sub-229-431_ses-Opto-DMS-Inhibitory-EYFP-2021-01-04T13-19-41_ogen.nwb	2490800
@@ -1987,13 +1987,13 @@ sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-06T11-17-38_ogen.nw
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-07T11-06-30_ogen.nwb	2188674
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-11T11-23-39_ogen.nwb	2625996
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-13T11-12-53_ogen.nwb	2470000
-sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-12T11-57-24_ogen.nwb	2000648
+sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-12T11-57-24_ogen.nwb	2250729
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-14T11-59-38_ogen.nwb	2249253
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-18T11-34-57_ogen.nwb	2243286
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-19T11-41-16_ogen.nwb	1819304
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-25T12-05-46_ogen.nwb	2500750
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-26T12-51-25_ogen.nwb	2742861
-sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-27T12-49-15_ogen.nwb	2500550
+sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-27T12-49-15_ogen.nwb	2750605
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-28T11-05-26_ogen.nwb	2500610
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-10-29T12-34-42_ogen.nwb	2503020
 sub-233-469/sub-233-469_ses-Opto-DMS-Inhibitory-EYFP-2021-11-01T11-04-20_ogen.nwb	2084976
@@ -2013,7 +2013,7 @@ sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-12T12-19-53_behavio
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-13T11-50-19_behavior+ogen.nwb	2814064
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-14T12-08-35_behavior+ogen.nwb	2457760
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-16T12-36-51_behavior+ogen.nwb	2282913
-sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-17T12-35-31_behavior+ogen.nwb	2557680
+sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-17T12-35-31_behavior+ogen.nwb	2813448
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-15T12-22-02_behavior+ogen.nwb	2267073
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-20T12-23-16_behavior+ogen.nwb	2302227
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-22T12-17-58_behavior+ogen.nwb	2558640
@@ -2025,7 +2025,7 @@ sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-28T12-45-23_behavio
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-30T11-17-58_behavior+ogen.nwb	2283489
 sub-238-388/sub-238-388_ses-Opto-DLS-Excitatory-EYFP-2020-07-31T11-56-32_ogen.nwb	2089944
 sub-239-388/sub-239-388_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-06-26T12-10-40_ogen.nwb	3376800
-sub-239-388/sub-239-388_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-06-27T12-13-19_ogen.nwb	1879232
+sub-239-388/sub-239-388_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-06-27T12-13-19_ogen.nwb	2114136
 sub-239-388/sub-239-388_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-06-27T12-25-51_ogen.nwb	2349040
 sub-239-388/sub-239-388_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-06-28T11-51-35_ogen.nwb	2148696
 sub-239-388/sub-239-388_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-06-29T12-18-24_behavior+ogen.nwb	2116800
@@ -2080,7 +2080,7 @@ sub-242-388/sub-242-388_ses-Opto-DLS-Excitatory-ChR2-2020-07-24T12-19-18_behavio
 sub-242-388/sub-242-388_ses-Opto-DLS-Excitatory-ChR2-2020-07-28T12-45-23_behavior+ogen.nwb	2209536
 sub-242-388/sub-242-388_ses-Opto-DLS-Excitatory-ChR2-2020-07-27T12-12-09_behavior+ogen.nwb	3837375
 sub-242-388/sub-242-388_ses-Opto-DLS-Excitatory-ChR2-2020-07-30T11-17-58_ogen.nwb	2087496
-sub-242-388/sub-242-388_ses-Opto-DLS-Excitatory-ChR2-2020-07-29T10-40-32_behavior+ogen.nwb	2038144
+sub-242-388/sub-242-388_ses-Opto-DLS-Excitatory-ChR2-2020-07-29T10-40-32_behavior+ogen.nwb	2292912
 sub-243-468/sub-243-468_ses-Opto-DMS-Inhibitory-NpHR-2021-09-14T13-35-03_ogen.nwb	2206296
 sub-243-468/sub-243-468_ses-Opto-DMS-Inhibitory-NpHR-2021-09-15T12-51-24_ogen.nwb	2174472
 sub-243-468/sub-243-468_ses-Opto-DMS-Inhibitory-NpHR-2021-09-17T12-12-17_ogen.nwb	2167128
@@ -2146,7 +2146,7 @@ sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-15T10-39-2
 sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-20T10-55-14.nwb	2205200
 sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-21T10-48-09_ogen.nwb	2414320
 sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-22T10-53-28_ogen.nwb	3454192
-sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-24T11-42-50_ogen.nwb	1926336
+sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-24T11-42-50_ogen.nwb	2167128
 sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-23T14-03-44_ogen.nwb	1926336
 sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-27T12-13-06_ogen.nwb	1931456
 sub-245-464/sub-245-464_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-28T11-06-10_ogen.nwb	2160144
@@ -2268,7 +2268,7 @@ sub-263-477/sub-263-477_ses-Opto-DMS-Inhibitory-EYFP-2021-11-01T11-01-43_behavio
 sub-263-477/sub-263-477_ses-Opto-DMS-Inhibitory-EYFP-2021-11-02T11-48-01_behavior+ogen.nwb	1720600
 sub-263-477/sub-263-477_ses-Opto-DMS-Inhibitory-EYFP-2021-11-03T12-11-55_behavior+ogen.nwb	991488
 sub-263-477/sub-263-477_ses-Opto-DMS-Inhibitory-EYFP-2021-11-04T11-53-19_ogen.nwb	1161080
-sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-09-30T14-31-16_ogen.nwb	1195080
+sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-09-30T14-31-16_ogen.nwb	1434096
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-09-29T14-24-07_ogen.nwb	1434096
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-10-04T14-22-47.nwb	1086880
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-10-05T14-18-47_ogen.nwb	1224760
@@ -2287,7 +2287,7 @@ sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-10-28T11-05-26_ogen.nw
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-10-29T12-34-42_ogen.nwb	988000
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-01T11-08-29_ogen.nwb	1730512
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-04T10-52-50_ogen.nwb	1235000
-sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-03T11-27-05_ogen.nwb	2717000
+sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-03T11-27-05_ogen.nwb	2964000
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-02T11-49-00_ogen.nwb	1933376
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-05T10-08-19_ogen.nwb	1218120
 sub-265-476/sub-265-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-08T10-00-35_ogen.nwb	1482000
@@ -2349,7 +2349,7 @@ sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-10-28T14-23-02_behavio
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-10-29T13-50-09_behavior+ogen.nwb	1255280
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-01T12-01-00_behavior+ogen.nwb	1004288
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-02T13-01-29_behavior+ogen.nwb	1506144
-sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-03T13-36-32_behavior+ogen.nwb	1004096
+sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-03T13-36-32_behavior+ogen.nwb	1255120
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-04T12-15-34_behavior+ogen.nwb	1518432
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-05T11-11-13_behavior+ogen.nwb	1506144
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-08T11-11-51_behavior+ogen.nwb	991104
@@ -2358,7 +2358,7 @@ sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-10T12-41-31_behavio
 sub-267-476/sub-267-476_ses-Opto-DMS-Inhibitory-EYFP-2021-11-11T12-07-09_ogen.nwb	1161080
 sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-29T14-24-07.nwb	1083880
 sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-09-30T14-31-16_ogen.nwb	1432464
-sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-04T14-22-47_ogen.nwb	1223400
+sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-04T14-22-47_ogen.nwb	1468080
 sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-05T14-09-38_ogen.nwb	1957440
 sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-06T13-28-58_ogen.nwb	1432464
 sub-268-476/sub-268-476_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-07T13-12-38_ogen.nwb	1432464
@@ -2402,18 +2402,18 @@ sub-270-476/sub-270-476_ses-Opto-DMS-Inhibitory-NpHR-2021-10-26T15-27-38_ogen.nw
 sub-270-476/sub-270-476_ses-Opto-DMS-Inhibitory-NpHR-2021-11-01T13-13-56_ogen.nwb	2484240
 sub-270-476/sub-270-476_ses-Opto-DMS-Inhibitory-NpHR-2021-10-27T15-36-06_ogen.nwb	1223400
 sub-270-476/sub-270-476_ses-Opto-DMS-Inhibitory-NpHR-2021-11-02T12-12-04_ogen.nwb	1468080
-sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-01T13-44-03_ogen.nwb	993120
+sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-01T13-44-03_ogen.nwb	1241400
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-02T12-56-31_ogen.nwb	1222800
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-07T10-19-26_ogen.nwb	2459240
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-04T12-31-59_ogen.nwb	2239569
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-08T12-44-39_ogen.nwb	1254585
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-09T12-35-19_ogen.nwb	995872
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-15T12-38-04_ogen.nwb	1005924
-sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-10T12-48-26_ogen.nwb	1493034
+sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-10T12-48-26_ogen.nwb	1741873
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-14T12-28-27_ogen.nwb	1001304
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-11T12-36-24_ogen.nwb	950944
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-17T12-20-36_ogen.nwb	755277
-sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-18T11-15-45_ogen.nwb	1509012
+sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-18T11-15-45_ogen.nwb	1760514
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-16T12-30-56_ogen.nwb	1257435
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-22T11-30-52_ogen.nwb	1260780
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-21T11-23-42_ogen.nwb	1258785
@@ -2424,7 +2424,7 @@ sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-29T11-36-5
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-30T12-15-40_ogen.nwb	1512750
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-10-01T11-19-15_ogen.nwb	1166240
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-01T13-44-03_ogen.nwb	1489680
-sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-02T12-56-31_ogen.nwb	978240
+sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-02T12-56-31_ogen.nwb	1222800
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-04T12-31-59_ogen.nwb	1244205
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-07T10-19-26_ogen.nwb	737772
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-08T12-44-39_ogen.nwb	1254585
@@ -2437,7 +2437,7 @@ sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-17T12-20-36_ogen
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-16T12-30-56_ogen.nwb	1005948
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-18T11-15-45_ogen.nwb	1257510
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-21T11-23-42_ogen.nwb	2265813
-sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-22T11-30-52_ogen.nwb	1260780
+sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-22T11-30-52_ogen.nwb	1512936
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-23T11-22-28_ogen.nwb	1517664
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-24T11-19-04_ogen.nwb	995508
 sub-276-405/sub-276-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-29T11-36-53_ogen.nwb	1449024
@@ -2460,7 +2460,7 @@ sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-12T10-41-31_behavio
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-13T10-35-52_behavior+ogen.nwb	1281235
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-14T12-28-20_behavior+ogen.nwb	1538946
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-15T11-02-39_behavior+ogen.nwb	1277650
-sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-16T11-10-14_behavior+ogen.nwb	1022220
+sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-16T11-10-14_behavior+ogen.nwb	1277775
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-19T11-09-53_behavior+ogen.nwb	1535694
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-20T11-44-09_behavior+ogen.nwb	1532982
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-21T11-09-14_behavior+ogen.nwb	1022168
@@ -2469,18 +2469,18 @@ sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-26T11-24-02_behavio
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-23T11-57-23_behavior+ogen.nwb	1788493
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-27T11-43-22_ogen.nwb	2313440
 sub-281-402/sub-281-402_ses-Opto-DMS-Excitatory-ChR2-2020-10-28T12-25-35_behavior+ogen.nwb	1022348
-sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-23T12-36-30_behavior+ogen.nwb	1293215
+sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-23T12-36-30_behavior+ogen.nwb	1551858
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-24T12-21-29_behavior+ogen.nwb	1810620
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-25T12-32-46_behavior+ogen.nwb	2033064
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-29T12-57-01_behavior+ogen.nwb	1011780
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-30T13-23-57_behavior+ogen.nwb	1519038
-sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-01T13-33-06_behavior+ogen.nwb	1013968
+sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-01T13-33-06_behavior+ogen.nwb	1267460
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-02T11-11-45_behavior+ogen.nwb	1552416
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-05T11-05-58_behavior+ogen.nwb	2839012
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-06T10-17-59_behavior+ogen.nwb	742422
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-07T10-36-26_behavior+ogen.nwb	1023520
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-08T10-35-09_behavior+ogen.nwb	1538202
-sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-09T10-51-18_behavior+ogen.nwb	1025500
+sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-09T10-51-18_behavior+ogen.nwb	1281875
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-12T10-41-31_behavior+ogen.nwb	1810802
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-14T12-28-20_behavior+ogen.nwb	1296015
 sub-282-402/sub-282-402_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-15T11-02-39_behavior+ogen.nwb	1282305
@@ -2515,7 +2515,7 @@ sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-02T10-43-35_ogen.nw
 sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-04T10-36-35_ogen.nwb	2714008
 sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-06T10-44-13_ogen.nwb	1197160
 sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-05T10-43-08_ogen.nwb	986912
-sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-10T10-44-55_ogen.nwb	1159720
+sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-10T10-44-55_ogen.nwb	1391664
 sub-286-409/sub-286-409_ses-Opto-DMS-Inhibitory-NpHR-2020-11-09T10-28-02_ogen.nwb	1233640
 sub-288-409/sub-288-409_ses-Opto-DMS-Inhibitory-EYFP-2020-10-09T10-52-07_ogen.nwb	1235000
 sub-288-409/sub-288-409_ses-Opto-DMS-Inhibitory-EYFP-2020-10-08T10-36-04_ogen.nwb	1469712
@@ -2567,7 +2567,7 @@ sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-19T11-12-1
 sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-20T11-45-48_ogen.nwb	1517862
 sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-21T10-51-54_ogen.nwb	1009956
 sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-22T10-54-20_ogen.nwb	1263110
-sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-23T11-58-54_ogen.nwb	1690360
+sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-23T11-58-54_ogen.nwb	1931840
 sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-26T11-30-54_ogen.nwb	1011640
 sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-27T11-12-51_ogen.nwb	1871936
 sub-290-407/sub-290-407_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-29T14-06-16_ogen.nwb	1226785
@@ -2599,7 +2599,7 @@ sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-09-23T12-40-01_ogen.nw
 sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-09-24T12-43-46_ogen.nwb	1711752
 sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-09-29T12-30-02_ogen.nwb	1745359
 sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-09-25T12-34-01_ogen.nwb	740151
-sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-09-30T13-24-35_ogen.nwb	1236780
+sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-09-30T13-24-35_ogen.nwb	1484136
 sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-10-01T11-43-11_ogen.nwb	1948320
 sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-10-02T11-09-49_ogen.nwb	997488
 sub-293-406/sub-293-406_ses-Opto-DMS-Excitatory-ChR2-2020-10-05T11-06-35_ogen.nwb	1246015
@@ -2628,7 +2628,7 @@ sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-09-30T13-24-3
 sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-01T12-02-53_ogen.nwb	987256
 sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-02T11-09-49_ogen.nwb	1010088
 sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-06T10-18-43_ogen.nwb	1204560
-sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-05T11-06-35_ogen.nwb	1514856
+sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-05T11-06-35_ogen.nwb	1767332
 sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-07T10-38-15_ogen.nwb	1008468
 sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-08T10-36-04_ogen.nwb	757560
 sub-294-406/sub-294-406_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-09T10-52-07_ogen.nwb	1262350
@@ -2652,7 +2652,7 @@ sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-04T12-31-59_ogen.nw
 sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-08T12-44-39_ogen.nwb	997616
 sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-09T12-35-19_ogen.nwb	1247150
 sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-10T12-48-26_ogen.nwb	2139624
-sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-11T12-36-24_ogen.nwb	992380
+sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-11T12-36-24_ogen.nwb	1240475
 sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-14T12-28-27_ogen.nwb	748143
 sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-15T12-14-29_ogen.nwb	2244798
 sub-299-405/sub-299-405_ses-Opto-DLS-Excitatory-ChR2-2020-09-16T11-23-14_ogen.nwb	997912
@@ -2707,7 +2707,7 @@ sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-23T11-22-2
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-25T11-29-59_ogen.nwb	1258125
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-30T12-15-40_ogen.nwb	1007584
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-29T11-36-53_ogen.nwb	940224
-sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-10-01T11-19-15_ogen.nwb	695832
+sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-10-01T11-19-15_ogen.nwb	927776
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-01T13-44-03_ogen.nwb	993120
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-02T12-56-31_ogen.nwb	986592
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-07T10-10-53_ogen.nwb	1229725
@@ -2729,7 +2729,7 @@ sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-29T11-36-53_ogen
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-25T11-29-59_ogen.nwb	1006500
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-10-01T11-19-15_ogen.nwb	927776
 sub-300-405/sub-300-405_ses-Opto-DLS-Excitatory-Unknown-2020-09-30T12-15-40_ogen.nwb	1007584
-sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-20T10-37-17_ogen.nwb	990000
+sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-20T10-37-17_ogen.nwb	1237500
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-21T11-42-04_ogen.nwb	994288
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-19T10-46-01_ogen.nwb	978240
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-24T11-44-10_ogen.nwb	1240300
@@ -2740,7 +2740,7 @@ sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-27T11-41-2
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-01T12-26-14_ogen.nwb	1004276
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-31T11-50-24_ogen.nwb	1240775
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-02T11-40-38_ogen.nwb	1255615
-sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-03T11-23-14_ogen.nwb	753816
+sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-03T11-23-14_ogen.nwb	1005088
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-04T11-22-53_ogen.nwb	1758974
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-07T09-10-46_ogen.nwb	1243750
 sub-307-399/sub-307-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-08T11-34-38_ogen.nwb	1990080
@@ -2780,8 +2780,8 @@ sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-31T11-50-2
 sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-28T11-37-09_ogen.nwb	1262940
 sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-01T12-26-14_ogen.nwb	2515170
 sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-02T11-40-38_ogen.nwb	758094
-sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-07T09-10-46_ogen.nwb	752934
-sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-03T11-23-14_ogen.nwb	757476
+sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-07T09-10-46_ogen.nwb	1003912
+sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-03T11-23-14_ogen.nwb	1009968
 sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-04T11-22-53_ogen.nwb	1008168
 sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-08T11-34-38_ogen.nwb	2781515
 sub-308-399/sub-308-399_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-09T11-19-06_ogen.nwb	1005632
@@ -2838,7 +2838,7 @@ sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-08-25T12-02-06_ogen
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-08-27T11-41-26_ogen.nwb	997636
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-08-28T11-37-09_ogen.nwb	1003264
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-08-31T11-50-24_ogen.nwb	2244681
-sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-02T11-40-38_ogen.nwb	754281
+sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-02T11-40-38_ogen.nwb	1005708
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-01T12-26-14_ogen.nwb	997700
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-07T09-10-46_ogen.nwb	997584
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-03T11-23-14_ogen.nwb	754512
@@ -2849,7 +2849,7 @@ sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-11T11-28-25_ogen
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-10T11-39-03_ogen.nwb	1248335
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-14T11-13-25_ogen.nwb	1246145
 sub-310-399/sub-310-399_ses-Opto-DLS-Excitatory-Unknown-2020-09-15T11-32-05_ogen.nwb	1169960
-sub-311-403/sub-311-403_ses-Opto-DLS-Excitatory-ChR2-2020-08-19T10-47-29_ogen.nwb	978144
+sub-311-403/sub-311-403_ses-Opto-DLS-Excitatory-ChR2-2020-08-19T10-47-29_ogen.nwb	1222680
 sub-311-403/sub-311-403_ses-Opto-DLS-Excitatory-ChR2-2020-08-20T10-35-55_ogen.nwb	1226250
 sub-311-403/sub-311-403_ses-Opto-DLS-Excitatory-ChR2-2020-08-21T11-39-31_ogen.nwb	986356
 sub-311-403/sub-311-403_ses-Opto-DLS-Excitatory-ChR2-2020-08-24T11-42-31_ogen.nwb	1237510
@@ -2897,7 +2897,7 @@ sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-23T12-51-3
 sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-21T13-08-39_ogen.nwb	1242120
 sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-28T13-16-45_ogen.nwb	987040
 sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-29T12-42-15_ogen.nwb	1727320
-sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-03T12-15-56_ogen.nwb	740184
+sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-03T12-15-56_ogen.nwb	986912
 sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-30T13-26-27_ogen.nwb	986912
 sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-02T12-52-40_ogen.nwb	1685768
 sub-321-415/sub-321-415_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-04T12-35-56_ogen.nwb	3454192
@@ -2930,7 +2930,7 @@ sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-03T09-50-4
 sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-05T10-43-08_ogen.nwb	1244230
 sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-10T10-49-34_ogen.nwb	1414128
 sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-06T10-54-56_ogen.nwb	984728
-sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-11T09-59-02_ogen.nwb	736548
+sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-11T09-59-02_ogen.nwb	982064
 sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-09T11-04-53_ogen.nwb	1234970
 sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-12T10-27-59_ogen.nwb	982416
 sub-322-415/sub-322-415_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-13T10-19-59_ogen.nwb	1254680
@@ -2952,7 +2952,7 @@ sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-21T11-40-4
 sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-24T11-42-31_ogen.nwb	995388
 sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-26T11-43-14_ogen.nwb	955200
 sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-27T11-37-30_ogen.nwb	1006640
-sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-28T11-35-02_ogen.nwb	761472
+sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-28T11-35-02_ogen.nwb	1015296
 sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-08-31T11-45-46_ogen.nwb	2497710
 sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-01T12-17-39_ogen.nwb	760050
 sub-338-398/sub-338-398_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-09-02T11-38-55_ogen.nwb	1010832
@@ -3076,7 +3076,7 @@ sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-11T12-19-3
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-12T13-02-18_ogen.nwb	1188680
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-13T12-16-47_ogen.nwb	963296
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-14T13-07-45_ogen.nwb	986912
-sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-18T12-35-51_ogen.nwb	986912
+sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-18T12-35-51_ogen.nwb	1233640
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-19T12-54-18_ogen.nwb	3207464
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-21T13-58-38_ogen.nwb	740184
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-10-21T15-25-37_ogen.nwb	1741432
@@ -3089,7 +3089,7 @@ sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-11-03T10-55-4
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-11-02T10-28-41_ogen.nwb	965920
 sub-343-483/sub-343-483_ses-Opto-DMS-Inhibitory-NpHRScrambled-2021-11-04T10-52-50_ogen.nwb	935968
 sub-344-400/sub-344-400_ses-Opto-DLS-Excitatory-EYFP-2020-06-26T13-19-27_behavior+ogen.nwb	987136
-sub-344-400/sub-344-400_ses-Opto-DLS-Excitatory-EYFP-2020-06-27T13-29-43_behavior.nwb	1107080
+sub-344-400/sub-344-400_ses-Opto-DLS-Excitatory-EYFP-2020-06-27T13-29-43_behavior.nwb	1328496
 sub-344-400/sub-344-400_ses-Opto-DLS-Excitatory-EYFP-2020-06-29T13-28-04_behavior.nwb	885664
 sub-344-400/sub-344-400_ses-Opto-DLS-Excitatory-EYFP-2020-06-28T13-04-29_behavior+ogen.nwb	972160
 sub-344-400/sub-344-400_ses-Opto-DLS-Excitatory-EYFP-2020-06-30T13-15-43_behavior+ogen.nwb	987136
@@ -3146,7 +3146,7 @@ sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-04T11-54-47_ogen.nw
 sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-05T12-37-36_ogen.nwb	2448080
 sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-07T12-05-15_ogen.nwb	1747284
 sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-08T11-41-27_ogen.nwb	1234890
-sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-09T11-28-06_ogen.nwb	998976
+sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-09T11-28-06_ogen.nwb	1248720
 sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-11T11-51-03_ogen.nwb	967008
 sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-10T11-48-25_ogen.nwb	2490600
 sub-355-431/sub-355-431_ses-Opto-DLS-Excitatory-EYFP-2020-12-14T11-57-47_ogen.nwb	1247940
@@ -3176,7 +3176,7 @@ sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-16T13-43-04_ogen.nw
 sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-15T14-21-02_ogen.nwb	1267495
 sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-17T14-03-50_ogen.nwb	1252895
 sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-18T13-50-40_ogen.nwb	1007480
-sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-21T13-38-47_ogen.nwb	755100
+sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-21T13-38-47_ogen.nwb	1006800
 sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-23T13-41-23_ogen.nwb	1245095
 sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-22T13-42-14_ogen.nwb	1497864
 sub-356-433/sub-356-433_ses-Opto-DLS-Excitatory-EYFP-2020-12-25T14-53-38_ogen.nwb	1245160
@@ -3207,7 +3207,7 @@ sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2020-12-23T11-27-05_ogen.nw
 sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2020-12-28T10-23-36_ogen.nwb	1235000
 sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2020-12-29T11-48-59_ogen.nwb	996192
 sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2020-12-30T11-38-07_ogen.nwb	996200
-sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2020-12-31T11-16-48_ogen.nwb	1494288
+sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2020-12-31T11-16-48_ogen.nwb	1743336
 sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2021-01-04T12-22-14_ogen.nwb	975648
 sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2021-01-05T11-32-27_ogen.nwb	729168
 sub-357-433/sub-357-433_ses-Opto-DMS-Inhibitory-EYFP-2021-01-06T11-31-14_ogen.nwb	1246605
@@ -3249,7 +3249,7 @@ sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-14T12-55-5
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-15T13-09-32_ogen.nwb	1233640
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-16T12-43-48_ogen.nwb	986912
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-17T12-57-29_ogen.nwb	1727096
-sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-18T12-50-04_ogen.nwb	740184
+sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-18T12-50-04_ogen.nwb	986912
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-21T12-44-32_ogen.nwb	1233640
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-22T12-41-32_ogen.nwb	740184
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-23T12-28-20_ogen.nwb	986912
@@ -3257,7 +3257,7 @@ sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-28T11-32-2
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-25T13-47-33_ogen.nwb	963168
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-29T13-00-53_ogen.nwb	950944
 sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-30T12-43-50_ogen.nwb	1233640
-sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-31T12-09-03_ogen.nwb	891104
+sub-360-426/sub-360-426_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-31T12-09-03_ogen.nwb	1113880
 sub-361-427/sub-361-427_ses-Opto-DMS-Inhibitory-EYFP-2020-12-04T11-54-47_ogen.nwb	1714664
 sub-361-427/sub-361-427_ses-Opto-DMS-Inhibitory-EYFP-2020-12-02T13-31-28_ogen.nwb	979808
 sub-361-427/sub-361-427_ses-Opto-DMS-Inhibitory-EYFP-2020-12-05T12-37-36_ogen.nwb	1224760
@@ -3314,7 +3314,7 @@ sub-363-426/sub-363-426_ses-Opto-DMS-Inhibitory-EYFP-2020-12-29T13-00-53_ogen.nw
 sub-363-426/sub-363-426_ses-Opto-DMS-Inhibitory-EYFP-2020-12-28T11-32-29_ogen.nwb	988000
 sub-363-426/sub-363-426_ses-Opto-DMS-Inhibitory-EYFP-2020-12-31T12-15-51_ogen.nwb	928864
 sub-370/sub-370_ses-Opto-DMS-Excitatory-EYFP-2019-05-10T12-19-13_behavior+ogen.nwb	1309210
-sub-370/sub-370_ses-Opto-DMS-Excitatory-EYFP-2019-05-13T11-15-06_behavior+ogen.nwb	1015524
+sub-370/sub-370_ses-Opto-DMS-Excitatory-EYFP-2019-05-13T11-15-06_behavior+ogen.nwb	1269405
 sub-370/sub-370_ses-Opto-DMS-Excitatory-EYFP-2019-05-14T11-26-41_behavior+ogen.nwb	1014604
 sub-370/sub-370_ses-Opto-DMS-Excitatory-EYFP-2019-05-15T10-44-03_behavior+ogen.nwb	1023736
 sub-370/sub-370_ses-Opto-DMS-Excitatory-EYFP-2019-05-16T12-24-25_behavior+ogen.nwb	2309634
@@ -3388,7 +3388,7 @@ sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-05T09-38-14_behavior+ogen.n
 sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-06T09-01-37_behavior+ogen.nwb	2558330
 sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-07T10-36-32_behavior.nwb	1141920
 sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-07T09-25-16_behavior+ogen.nwb	983196
-sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-10T10-09-13_behavior+ogen.nwb	770466
+sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-10T10-09-13_behavior+ogen.nwb	1027288
 sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-12T09-50-48_behavior+ogen.nwb	1008372
 sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-13T09-43-23_behavior+ogen.nwb	1208800
 sub-372/sub-372_ses-Opto-DMS-Excitatory-ChR2-2019-06-13T12-18-47_behavior+ogen.nwb	969600
@@ -3421,7 +3421,7 @@ sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-08T12-37-44_behavio
 sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-09T12-33-00_behavior+ogen.nwb	3086244
 sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-11T12-27-33_behavior+ogen.nwb	1023932
 sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-10T12-45-53_behavior+ogen.nwb	1228880
-sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-14T12-20-05_behavior+ogen.nwb	770997
+sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-14T12-20-05_behavior+ogen.nwb	1027996
 sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-15T12-28-04_behavior+ogen.nwb	1286170
 sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-16T12-29-52_behavior+ogen.nwb	1026532
 sub-417-404/sub-417-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-17T12-14-02_behavior+ogen.nwb	768468
@@ -3445,8 +3445,8 @@ sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-15T12-29-46_behavio
 sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-16T12-29-52_behavior+ogen.nwb	1022180
 sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-17T12-15-57_ogen.nwb	1005504
 sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-18T11-15-45_ogen.nwb	748287
-sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-21T11-23-42_ogen.nwb	1006188
-sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-22T11-30-52_ogen.nwb	754554
+sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-21T11-23-42_ogen.nwb	1257735
+sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-22T11-30-52_ogen.nwb	1006072
 sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-23T11-20-06_behavior+ogen.nwb	1277545
 sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-23T11-22-28_ogen.nwb	1006228
 sub-418-404/sub-418-404_ses-Opto-DLS-Excitatory-ChR2-2020-09-24T11-19-04_ogen.nwb	995060
@@ -3480,7 +3480,7 @@ sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-22T11-28-50_behavio
 sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-23T11-20-06_behavior+ogen.nwb	1789970
 sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-21T11-21-19_behavior+ogen.nwb	1535400
 sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-24T11-16-11_behavior+ogen.nwb	1020224
-sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-25T11-22-52_behavior+ogen.nwb	1015052
+sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-25T11-22-52_behavior+ogen.nwb	1268815
 sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-10-01T11-17-52_ogen.nwb	1171320
 sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-30T12-07-11_behavior+ogen.nwb	768570
 sub-419-404/sub-419-404_ses-Opto-DLS-Excitatory-EYFP-2020-09-29T11-41-04_behavior+ogen.nwb	745284
@@ -3513,7 +3513,7 @@ sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-05T10-49-24_ogen.nw
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-04T11-06-54_ogen.nwb	1233100
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-09T11-02-55_ogen.nwb	997808
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-06T10-52-56_ogen.nwb	992988
-sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-10T10-48-12_ogen.nwb	718296
+sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-10T10-48-12_ogen.nwb	957728
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-12T10-25-54_ogen.nwb	997104
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-11T10-31-06_ogen.nwb	990328
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-16T10-53-53_ogen.nwb	997848
@@ -3523,7 +3523,7 @@ sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-19T10-49-26_ogen.nw
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-18T11-56-36_ogen.nwb	1247385
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-20T10-54-27_ogen.nwb	736767
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-21T10-53-02_ogen.nwb	2445360
-sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-23T11-44-56_ogen.nwb	748212
+sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-23T11-44-56_ogen.nwb	997616
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-25T11-37-45_ogen.nwb	1203840
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-24T11-52-18_ogen.nwb	1241350
 sub-427-417/sub-427-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-27T13-26-46_ogen.nwb	1246930
@@ -3597,13 +3597,13 @@ sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-11-23T11-41-57_behavio
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-11-25T11-36-24_behavior+ogen.nwb	974784
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-11-24T11-50-31_behavior+ogen.nwb	1253760
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-11-27T13-24-13_behavior+ogen.nwb	1253920
-sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-11-30T11-48-15_behavior+ogen.nwb	1003008
+sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-11-30T11-48-15_behavior+ogen.nwb	1253760
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-01T11-53-50_behavior+ogen.nwb	2758272
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-03T12-21-24_behavior+ogen.nwb	1003008
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-02T11-33-13_behavior+ogen.nwb	1504512
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-04T11-49-30_behavior+ogen.nwb	1227760
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-05T12-33-43_behavior+ogen.nwb	730368
-sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-08T11-43-00_ogen.nwb	876128
+sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-08T11-43-00_ogen.nwb	1095160
 sub-431-419/sub-431-419_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-10-29T12-51-53_ogen.nwb	969952
 sub-430-420/sub-430-420_ses-Opto-DMS-Inhibitory-NpHR-2020-12-07T11-45-50_behavior+ogen.nwb	1003008
 sub-431-419/sub-431-419_ses-Opto-DMS-Excitatory-ChR2Scrambled-2020-11-02T12-18-43_ogen.nwb	727464
@@ -3639,7 +3639,7 @@ sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-30T12-40-2
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-29T13-37-42_behavior+ogen.nwb	979840
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-02T12-11-13_behavior+ogen.nwb	3233152
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-03T12-24-58_behavior+ogen.nwb	994816
-sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-04T12-18-25_behavior+ogen.nwb	994816
+sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-04T12-18-25_behavior+ogen.nwb	1243520
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-06T11-59-56_behavior+ogen.nwb	994816
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-05T11-54-54_behavior+ogen.nwb	1243520
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-09T12-16-37_behavior+ogen.nwb	2006016
@@ -3666,7 +3666,7 @@ sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-02T11-36-4
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-03T12-24-18_ogen.nwb	1481664
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-05T12-37-36_ogen.nwb	962944
 sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-08T11-41-27_ogen.nwb	927776
-sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-07T11-46-12_ogen.nwb	740184
+sub-432-420/sub-432-420_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-12-07T11-46-12_ogen.nwb	986912
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-10-30T12-31-56_ogen.nwb	994208
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-10-29T11-49-23_ogen.nwb	1243440
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-02T11-58-35_ogen.nwb	984576
@@ -3687,7 +3687,7 @@ sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-19T12-58-56_ogen.nw
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-20T12-05-15_ogen.nwb	1259280
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-23T11-48-18_ogen.nwb	1007164
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-24T11-54-18_ogen.nwb	755994
-sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-28T11-05-04_ogen.nwb	696648
+sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-28T11-05-04_ogen.nwb	928864
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-25T11-45-22_ogen.nwb	964992
 sub-434-423/sub-434-423_ses-Opto-DLS-Excitatory-EYFP-2020-11-27T13-29-27_ogen.nwb	757524
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-10-29T12-42-15_ogen.nwb	738696
@@ -3696,9 +3696,9 @@ sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-02T11-58-35_ogen.nw
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-04T11-26-13_ogen.nwb	1718304
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-03T11-12-33_ogen.nwb	994664
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-05T11-57-08_ogen.nwb	1006096
-sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-06T12-16-31_ogen.nwb	713208
+sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-06T12-16-31_ogen.nwb	950944
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-10T11-45-11_ogen.nwb	744462
-sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-11T11-06-34_ogen.nwb	737319
+sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-11T11-06-34_ogen.nwb	983092
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-09T12-03-39_ogen.nwb	2268468
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-12T11-50-38_ogen.nwb	1007860
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-13T11-39-57_ogen.nwb	754041
@@ -3711,7 +3711,7 @@ sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-22T11-55-09_ogen.nw
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-24T12-57-16_ogen.nwb	757152
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-25T12-55-09_ogen.nwb	2004984
 sub-435-423/sub-435-423_ses-Opto-DLS-Excitatory-ChR2-2020-11-23T12-57-26_ogen.nwb	2435280
-sub-436-422/sub-436-422_ses-Opto-DMS-Inhibitory-NpHR-2020-10-30T13-42-27_behavior+ogen.nwb	1534290
+sub-436-422/sub-436-422_ses-Opto-DMS-Inhibitory-NpHR-2020-10-30T13-42-27_behavior+ogen.nwb	1790005
 sub-436-422/sub-436-422_ses-Opto-DMS-Inhibitory-NpHR-2020-11-04T13-23-42_behavior+ogen.nwb	1003136
 sub-436-422/sub-436-422_ses-Opto-DMS-Inhibitory-NpHR-2020-11-05T12-56-38_behavior+ogen.nwb	1504512
 sub-436-422/sub-436-422_ses-Opto-DMS-Inhibitory-NpHR-2020-11-03T13-27-06_behavior+ogen.nwb	988032
@@ -3738,7 +3738,7 @@ sub-436-422/sub-436-422_ses-Opto-DMS-Inhibitory-NpHR-2020-12-01T13-12-08_ogen.nw
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-29T14-39-40_ogen.nwb	2005376
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-02T14-08-39_ogen.nwb	1233640
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-10-30T14-33-10_ogen.nwb	1502832
-sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-03T13-21-03_ogen.nwb	963168
+sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-03T13-21-03_ogen.nwb	1203960
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-05T13-53-00_ogen.nwb	1190720
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-04T13-38-42_ogen.nwb	722376
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-06T09-55-35_ogen.nwb	1193800
@@ -3760,10 +3760,10 @@ sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-25T12-55-0
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-27T14-46-44_ogen.nwb	1204120
 sub-437-422/sub-437-422_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-30T13-00-23_ogen.nwb	2220552
 sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-10-29T11-45-24_ogen.nwb	1242920
-sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-10-29T11-48-48_ogen.nwb	723288
+sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-10-29T11-48-48_ogen.nwb	964384
 sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-10-30T12-31-56_ogen.nwb	979232
-sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-02T11-58-35_ogen.nwb	979392
-sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-03T11-12-33_ogen.nwb	734424
+sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-02T11-58-35_ogen.nwb	1224240
+sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-03T11-12-33_ogen.nwb	979232
 sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-04T11-36-28_ogen.nwb	979232
 sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-05T11-57-08_ogen.nwb	982644
 sub-438-422/sub-438-422_ses-Opto-DLS-Excitatory-EYFP-2020-11-06T12-16-31_ogen.nwb	748668
@@ -3794,7 +3794,7 @@ sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-13T10-52-0
 sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-12T10-25-54_ogen.nwb	1481568
 sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-11T10-31-06_ogen.nwb	978720
 sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-16T10-53-53_ogen.nwb	1233640
-sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-16T12-13-51_ogen.nwb	2202120
+sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-16T12-13-51_ogen.nwb	2446800
 sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-17T10-39-04_ogen.nwb	955520
 sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-18T11-56-36_ogen.nwb	978720
 sub-439-424/sub-439-424_ses-Opto-DMS-Inhibitory-NpHRScrambled-2020-11-20T10-54-27_ogen.nwb	1233640
@@ -3863,7 +3863,7 @@ sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-06T12-16-3
 sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-09T12-08-44_ogen.nwb	1259000
 sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-10T11-22-33_ogen.nwb	1260735
 sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-11T11-42-16_ogen.nwb	2268027
-sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-12T11-50-38_ogen.nwb	1010256
+sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-12T11-50-38_ogen.nwb	1262820
 sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-13T11-39-57_ogen.nwb	1010112
 sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-17T12-01-04_ogen.nwb	757020
 sub-442-423/sub-442-423_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-16T12-25-58_ogen.nwb	1258950
@@ -3894,7 +3894,7 @@ sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-21T11-27-05_ogen.nw
 sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-20T12-10-05_ogen.nwb	1235000
 sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-23T11-44-56_ogen.nwb	1208520
 sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-22T11-50-51_ogen.nwb	958816
-sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-24T11-52-18_ogen.nwb	1209320
+sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-24T11-52-18_ogen.nwb	1451184
 sub-444-422/sub-444-422_ses-Opto-DMS-Inhibitory-EYFP-2020-11-25T11-37-45_ogen.nwb	928864
 sub-446-421/sub-446-421_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-10-29T12-51-53_ogen.nwb	1001312
 sub-446-421/sub-446-421_ses-Opto-DLS-Excitatory-ChR2Scrambled-2020-11-03T12-35-01_ogen.nwb	990136
@@ -3934,7 +3934,7 @@ sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-16T12-23-34_behavio
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-13T11-37-00_behavior+ogen.nwb	1260715
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-18T13-01-24_behavior+ogen.nwb	993428
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-19T12-56-53_behavior+ogen.nwb	979104
-sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-17T11-58-58_behavior+ogen.nwb	1013840
+sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-17T11-58-58_behavior+ogen.nwb	1267300
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-21T12-09-46_behavior+ogen.nwb	757458
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-20T12-08-21_behavior+ogen.nwb	1740599
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-11-23T12-50-25_behavior+ogen.nwb	1013684
@@ -3950,7 +3950,7 @@ sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-12-04T11-49-30_behavio
 sub-449-417/sub-449-417_ses-Opto-DLS-Excitatory-ChR2-2020-10-29T11-30-30.nwb	867104
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-12-08T11-43-00_ogen.nwb	2783328
 sub-448-419/sub-448-419_ses-Opto-DMS-Excitatory-ChR2-2020-12-07T11-45-50_behavior+ogen.nwb	1013496
-sub-449-417/sub-449-417_ses-Opto-DLS-Excitatory-ChR2-2020-10-30T11-31-54_ogen.nwb	1241400
+sub-449-417/sub-449-417_ses-Opto-DLS-Excitatory-ChR2-2020-10-30T11-31-54_ogen.nwb	1489680
 sub-449-417/sub-449-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-02T11-05-46_ogen.nwb	1241400
 sub-449-417/sub-449-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-03T11-01-06_ogen.nwb	1235755
 sub-449-417/sub-449-417_ses-Opto-DLS-Excitatory-ChR2-2020-11-04T11-06-54_ogen.nwb	983416
@@ -4017,7 +4017,7 @@ sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-05T10-37-50_behavior+ogen.n
 sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-04T11-18-49_behavior+ogen.nwb	1026676
 sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-06T11-32-18_behavior+ogen.nwb	1290195
 sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-07T10-43-15_behavior+ogen.nwb	1226910
-sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-07T11-50-54_behavior.nwb	898176
+sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-07T11-50-54_behavior.nwb	1122720
 sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-10T11-06-55_behavior+ogen.nwb	776508
 sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-12T10-56-00_behavior+ogen.nwb	1292290
 sub-479/sub-479_ses-Opto-DMS-Excitatory-ChR2-2019-06-13T09-43-23_behavior+ogen.nwb	727491
@@ -4066,7 +4066,7 @@ sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-05-30T10-52-31_behavior+ogen.n
 sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-05-31T11-25-27_behavior+ogen.nwb	1277415
 sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-03T10-44-48_behavior+ogen.nwb	1788542
 sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-05T10-37-50_behavior+ogen.nwb	1264620
-sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-04T11-18-49_behavior+ogen.nwb	1022764
+sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-04T11-18-49_behavior+ogen.nwb	1278455
 sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-06T09-58-04_behavior+ogen.nwb	2533970
 sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-07T10-43-15_behavior+ogen.nwb	2558340
 sub-481/sub-481_ses-Opto-DMS-Excitatory-ChR2-2019-06-10T11-03-37_behavior+ogen.nwb	1277695
@@ -4129,7 +4129,7 @@ sub-Female-DLS-DAT-DAT-IRES-Cre-het/sub-Female-DLS-DAT-DAT-IRES-Cre-het_ses-2022
 sub-Female-DMS-Actin-DAT-IRES-Cre-het/sub-Female-DMS-Actin-DAT-IRES-Cre-het_ses-20220207T000000.nwb	1870400
 sub-Female-DMS-Actin-WT/sub-Female-DMS-Actin-WT_ses-20220207T000000.nwb	1155960
 sub-Female-DMS-DAT-DAT-IRES-Cre-het/sub-Female-DMS-DAT-DAT-IRES-Cre-het_ses-20220207T000000.nwb	717012
-sub-Female-DMS-DAT-WT/sub-Female-DMS-DAT-WT_ses-20220207T000000.nwb	925008
+sub-Female-DMS-DAT-WT/sub-Female-DMS-DAT-WT_ses-20220207T000000.nwb	1156260
 sub-Male-DLS-Actin-DAT-IRES-Cre-het/sub-Male-DLS-Actin-DAT-IRES-Cre-het_ses-20220207T000000.nwb	702606
 sub-Male-DLS-Actin-WT/sub-Male-DLS-Actin-WT_ses-20220207T000000.nwb	961888
 sub-Male-DLS-DAT-DAT-IRES-Cre-het/sub-Male-DLS-DAT-DAT-IRES-Cre-het_ses-20220207T000000.nwb	1353204

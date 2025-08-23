@@ -17,7 +17,7 @@ asset_path	bytes_sent
 001530/nwb-behaviour-processed/PG032/sub-PG032_ses-20210715T223447-processed-behavior.nwb	902457332
 001530/nwb-behaviour-processed/PG062/sub-PG062_ses-20220206T200225-processed-behavior.nwb	625499855
 001530/nwb-behaviour-processed/PG061/sub-PG061_ses-20220211T222307-processed-behavior.nwb	1135319652
-001530/nwb-behaviour-processed/PG061/sub-PG061_ses-20220212T233813-processed-behavior.nwb	641149248
+001530/nwb-behaviour-processed/PG061/sub-PG061_ses-20220212T233813-processed-behavior.nwb	1030832115
 001530/nwb-behaviour-processed/PG062/sub-PG062_ses-20220207T213136-processed-behavior.nwb	732528899
 001530/nwb-behaviour-processed/PG064/sub-PG064_ses-20220209T222403-processed-behavior.nwb	1087619612
 001530/nwb-behaviour-processed/PG064/sub-PG064_ses-20220210T183214-processed-behavior.nwb	447886468
@@ -41,7 +41,7 @@ asset_path	bytes_sent
 001530/nwb-behaviour-processed-raw/PG019/sub-PG019_ses-20200906T175456-processed-behavior-raw.nwb	48594857493
 001530/nwb-behaviour-processed-raw/PG027/sub-PG027_ses-20210404T111739.avi	34573277204
 001530/nwb-behaviour-processed-raw/PG027/sub-PG027_ses-20210404T111739-processed-behavior-raw.nwb	89647309573
-001530/nwb-behaviour-processed-raw/PG028/sub-PG028_ses-20210318T163504.avi	24778657738
+001530/nwb-behaviour-processed-raw/PG028/sub-PG028_ses-20210318T163504.avi	49546964316
 001530/nwb-behaviour-processed-raw/PG027/sub-PG027_ses-20210403T115220-processed-behavior-raw.nwb	112904411261
 001530/nwb-behaviour-processed-raw/PG028/sub-PG028_ses-20210319T135422.avi	25515919978
 001530/nwb-behaviour-processed-raw/PG028/sub-PG028_ses-20210318T163504-processed-behavior-raw.nwb	112603913392
@@ -123,7 +123,7 @@ Optogenetics/PG057-nwb/sub-PG057_ses-20211012T000000-opto-behavior.nwb	2430222
 Optogenetics/PG057-nwb/sub-PG057_ses-20211023T000000-opto-behavior.nwb	1722432
 Optogenetics/PG057-nwb/sub-PG057_ses-20211102T000000-opto-behavior.nwb	1741945
 Optogenetics/PG059-nwb/sub-PG059_ses-20210928T000000-opto-behavior.nwb	2947620
-Optogenetics/PG059-nwb/sub-PG059_ses-20211007T000000-opto-behavior.nwb	1486360
+Optogenetics/PG059-nwb/sub-PG059_ses-20211007T000000-opto-behavior.nwb	1783632
 Optogenetics/PG059-nwb/sub-PG059_ses-20210929T000000-opto-behavior.nwb	2276784
 Optogenetics/PG059-nwb/sub-PG059_ses-20211008T000000-opto-behavior.nwb	2569596
 Optogenetics/PG059-nwb/sub-PG059_ses-20211011T000000-opto-behavior.nwb	2220192
@@ -153,14 +153,14 @@ Optogenetics/PG062-nwb/sub-PG062_ses-20220111T000000-opto-behavior.nwb	1301376
 Optogenetics/PG063-nwb/sub-PG063_ses-20211201T000000-opto-behavior.nwb	1782728
 Optogenetics/PG063-nwb/sub-PG063_ses-20211203T000000-opto-behavior.nwb	1418112
 Optogenetics/PG063-nwb/sub-PG063_ses-20211202T000000-opto-behavior.nwb	1813124
-Optogenetics/PG063-nwb/sub-PG063_ses-20211206T000000-opto-behavior.nwb	935064
+Optogenetics/PG063-nwb/sub-PG063_ses-20211206T000000-opto-behavior.nwb	1246752
 Optogenetics/PG063-nwb/sub-PG063_ses-20211207T000000-opto-behavior.nwb	1340700
 Optogenetics/PG064-nwb/sub-PG064_ses-20211201T000000-opto-behavior.nwb	1652072
 Optogenetics/PG064-nwb/sub-PG064_ses-20211202T000000-opto-behavior.nwb	1785688
 Optogenetics/PG064-nwb/sub-PG064_ses-20211203T000000-opto-behavior.nwb	1708491
 Optogenetics/PG064-nwb/sub-PG064_ses-20211206T000000-opto-behavior.nwb	1272412
 Optogenetics/PG064-nwb/sub-PG064_ses-20211207T000000-opto-behavior.nwb	1549504
-Optogenetics/PG064-nwb/sub-PG064_ses-20211208T000000-opto-behavior.nwb	1284798
+Optogenetics/PG064-nwb/sub-PG064_ses-20211208T000000-opto-behavior.nwb	1713064
 Optogenetics/PG064-nwb/sub-PG064_ses-20211209T000000-opto-behavior.nwb	1888756
 Optogenetics/PG064-nwb/sub-PG064_ses-20211210T000000-opto-behavior.nwb	1302856
 Optogenetics/PG064-nwb/sub-PG064_ses-20211214T000000-opto-behavior.nwb	1503872
@@ -190,7 +190,7 @@ Optogenetics/PG070-nwb/sub-PG070_ses-20211205T000000-opto-behavior.nwb	1553920
 Optogenetics/PG070-nwb/sub-PG070_ses-20211207T000000-opto-behavior.nwb	1324420
 Optogenetics/PG070-nwb/sub-PG070_ses-20211209T000000-opto-behavior.nwb	1450984
 Optogenetics/PG070-nwb/sub-PG070_ses-20211217T000000-opto-behavior.nwb	1205280
-Optogenetics/PG070-nwb/sub-PG070_ses-20211221T000000-opto-behavior.nwb	889056
+Optogenetics/PG070-nwb/sub-PG070_ses-20211221T000000-opto-behavior.nwb	1185408
 Optogenetics/PG070-nwb/sub-PG070_ses-20211222T000000-opto-behavior.nwb	1607104
 Optogenetics/PG070-nwb/sub-PG070_ses-20211225T000000-opto-behavior.nwb	1371992
 Optogenetics/PG070-nwb/sub-PG070_ses-20211224T000000-opto-behavior.nwb	1139496

@@ -6,7 +6,7 @@ sub-210624/sub-210624_ses-20210624T000000_obj-18t97nu_image+ophys.nwb	7017687165
 sub-210623/sub-210623_ses-20210623T000000_obj-nth9tu_image+ophys.nwb	63121596670
 sub-210626/sub-210626_ses-20210626T000000_image+ophys.nwb	48162332966
 sub-210624/sub-210624_ses-20210624T000000_obj-tp8l4b_image+ophys.nwb	85689305042
-sub-210614/sub-210614_ses-20210614T000000_image+ophys.nwb	65392420793
+sub-210614/sub-210614_ses-20210614T000000_image+ophys.nwb	74740686131
 sub-210729/sub-210729_ses-20210729T000000_image+ophys.nwb	56988556814
 sub-210727/sub-210727_ses-20210727T000000_image+ophys.nwb	55995397866
 sub-210630/sub-210630_ses-20210630T000000_image+ophys.nwb	62260430682
@@ -269,7 +269,7 @@ sub-LC12-fly12/sub-LC12-fly12_ses-(-LC12-fly12-210805-1713--).nwb	5535840
 sub-LC11-fly8/sub-LC11-fly8_ses-LC11-fly8-210629-1402_behavior+image/55f833e8-af1c-42a1-b831-c2c632e1523d_external_file_0.mp4	1703959771
 sub-LC12-fly12/sub-LC12-fly12_ses-LC12-fly12-210805-1713_behavior+image.nwb	474349997
 sub-LC12-fly13/sub-LC12-fly13_ses-(-LC12-fly13-210809-1515--).nwb	5723200
-sub-LC12-fly13/sub-LC12-fly13_ses-LC12-fly13-210809-1515_behavior+image/9b118df6-cd5a-431a-be26-f3cef69c6e6e_external_file_0.mp4	1331240320
+sub-LC12-fly13/sub-LC12-fly13_ses-LC12-fly13-210809-1515_behavior+image/9b118df6-cd5a-431a-be26-f3cef69c6e6e_external_file_0.mp4	1545933050
 sub-LC11-fly9/sub-LC11-fly9_ses-LC11-fly9-210629-1613_behavior+image/636d3c7b-8e7b-4abf-8dda-8c0b0b168f34_external_file_0.mp4	1343351068
 sub-LC12-fly2/sub-LC12-fly2_ses-(-LC12-fly2-170607-1457--).nwb	5479496
 sub-LC12-fly11/sub-LC12-fly11_ses-LC12-fly11-210804-1433_behavior+image/d03b6d46-4c5f-4f34-b05a-3975b1fd0a5a_external_file_0.mp4	1962895112
@@ -425,7 +425,7 @@ sub-LC16-fly17/sub-LC16-fly17_ses-(-LC16-fly17-211018-1528--).nwb	5348480
 sub-LC16-fly17/sub-LC16-fly17_ses-LC16-fly17-211018-1528_behavior+image/14683812-0788-4a56-992a-f078fc0fc4c2_external_file_0.mp4	3824122752
 sub-LC16-fly14/sub-LC16-fly14_ses-LC16-fly14-211012-1619_behavior+image.nwb	500194495
 sub-LC16-fly18/sub-LC16-fly18_ses-(-LC16-fly18-211018-1609--).nwb	5348480
-sub-LC16-fly14/sub-LC16-fly14_ses-LC16-fly14-211012-1619_behavior+image/33c7f6d8-af6c-4c7d-9b75-a2ae3c6ccfcd_external_file_0.mp4	1655363196
+sub-LC16-fly14/sub-LC16-fly14_ses-LC16-fly14-211012-1619_behavior+image/33c7f6d8-af6c-4c7d-9b75-a2ae3c6ccfcd_external_file_0.mp4	1961223240
 sub-LC16-fly18/sub-LC16-fly18_ses-LC16-fly18-211018-1609_behavior+image.nwb	549483090
 sub-LC16-fly2/sub-LC16-fly2_ses-(-LC16-fly2-170424-1501--).nwb	5348480
 sub-LC16-fly2/sub-LC16-fly2_ses-LC16-fly2-170424-1501_behavior+image/8e7a91af-67a2-422c-8d5f-e47ac17831db_external_file_0.mp4	5528103616
@@ -456,7 +456,7 @@ sub-LC16-fly5/sub-LC16-fly5_ses-LC16-fly5-170424-1656_behavior+image/a175e52d-5e
 sub-LC16-fly6/sub-LC16-fly6_ses-LC16-fly6-170424-1738_behavior+image/be09aae8-ee7f-4c8f-aa28-ace036932c72_external_file_0.mp4	2551521234
 sub-LC17-fly1/sub-LC17-fly1_ses-(-LC17-fly1-170608-1446--).nwb	5161120
 sub-LC16-fly7/sub-LC16-fly7_ses-LC16-fly7-170905-1055_behavior+image/7884c3a2-746f-4b8a-a44c-56309ca5d312_external_file_0.mp4	2125347446
-sub-LC17-fly1/sub-LC17-fly1_ses-LC17-fly1-170608-1446_behavior+image.nwb	524702302
+sub-LC17-fly1/sub-LC17-fly1_ses-LC17-fly1-170608-1446_behavior+image.nwb	570242971
 sub-LC17-fly10/sub-LC17-fly10_ses-(-LC17-fly10-210804-1521--).nwb	5348480
 sub-LC17-fly1/sub-LC17-fly1_ses-LC17-fly1-170608-1446_behavior+image/613b9851-69bb-492a-8c52-a0afb262808e_external_file_0.mp4	3139149866
 sub-LC17-fly10/sub-LC17-fly10_ses-LC17-fly10-210804-1521_behavior+image.nwb	463251442
@@ -482,7 +482,7 @@ sub-LC17-fly5/sub-LC17-fly5_ses-(-LC17-fly5-210727-1341--).nwb	4973760
 sub-LC17-fly0/sub-LC17-fly0_ses-LC17-fly0-170607-1346_behavior+image/01a75654-0443-4b61-a3f7-68a4599be126_external_file_0.mp4	2448512473
 sub-LC17-fly13/sub-LC17-fly13_ses-LC17-fly13-210809-1603_behavior+image/d538cf9d-6ded-470d-a930-8a9945b8b414_external_file_0.mp4	2008049652
 sub-LC17-fly6/sub-LC17-fly6_ses-(-LC17-fly6-210727-1536--).nwb	5161120
-sub-LC17-fly2/sub-LC17-fly2_ses-LC17-fly2-170608-1631_behavior+image/3d27bf97-1477-41db-9719-3c28b7b2e436_external_file_0.mp4	1756037168
+sub-LC17-fly2/sub-LC17-fly2_ses-LC17-fly2-170608-1631_behavior+image/3d27bf97-1477-41db-9719-3c28b7b2e436_external_file_0.mp4	2083682808
 sub-LC17-fly6/sub-LC17-fly6_ses-LC17-fly6-210727-1536_behavior+image/183071a5-5304-4c06-b611-783351d8e571_external_file_0.mp4	2181430289
 sub-LC17-fly7/sub-LC17-fly7_ses-(-LC17-fly7-210728-1612--).nwb	5161120
 sub-LC17-fly6/sub-LC17-fly6_ses-LC17-fly6-210727-1536_behavior+image.nwb	476936871
@@ -672,7 +672,7 @@ sub-LC22-fly2/sub-LC22-fly2_ses-LC22-fly2-161017-1126_behavior+image/82890f9d-ae
 sub-LC22-fly20/sub-LC22-fly20_ses-(-LC22-fly20-211103-1414--).nwb	5104776
 sub-LC22-fly21/sub-LC22-fly21_ses-(-LC22-fly21-211103-1534--).nwb	5348480
 sub-LC22-fly20/sub-LC22-fly20_ses-LC22-fly20-211103-1414_behavior+image.nwb	426048940
-sub-LC22-fly21/sub-LC22-fly21_ses-LC22-fly21-211103-1534_behavior+image.nwb	395468379
+sub-LC22-fly21/sub-LC22-fly21_ses-LC22-fly21-211103-1534_behavior+image.nwb	426006376
 sub-LC22-fly3/sub-LC22-fly3_ses-(-LC22-fly3-161017-1359--).nwb	5161120
 sub-LC22-fly3/sub-LC22-fly3_ses-LC22-fly3-161017-1359_behavior+image/d060879d-85be-42c5-b8e4-a9d5fed163bb_external_file_0.mp4	3287610132
 sub-LC22-fly3/sub-LC22-fly3_ses-LC22-fly3-161017-1359_behavior+image.nwb	621471949
@@ -764,7 +764,7 @@ sub-LC25-fly4/sub-LC25-fly4_ses-(-LC25-fly4-170608-1558--).nwb	5723200
 sub-LC24-fly5/sub-LC24-fly5_ses-(-LC24-fly5-161017-1716--).nwb	5348480
 sub-LC24-fly6/sub-LC24-fly6_ses-(-LC24-fly6-161020-1009--).nwb	4973760
 sub-LC24-fly4/sub-LC24-fly4_ses-LC24-fly4-161017-1538_behavior+image.nwb	743874840
-sub-LC24-fly5/sub-LC24-fly5_ses-LC24-fly5-161017-1716_behavior+image/82aca51d-5b14-43ce-aaf3-4bbf83b8013a_external_file_0.mp4	2288711765
+sub-LC24-fly5/sub-LC24-fly5_ses-LC24-fly5-161017-1716_behavior+image/82aca51d-5b14-43ce-aaf3-4bbf83b8013a_external_file_0.mp4	2737925594
 sub-LC24-fly7/sub-LC24-fly7_ses-(-LC24-fly7-161020-1044--).nwb	5535840
 sub-LC24-fly6/sub-LC24-fly6_ses-LC24-fly6-161020-1009_behavior+image/00eaf078-0f11-406d-b8c4-eafc4ebda240_external_file_0.mp4	3572180229
 sub-LC24-fly7/sub-LC24-fly7_ses-LC24-fly7-161020-1044_behavior+image.nwb	358779329
@@ -807,7 +807,7 @@ sub-LC26-fly10/sub-LC26-fly10_ses-LC26-fly10-170720-1320_behavior+image/7589ac8a
 sub-LC25-fly9/sub-LC25-fly9_ses-LC25-fly9-170712-1602_behavior+image.nwb	795712823
 sub-LC26-fly11/sub-LC26-fly11_ses-(-LC26-fly11-170720-1428--).nwb	5910560
 sub-LC26-fly0/sub-LC26-fly0_ses-LC26-fly0-170424-1318_behavior+image/c875eb0b-1e99-4fb2-9377-b40ce90246dc_external_file_0.mp4	3486953908
-sub-LC25-fly8/sub-LC25-fly8_ses-LC25-fly8-170712-1530_behavior+image/ea504c2f-a77c-4fc9-962a-4af805e24a0e_external_file_0.mp4	1850117349
+sub-LC25-fly8/sub-LC25-fly8_ses-LC25-fly8-170712-1530_behavior+image/ea504c2f-a77c-4fc9-962a-4af805e24a0e_external_file_0.mp4	2197469934
 sub-LC26-fly12/sub-LC26-fly12_ses-(-LC26-fly12-170720-1500--).nwb	5161120
 sub-LC25-fly9/sub-LC25-fly9_ses-LC25-fly9-170712-1602_behavior+image/83eae42e-abb9-49e8-b39f-03b5a30167ad_external_file_0.mp4	2147406362
 sub-LC26-fly12/sub-LC26-fly12_ses-LC26-fly12-170720-1500_behavior+image/c450abb2-ef34-457a-ad1f-93780895fc33_external_file_0.mp4	1539407571
@@ -911,7 +911,7 @@ sub-LC31-fly5/sub-LC31-fly5_ses-(-LC31-fly5-210609-1618--).nwb	5348480
 sub-LC31-fly23/sub-LC31-fly23_ses-LC31-fly23-210708-1546_behavior+image/c5962f84-129f-463a-b1d1-a85f682fed07_external_file_0.mp4	1330799620
 sub-LC31-fly23/sub-LC31-fly23_ses-LC31-fly23-210708-1546_behavior+image.nwb	872603869
 sub-LC31-fly6/sub-LC31-fly6_ses-(-LC31-fly6-210609-1656--).nwb	5348480
-sub-LC31-fly3/sub-LC31-fly3_ses-LC31-fly3-210608-1656_behavior+image/493b3015-138f-4531-8830-b48455fe83ca_external_file_0.mp4	1088238743
+sub-LC31-fly3/sub-LC31-fly3_ses-LC31-fly3-210608-1656_behavior+image/493b3015-138f-4531-8830-b48455fe83ca_external_file_0.mp4	1299875130
 sub-LC31-fly6/sub-LC31-fly6_ses-LC31-fly6-210609-1656_behavior+image.nwb	466395861
 sub-LC31-fly7/sub-LC31-fly7_ses-(-LC31-fly7-210610-1444--).nwb	5161120
 sub-LC31-fly7/sub-LC31-fly7_ses-LC31-fly7-210610-1444_behavior+image/558d04fa-8e14-4f10-81c6-6267233a58df_external_file_0.mp4	556603996
@@ -1034,7 +1034,7 @@ sub-LC9-fly0/sub-LC9-fly0_ses-(-LC9-fly0-170405-1518--).nwb	4973760
 sub-LC6-fly7/sub-LC6-fly7_ses-LC6-fly7-170406-1339_behavior+image/a2d190d7-d2b1-4de3-b9b5-5bb68b8f2a56_external_file_0.mp4	2288699244
 sub-LC9-fly0/sub-LC9-fly0_ses-LC9-fly0-170405-1518_behavior+image.nwb	785970351
 sub-LC9-fly1/sub-LC9-fly1_ses-(-LC9-fly1-170406-1306--).nwb	5161120
-sub-LC9-fly1/sub-LC9-fly1_ses-LC9-fly1-170406-1306_behavior+image/3f98844c-a989-4e3d-a530-d0006538ded9_external_file_0.mp4	2008841250
+sub-LC9-fly1/sub-LC9-fly1_ses-LC9-fly1-170406-1306_behavior+image/3f98844c-a989-4e3d-a530-d0006538ded9_external_file_0.mp4	2385816156
 sub-LC6-fly8/sub-LC6-fly8_ses-LC6-fly8-170718-1632_behavior+image/37d744bc-0427-4cc6-b556-fdebdd31e757_external_file_0.mp4	1614760806
 sub-LC9-fly10/sub-LC9-fly10_ses-(-LC9-fly10-170809-1537--).nwb	5161120
 sub-LC9-fly1/sub-LC9-fly1_ses-LC9-fly1-170406-1306_behavior+image.nwb	658340563
@@ -1054,7 +1054,7 @@ sub-LC9-fly14/sub-LC9-fly14_ses-LC9-fly14-210929-1523_behavior+image.nwb	4121177
 sub-LC9-fly15/sub-LC9-fly15_ses-(-LC9-fly15-211005-1553--).nwb	5348480
 sub-LC9-fly14/sub-LC9-fly14_ses-LC9-fly14-210929-1523_behavior+image/b1c95900-4d8f-407b-8bcd-e498869a997a_external_file_0.mp4	1900424236
 sub-LC9-fly10/sub-LC9-fly10_ses-LC9-fly10-170809-1537_behavior+image/9259e696-72c3-4ae1-8c45-ba285ae43682_external_file_0.mp4	2191994612
-sub-LC9-fly15/sub-LC9-fly15_ses-LC9-fly15-211005-1553_behavior+image.nwb	408537367
+sub-LC9-fly15/sub-LC9-fly15_ses-LC9-fly15-211005-1553_behavior+image.nwb	444176039
 sub-LC9-fly16/sub-LC9-fly16_ses-(-LC9-fly16-211005-1634--).nwb	5535840
 sub-LC9-fly16/sub-LC9-fly16_ses-LC9-fly16-211005-1634_behavior+image.nwb	416631399
 sub-LC9-fly17/sub-LC9-fly17_ses-(-LC9-fly17-211005-1708--).nwb	5348480
@@ -1094,7 +1094,7 @@ sub-LC9-fly9/sub-LC9-fly9_ses-LC9-fly9-170808-1532_behavior+image.nwb	548141956
 sub-LPLC1-fly10/sub-LPLC1-fly10_ses-(-LPLC1-fly10-170727-1652--).nwb	5161120
 sub-LPLC1-fly10/sub-LPLC1-fly10_ses-LPLC1-fly10-170727-1652_behavior+image.nwb	595338966
 sub-LPLC1-fly11/sub-LPLC1-fly11_ses-(-LPLC1-fly11-211115-1212--).nwb	4973760
-sub-LPLC1-fly1/sub-LPLC1-fly1_ses-LPLC1-fly1-161017-1610_behavior+image/e276b372-4706-4892-af22-99ffe480b0e5_external_file_0.mp4	2367686497
+sub-LPLC1-fly1/sub-LPLC1-fly1_ses-LPLC1-fly1-161017-1610_behavior+image/e276b372-4706-4892-af22-99ffe480b0e5_external_file_0.mp4	2812447566
 sub-LPLC1-fly11/sub-LPLC1-fly11_ses-LPLC1-fly11-211115-1212_behavior+image.nwb	521760306
 sub-LPLC1-fly12/sub-LPLC1-fly12_ses-(-LPLC1-fly12-211116-1306--).nwb	5348480
 sub-LPLC1-fly11/sub-LPLC1-fly11_ses-LPLC1-fly11-211115-1212_behavior+image/b94caa4e-8b68-409b-ba0e-b8c6427f2ef2_external_file_0.mp4	1541477757
@@ -1304,7 +1304,7 @@ sub-PDB-control-fly44/sub-PDB-control-fly44_ses-(-PDB-control-fly44-210908-1256-
 sub-PDB-control-fly4/sub-PDB-control-fly4_ses-PDB-control-fly4-170406-1443_behavior+image/ff1f5c60-12fd-454b-baea-4108dd446179_external_file_0.mp4	2323525098
 sub-PDB-control-fly44/sub-PDB-control-fly44_ses-PDB-control-fly44-210908-1256_behavior+image.nwb	395971660
 sub-PDB-control-fly45/sub-PDB-control-fly45_ses-(-PDB-control-fly45-210909-1241--).nwb	4786400
-sub-PDB-control-fly40/sub-PDB-control-fly40_ses-PDB-control-fly40-210804-1553_behavior+image/113cf06a-1ce8-4b19-85cd-9ada23eb5e5d_external_file_0.mp4	1944378870
+sub-PDB-control-fly40/sub-PDB-control-fly40_ses-PDB-control-fly40-210804-1553_behavior+image/113cf06a-1ce8-4b19-85cd-9ada23eb5e5d_external_file_0.mp4	2256947369
 sub-PDB-control-fly45/sub-PDB-control-fly45_ses-PDB-control-fly45-210909-1241_behavior+image.nwb	490131728
 sub-PDB-control-fly46/sub-PDB-control-fly46_ses-(-PDB-control-fly46-210909-1312--).nwb	4786400
 sub-PDB-control-fly45/sub-PDB-control-fly45_ses-PDB-control-fly45-210909-1241_behavior+image/23656904-174d-41cf-8f46-ac785037c1cf_external_file_0.mp4	1837403970
@@ -1350,7 +1350,7 @@ sub-PDB-control-fly52/sub-PDB-control-fly52_ses-PDB-control-fly52-210927-1255_be
 sub-PDB-control-fly58/sub-PDB-control-fly58_ses-PDB-control-fly58-211004-1157_behavior+image.nwb	263870932
 sub-PDB-control-fly59/sub-PDB-control-fly59_ses-(-PDB-control-fly59-211005-1505--).nwb	4599040
 sub-PDB-control-fly56/sub-PDB-control-fly56_ses-PDB-control-fly56-210930-1536_behavior+image.nwb	629175504
-sub-PDB-control-fly59/sub-PDB-control-fly59_ses-PDB-control-fly59-211005-1505_behavior+image.nwb	371821858
+sub-PDB-control-fly59/sub-PDB-control-fly59_ses-PDB-control-fly59-211005-1505_behavior+image.nwb	422429973
 sub-PDB-control-fly6/sub-PDB-control-fly6_ses-(-PDB-control-fly6-170614-1706--).nwb	4542696
 sub-PDB-control-fly56/sub-PDB-control-fly56_ses-PDB-control-fly56-210930-1536_behavior+image/57a63c96-5d7e-40eb-8de5-e1240acb8e52_external_file_0.mp4	2119664670
 sub-PDB-control-fly6/sub-PDB-control-fly6_ses-PDB-control-fly6-170614-1706_behavior+image.nwb	253851336

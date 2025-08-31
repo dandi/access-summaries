@@ -46,7 +46,7 @@ sub-120905cell5-jf549-1040nm-Vsteps/sub-120905cell5-jf549-1040nm-Vsteps_ses-2023
 sub-120802session2-voltron2-JF585-cell2-vsteps/sub-120802session2-voltron2-JF585-cell2-vsteps_ses-20230316T120802_image.nwb	3130740808
 sub-121106session2-voltron2-JF585-cell2-vsteps-matchingcounts/sub-121106session2-voltron2-JF585-cell2-vsteps-matchingcounts_ses-20230316T121106_image.nwb	3936082037
 sub-121122cell3-1135nm-correctroi/sub-121122cell3-1135nm-correctroi_ses-20230328T121122_image.nwb	1874281153
-sub-121639cell3-1135nm-find-inversion/sub-121639cell3-1135nm-find-inversion_ses-20230328T121639_image.nwb	635731063
+sub-121639cell3-1135nm-find-inversion/sub-121639cell3-1135nm-find-inversion_ses-20230328T121639_image.nwb	815621812
 sub-121514session2-voltron2-JF585-cell2-vsteps-matchingcounts/sub-121514session2-voltron2-JF585-cell2-vsteps-matchingcounts_ses-20230316T121514_image.nwb	3118000836
 sub-122059voltron1608-cell2-sensitivity-OD1/sub-122059voltron1608-cell2-sensitivity-OD1_ses-20230309T122059_image.nwb	510637181
 sub-121828cell3-1135nm-find-inversion/sub-121828cell3-1135nm-find-inversion_ses-20230328T121828_image.nwb	845079736
@@ -178,7 +178,7 @@ sub-180051plate2-cell3-sensitivity-vs-I-OD0/sub-180051plate2-cell3-sensitivity-v
 sub-181437plate2-cell4-sensitivity-vs-I-OD1/sub-181437plate2-cell4-sensitivity-vs-I-OD1_ses-20230307T181437_image.nwb	646731289
 sub-175151cell1vsteady-long-curve/sub-175151cell1vsteady-long-curve_ses-20230206T175151_image.nwb	6959194086
 sub-181730plate2-cell4-find-inversion2-OD0-5/sub-181730plate2-cell4-find-inversion2-OD0-5_ses-20230307T181730_image.nwb	1438845682
-sub-181615plate2-cell4-sensitivity-vs-I-OD0-5/sub-181615plate2-cell4-sensitivity-vs-I-OD0-5_ses-20230307T181615_image.nwb	496117702
+sub-181615plate2-cell4-sensitivity-vs-I-OD0-5/sub-181615plate2-cell4-sensitivity-vs-I-OD0-5_ses-20230307T181615_image.nwb	632716819
 sub-181847plate2-cell4-sensitivity-vs-I-OD0/sub-181847plate2-cell4-sensitivity-vs-I-OD0_ses-20230307T181847_image.nwb	507433013
 sub-181943voltron2608-cell1-voltage-steps/sub-181943voltron2608-cell1-voltage-steps_ses-20230316T181943_image.nwb	2422840392
 sub-224309session2-v608cell1-servo-off/sub-224309session2-v608cell1-servo-off_ses-20230316T224309_image.nwb	1646204580
@@ -190,7 +190,7 @@ sub-111752Plate2-Cell1/sub-111752Plate2-Cell1_ses-20240923T111752_image.nwb	9482
 sub-113317Plate2-Cell2/sub-113317Plate2-Cell2_ses-20240923T113317_image.nwb	950696076
 sub-113509Plate1-Cell2/sub-113509Plate1-Cell2_ses-20240924T113509_image.nwb	479471004
 sub-120309Plate1-Cell3/sub-120309Plate1-Cell3_ses-20240924T120309_image.nwb	953138168
-sub-120457Plate1-Cell3-0-15-0-3/sub-120457Plate1-Cell3-0-15-0-3_ses-20240924T120457_image.nwb	952745120
+sub-120457Plate1-Cell3-0-15-0-3/sub-120457Plate1-Cell3-0-15-0-3_ses-20240924T120457_image.nwb	1426346776
 sub-131751Plate2-Cell1-0-1-0-25/sub-131751Plate2-Cell1-0-1-0-25_ses-20240924T131751_image.nwb	983190212
 sub-131344Plate2-Cell1/sub-131344Plate2-Cell1_ses-20240922T131344_image.nwb	950106504
 sub-132023Plate2-Cell1-0-15-0-3/sub-132023Plate2-Cell1-0-15-0-3_ses-20240924T132023_image.nwb	953400200
@@ -202,7 +202,7 @@ sub-134510mouse1-cell1-2Psteps-more2p/sub-134510mouse1-cell1-2Psteps-more2p_ses-
 sub-133252Plate2-Cell2-0-1-0-25/sub-133252Plate2-Cell2-0-1-0-25_ses-20240924T133252_image.nwb	953465708
 sub-134437Plate2-Cell2/sub-134437Plate2-Cell2_ses-20240922T134437_image.nwb	950434044
 sub-141431Plate3-Cell1/sub-141431Plate3-Cell1_ses-20240922T141431_image.nwb	950499552
-sub-140519mouse1-cell2-2P-steps-great/sub-140519mouse1-cell2-2P-steps-great_ses-20240730T140519_image.nwb	634783844
+sub-140519mouse1-cell2-2P-steps-great/sub-140519mouse1-cell2-2P-steps-great_ses-20240730T140519_image.nwb	949161396
 sub-143245Plate3-Cell2/sub-143245Plate3-Cell2_ses-20240922T143245_image.nwb	950172012
 sub-142834mouse1-cell4-2p-steps-brighter-amazing/sub-142834mouse1-cell4-2p-steps-brighter-amazing_ses-20240730T142834_image.nwb	634652828
 sub-144115Plate3-Cell1-0-1-0-25/sub-144115Plate3-Cell1-0-1-0-25_ses-20240924T144115_image.nwb	1426805332
@@ -216,7 +216,7 @@ sub-153330Plate4-Cell1-0-2-0-5/sub-153330Plate4-Cell1-0-2-0-5_ses-20240924T15333
 sub-154848Plate4-Cell2-0-1-0-25/sub-154848Plate4-Cell2-0-1-0-25_ses-20240924T154848_image.nwb	953138168
 sub-154518Plate3-Cell2/sub-154518Plate3-Cell2_ses-20240920T154518_image.nwb	950172012
 sub-154719Plate4-Cell2-0-1-0-25/sub-154719Plate4-Cell2-0-1-0-25_ses-20240924T154719_image.nwb	953334692
-sub-154926Plate4-Cell2-0-2-0-5/sub-154926Plate4-Cell2-0-2-0-5_ses-20240924T154926_image.nwb	952810628
+sub-154926Plate4-Cell2-0-2-0-5/sub-154926Plate4-Cell2-0-2-0-5_ses-20240924T154926_image.nwb	959492444
 sub-160235Plate3-Cell3/sub-160235Plate3-Cell3_ses-20240920T160235_image.nwb	950172012
 sub-160614Plate4-Cell3-0-15-0-3/sub-160614Plate4-Cell3-0-15-0-3_ses-20240924T160614_image.nwb	952810628
 sub-160312Plate4-Cell3-0-1-0-25/sub-160312Plate4-Cell3-0-1-0-25_ses-20240924T160312_image.nwb	950845388
@@ -236,7 +236,7 @@ sub-172059Plate5-Cell2-0-1-0-25/sub-172059Plate5-Cell2-0-1-0-25_ses-20240924T172
 sub-172233Plate5-Cell2-0-1-0-25/sub-172233Plate5-Cell2-0-1-0-25_ses-20240924T172233_image.nwb	1586698092
 sub-173907Plate5-Cell3-0-15-0-3/sub-173907Plate5-Cell3-0-15-0-3_ses-20240924T173907_image.nwb	1426477792
 sub-174231Plate5-Cell3-0-2-0-5/sub-174231Plate5-Cell3-0-2-0-5_ses-20240924T174231_image.nwb	953269184
-sub-174146Plate5-Cell3-0-15-0-3/sub-174146Plate5-Cell3-0-15-0-3_ses-20240924T174146_image.nwb	952876136
+sub-174146Plate5-Cell3-0-15-0-3/sub-174146Plate5-Cell3-0-15-0-3_ses-20240924T174146_image.nwb	1426477792
 sub-174329Plate5-Cell3-0-2-0-5/sub-174329Plate5-Cell3-0-2-0-5_ses-20240924T174329_image.nwb	953007152
 sub-181430Plate6-Cell1-0-15-0-3/sub-181430Plate6-Cell1-0-15-0-3_ses-20240924T181430_image.nwb	953072660
 sub-181246Plate6-Cell1-0-15-0-3/sub-181246Plate6-Cell1-0-15-0-3_ses-20240924T181246_image.nwb	952810628

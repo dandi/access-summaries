@@ -40,7 +40,7 @@ dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm002/sub-cbm002_scans.tsv	592
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm002/eeg/sub-cbm002_task-protmap_events.tsv	5598
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm003/eeg/sub-cbm003_task-protmap_eeg.json	3087
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm003/eeg/sub-cbm003_task-protmap_events.tsv	5802
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm003/eeg/sub-cbm003_task-protmap_events.tsv	6769
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm003/sub-cbm003_scans.tsv	444
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm004/eeg/sub-cbm004_task-protmap_eeg.json	2652
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm004/eeg/sub-cbm004_task-protmap_events.tsv	10824
@@ -62,13 +62,13 @@ dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm009/sub-cbm009_scans.tsv	518
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm010/eeg/sub-cbm010_task-protmap_events.tsv	4875
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm010/eeg/sub-cbm010_task-protmap_eeg.json	1323
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm010/sub-cbm010_scans.tsv	444
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm010/sub-cbm010_scans.tsv	518
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm011/eeg/sub-cbm011_task-protmap_events.tsv	5772
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm011/sub-cbm011_scans.tsv	666
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm011/eeg/sub-cbm011_task-protmap_eeg.json	1764
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm012/sub-cbm012_scans.tsv	296
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm012/eeg/sub-cbm012_task-protmap_eeg.json	1768
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm012/eeg/sub-cbm012_task-protmap_events.tsv	3504
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm012/eeg/sub-cbm012_task-protmap_events.tsv	4380
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm013/eeg/sub-cbm013_task-protmap_eeg.json	1768
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm013/sub-cbm013_scans.tsv	444
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm013/eeg/sub-cbm013_task-protmap_events.tsv	6250
@@ -82,7 +82,7 @@ dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm016/eeg/sub-cbm016_task-protmap_eeg.json	1326
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm016/eeg/sub-cbm016_task-protmap_events.tsv	4620
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm017/eeg/sub-cbm017_task-protmap_eeg.json	3536
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm017/eeg/sub-cbm017_task-protmap_events.tsv	12564
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm017/eeg/sub-cbm017_task-protmap_events.tsv	14658
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm017/sub-cbm017_scans.tsv	444
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm018/sub-cbm018_scans.tsv	444
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm018/eeg/sub-cbm018_task-protmap_eeg.json	1768
@@ -183,7 +183,7 @@ sub-18/sub-18_ses-20250516T214922_icephys.nwb	13144036
 sub-18/sub-18_ses-20250516T215115_icephys.nwb	13144036
 sub-19/sub-19_ses-20250516T214311_icephys.nwb	19629328
 sub-19/sub-19_ses-20250516T214744_icephys.nwb	19629328
-sub-19/sub-19_ses-20250516T214925_icephys.nwb	13144036
+sub-19/sub-19_ses-20250516T214925_icephys.nwb	16717412
 sub-19/sub-19_ses-20250516T215117_icephys.nwb	13144036
 sub-2/sub-2_ses-20250516T214229_icephys.nwb	22435963
 sub-2/sub-2_ses-20250516T215219_icephys.nwb	4110560

@@ -7,7 +7,7 @@ sub-Adobo/sub-Adobo_ses-Adobo04-LinearTrack_behavior+ecephys.nwb	2173113700
 sub-Adobo/sub-Adobo_ses-Adobo04-HomeCage_behavior+ecephys.nwb	1490764516
 sub-Adobo/sub-Adobo_ses-Adobo06-LinearTrack_behavior+ecephys.nwb	2401473464
 sub-Anise/sub-Anise_ses-Anise01-HomeCage_behavior+ecephys.nwb	1311558509
-sub-Anise/sub-Anise_ses-Anise02-HomeCage_behavior+ecephys.nwb	1284461356
+sub-Anise/sub-Anise_ses-Anise02-HomeCage_behavior+ecephys.nwb	1382581076
 sub-Anise/sub-Anise_ses-Anise02-LinearTrack_behavior+ecephys.nwb	2419757100
 sub-Anise/sub-Anise_ses-Anise01-LinearTrack_behavior+ecephys.nwb	3102507340
 sub-Anise/sub-Anise_ses-Anise04-HomeCage_behavior+ecephys.nwb	1201434952
@@ -72,7 +72,7 @@ sub-Chives/sub-Chives_ses-Chives05-HomeCage_behavior+ecephys.nwb	1065079792
 sub-Chives/sub-Chives_ses-Chives05-LinearTrack_behavior+ecephys.nwb	1695083048
 sub-Chives/sub-Chives_ses-Chives06-HomeCage_behavior+ecephys.nwb	1181033488
 sub-Cicada/sub-Cicada_ses-Cicada01-HomeCage_behavior+ecephys.nwb	2497374532
-sub-Chives/sub-Chives_ses-Chives06-LinearTrack_behavior+ecephys.nwb	1652758876
+sub-Chives/sub-Chives_ses-Chives06-LinearTrack_behavior+ecephys.nwb	1771164540
 sub-Cicada/sub-Cicada_ses-Cicada02-HomeCage_behavior+ecephys.nwb	3379484484
 sub-Cicada/sub-Cicada_ses-Cicada06-HomeCage_behavior+ecephys.nwb	2962993004
 sub-Cicada/sub-Cicada_ses-Cicada03-HomeCage_behavior+ecephys.nwb	2906028032
@@ -196,7 +196,7 @@ sub-Paprika/sub-Paprika_ses-Paprika06-LinearTrack_behavior+ecephys.nwb	164022051
 sub-Parsley/sub-Parsley_ses-Parsley01-HomeCage_behavior+ecephys.nwb	6298953720
 sub-Parsley/sub-Parsley_ses-Parsley02-LinearTrack_behavior+ecephys.nwb	1527484772
 sub-Parsley/sub-Parsley_ses-Parsley05-HomeCage_behavior+ecephys.nwb	1163923128
-sub-Parsley/sub-Parsley_ses-Parsley05-LinearTrack_behavior+ecephys.nwb	1618146913
+sub-Parsley/sub-Parsley_ses-Parsley05-LinearTrack_behavior+ecephys.nwb	1737403185
 sub-Parsley/sub-Parsley_ses-Parsley04-HomeCage_behavior+ecephys.nwb	1267543448
 sub-Parsley/sub-Parsley_ses-Parsley06-HomeCage_behavior+ecephys.nwb	1309325184
 sub-Pepper/sub-Pepper_ses-Pepper01-HomeCage_behavior+ecephys.nwb	1170717413
@@ -236,7 +236,7 @@ sub-Saffron/sub-Saffron_ses-Saffron03-HomeCage_behavior+ecephys.nwb	1151932260
 sub-Saffron/sub-Saffron_ses-Saffron04-HomeCage_behavior+ecephys.nwb	1135270028
 sub-Saffron/sub-Saffron_ses-Saffron02-HomeCage_behavior+ecephys.nwb	1033715932
 sub-Saffron/sub-Saffron_ses-Saffron03-LinearTrack_behavior+ecephys.nwb	1828099440
-sub-Saffron/sub-Saffron_ses-Saffron01-LinearTrack_behavior+ecephys.nwb	1432665320
+sub-Saffron/sub-Saffron_ses-Saffron01-LinearTrack_behavior+ecephys.nwb	1536824408
 sub-Saffron/sub-Saffron_ses-Saffron04-LinearTrack_behavior+ecephys.nwb	1404912096
 sub-Saffron/sub-Saffron_ses-Saffron05-HomeCage_behavior+ecephys.nwb	1122834028
 sub-Sage/sub-Sage_ses-Sage01-LinearTrack_behavior+ecephys.nwb	1495607209
@@ -272,7 +272,7 @@ sub-Sulu/sub-Sulu_ses-Sulu02-HomeCage_behavior+ecephys.nwb	2676255873
 sub-Sulu/sub-Sulu_ses-Sulu06-HomeCage_behavior+ecephys.nwb	3131024908
 sub-Sumac/sub-Sumac_ses-Sumac01-HomeCage_behavior+ecephys.nwb	927495173
 sub-Sumac/sub-Sumac_ses-Sumac02-LinearTrack_behavior+ecephys.nwb	1747161080
-sub-Sulu/sub-Sulu_ses-Sulu05-HomeCage_behavior+ecephys.nwb	2220427416
+sub-Sulu/sub-Sulu_ses-Sulu05-HomeCage_behavior+ecephys.nwb	2463458688
 sub-Sumac/sub-Sumac_ses-Sumac01-LinearTrack_behavior+ecephys.nwb	1712881024
 sub-Sulu/sub-Sulu_ses-Sulu07-HomeCage_behavior+ecephys.nwb	3066198329
 sub-Sumac/sub-Sumac_ses-Sumac04-LinearTrack_behavior+ecephys.nwb	1687071796
@@ -353,7 +353,7 @@ sub-Ladybug/sub-Ladybug_ses-Ladybug06-HomeCage_behavior+ecephys.nwb	2772995648
 sub-Mace/sub-Mace_ses-Mace02-LinearTrack_behavior+ecephys.nwb	3198791697
 sub-Kes/sub-Kes_ses-Kes06-HomeCage_behavior+ecephys.nwb	2542486089
 sub-Mace/sub-Mace_ses-Mace04-HomeCage_behavior+ecephys.nwb	1030788925
-sub-Mace/sub-Mace_ses-Mace04-LinearTrack_behavior+ecephys.nwb	1499107728
+sub-Mace/sub-Mace_ses-Mace04-LinearTrack_behavior+ecephys.nwb	1616128400
 sub-Mantis/sub-Mantis_ses-Mantis07-HomeCage_behavior+ecephys.nwb	2862374108
 sub-Neelix/sub-Neelix_ses-Neelix02-HomeCage_behavior+ecephys.nwb	2186931204
 sub-Neelix/sub-Neelix_ses-Neelix01-HomeCage_behavior+ecephys.nwb	2589382853
@@ -384,7 +384,7 @@ sub-Sumac/sub-Sumac_ses-Sumac03-HomeCage_behavior+ecephys.nwb	1061230085
 sub-TPol/sub-TPol_ses-TPol07-HomeCage_behavior+ecephys.nwb	2763419336
 sub-Vanilla/sub-Vanilla_ses-Vanilla01-LinearTrack_behavior+ecephys.nwb	1567571677
 sub-Vanilla/sub-Vanilla_ses-Vanilla02-HomeCage_behavior+ecephys.nwb	913449812
-sub-Worf/sub-Worf_ses-Worf08-HomeCage_behavior+ecephys.nwb	2264280308
+sub-Worf/sub-Worf_ses-Worf08-HomeCage_behavior+ecephys.nwb	2517969020
 sub-Worf/sub-Worf_ses-Worf09-HomeCage_behavior+ecephys.nwb	2264718796
 sub-Worf/sub-Worf_ses-Worf15-HomeCage_behavior+ecephys.nwb	7709138476
 sub-Worf/sub-Worf_ses-Worf17-HomeCage_behavior+ecephys.nwb	2136782240
@@ -409,7 +409,7 @@ sub-Cinnamon/sub-Cinnamon_ses-Cinnamon05_HomeCage_behavior+ecephys.nwb	917348385
 sub-Coriander/sub-Coriander_ses-Coriander02_LinearTrack_behavior+ecephys.nwb	1457033752
 sub-Cricket/sub-Cricket_ses-Cricket02-HomeCage_behavior+ecephys.nwb	3100527220
 sub-Cricket/sub-Cricket_ses-Cricket03-HomeCage_behavior+ecephys.nwb	2561438900
-sub-Dax/sub-Dax_ses-Dax02_HomeCage_behavior+ecephys.nwb	2500224544
+sub-Dax/sub-Dax_ses-Dax02_HomeCage_behavior+ecephys.nwb	2751132848
 sub-Dax/sub-Dax_ses-Dax03_HomeCage_behavior+ecephys.nwb	2098531788
 sub-Dax/sub-Dax_ses-Dax01_HomeCage_behavior+ecephys.nwb	6693524829
 sub-Dill/sub-Dill_ses-Dill05_HomeCage_behavior+ecephys.nwb	1130243408
@@ -491,13 +491,13 @@ sub-Quark/sub-Quark_ses-Quark01-HomeCage_behavior+ecephys.nwb	3709791892
 sub-Quark/sub-Quark_ses-Quark02-HomeCage_behavior+ecephys.nwb	2602501757
 sub-Rolypoly/sub-Rolypoly_ses-Rolypoly07-HomeCage_behavior+ecephys.nwb	2516586073
 sub-Rosemary/sub-Rosemary_ses-Rosemary06_HomeCage_behavior+ecephys.nwb	1150287689
-sub-Saffron/sub-Saffron_ses-Saffron06-HomeCage_behavior+ecephys.nwb	1013332292
+sub-Saffron/sub-Saffron_ses-Saffron06-HomeCage_behavior+ecephys.nwb	1111892164
 sub-Saffron/sub-Saffron_ses-Saffron06-LinearTrack_behavior+ecephys.nwb	1465555000
 sub-Sage/sub-Sage_ses-Sage02-LinearTrack_behavior+ecephys.nwb	1567497992
 sub-Salt/sub-Salt_ses-Salt01-HomeCage_behavior+ecephys.nwb	923961485
 sub-Sato/sub-Sato_ses-Sato05-HomeCage_behavior+ecephys.nwb	2712713537
 sub-Sato/sub-Sato_ses-Sato07-HomeCage_behavior+ecephys.nwb	2758931492
-sub-Scotty/sub-Scotty_ses-Scotty01-HomeCage_behavior+ecephys.nwb	2339839964
+sub-Scotty/sub-Scotty_ses-Scotty01-HomeCage_behavior+ecephys.nwb	2592317076
 sub-Scotty/sub-Scotty_ses-Scotty05-HomeCage_behavior+ecephys.nwb	2399300104
 sub-SevenOfNine/sub-SevenOfNine_ses-SevenOfNine05-HomeCage_behavior+ecephys.nwb	6070600637
 sub-Sumac/sub-Sumac_ses-Sumac05_HomeCage_behavior+ecephys.nwb	1141754801
@@ -543,7 +543,7 @@ sub-Sulu/sub-Sulu_ses-Sulu01_HomeCage_behavior+ecephys.nwb	2667942716
 sub-Sulu/sub-Sulu_ses-Sulu03_HomeCage_behavior+ecephys.nwb	2246110069
 sub-Sulu/sub-Sulu_ses-Sulu04-HomeCage_behavior+ecephys.nwb	2477928597
 sub-TPol/sub-TPol_ses-TPol02-HomeCage_behavior+ecephys.nwb	2143671044
-sub-TPol/sub-TPol_ses-TPol03-HomeCage_behavior+ecephys.nwb	2265186128
+sub-TPol/sub-TPol_ses-TPol03-HomeCage_behavior+ecephys.nwb	2518242592
 sub-Vanilla/sub-Vanilla_ses-Vanilla02-LinearTrack_behavior+ecephys.nwb	2014835224
 sub-Tuvok/sub-Tuvok_ses-Tuvok04-HomeCage_behavior+ecephys.nwb	2469922996
 sub-Vanilla/sub-Vanilla_ses-Vanilla05-HomeCage_behavior+ecephys.nwb	1049418333
@@ -562,7 +562,7 @@ sub-Rosemary/sub-Rosemary_ses-Rosemary01-HomeCage_behavior+ecephys.nwb	103739811
 sub-Rolypoly/sub-Rolypoly_ses-Rolypoly06-HomeCage_behavior+ecephys.nwb	3046136028
 sub-Tuvok/sub-Tuvok_ses-Tuvok01-HomeCage_behavior+ecephys.nwb	2333631776
 sub-Tuvok/sub-Tuvok_ses-Tuvok05-HomeCage_behavior+ecephys.nwb	2418167584
-sub-Vanilla/sub-Vanilla_ses-Vanilla03-LinearTrack_behavior+ecephys.nwb	1682116785
+sub-Vanilla/sub-Vanilla_ses-Vanilla03-LinearTrack_behavior+ecephys.nwb	1801872449
 sub-Riker/sub-Riker_ses-Riker08-HomeCage_behavior+ecephys.nwb	4284478657
 sub-Riker/sub-Riker_ses-Riker09-HomeCage_behavior+ecephys.nwb	2598508412
 sub-Riker/sub-Riker_ses-Riker10-HomeCage_behavior+ecephys.nwb	5112357960

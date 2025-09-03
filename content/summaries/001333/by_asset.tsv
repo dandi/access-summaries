@@ -43,8 +43,8 @@ sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-3449_ecephys.nwb	45187
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-345_ecephys.nwb	2337760
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-3753_ecephys.nwb	451872
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-3545_ecephys.nwb	451872
-sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-4096_ecephys.nwb	451872
-sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-3851_ecephys.nwb	451872
+sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-4096_ecephys.nwb	677808
+sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-3851_ecephys.nwb	677808
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-3981_ecephys.nwb	451872
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-4205_ecephys.nwb	451872
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-4186_ecephys.nwb	903744
@@ -105,7 +105,7 @@ sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7227_ecephys.nwb	45187
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7276_ecephys.nwb	677808
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7236_ecephys.nwb	451872
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7294_ecephys.nwb	225936
-sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7471_ecephys.nwb	451872
+sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7471_ecephys.nwb	677808
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7345_ecephys.nwb	1355616
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7488_ecephys.nwb	677808
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-7559_ecephys.nwb	225936
@@ -142,7 +142,7 @@ sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9247_ecephys.nwb	45187
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9248_ecephys.nwb	451872
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9254_ecephys.nwb	677808
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9401_ecephys.nwb	225936
-sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9423_ecephys.nwb	451872
+sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9423_ecephys.nwb	677808
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9463_ecephys.nwb	225936
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9494_ecephys.nwb	451872
 sub-healthy-simulated-beta/sub-healthy-simulated-beta_ses-9537_ecephys.nwb	677808
@@ -205,12 +205,12 @@ sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-3851_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-3981_ecephys.nwb	2467920
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4186_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4096_ecephys.nwb	1645280
-sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4205_ecephys.nwb	1645280
+sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4205_ecephys.nwb	2467920
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4224_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4206_ecephys.nwb	1955920
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-423_ecephys.nwb	7833184
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4462_ecephys.nwb	1645280
-sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4537_ecephys.nwb	822640
+sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4537_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-452_ecephys.nwb	7833184
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4487_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-4627_ecephys.nwb	1645280
@@ -226,7 +226,7 @@ sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-5205_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-5315_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-516_ecephys.nwb	7833184
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-5545_ecephys.nwb	1645280
-sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-54_ecephys.nwb	25955344
+sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-54_ecephys.nwb	26777984
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-5547_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-5784_ecephys.nwb	2467920
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-5727_ecephys.nwb	1645280
@@ -260,7 +260,7 @@ sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7078_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7124_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7227_ecephys.nwb	822640
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7129_ecephys.nwb	1645280
-sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-715_ecephys.nwb	822640
+sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-715_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7236_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7276_ecephys.nwb	1645280
 sub-healthy-simulated-lfp/sub-healthy-simulated-lfp_ses-7294_ecephys.nwb	1645280
@@ -357,7 +357,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1718_ecephys.nwb	4
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1773_ecephys.nwb	225936
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1796_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1812_ecephys.nwb	451872
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1807_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1807_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1858_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-1899_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-2011_ecephys.nwb	451872
@@ -408,7 +408,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3023_ecephys.nwb	6
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3075_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3150_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3195_ecephys.nwb	677808
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3167_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3167_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3207_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3218_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-3248_ecephys.nwb	451872
@@ -466,7 +466,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4167_ecephys.nwb	4
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4214_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4229_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4231_ecephys.nwb	451872
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4287_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4287_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4296_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4329_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4343_ecephys.nwb	451872
@@ -478,7 +478,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4440_ecephys.nwb	6
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4490_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-449_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4504_ecephys.nwb	677808
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4526_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4526_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4539_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4547_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4643_ecephys.nwb	677808
@@ -486,14 +486,14 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4659_ecephys.nwb	2
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4669_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-466_ecephys.nwb	225936
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4670_ecephys.nwb	451872
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4699_ecephys.nwb	225936
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4699_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4702_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4755_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4772_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4774_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4786_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4814_ecephys.nwb	451872
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4813_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4813_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4820_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-4837_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-485_ecephys.nwb	451872
@@ -586,7 +586,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6462_ecephys.nwb	4
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6454_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6470_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6482_ecephys.nwb	677808
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6485_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6485_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6499_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-648_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6492_ecephys.nwb	451872
@@ -608,7 +608,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6808_ecephys.nwb	4
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6787_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-680_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6843_ecephys.nwb	225936
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6846_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6846_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6863_ecephys.nwb	225936
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-6893_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-7002_ecephys.nwb	451872
@@ -652,7 +652,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-7977_ecephys.nwb	4
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8049_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8066_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8090_ecephys.nwb	451872
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8137_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8137_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8154_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8181_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8206_ecephys.nwb	451872
@@ -675,7 +675,7 @@ sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8487_ecephys.nwb	4
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8623_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8593_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8694_ecephys.nwb	451872
-sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8743_ecephys.nwb	451872
+sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8743_ecephys.nwb	677808
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8761_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8780_ecephys.nwb	451872
 sub-parkinson-simulated-beta/sub-parkinson-simulated-beta_ses-8840_ecephys.nwb	677808
@@ -764,7 +764,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1368_ecephys.nwb	164
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1422_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1456_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1434_ecephys.nwb	1454880
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1468_ecephys.nwb	1645280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1468_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1463_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1480_ecephys.nwb	822640
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1492_ecephys.nwb	1389280
@@ -776,7 +776,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1581_ecephys.nwb	164
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1560_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1626_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1621_ecephys.nwb	1645280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-159_ecephys.nwb	6153744
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-159_ecephys.nwb	6881184
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-163_ecephys.nwb	14523584
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-164_ecephys.nwb	7833184
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1713_ecephys.nwb	1645280
@@ -788,7 +788,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1773_ecephys.nwb	164
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1807_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1796_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1836_ecephys.nwb	1454880
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1812_ecephys.nwb	1645280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1812_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1858_ecephys.nwb	822640
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1961_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-1899_ecephys.nwb	1645280
@@ -880,7 +880,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3362_ecephys.nwb	164
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-339_ecephys.nwb	7833184
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3408_ecephys.nwb	822640
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3417_ecephys.nwb	1645280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3438_ecephys.nwb	1645280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3438_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3442_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3444_ecephys.nwb	2182320
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-3472_ecephys.nwb	1645280
@@ -1015,7 +1015,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-536_ecephys.nwb	7274
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5353_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5387_ecephys.nwb	822640
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5402_ecephys.nwb	1454880
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5405_ecephys.nwb	822640
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5405_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5411_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5423_ecephys.nwb	727440
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-5460_ecephys.nwb	1389280
@@ -1093,7 +1093,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6312_ecephys.nwb	145
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6316_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6328_ecephys.nwb	822640
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6346_ecephys.nwb	1645280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6354_ecephys.nwb	1389280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6354_ecephys.nwb	2083920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6383_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6409_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6385_ecephys.nwb	2467920
@@ -1118,13 +1118,13 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6578_ecephys.nwb	164
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6603_ecephys.nwb	1389280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6624_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6609_ecephys.nwb	1645280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6608_ecephys.nwb	1645280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6608_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6663_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6665_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6695_ecephys.nwb	1646880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-66_ecephys.nwb	6881184
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6697_ecephys.nwb	1389280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6693_ecephys.nwb	822640
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6693_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6773_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6787_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-6802_ecephys.nwb	1454880
@@ -1177,7 +1177,7 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7650_ecephys.nwb	208
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7666_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7695_ecephys.nwb	1646880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7710_ecephys.nwb	822640
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7729_ecephys.nwb	1454880
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7729_ecephys.nwb	2182320
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7777_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7733_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-7779_ecephys.nwb	1645280
@@ -1269,12 +1269,12 @@ sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9465_ecephys.nwb	145
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9460_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9468_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9499_ecephys.nwb	1645280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9511_ecephys.nwb	1645280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9511_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9515_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9516_ecephys.nwb	1454880
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9518_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9526_ecephys.nwb	1645280
-sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9539_ecephys.nwb	1645280
+sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9539_ecephys.nwb	2467920
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9561_ecephys.nwb	822640
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9576_ecephys.nwb	1645280
 sub-parkinson-simulated-lfp/sub-parkinson-simulated-lfp_ses-9648_ecephys.nwb	2467920

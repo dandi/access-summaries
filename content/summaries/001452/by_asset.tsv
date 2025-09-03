@@ -8,7 +8,7 @@ dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/inval
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/sub-01/ses-01/pet/sub-01_ses-01_pet.json	7764
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/sub-01/ses-01/anat/sub-01_ses-01_T1w.nii	472924
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/sub-01/ses-01/pet/sub-01_ses-01_pet.nii.gz	337400
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/sub-01/ses-01/pet/sub-01_ses-01_recording-manual_blood.json	4244
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/sub-01/ses-01/pet/sub-01_ses-01_recording-manual_blood.json	5305
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/asl003/README	1624
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/sub-01/ses-01/pet/sub-01_ses-01_recording-autosampler_blood.tsv	60524
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/asl003/dataset_description.json	2440
@@ -164,7 +164,7 @@ sub-14/sub-14_ses-20250516T214731_icephys.nwb	23202704
 sub-14/sub-14_ses-20250516T214912_icephys.nwb	9570660
 sub-14/sub-14_ses-20250516T215105_icephys.nwb	13144036
 sub-15/sub-15_ses-20250516T214734_icephys.nwb	13144036
-sub-15/sub-15_ses-20250516T214301_icephys.nwb	13144036
+sub-15/sub-15_ses-20250516T214301_icephys.nwb	16717412
 sub-15/sub-15_ses-20250516T214914_icephys.nwb	13144036
 sub-15/sub-15_ses-20250516T215108_icephys.nwb	13144036
 sub-16/sub-16_ses-20250516T214736_icephys.nwb	13144036
@@ -321,7 +321,7 @@ sub-8/sub-8_ses-20250516T215051_icephys.nwb	13144036
 sub-83/sub-83_ses-20250516T215317_icephys.nwb	4110560
 sub-82/sub-82_ses-20250516T215316_icephys.nwb	4110560
 sub-89/sub-89_ses-20250516T215323_icephys.nwb	4110560
-sub-88/sub-88_ses-20250516T215321_icephys.nwb	4110560
+sub-88/sub-88_ses-20250516T215321_icephys.nwb	5105432
 sub-87/sub-87_ses-20250516T215320_icephys.nwb	4110560
 sub-92/sub-92_ses-20250516T215325_icephys.nwb	4110560
 sub-9/sub-9_ses-20250516T214718_icephys.nwb	21040940

@@ -1,6 +1,6 @@
 asset_path	bytes_sent
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_asl003/README	2655
-undetermined	2203112
+undetermined	2203901
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/README	1056
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/participants.json	810
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/participants.tsv	224
@@ -85,7 +85,7 @@ dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm017/eeg/sub-cbm017_task-protmap_events.tsv	14658
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm017/sub-cbm017_scans.tsv	444
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm018/sub-cbm018_scans.tsv	444
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm018/eeg/sub-cbm018_task-protmap_eeg.json	1768
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm018/eeg/sub-cbm018_task-protmap_eeg.json	2210
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm018/eeg/sub-cbm018_task-protmap_events.tsv	4240
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm019/eeg/sub-cbm019_task-protmap_events.tsv	6162
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/eeg_cbm/sub-cbm019/eeg/sub-cbm019_task-protmap_eeg.json	1323
@@ -182,10 +182,10 @@ sub-18/sub-18_ses-20250516T215227_icephys.nwb	4110560
 sub-18/sub-18_ses-20250516T214922_icephys.nwb	13144036
 sub-18/sub-18_ses-20250516T215115_icephys.nwb	16717412
 sub-19/sub-19_ses-20250516T214311_icephys.nwb	23202704
-sub-19/sub-19_ses-20250516T214744_icephys.nwb	19629328
+sub-19/sub-19_ses-20250516T214744_icephys.nwb	23202704
 sub-19/sub-19_ses-20250516T214925_icephys.nwb	16717412
 sub-19/sub-19_ses-20250516T215117_icephys.nwb	16717412
-sub-2/sub-2_ses-20250516T214229_icephys.nwb	22435963
+sub-2/sub-2_ses-20250516T214229_icephys.nwb	26009339
 sub-2/sub-2_ses-20250516T215219_icephys.nwb	4110560
 sub-2/sub-2_ses-20250516T214700_icephys.nwb	13144036
 sub-2/sub-2_ses-20250516T214839_icephys.nwb	13144036
@@ -281,7 +281,7 @@ sub-39/sub-39_ses-20250516T215208_icephys.nwb	13144036
 sub-4/sub-4_ses-20250516T214234_icephys.nwb	16717412
 sub-4/sub-4_ses-20250516T214706_icephys.nwb	13144036
 sub-40/sub-40_ses-20250516T215245_icephys.nwb	2683072
-sub-4/sub-4_ses-20250516T214844_icephys.nwb	17467564
+sub-4/sub-4_ses-20250516T214844_icephys.nwb	21040940
 sub-4/sub-4_ses-20250516T215041_icephys.nwb	17467564
 sub-40/sub-40_ses-20250516T215023_icephys.nwb	12908404
 sub-41/sub-41_ses-20250516T215247_icephys.nwb	2761760
@@ -293,7 +293,7 @@ sub-46/sub-46_ses-20250516T215250_icephys.nwb	2761760
 sub-42/sub-42_ses-20250516T215028_icephys.nwb	16717412
 sub-49/sub-49_ses-20250516T215254_icephys.nwb	8090048
 sub-50/sub-50_ses-20250516T215256_icephys.nwb	4110560
-sub-5/sub-5_ses-20250516T214236_icephys.nwb	21040940
+sub-5/sub-5_ses-20250516T214236_icephys.nwb	24614316
 sub-5/sub-5_ses-20250516T214708_icephys.nwb	13144036
 sub-5/sub-5_ses-20250516T215044_icephys.nwb	13144036
 sub-5/sub-5_ses-20250516T214846_icephys.nwb	13144036

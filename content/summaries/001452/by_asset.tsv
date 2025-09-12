@@ -1,6 +1,6 @@
 asset_path	bytes_sent
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_asl003/README	2655
-undetermined	2203901
+undetermined	2617492
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/README	1056
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/participants.json	810
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_pet001/participants.tsv	224
@@ -19,7 +19,7 @@ dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/ac
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/CHANGES	940
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/participants.json	2212
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/participants.tsv	300
-dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/sub-01/anat/sub-01_T1w.json	1239
+dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/sub-01/anat/sub-01_T1w.json	1652
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/sub-01/meg/sub-01_acq-calibration_meg.dat	200490
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/sub-01/meg/sub-01_task-audiovisual_run-01_channels.tsv	157680
 dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/ds000248/sub-01/meg/sub-01_coordsystem.json	4640
@@ -143,13 +143,13 @@ sub-10/sub-10_ses-20250516T214249_icephys.nwb	25269676
 sub-101/sub-101_ses-20250516T215332_icephys.nwb	8090048
 sub-10/sub-10_ses-20250516T214859_icephys.nwb	23989080
 sub-10/sub-10_ses-20250516T214720_icephys.nwb	25269676
-sub-102/sub-102_ses-20250516T215334_icephys.nwb	7095176
+sub-102/sub-102_ses-20250516T215334_icephys.nwb	8090048
 sub-10/sub-10_ses-20250516T215056_icephys.nwb	17467564
 sub-11/sub-11_ses-20250516T214252_icephys.nwb	27437540
 sub-11/sub-11_ses-20250516T215222_icephys.nwb	7095176
 sub-11/sub-11_ses-20250516T214724_icephys.nwb	16717412
 sub-11/sub-11_ses-20250516T214903_icephys.nwb	13144036
-sub-11/sub-11_ses-20250516T215058_icephys.nwb	16055952
+sub-11/sub-11_ses-20250516T215058_icephys.nwb	19629328
 sub-12/sub-12_ses-20250516T215223_icephys.nwb	8090048
 sub-12/sub-12_ses-20250516T214254_icephys.nwb	26871144
 sub-12/sub-12_ses-20250516T214905_icephys.nwb	12908404
@@ -162,7 +162,7 @@ sub-13/sub-13_ses-20250516T215103_icephys.nwb	13144036
 sub-13/sub-13_ses-20250516T214909_icephys.nwb	11113288
 sub-14/sub-14_ses-20250516T214731_icephys.nwb	23202704
 sub-14/sub-14_ses-20250516T214912_icephys.nwb	13144036
-sub-14/sub-14_ses-20250516T215105_icephys.nwb	13144036
+sub-14/sub-14_ses-20250516T215105_icephys.nwb	16717412
 sub-15/sub-15_ses-20250516T214734_icephys.nwb	13144036
 sub-15/sub-15_ses-20250516T214301_icephys.nwb	16717412
 sub-15/sub-15_ses-20250516T214914_icephys.nwb	13144036
@@ -171,7 +171,7 @@ sub-16/sub-16_ses-20250516T214736_icephys.nwb	16717412
 sub-16/sub-16_ses-20250516T214304_icephys.nwb	13144036
 sub-16/sub-16_ses-20250516T214917_icephys.nwb	13144036
 sub-16/sub-16_ses-20250516T215110_icephys.nwb	21791092
-sub-17/sub-17_ses-20250516T214306_icephys.nwb	17038572
+sub-17/sub-17_ses-20250516T214306_icephys.nwb	20611948
 sub-17/sub-17_ses-20250516T215225_icephys.nwb	1201800
 sub-17/sub-17_ses-20250516T214739_icephys.nwb	9570660
 sub-17/sub-17_ses-20250516T215113_icephys.nwb	13144036
@@ -231,7 +231,7 @@ sub-28/sub-28_ses-20250516T214335_icephys.nwb	21791092
 sub-28/sub-28_ses-20250516T214949_icephys.nwb	13144036
 sub-28/sub-28_ses-20250516T215140_icephys.nwb	13144036
 sub-29/sub-29_ses-20250516T214337_icephys.nwb	13144036
-sub-29/sub-29_ses-20250516T214808_icephys.nwb	13144036
+sub-29/sub-29_ses-20250516T214808_icephys.nwb	16717412
 sub-29/sub-29_ses-20250516T215142_icephys.nwb	13144036
 sub-29/sub-29_ses-20250516T214952_icephys.nwb	13144036
 sub-3/sub-3_ses-20250516T214232_icephys.nwb	14388688
@@ -312,7 +312,7 @@ sub-7/sub-7_ses-20250516T214713_icephys.nwb	13144036
 sub-7/sub-7_ses-20250516T214852_icephys.nwb	13144036
 sub-7/sub-7_ses-20250516T214242_icephys.nwb	13144036
 sub-77/sub-77_ses-20250516T215312_icephys.nwb	4110560
-sub-7/sub-7_ses-20250516T215048_icephys.nwb	9570660
+sub-7/sub-7_ses-20250516T215048_icephys.nwb	13144036
 sub-81/sub-81_ses-20250516T215314_icephys.nwb	5105432
 sub-8/sub-8_ses-20250516T214245_icephys.nwb	18515692
 sub-8/sub-8_ses-20250516T214716_icephys.nwb	26216072

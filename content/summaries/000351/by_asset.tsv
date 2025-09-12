@@ -25,9 +25,9 @@ sub-DB-longITI-C1-M2/sub-DB-longITI-C1-M2_ses-Day5-12.nwb	20600776
 sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day1-12.nwb	16023976
 sub-DB-longITI-C1-M2/sub-DB-longITI-C1-M2_ses-Day6-12.nwb	15435944
 sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day2-12.nwb	13027528
-sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day3-30.nwb	13807208
+sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day3-30.nwb	14055016
 sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day4-30.nwb	15662984
-sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day6-6.nwb	14088808
+sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day6-6.nwb	14341736
 sub-DB-longITI-C1-M3/sub-DB-longITI-C1-M3_ses-Day5-6.nwb	11050872
 sub-DB-longITI-C1-M4/sub-DB-longITI-C1-M4_ses-Day1-6.nwb	14310280
 sub-DB-longITI-C1-M4/sub-DB-longITI-C1-M4_ses-Day2-6.nwb	13119592
@@ -38,7 +38,7 @@ sub-DB-longITI-C1-M4/sub-DB-longITI-C1-M4_ses-Day6-12.nwb	16992296
 sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day1-RandomRewards.nwb	13579753433
 sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day3-Pavlovian.nwb	24527464053
 sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day5-Pavlovian.nwb	23181295849
-sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day4-Pavlovian.nwb	31615696438
+sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day4-Pavlovian.nwb	33491508118
 sub-HJ-FP-datHT-stGtACR-M3/sub-HJ-FP-datHT-stGtACR-M3_ses-Day1-RandomRewards.nwb	389307152
 sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day6-Pavlovian.nwb	29084377619
 sub-HJ-FP-datHT-stGtACR-M2/sub-HJ-FP-datHT-stGtACR-M2_ses-Day7-Pavlovian.nwb	38299049197
@@ -184,7 +184,7 @@ sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day20.nwb	1154124036
 sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day21.nwb	791296420
 sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day22-learned.nwb	874259356
 sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day24.nwb	900505396
-sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day25.nwb	828732204
+sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day25.nwb	847653204
 sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day26.nwb	986611044
 sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day27.nwb	893044480
 sub-HJ-FP-M2/sub-HJ-FP-M2_ses-Day29-8s.nwb	519307980
@@ -355,7 +355,7 @@ sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day15.nwb	798785328
 sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day16.nwb	738886448
 sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day17.nwb	770741820
 sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day18.nwb	918804704
-sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day2.nwb	265969600
+sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day2.nwb	273974184
 sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day19.nwb	679326228
 sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day20-8s.nwb	556996584
 sub-HJ-FP-M7/sub-HJ-FP-M7_ses-Day21.nwb	558000776
@@ -403,7 +403,7 @@ sub-HJ-FP-WT-stGtACR-F2/sub-HJ-FP-WT-stGtACR-F2_ses-Day5-Pavlovian.nwb	210629250
 sub-HJ-FP-WT-stGtACR-F2/sub-HJ-FP-WT-stGtACR-F2_ses-Day4-Pavlovian.nwb	22243437045
 sub-HJ-FP-WT-stGtACR-F3/sub-HJ-FP-WT-stGtACR-F3_ses-Day2-Pavlovian.nwb	487542848
 sub-HJ-FP-WT-stGtACR-F3/sub-HJ-FP-WT-stGtACR-F3_ses-Day3-Pavlovian.nwb	590524208
-sub-HJ-FP-WT-stGtACR-F2/sub-HJ-FP-WT-stGtACR-F2_ses-Day6-Pavlovian.nwb	15301371437
+sub-HJ-FP-WT-stGtACR-F2/sub-HJ-FP-WT-stGtACR-F2_ses-Day6-Pavlovian.nwb	16658604013
 sub-HJ-FP-WT-stGtACR-F3/sub-HJ-FP-WT-stGtACR-F3_ses-Day4-Pavlovian.nwb	623595160
 sub-HJ-FP-WT-stGtACR-F3/sub-HJ-FP-WT-stGtACR-F3_ses-Day5-Pavlovian.nwb	528683880
 sub-HJ-FP-WT-stGtACR-F3/sub-HJ-FP-WT-stGtACR-F3_ses-Day6-Pavlovian.nwb	604928284

@@ -7,6 +7,9 @@ AE/Ajman:
 AE/Dubai:
   latitude: 25.0742823
   longitude: 55.1885387
+AE/Sharjah:
+  latitude: 25.2691848
+  longitude: 55.6934811
 "AL/Durr\xEBs County":
   latitude: 41.4279863
   longitude: 19.5373372
@@ -187,6 +190,9 @@ AWS/us-west-1:
 AWS/us-west-2:
   latitude: '45.8399'
   longitude: '-119.7006'
+AZ/Baki:
+  latitude: 40.3755885
+  longitude: 49.8328009
 BA/Federation of B&H:
   latitude: 43.916741
   longitude: 17.5482072
@@ -433,6 +439,9 @@ CH/Zurich:
 CL/Antofagasta:
   latitude: -22.3427801
   longitude: -69.6639793
+"CL/Araucan\xEDa":
+  latitude: 37.4156999
+  longitude: -5.9857728
 CL/Arica y Parinacota Region:
   latitude: -18.5713496
   longitude: -69.7884774
@@ -607,9 +616,15 @@ CZ/Central Bohemia:
 "CZ/Jiho\u010Desk\xFD kraj":
   latitude: 49.0864548
   longitude: 14.6001727
+"CZ/Kr\xE1lov\xE9hradeck\xFD kraj":
+  latitude: 50.4093927
+  longitude: 15.6850054
 "CZ/Moravskoslezsk\xFD":
   latitude: 49.9605338
   longitude: 17.4410123
+"CZ/Pardubick\xFD":
+  latitude: 49.889819
+  longitude: 16.1283254
 CZ/Prague:
   latitude: 50.0596288
   longitude: 14.4464593
@@ -955,6 +970,9 @@ GR/East Macedonia and Thrace:
 GR/Ionian Islands:
   latitude: 37.7891384
   longitude: 20.7900896
+GR/Peloponnese:
+  latitude: 37.363372
+  longitude: 22.2394984
 GR/West Greece:
   latitude: 38.2529473
   longitude: 21.7117625
@@ -1021,6 +1039,9 @@ HK/Yuen Long:
 "HN/Cort\xE9s Department":
   latitude: -12.0528208
   longitude: -77.0057703
+"HN/El Para\xEDso Department":
+  latitude: 14.6910904
+  longitude: -90.4945269
 HR/County of Osijek-Baranja:
   latitude: 45.5
   longitude: 18.41667
@@ -1039,6 +1060,9 @@ HU/Budapest:
 "HU/Gy\u0151r-Moson-Sopron":
   latitude: 47.6610134
   longitude: 17.3796437
+"HU/J\xE1sz-Nagykun-Szolnok":
+  latitude: 47.2971598
+  longitude: 20.453178
 HU/Pest County:
   latitude: 47.41667
   longitude: 19.33333
@@ -1081,6 +1105,9 @@ ID/North Sumatra:
 ID/Riau:
   latitude: 0.5004112
   longitude: 101.5475811
+ID/South Kalimantan:
+  latitude: -2.9285686
+  longitude: 115.3700718
 ID/South Sumatra:
   latitude: -3.1266842
   longitude: 104.0930554
@@ -1090,6 +1117,9 @@ ID/West Java:
 ID/West Kalimantan:
   latitude: -0.1322387
   longitude: 111.0968901
+ID/West Sumatra:
+  latitude: -0.5827529
+  longitude: 100.6133379
 ID/Yogyakarta:
   latitude: -7.9778384
   longitude: 110.3672257
@@ -1480,6 +1510,9 @@ KZ/North Kazakhstan:
 KZ/Pavlodar Region:
   latitude: 51.8111545
   longitude: 76.4285287
+LA/Vientiane Prefecture:
+  latitude: 18.120498
+  longitude: 102.6505431
 LB/Beyrouth:
   latitude: 33.8892265
   longitude: 35.5025585
@@ -1513,6 +1546,9 @@ MA/Casablanca-Settat:
 "MA/F\xE8s-Mekn\xE8s":
   latitude: 33.8333136
   longitude: -4.8556382
+MA/Marrakesh-Safi:
+  latitude: 31.6414746
+  longitude: -8.0029077
 MA/Oriental:
   latitude: 33.3202138
   longitude: -2.4238471
@@ -1540,6 +1576,9 @@ ML/Bamako:
 MM/Mandalay Region:
   latitude: 20.9872395
   longitude: 95.7656747
+MM/Yangon:
+  latitude: 16.7967129
+  longitude: 96.1609916
 MN/Ulaanbaatar:
   latitude: 47.9184676
   longitude: 106.9177016
@@ -1555,6 +1594,9 @@ MQ/Martinique:
 MT/Ir-Rabat:
   latitude: 35.8818906
   longitude: 14.3988213
+"MT/Saint Paul\u2019s Bay":
+  latitude: 35.9480742
+  longitude: 14.3973929
 MU/Plaines Wilhems:
   latitude: -20.3053896
   longitude: 57.4959619
@@ -1606,6 +1648,9 @@ MX/Morelos:
 "MX/M\xE9xico":
   latitude: 19.4326296
   longitude: -99.1331785
+MX/Nayarit:
+  latitude: 22.0000001
+  longitude: -105.0000001
 "MX/Nuevo Le\xF3n":
   latitude: 26.2384363
   longitude: -99.8873
@@ -1624,12 +1669,18 @@ MX/Quintana Roo:
 "MX/San Luis Potos\xED":
   latitude: 22.5000001
   longitude: -100.4949145
+MX/Sinaloa:
+  latitude: 25.0000001
+  longitude: -107.5000001
 MX/Sonora:
   latitude: 29.3333331
   longitude: -110.6666671
 MX/Tabasco:
   latitude: 17.9999288
   longitude: -92.6681659
+MX/Tamaulipas:
+  latitude: 23.9891553
+  longitude: -98.7026825
 MX/Tlaxcala:
   latitude: 19.416667
   longitude: -98.166667
@@ -1645,6 +1696,9 @@ MX/Zacatecas:
 MY/Johor:
   latitude: 2.0228821
   longitude: 103.3114564
+MY/Kedah:
+  latitude: 5.8098265
+  longitude: 100.6715035
 MY/Kuala Lumpur:
   latitude: 3.1526589
   longitude: 101.7022205
@@ -1828,6 +1882,9 @@ PE/Junin:
 PE/La Libertad:
   latitude: -8.0
   longitude: -78.5
+PE/Lambayeque:
+  latitude: -6.333333
+  longitude: -80.0
 PE/Lima Province:
   latitude: -12.5453873
   longitude: -75.8599243
@@ -1849,6 +1906,9 @@ PH/Central Visayas:
 PH/Cordillera:
   latitude: 17.3597101
   longitude: 121.0716923
+PH/Davao Region:
+  latitude: 6.6481392
+  longitude: 125.3562143
 PH/Ilocos:
   latitude: 18.166667
   longitude: 120.75
@@ -1858,9 +1918,15 @@ PH/Metro Manila:
 PH/Northern Mindanao:
   latitude: 8.3979549
   longitude: 124.710688
+PH/Western Visayas:
+  latitude: 11.2367325
+  longitude: 122.6878187
 PH/Zamboanga Peninsula:
   latitude: 7.7787234
   longitude: 122.7570828
+PK/Islamabad:
+  latitude: 33.6938118
+  longitude: 73.0651511
 PK/Khyber Pakhtunkhwa:
   latitude: 33.712802
   longitude: 71.2678805
@@ -1978,6 +2044,9 @@ RO/Cluj County:
 "RO/Constan\u021Ba County":
   latitude: 44.1859611
   longitude: 28.6426798
+RO/Hunedoara County:
+  latitude: 45.75
+  longitude: 22.9
 RO/Ilfov:
   latitude: 44.5017074
   longitude: 26.2449077
@@ -2014,6 +2083,9 @@ RU/Kaluga Oblast:
 RU/Khabarovsk:
   latitude: 51.6312684
   longitude: 136.121524
+RU/Komi:
+  latitude: 63.9881421
+  longitude: 54.3326073
 RU/Krasnodar Krai:
   latitude: 45.7684014
   longitude: 39.0261044
@@ -2029,6 +2101,9 @@ RU/Kuzbass:
 RU/Leningradskaya Oblast':
   latitude: 60.0
   longitude: 32.0
+RU/Lipetsk Oblast:
+  latitude: 52.6935178
+  longitude: 39.1122664
 RU/Magadan Oblast:
   latitude: 63.5515028
   longitude: 154.014726
@@ -2092,6 +2167,9 @@ RU/Ulyanovsk:
 RU/Vladimir Oblast:
   latitude: 56.0503336
   longitude: 40.6561633
+RU/Voronezh Oblast:
+  latitude: 50.9800393
+  longitude: 40.1506507
 RW/Kigali:
   latitude: -1.8859597
   longitude: 30.1296751
@@ -2185,6 +2263,9 @@ TH/Uttaradit:
 TJ/Dushanbe:
   latitude: 38.5856814
   longitude: 68.760331
+TN/Ariana Governorate:
+  latitude: 36.9685735
+  longitude: 10.1219855
 TN/Ben Arous Governorate:
   latitude: 36.6306483
   longitude: 10.2100827

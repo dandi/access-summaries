@@ -19,6 +19,9 @@ AE/Sharjah:
 AL/Tirana:
   latitude: -23.4908471
   longitude: -46.8369927
+"AL/Vlor\xEB County":
+  latitude: 40.154212
+  longitude: 19.752181
 AM/Kotayk:
   latitude: 40.4033275
   longitude: 44.6959923
@@ -52,6 +55,9 @@ AR/Entre Rios:
 AR/Formosa:
   latitude: -24.5955306
   longitude: -60.4289718
+AR/La Pampa:
+  latitude: -37.1789623
+  longitude: -65.704912
 AR/La Rioja:
   latitude: -29.9729781
   longitude: -67.0487944
@@ -241,6 +247,9 @@ BG/Blagoevgrad:
 BG/Sofia-Capital:
   latitude: 42.6453677
   longitude: 23.3952266
+BG/Varna:
+  latitude: 43.2073873
+  longitude: 27.9166653
 BH/Manama:
   latitude: 26.2235041
   longitude: 50.5822436
@@ -343,6 +352,9 @@ BR/Sergipe:
 BR/Tocantins:
   latitude: -10.8855129
   longitude: -48.3716912
+BW/Gaborone:
+  latitude: -24.6581357
+  longitude: 25.9088474
 BY/Gomel Oblast:
   latitude: 52.3128262
   longitude: 29.5418527
@@ -571,6 +583,9 @@ CO/Bogota D.C.:
 "CO/Boyac\xE1":
   latitude: 5.6278979
   longitude: -72.8268617
+CO/Caldas Department:
+  latitude: -9.1110136
+  longitude: -78.5455626
 CO/Cauca Department:
   latitude: -14.6329003
   longitude: -70.9519106
@@ -598,6 +613,9 @@ CR/Alajuela Province:
 CR/Guanacaste Province:
   latitude: 10.9408848
   longitude: -84.8160137
+CR/Heredia Province:
+  latitude: 10.3767813
+  longitude: -84.0139721
 CR/Puntarenas Province:
   latitude: 9.0953279
   longitude: -84.2003038
@@ -787,6 +805,9 @@ EG/Giza:
 EG/Monufia:
   latitude: 30.4370098
   longitude: 30.7466852
+EG/Suez:
+  latitude: 29.974498
+  longitude: 32.537086
 ES/Andalusia:
   latitude: 37.3399964
   longitude: -4.5811614
@@ -817,6 +838,9 @@ ES/Catalonia:
 ES/Extremadura:
   latitude: 39.1748426
   longitude: -6.1529891
+ES/Galicia:
+  latitude: 42.61946
+  longitude: -7.863112
 ES/Madrid:
   latitude: 40.4167047
   longitude: -3.7035825
@@ -988,6 +1012,9 @@ GR/Ionian Islands:
 GR/Peloponnese:
   latitude: 37.363372
   longitude: 22.2394984
+GR/Thessaly:
+  latitude: 39.5755929
+  longitude: 22.1634449
 GR/West Greece:
   latitude: 38.2529473
   longitude: 21.7117625
@@ -1063,6 +1090,9 @@ HR/County of Osijek-Baranja:
 HR/Zagreb:
   latitude: 45.8130967
   longitude: 15.9772795
+HT/Ouest:
+  latitude: 18.7668687
+  longitude: -72.4387315
 HU/Baranya:
   latitude: 45.9714436
   longitude: 18.1669246
@@ -1108,6 +1138,9 @@ ID/Central Java:
 ID/East Java:
   latitude: -7.6977397
   longitude: 112.4914199
+ID/East Kalimantan:
+  latitude: 0.7884397
+  longitude: 116.2419977
 ID/Jakarta:
   latitude: -6.1754049
   longitude: 106.827168
@@ -1141,6 +1174,9 @@ ID/West Java:
 ID/West Kalimantan:
   latitude: -0.1322387
   longitude: 111.0968901
+ID/West Nusa Tenggara:
+  latitude: -8.7892855
+  longitude: 117.146169
 ID/West Sumatra:
   latitude: -0.5827529
   longitude: 100.6133379
@@ -1537,6 +1573,9 @@ KZ/Pavlodar Region:
 KZ/Shymkent:
   latitude: 42.3146962
   longitude: 69.5883282
+KZ/Zhambyl:
+  latitude: 44.4168463
+  longitude: 72.134166
 LA/Vientiane Prefecture:
   latitude: 18.120498
   longitude: 102.6505431
@@ -1600,6 +1639,9 @@ MA/Tanger-Tetouan-Al Hoceima:
 "MD/Chi\u0219in\u0103u Municipality":
   latitude: 47.0073716
   longitude: 28.8431218
+"MD/S\xEEngerei":
+  latitude: 47.636085
+  longitude: 28.1455434
 MD/Transnistria:
   latitude: 47.7598678
   longitude: 29.1176055
@@ -1738,6 +1780,9 @@ MY/Kedah:
 MY/Kuala Lumpur:
   latitude: 3.1526589
   longitude: 101.7022205
+MY/Melaka:
+  latitude: 2.3293744
+  longitude: 102.2880962
 MY/Pahang:
   latitude: 3.6168822
   longitude: 102.5994547
@@ -2071,12 +2116,21 @@ PY/Central Department:
 "PY/Concepci\xF3n":
   latitude: -23.4068281
   longitude: -57.4427802
+"PY/Guair\xE1":
+  latitude: -25.75
+  longitude: -56.5
 "PY/Itap\xFAa":
   latitude: -26.833333
   longitude: -55.833333
+PY/San Pedro Department:
+  latitude: -26.66667
+  longitude: -54.0
 "QA/Balad\u012Byat ad Daw\u1E29ah":
   latitude: 25.3
   longitude: 51.5
+RO/Arges:
+  latitude: 44.9939764
+  longitude: 24.8488685
 "RO/Bucure\u0219ti":
   latitude: 44.4361414
   longitude: 26.1027202
@@ -2110,6 +2164,9 @@ RS/Vojvodina:
 RU/Altai Krai:
   latitude: 52.6932243
   longitude: 82.6931424
+RU/Arkhangelskaya:
+  latitude: 45.6725524
+  longitude: 40.2796117
 RU/Astrakhan Oblast:
   latitude: 47.1878186
   longitude: 47.608851
@@ -2134,6 +2191,9 @@ RU/Kaliningrad Oblast:
 RU/Kaluga Oblast:
   latitude: 54.4382773
   longitude: 35.5272854
+RU/Karelia:
+  latitude: 62.6194031
+  longitude: 33.4920267
 RU/Khabarovsk:
   latitude: 51.6312684
   longitude: 136.121524
@@ -2278,12 +2338,18 @@ SG/Singapore:
 SI/Kranj:
   latitude: 46.2432913
   longitude: 14.3549353
+SI/Ljubljana:
+  latitude: 46.0500268
+  longitude: 14.5069289
 SI/Velenje:
   latitude: 46.3592869
   longitude: 15.1150301
 SK/Bratislava Region:
   latitude: 48.3304055
   longitude: 17.1794402
+"SK/Ko\u0161ice Region":
+  latitude: 48.676291
+  longitude: 21.2898168
 SN/Dakar:
   latitude: 14.693425
   longitude: -17.447938
@@ -2335,6 +2401,9 @@ TN/Ariana Governorate:
 TN/Ben Arous Governorate:
   latitude: 36.6306483
   longitude: 10.2100827
+TN/Sousse Governorate:
+  latitude: 35.8939852
+  longitude: 10.3977704
 TN/Tunis Governorate:
   latitude: 36.81791
   longitude: 10.2127219
@@ -2389,6 +2458,9 @@ TR/Mardin:
 TR/Mersin:
   latitude: 36.7978381
   longitude: 34.6298391
+TR/Osmaniye:
+  latitude: 37.2517882
+  longitude: 36.2993502
 TR/Sakarya:
   latitude: 40.7731834
   longitude: 30.481606
@@ -2425,6 +2497,9 @@ TT/Port of Spain:
 TT/Princes Town:
   latitude: 10.2048003
   longitude: -61.2806186
+TT/San Fernando:
+  latitude: 10.2807069
+  longitude: -61.4645896
 TT/San Juan/Laventille:
   latitude: 10.6756066
   longitude: -61.4710154
@@ -2452,6 +2527,9 @@ UA/Ivano-Frankivsk:
 "UA/Kharkivs\u2019ka Oblast\u2019":
   latitude: 49.5
   longitude: 36.5
+UA/Khmelnytskyi:
+  latitude: 49.268624
+  longitude: 27.0635998
 UA/Kiev:
   latitude: 50.4500336
   longitude: 30.5241361

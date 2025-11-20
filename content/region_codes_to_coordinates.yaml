@@ -46,6 +46,9 @@ AL/Tirana:
 AM/Kotayk:
   latitude: 40.4033275
   longitude: 44.6959923
+AM/Vayots Dzor:
+  latitude: 39.8019849
+  longitude: 45.4557591
 AM/Yerevan:
   latitude: 40.1777112
   longitude: 44.5126233
@@ -229,6 +232,9 @@ AWS/us-west-1:
 AWS/us-west-2:
   latitude: '45.8399'
   longitude: '-119.7006'
+"AZ/Ab\u015Feron":
+  latitude: 40.3361899
+  longitude: 49.2093
 AZ/Baki:
   latitude: 40.3755885
   longitude: 49.8328009
@@ -241,6 +247,9 @@ BA/Srpska:
 BB/Saint Michael:
   latitude: 13.1182985
   longitude: -59.6015783
+BD/Barisal Division:
+  latitude: 22.4934035
+  longitude: 90.3548015
 BD/Chittagong:
   latitude: 22.333778
   longitude: 91.8344348
@@ -541,6 +550,9 @@ CL/O'Higgins Region:
 CL/Santiago Metropolitan:
   latitude: -33.4459381
   longitude: -70.6404724
+"CL/Tarapac\xE1":
+  latitude: -10.8058599
+  longitude: -77.7421068
 "CL/Valpara\xEDso":
   latitude: -32.5976089
   longitude: -70.8529753
@@ -655,6 +667,9 @@ CO/Bogota D.C.:
 CO/Caldas Department:
   latitude: -9.1110136
   longitude: -78.5455626
+CO/Casanare Department:
+  latitude: 5.1749603
+  longitude: -72.953691
 CO/Cauca Department:
   latitude: -14.6329003
   longitude: -70.9519106
@@ -1360,6 +1375,9 @@ ID/South Sulawesi:
 ID/South Sumatra:
   latitude: -3.1266842
   longitude: 104.0930554
+ID/Southwest Papua:
+  latitude: -1.09856
+  longitude: 131.3525336
 ID/West Java:
   latitude: -6.8891904
   longitude: 107.6404716
@@ -1492,6 +1510,9 @@ IN/Uttarakhand:
 IN/West Bengal:
   latitude: 22.9964948
   longitude: 87.6855882
+IQ/Al Anbar:
+  latitude: 32.7889443
+  longitude: 41.6093983
 IQ/An Najaf:
   latitude: 32.0010227
   longitude: 44.3299926
@@ -1513,9 +1534,15 @@ IQ/Erbil:
 "IQ/Karbal\u0101\u02BC":
   latitude: 32.5984057
   longitude: 44.0157931
+IQ/Maysan:
+  latitude: 32.0182542
+  longitude: 47.0695957
 IQ/Nineveh:
   latitude: 36.3564339
   longitude: 43.1621647
+IQ/Salah ad Din:
+  latitude: 34.376222
+  longitude: 43.6446504
 IQ/Sulaymaniyah:
   latitude: 35.5574725
   longitude: 45.435202
@@ -1558,6 +1585,9 @@ IS/Capital Region:
 IT/Apulia:
   latitude: 40.9842539
   longitude: 16.6210027
+IT/Calabria:
+  latitude: 39.0565974
+  longitude: 16.5249864
 IT/Campania:
   latitude: 40.860672
   longitude: 14.843984
@@ -1825,6 +1855,9 @@ LT/Vilnius:
 LU/Esch-sur-Alzette:
   latitude: 49.4959628
   longitude: 5.9850306
+LU/Luxembourg:
+  latitude: 49.8158683
+  longitude: 6.1296751
 LV/Riga:
   latitude: 56.9493977
   longitude: 24.1051846
@@ -2539,6 +2572,9 @@ RU/Khabarovsk:
 RU/Komi:
   latitude: 63.9881421
   longitude: 54.3326073
+RU/Kostroma Oblast:
+  latitude: 58.424756
+  longitude: 44.2533273
 RU/Krasnodar Krai:
   latitude: 45.7684014
   longitude: 39.0261044
@@ -2614,6 +2650,9 @@ RU/Sverdlovsk Oblast:
 RU/Tambov Oblast:
   latitude: 52.9019574
   longitude: 41.3578918
+RU/Tatarstan Republic:
+  latitude: 55.7982735
+  longitude: 49.1255946
 RU/Tomsk Oblast:
   latitude: 58.6124279
   longitude: 82.0475315
@@ -2644,6 +2683,9 @@ RU/Yaroslavl Oblast:
 RW/Kigali:
   latitude: -1.8859597
   longitude: 30.1296751
+SA/'Asir Region:
+  latitude: 19.166667
+  longitude: 43.166667
 SA/Eastern Province:
   latitude: 23.3036077
   longitude: 50.1258804
@@ -2743,6 +2785,9 @@ TH/Kamphaeng Phet:
 TH/Khon Kaen:
   latitude: 16.6022387
   longitude: 102.6352933
+TH/Lamphun:
+  latitude: 18.5776383
+  longitude: 99.0069034
 TH/Maha Sarakham:
   latitude: 15.9041448
   longitude: 103.0840638

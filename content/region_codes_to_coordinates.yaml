@@ -967,6 +967,9 @@ EG/Qena:
 EG/Sharqia:
   latitude: 30.6332775
   longitude: 31.7893739
+EG/Sohag:
+  latitude: 26.7624629
+  longitude: 32.0909936
 EG/Suez:
   latitude: 29.974498
   longitude: 32.537086
@@ -1024,6 +1027,9 @@ ET/Addis Ababa:
 ET/Oromiya:
   latitude: 7.6721644
   longitude: 40.0299727
+ET/Sidama Region:
+  latitude: 6.6507504
+  longitude: 38.4796794
 FI/Pirkanmaa:
   latitude: 61.717433
   longitude: 23.7157115
@@ -1168,6 +1174,9 @@ GE/Adjara:
 GE/Tbilisi:
   latitude: 41.6934591
   longitude: 44.8014495
+GH/Ashanti:
+  latitude: 6.8003319
+  longitude: -1.5188142
 GH/Greater Accra:
   latitude: 5.8101532
   longitude: 0.0995242
@@ -1309,9 +1318,15 @@ HU/Heves County:
 "HU/J\xE1sz-Nagykun-Szolnok":
   latitude: 47.2971598
   longitude: 20.453178
+"HU/N\xF3gr\xE1d":
+  latitude: 47.9873616
+  longitude: 19.5472495
 HU/Pest County:
   latitude: 47.41667
   longitude: 19.33333
+"HU/Szabolcs-Szatm\xE1r-Bereg":
+  latitude: 48.0297821
+  longitude: 22.0040108
 HU/Tolna County:
   latitude: 46.5
   longitude: 18.58333
@@ -1324,12 +1339,18 @@ ID/Aceh:
 ID/Bali:
   latitude: -8.2271303
   longitude: 115.1919203
+"ID/Bangka\u2013Belitung Islands":
+  latitude: -2.7052886
+  longitude: 106.3585607
 ID/Banten:
   latitude: -6.4453801
   longitude: 106.1375586
 ID/Central Java:
   latitude: -7.3032412
   longitude: 110.0044145
+ID/Central Kalimantan:
+  latitude: -1.499583
+  longitude: 113.2903307
 ID/East Java:
   latitude: -7.6977397
   longitude: 112.4914199
@@ -1924,6 +1945,9 @@ MM/Mandalay Region:
 MM/Yangon:
   latitude: 16.7967129
   longitude: 96.1609916
+MN/Orhon:
+  latitude: 49.0243744
+  longitude: 104.2998863
 MN/Ulaanbaatar:
   latitude: 47.9184676
   longitude: 106.9177016
@@ -2155,6 +2179,9 @@ NO/Buskerud:
 NO/Innlandet:
   latitude: 61.2681056
   longitude: 10.4854588
+NO/Nordland:
+  latitude: 67.275634
+  longitude: 13.8623544
 NO/Oslo:
   latitude: 59.9133301
   longitude: 10.7389701
@@ -2404,6 +2431,9 @@ PR/Cidra:
 PR/San Juan:
   latitude: 18.384239
   longitude: -66.05344
+PS/Gaza Strip:
+  latitude: 31.4432234
+  longitude: 34.360007
 PS/West Bank:
   latitude: 32.0254688
   longitude: 35.2888075
@@ -2518,6 +2548,12 @@ RO/Satu Mare County:
 RO/Sibiu County:
   latitude: 45.8
   longitude: 24.15
+RO/Suceava:
+  latitude: 47.5326535
+  longitude: 25.8345939
+"RO/S\u0103laj County":
+  latitude: 47.1790545
+  longitude: 23.0538099
 "RO/Timi\u0219 County":
   latitude: 45.7475255
   longitude: 22.1379232
@@ -2530,6 +2566,9 @@ RS/Central Serbia:
 RS/Vojvodina:
   latitude: 45.4102776
   longitude: 19.9762992
+RU/Adygeya Republic:
+  latitude: 45.0131708
+  longitude: 38.9295655
 RU/Altai Krai:
   latitude: 52.6932243
   longitude: 82.6931424
@@ -2692,6 +2731,9 @@ SA/Eastern Province:
 SA/Mecca Region:
   latitude: 21.6698063
   longitude: 41.4996029
+SA/Medina Region:
+  latitude: 25.1354363
+  longitude: 39.162594
 SA/Riyadh Region:
   latitude: 23.333333
   longitude: 45.333333
@@ -2722,6 +2764,9 @@ SE/Uppsala:
 "SE/V\xE4stra G\xF6taland":
   latitude: 58.2158502
   longitude: 12.6518208
+"SE/\xD6rebro":
+  latitude: 59.2747287
+  longitude: 15.2151181
 "SE/\xD6sterg\xF6tland":
   latitude: 58.3650249
   longitude: 16.0447142
@@ -2923,6 +2968,9 @@ TR/Konya:
 "TR/K\xFCtahya":
   latitude: 39.2522508
   longitude: 29.4937732
+TR/Manisa:
+  latitude: 38.8574402
+  longitude: 28.0565711
 TR/Mardin:
   latitude: 37.3611355
   longitude: 40.8959403

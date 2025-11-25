@@ -1,7 +1,7 @@
 region	bytes_sent
 AE/Abu Dhabi	14846384
 AE/Ajman	7410897
-AE/Dubai	25120814628
+AE/Dubai	25125939609
 AE/Fujairah	10339
 AE/Raʼs al Khaymah	2022190
 AE/Sharjah	12433183
@@ -13,14 +13,14 @@ AL/Shkodër County	2780
 AL/Tirana	232061897
 AL/Vlorë County	3363159
 AM/Kotayk	82423150
-AM/Yerevan	5228256641
+AM/Yerevan	5229107338
 AO/Luanda	2322048
-AR/Buenos Aires	1149543706
-AR/Buenos Aires F.D.	30600762366
+AR/Buenos Aires	1173907200
+AR/Buenos Aires F.D.	30622837174
 AR/Catamarca	1088060
-AR/Chaco	103259224
+AR/Chaco	117995583
 AR/Chubut	2442181
-AR/Cordoba	113448957
+AR/Cordoba	116212454
 AR/Corrientes	27944447
 AR/Entre Rios	28305608
 AR/Formosa	37368099
@@ -33,7 +33,7 @@ AR/Rio Negro	5760404058
 AR/Salta	3415455
 AR/San Juan	106976530
 AR/San Luis	19212064
-AR/Santa Fe	45381621
+AR/Santa Fe	55076805
 AR/Tucuman	702537467
 AT/Lower Austria	26483772303
 AT/Salzburg	27461952231
@@ -57,7 +57,7 @@ AWS/ap-southeast-1	466175355016
 AWS/ap-southeast-2	2958099013
 AWS/ap-southeast-3	392387036
 AWS/ca-central-1	1588897672
-AWS/cn-north-1	208426897
+AWS/cn-north-1	208566497
 AWS/eu-central-1	76190858261
 AWS/eu-central-2	689714844
 AWS/eu-north-1	2513992339
@@ -68,7 +68,7 @@ AWS/eu-west-3	12660415219
 AWS/me-central-1	3898657715
 AWS/me-south-1	1513413572
 AWS/sa-east-1	39678890685
-AWS/us-east-1	938791157802232
+AWS/us-east-1	938791157803262
 AWS/us-east-2	46622059387737
 AWS/us-west-1	3094583055
 AWS/us-west-2	32647679364272
@@ -77,17 +77,17 @@ AZ/Abşeron	1409780
 AZ/Baki	1232166
 BA/Federation of B&H	29639729
 BA/Srpska	5253344
-BB/Saint Michael	16117897
+BB/Saint Michael	19773334
 BD/Barisal Division	868986
-BD/Chittagong	97958233
-BD/Dhaka Division	609404614
-BD/Khulna Division	23528622
+BD/Chittagong	109714255
+BD/Dhaka Division	618420585
+BD/Khulna Division	25385599
 BD/Mymensingh Division	60688937
-BD/Rajshahi Division	39030600
-BD/Rangpur Division	6671665
+BD/Rajshahi Division	41817875
+BD/Rangpur Division	7286136
 BD/Sylhet Division	2554583
-BE/Brussels Capital	934946529265
-BE/Flanders	583517870273
+BE/Brussels Capital	934947913545
+BE/Flanders	583519820210
 BE/Wallonia	149974031271
 BF/Centre	2221026
 BF/Sahel	8388608
@@ -106,41 +106,41 @@ BN/Brunei-Muara District	84257223
 BO/La Paz Department	26847906462
 BO/Santa Cruz Department	4689344
 BR/Acre	68051992
-BR/Alagoas	311032096
-BR/Amapá	1667498
+BR/Alagoas	312437421
+BR/Amapá	3065212
 BR/Amazonas	485218178
-BR/Bahia	1204331458
-BR/Ceará	411133400
-BR/Espírito Santo	349174677
-BR/Federal District	322082528
-BR/Goiás	581050561
-BR/Maranhão	283607109
-BR/Mato Grosso	147159818
-BR/Mato Grosso do Sul	62618587
-BR/Minas Gerais	63641539889
-BR/Paraíba	7568449608
-BR/Paraná	41632536450
-BR/Pará	30790232886
-BR/Pernambuco	89993866548
-BR/Piauí	265670538
-BR/Rio Grande do Norte	20067478558
-BR/Rio Grande do Sul	5306175639
-BR/Rio de Janeiro	144681462973
-BR/Rondônia	124963195
+BR/Bahia	1222913446
+BR/Ceará	507146910
+BR/Espírito Santo	363944336
+BR/Federal District	329643630
+BR/Goiás	594458247
+BR/Maranhão	297745526
+BR/Mato Grosso	155043903
+BR/Mato Grosso do Sul	65425531
+BR/Minas Gerais	63782612219
+BR/Paraíba	7571305452
+BR/Paraná	41658454731
+BR/Pará	30795954993
+BR/Pernambuco	90001682279
+BR/Piauí	268514339
+BR/Rio Grande do Norte	20068616183
+BR/Rio Grande do Sul	5346208859
+BR/Rio de Janeiro	144714907606
+BR/Rondônia	134461855
 BR/Roraima	15353
-BR/Santa Catarina	9610306781
-BR/São Paulo	168601905114
-BR/Sergipe	132275977
+BR/Santa Catarina	9625115257
+BR/São Paulo	168861053742
+BR/Sergipe	134242324
 BR/Tocantins	122354262
-BS/Freeport	1358246
+BS/Freeport	1375222
 BS/New Providence	1296622
 BW/Gaborone	2257228
 BY/Brest	1399601
 BY/Gomel Oblast	76304044
 BY/Minsk	1546769
-BY/Minsk City	19053933
+BY/Minsk City	21427601
 BY/Mogilev	22944
-BY/Vitebsk	4832073
+BY/Vitebsk	5912002
 BZ/Belize District	1160898305
 CA/Alberta	231863009432
 CA/British Columbia	1251419889681
@@ -178,16 +178,16 @@ CL/Coquimbo Region	5211030
 CL/Los Lagos Region	2523521
 CL/Maule Region	11956379
 CL/O'Higgins Region	171408
-CL/Santiago Metropolitan	156979732264
+CL/Santiago Metropolitan	156985294329
 CL/Valparaíso	102613814090
 CM/Centre	1183275012
 CM/South-West	1070349948
-CN/Anhui	26382188950
-CN/Beijing	9602001982697
+CN/Anhui	26383395377
+CN/Beijing	9602234868990
 CN/Chongqing	24051438489
-CN/Fujian	181173679490
+CN/Fujian	181176575788
 CN/Gansu	32835354406
-CN/Guangdong	24398849704363
+CN/Guangdong	24432807367610
 CN/Guangxi	12409541587
 CN/Hainan	233340711037
 CN/Hebei	343345747
@@ -196,29 +196,30 @@ CN/Henan	71502647
 CN/Hubei	19277549909
 CN/Hunan	19444695855
 CN/Inner Mongolia	253337385613
-CN/Jiangsu	731512121845
+CN/Jiangsu	731514897437
 CN/Jilin	371820721
-CN/Liaoning	57308829
+CN/Liaoning	58197573
 CN/Ningxia	17956066672
 CN/Shaanxi	39415190903
 CN/Shandong	3240412659
-CN/Shanghai	139261784447220
+CN/Shanghai	139261787045460
 CN/Shanxi	93692262064
 CN/Sichuan	28392286626
 CN/Tianjin	574850842959
 CN/Yunnan	199539975552
 CN/Zhejiang	1441083227799
-CO/Antioquia	11922040793
+CO/Antioquia	11924852612
 CO/Arauca Department	1397819
 CO/Atlántico	3981239
-CO/Bogota D.C.	9291036344
+CO/Bogota D.C.	9295811348
 CO/Bolívar	1386288624
 CO/Boyacá	9452214
-CO/Caldas Department	2814296
+CO/Caldas Department	5491756
 CO/Casanare Department	2850791
 CO/Cauca Department	1729543
 CO/Cesar Department	2852931
-CO/Cundinamarca	1927206346
+CO/Chocó	1615826
+CO/Cundinamarca	1928562805
 CO/Huila Department	77148992
 CO/La Guajira Department	73156888
 CO/Magdalena Department	248594
@@ -227,8 +228,8 @@ CO/Nariño	79460134
 CO/Norte de Santander Department	2772330
 CO/Quindío Department	1428929
 CO/Risaralda Department	95664746
-CO/Santander Department	5959377
-CO/Tolima Department	2260550
+CO/Santander Department	7347274
+CO/Tolima Department	3579462
 CO/Valle del Cauca Department	45701995
 CR/Alajuela Province	4386299
 CR/Cartago Province	2551215
@@ -246,7 +247,7 @@ CZ/Moravskoslezský	37633976480
 CZ/Olomoucký	8843580
 CZ/Pardubický	2404630
 CZ/Prague	948226802
-CZ/South Moravian	1469000
+CZ/South Moravian	2765270
 CZ/Ústecký kraj	344630
 CZ/Vysočina	15088085
 CZ/Zlín	2797011
@@ -267,7 +268,7 @@ DE/State of Berlin	3581333266805
 DE/Thuringia	37349213532
 DK/Capital Region	1166209667776
 DK/Central Jutland	47807751328
-DK/South Denmark	866429
+DK/South Denmark	3795916
 DK/Zealand	10063484035
 DO/Hato Mayor Province	2073377
 DO/La Altagracia Province	2931480
@@ -275,21 +276,23 @@ DO/La Vega	1590205
 DO/María Trinidad Sánchez	1326360
 DO/Monseñor Nouel	871582
 DO/Monte Cristi Province	1415455
-DO/Nacional	35149864
+DO/Nacional	36974251
+DO/Peravia	1399242
 DO/Samaná	2485609
 DO/San Cristóbal	2074554
-DO/Santiago Province	83505125
-DO/Santo Domingo Province	76891283
+DO/Santiago Province	86624572
+DO/Santo Domingo Province	78451435
 DZ/Aïn Defla	2113156
-DZ/Algiers	38721926
+DZ/Algiers	42429815
 DZ/Annaba	2405829
 DZ/Béchar	8196341
 DZ/Blida	4349557
-DZ/Constantine	1470314
+DZ/Constantine	2840919
 DZ/El Oued	11431737
 DZ/Mascara	18669780
 DZ/Oran	22599444
-DZ/Sétif	21029180
+DZ/Ouargla	455289
+DZ/Sétif	22295224
 DZ/Tizi Ouzou	1347633
 DZ/Tlemcen	51440443
 EC/Azuay	18697351
@@ -298,13 +301,13 @@ EC/Carchi	5125705
 EC/Chimborazo Province	7998237
 EC/El Oro	8041984
 EC/Esmeraldas	171408
-EC/Guayas	265889052
+EC/Guayas	274091235
 EC/Imbabura	7432049
-EC/Loja	11303296
+EC/Loja	12710080
 EC/Los Ríos	4663425
-EC/Manabí	23152262
+EC/Manabí	26496110
 EC/Orellana Province	3509319
-EC/Pichincha	337824589
+EC/Pichincha	341997249
 EC/Santa Elena	171408
 EC/Santo Domingo de los Tsáchilas	10218527
 EC/Tungurahua Province	9929192
@@ -312,19 +315,19 @@ EE/Harjumaa	408075833392
 EG/Alexandria	181950622
 EG/Asyut	2246426
 EG/Beheira	878692
-EG/Cairo	7229555650
+EG/Cairo	7233970259
 EG/Dakahlia	104875287
 EG/Damietta	19909200
-EG/Gharbia	3461016
+EG/Gharbia	5805233
 EG/Giza	52349392
 EG/Kafr el-Sheikh	1380350
 EG/Monufia	21280721
 EG/Qalyubia	1530429
 EG/Qena	883814
-EG/Sharqia	1944644
+EG/Sharqia	2783679
 EG/Sohag	134965024
 EG/Suez	2539012
-ES/Andalusia	121428704296
+ES/Andalusia	121430051054
 ES/Aragon	286814633
 ES/Asturias	1431236
 ES/Balearic Islands	4985301215
@@ -332,10 +335,10 @@ ES/Basque Country	219942538
 ES/Canary Islands	2641390
 ES/Castille and León	13478820664
 ES/Castille-La Mancha	13331264
-ES/Catalonia	1455881858105
+ES/Catalonia	1455884293711
 ES/Extremadura	1795634042
 ES/Galicia	1405342
-ES/Madrid	158905389951
+ES/Madrid	158907071552
 ES/Murcia	110992109814
 ES/Navarre	2458045
 ES/Valencia	71516473038
@@ -344,7 +347,7 @@ ET/Oromiya	1809764
 FI/Kymenlaakso	849136
 FI/Pirkanmaa	368770884
 FI/Southwest Finland	98548166664
-FI/Uusimaa	1794697504863
+FI/Uusimaa	1794698833698
 FJ/Western	1422896
 FR/Auvergne-Rhône-Alpes	174348535025
 FR/Bourgogne	1977531
@@ -363,7 +366,7 @@ FR/Rhône-Alpes	41877957
 GA/Estuaire	1464403
 GB/England	20462113230579
 GB/Northern Ireland	44210109221
-GB/Scotland	2073250128360
+GB/Scotland	2073500751524
 GB/Wales	36013893535
 GCP/asia-east1	2148471177702
 GCP/asia-northeast1	707240108
@@ -384,14 +387,14 @@ GCP/us-south1	56763149252
 GCP/us-west1	5537239313328
 GCP/us-west2	1916784
 GCP/us-west3	669347219868
-GCP/us-west4	2241932188816
+GCP/us-west4	2253854523070
 GD/Saint David Parish	800025
 GD/Saint George Parish	1372210
 GE/Abkhazia	1194229
 GE/Adjara	4225703
 GE/Tbilisi	64736998
 GH/Greater Accra	761738796
-GR/Attica	14776816015
+GR/Attica	14779620194
 GR/Central Greece	3032977
 GR/Central Macedonia	3276845761
 GR/Crete	9844073119
@@ -401,10 +404,10 @@ GR/Peloponnese	88569
 GR/Thessaly	2009765
 GR/West Greece	200593295
 GT/Escuintla	1362129
-GT/Guatemala	186253055
+GT/Guatemala	189397571
 GT/Totonicapán	774338
 GY/Demerara-Mahaica	8177007
-GitHub	65595160726079
+GitHub	65598330848789
 HK/Central and Western	62931228
 HK/Eastern	1617716438
 HK/Hong Kong	38419856783380
@@ -424,7 +427,7 @@ HK/Yau Tsim Mong	1579062772
 HK/Yuen Long	105913040
 HN/Cortés Department	9431015
 HN/El Paraíso Department	1521563
-HN/Francisco Morazán Department	9702965
+HN/Francisco Morazán Department	11569823
 HN/Yoro Department	3119768
 HR/County of Osijek-Baranja	5973049
 HR/Zagreb	12244210
@@ -442,13 +445,14 @@ HU/Tolna County	2294639
 HU/Veszprém	2797526
 ID/Aceh	1397243
 ID/Bali	76702396
+ID/Bangka–Belitung Islands	1121821
 ID/Banten	7770394
 ID/Bengkulu	1328106
 ID/Central Java	47012783
-ID/East Java	109432550
+ID/East Java	116754192
 ID/East Kalimantan	6690297
 ID/East Nusa Tenggara	2628336
-ID/Jakarta	132501939
+ID/Jakarta	134880009
 ID/Jambi	6804393
 ID/Lampung	24348218
 ID/Maluku	920366
@@ -463,7 +467,7 @@ ID/West Java	113702131596
 ID/West Kalimantan	6732261
 ID/West Nusa Tenggara	2245617
 ID/West Sumatra	6123809
-ID/Yogyakarta	15509614
+ID/Yogyakarta	16409600
 IE/Connacht	313646527
 IE/Leinster	103135320711
 IE/Munster	689077291
@@ -474,40 +478,40 @@ IL/Jerusalem	82392860378
 IL/Southern District	194576308704
 IL/Tel Aviv	444056772365
 IN/Andhra Pradesh	734948614
-IN/Assam	1837500261
-IN/Bihar	113490324
-IN/Chandigarh	30739455
-IN/Chhattisgarh	23008603
+IN/Assam	1839573233
+IN/Bihar	115644667
+IN/Chandigarh	32094794
+IN/Chhattisgarh	27189535
 IN/Dadra and Nagar Haveli and Daman and Diu	2326269
-IN/Delhi	109417902237
+IN/Delhi	109443269093
 IN/Goa	6380959
-IN/Gujarat	39853900684
-IN/Haryana	81165026
+IN/Gujarat	39864934284
+IN/Haryana	89656257
 IN/Himachal Pradesh	16752720
-IN/Jammu and Kashmir	22350533
-IN/Jharkhand	36598969
-IN/Karnataka	509796390919
-IN/Kerala	75027349776
-IN/Madhya Pradesh	106926264
-IN/Maharashtra	181044672071
+IN/Jammu and Kashmir	23798520
+IN/Jharkhand	38114908
+IN/Karnataka	509801915784
+IN/Kerala	75028258129
+IN/Madhya Pradesh	108292319
+IN/Maharashtra	181059536607
 IN/Manipur	32755945
 IN/Mizoram	1391783
 IN/Nagaland	9206081
 IN/Odisha	54277182
 IN/Puducherry	2433046382
-IN/Punjab	32037980702
-IN/Rajasthan	2035743458
-IN/Tamil Nadu	6934379339
-IN/Telangana	95760942232
-IN/Uttar Pradesh	66897995460
-IN/Uttarakhand	282159341501
-IN/West Bengal	6475182472
+IN/Punjab	32041261523
+IN/Rajasthan	2044495953
+IN/Tamil Nadu	7212010211
+IN/Telangana	95761906369
+IN/Uttar Pradesh	66910565740
+IN/Uttarakhand	282160620989
+IN/West Bengal	6476579131
 IQ/An Najaf	2048725
-IQ/Baghdad	14865078
+IQ/Baghdad	16085559
 IQ/Basra	9339025
 IQ/Dhi Qar	9613468
 IQ/Duhok	5180763305
-IQ/Erbil	9655337274
+IQ/Erbil	9656646631
 IQ/Karbalāʼ	3761140
 IQ/Nineveh	1305606
 IQ/Sulaymaniyah	77873714
@@ -519,26 +523,26 @@ IR/Isfahan	101163030872
 IR/Māzandarān	4823729
 IR/Qazvin Province	1765007160
 IR/Razavi Khorasan	75714411690
-IR/Tehran	46176338189502
+IR/Tehran	46176379983606
 IS/Capital Region	3544799862
 IT/Apulia	6549883426
 IT/Calabria	1210378
-IT/Campania	30652424851
-IT/Emilia-Romagna	1847916380519
+IT/Campania	30652441827
+IT/Emilia-Romagna	1847917884456
 IT/Friuli Venezia Giulia	2206679624
 IT/Lazio	195658828770
 IT/Liguria	121194241415
-IT/Lombardy	2167541818661
+IT/Lombardy	2167543302279
 IT/Piedmont	1060911836539
 IT/Sardinia	2982849012
-IT/Sicily	2125624102
+IT/Sicily	2126790505
 IT/The Marches	73156888
 IT/Trentino-Alto Adige	132541905508
 IT/Tuscany	42869609066
 IT/Umbria	1748295773
-IT/Veneto	116098083138
+IT/Veneto	116098913893
 JE/St Helier	3645560
-JM/Kingston	10619684
+JM/Kingston	11484689
 JM/Manchester	11480972
 JM/Saint Catherine Parish	8452293
 JO/Amman	583453547
@@ -577,7 +581,7 @@ KE/Nairobi County	998216865
 KG/Bishkek	7618563
 KG/Chuy Region	29406183
 KH/Banteay Meanchey	1690818
-KH/Phnom Penh	1134082556
+KH/Phnom Penh	1134949101
 KH/Svay Rieng	2422714
 KR/Daegu	158458703935
 KR/Daejeon	19874524318019
@@ -608,29 +612,29 @@ LB/Mont-Liban	7509705
 LB/Nabatîyé	1115367
 LB/South Governorate	1397053427
 LK/Northern Province	837118
-LK/Western Province	35138957
+LK/Western Province	35929596
 LT/Klaipėda County	646708
 LT/Siauliai	2096002
 LT/Vilnius	186625593
 LU/Esch-sur-Alzette	1353024
-LU/Luxembourg	889755
-LV/Riga	33880635276
+LU/Luxembourg	2215101
+LV/Riga	33881601226
 LY/Banghāzī	4829805
 LY/Tripoli	1366527
-MA/Béni Mellal-Khénifra	1243201
+MA/Béni Mellal-Khénifra	3091956
 MA/Casablanca-Settat	312765518
 MA/Fès-Meknès	5100651
 MA/Marrakesh-Safi	5486716
 MA/Oriental	3551377
 MA/Rabat-Salé-Kénitra	6323665
 MA/Souss-Massa	110718159
-MA/Tanger-Tetouan-Al Hoceima	4086100550
+MA/Tanger-Tetouan-Al Hoceima	4088769198
 MD/Chișinău Municipality	77067831
 MD/Sîngerei	1688164
 MD/Soroca District	10087328
 MD/Transnistria	1621530
 ME/Podgorica	2078329
-MK/Grad Skopje	55601301159
+MK/Grad Skopje	55602659963
 ML/Bamako	172590
 MM/Mandalay Region	3952006
 MM/Yangon	5286935
@@ -655,15 +659,15 @@ MX/Durango	5097059
 MX/Guanajuato	24992148
 MX/Guerrero	3083100
 MX/Hidalgo	3242501
-MX/Jalisco	25091544189
-MX/Mexico City	891188216754
-MX/México	2414928634961
+MX/Jalisco	25095220419
+MX/Mexico City	891193882336
+MX/México	2414930661583
 MX/Michoacán	4490038
 MX/Morelos	33522670654
 MX/Nayarit	1613553
 MX/Nuevo León	505697683
 MX/Oaxaca	7131574556
-MX/Puebla	31952097
+MX/Puebla	35868412
 MX/Querétaro	47455257776
 MX/Quintana Roo	3797388760
 MX/San Luis Potosí	4398364
@@ -672,21 +676,21 @@ MX/Sonora	7046825
 MX/Tabasco	6867408
 MX/Tamaulipas	4410789
 MX/Tlaxcala	1106445183337
-MX/Veracruz	17349110
+MX/Veracruz	19285469
 MX/Yucatán	29515534
-MX/Zacatecas	13694559
+MX/Zacatecas	13695470
 MY/Johor	14685444
 MY/Kedah	63279702
-MY/Kuala Lumpur	72844275
+MY/Kuala Lumpur	79285186
 MY/Melaka	2999405
 MY/Negeri Sembilan	341599
 MY/Pahang	17945182375
-MY/Penang	14992092
-MY/Perak	1679159200
+MY/Penang	29917316
+MY/Perak	1679934174
 MY/Putrajaya	874018
-MY/Sabah	11916869
-MY/Sarawak	5585375
-MY/Selangor	246193231
+MY/Sabah	13129967
+MY/Sarawak	7705552
+MY/Selangor	251801979
 MZ/Maputo City	1038543
 NG/Anambra	1123150831
 NG/Edo State	1027880501
@@ -703,7 +707,7 @@ NL/Groningen	55849093787
 NL/Limburg	77246863087
 NL/North Brabant	12120379835
 NL/North Holland	1327519509195
-NL/Overijssel	27287788610
+NL/Overijssel	27288913103
 NL/South Holland	150646382934
 NL/Utrecht	45654976797
 NO/Agder	15922967587
@@ -713,14 +717,14 @@ NO/Oslo	603594981227
 NO/Rogaland	9629676
 NO/Trøndelag	1416676620493
 NO/Vestland	9363052704
-NP/Bagmati Province	6303462001
+NP/Bagmati Province	6305484063
 NP/Koshi	17162782
 NP/Lumbini Province	10085333
 NP/Madhesh	3555620
 NP/Province 4	3844963
-NP/Sudurpashchim Pradesh	1954464
+NP/Sudurpashchim Pradesh	3334672
 NU/Niue	5830212
-NZ/Auckland	2702542367
+NZ/Auckland	2713676671
 NZ/Bay of Plenty	289234913
 NZ/Canterbury	459649939
 NZ/Gisborne	17425128
@@ -737,44 +741,44 @@ NZ/Waikato Region	543090042
 NZ/Wellington Region	357597358
 NZ/West Coast	30680324
 OM/Ad Dakhiliyah	2269324
-OM/Muscat	8331128
+OM/Muscat	9604819
 PA/Colón	94527949
 PA/Panamá	891356601
 PE/Arequipa	3110472
 PE/Cuzco Department	3908249
 PE/Ica	8697563
 PE/Junin	10530172
-PE/La Libertad	10214168
-PE/Lambayeque	6074149
-PE/Lima Province	248917999
-PE/Lima region	67066771
+PE/La Libertad	12592793
+PE/Lambayeque	6716749
+PE/Lima Province	254611475
+PE/Lima region	71348121
 PE/San Martín Department	17039400
 PE/Tacna	867863
 PH/Autonomous Region in Muslim Mindanao	1197276
 PH/Cagayan Valley	1600112
-PH/Calabarzon	68156417
-PH/Central Luzon	101417399
-PH/Central Visayas	13292776
+PH/Calabarzon	70621155
+PH/Central Luzon	110251902
+PH/Central Visayas	14703412
 PH/Cordillera	2861922
-PH/Davao Region	7036433
+PH/Davao Region	9459388
 PH/Eastern Visayas	2244450
-PH/Ilocos	5906246
-PH/Metro Manila	7059827877
+PH/Ilocos	7305406
+PH/Metro Manila	7067767576
 PH/Northern Mindanao	8759689
 PH/Western Visayas	1303348
 PH/Zamboanga Peninsula	1558840
 PK/Balochistan	1277782
 PK/Islamabad	4783038
 PK/Khyber Pakhtunkhwa	17490815
-PK/Punjab	112245965945
+PK/Punjab	112246882011
 PK/Sindh	46996384
-PL/Greater Poland	8630971391
+PL/Greater Poland	8631159342
 PL/Kujawsko-Pomorskie	27887186865
 PL/Lesser Poland	277981279
 PL/Lower Silesia	961123706
 PL/Lublin	154174208
 PL/Mazovia	48062410406
-PL/Opole Voivodeship	1347765
+PL/Opole Voivodeship	1364865
 PL/Podlasie	1343148
 PL/Pomerania	20543613
 PL/Silesia	4189501207
@@ -793,19 +797,19 @@ PT/Aveiro	48737952
 PT/Beja	1593442
 PT/Braga	127982358451
 PT/Évora	2917514
-PT/Faro	11932052054
+PT/Faro	11932388214
 PT/Lisbon	1661308645800
 PT/Madeira	2634284
-PT/Porto	47123211422
+PT/Porto	47125670497
 PT/Santarém	216191784
 PT/Setúbal	3722877
 PT/Viseu	305640529
-PY/Alto Paraná Department	79216155
+PY/Alto Paraná Department	80616696
 PY/Amambay Department	1285817
-PY/Asunción	71509105
+PY/Asunción	72797447
 PY/Caaguazú Department	7146283
 PY/Canindeyú	7325999
-PY/Central Department	12161597
+PY/Central Department	14057004
 PY/Concepción	16997564
 PY/Cordillera Department	2376705
 PY/Guairá	16976
@@ -818,7 +822,7 @@ QA/Baladīyat ad Dawḩah	8813276
 RO/Arad County	879270
 RO/Bihor County	1321122
 RO/Brașov County	2672208
-RO/București	95220858476
+RO/București	95239790288
 RO/Caraș-Severin County	10684383
 RO/Cluj County	228871427
 RO/Constanța County	4849188
@@ -843,19 +847,19 @@ RU/Dagestan	1366356
 RU/Ivanovo Oblast	1352895
 RU/Kaliningrad Oblast	1443334
 RU/Kaluga Oblast	106899580
-RU/Karelia	4903304
+RU/Karelia	6301566
 RU/Khabarovsk	73156888
 RU/Komi	3839713
-RU/Kostroma Oblast	405771
-RU/Krasnodar Krai	31090029
+RU/Kostroma Oblast	3310781
+RU/Krasnodar Krai	31909183
 RU/Krasnoyarsk Krai	2792406
-RU/Kursk Oblast	2451566
+RU/Kursk Oblast	4848648
 RU/Kuzbass	6337743
 RU/Leningradskaya Oblast'	11316882
-RU/Lipetsk Oblast	1815627
+RU/Lipetsk Oblast	3126406
 RU/Magadan Oblast	8560956
 RU/Mordoviya Republic	5341572874091
-RU/Moscow	490138995785
+RU/Moscow	490141806522
 RU/Moscow Oblast	1067616106
 RU/Murmansk	2786682
 RU/Nizhny Novgorod Oblast	8435674980
@@ -867,9 +871,9 @@ RU/Rostov	15096462169
 RU/Ryazan Oblast	7503702
 RU/Samara Oblast	11511438
 RU/Smolensk Oblast	3310181
-RU/St.-Petersburg	538831765862
+RU/St.-Petersburg	538837841352
 RU/Stavropol Kray	360120
-RU/Sverdlovsk Oblast	3823653
+RU/Sverdlovsk Oblast	5981493
 RU/Tambov Oblast	3180423
 RU/Tatarstan Republic	804959
 RU/Tomsk Oblast	3607372
@@ -885,7 +889,7 @@ RW/Kigali	4114568
 SA/'Asir Region	1114549
 SA/Eastern Province	75011101861
 SA/Mecca Region	178518323497
-SA/Riyadh Region	13419177881
+SA/Riyadh Region	13419201130
 SD/Khartoum	1910601
 SD/Red Sea	843397823
 SE/Halland	115628724
@@ -893,28 +897,29 @@ SE/Norrbotten	11359764
 SE/Örebro	29896840
 SE/Östergötland	8863246852
 SE/Skåne	71621197086
-SE/Stockholm	1794712156169
+SE/Stockholm	1794713938344
 SE/Västmanland	25258084
 SE/Västra Götaland	6920395508
-SG/Singapore	20823867501531
+SG/Singapore	20826730923451
 SI/Kranj	289
 SK/Bratislava Region	14613194
 SK/Košice Region	3468241
 SK/Trenčín Region	1383957
+SK/Trnava Region	1290381
 SK/Žilina Region	1127011
-SN/Dakar	13789784
+SN/Dakar	14426629
 SR/Paramaribo District	2913898
 SV/San Salvador Department	23555846
 SV/Usulután	13982664
 SY/Dimashq	2825121
 SY/Idlib	65036720
 TG/Maritime	1229
-TH/Bangkok	70206084326
+TH/Bangkok	70207499758
 TH/Chiang Mai	1805326
 TH/Chon Buri	17972840
 TH/Lamphun	1269360
 TH/Nakhon Pathom	135903067
-TH/Nakhon Ratchasima	9692229
+TH/Nakhon Ratchasima	11076594
 TH/Nakhon Si Thammarat	22862292
 TH/Nonthaburi	325876
 TH/Pattani	1156141
@@ -923,7 +928,7 @@ TH/Phuket	2924507
 TH/Samut Prakan	114095423
 TH/Songkhla	7300478
 TH/Surat Thani	3799954
-TH/Tak	2952831
+TH/Tak	3041000
 TH/Udon Thani	2165466
 TH/Uttaradit	993662
 TJ/Dushanbe	11728615
@@ -934,11 +939,11 @@ TN/Bizerte Governorate	1407863
 TN/Gabès Governorate	510387
 TN/Sfax Governorate	3445721
 TN/Sousse Governorate	1669113
-TN/Tunis Governorate	122828202
+TN/Tunis Governorate	125494009
 TR/Adana	3246611
 TR/Afyonkarahisar Province	2117543
 TR/Aksaray	2560725
-TR/Ankara	21218143820
+TR/Ankara	21219146034
 TR/Antalya	24895778
 TR/Aydın	2941631
 TR/Batman	21272197
@@ -948,21 +953,21 @@ TR/Burdur	2291059
 TR/Bursa Province	4235200820
 TR/Canakkale	12054270
 TR/Çorum	2373817440
-TR/Denizli	6454947
+TR/Denizli	7356405
 TR/Diyarbakır Province	2716670
 TR/Edirne	1364410
 TR/Elazığ	869421
 TR/Erzurum	901510
-TR/Eskişehir	39914412
-TR/Gaziantep	9849152
+TR/Eskişehir	42313166
+TR/Gaziantep	11658183
 TR/Hatay	3777653
-TR/Istanbul	999106783777
+TR/Istanbul	999115361142
 TR/İzmir Province	83491592
 TR/Kahramanmaraş	1481132997
 TR/Karabük Province	2033311
 TR/Kayseri	17502228
 TR/Kocaeli	2064693
-TR/Konya	6199174
+TR/Konya	7068503
 TR/Kütahya	3029945
 TR/Malatya	885142
 TR/Manisa	1989962
@@ -980,16 +985,17 @@ TR/Van	17836718
 TR/Yalova	2867836
 TR/Yozgat	2806191
 TT/Borough of Arima	20176464
-TT/Chaguanas	11381150
+TT/Chaguanas	12746790
 TT/Diego Martin Regional Corporation	1426429
 TT/Port of Spain	5433269
 TT/Princes Town	3325289
 TT/San Fernando	2266786
 TT/San Juan/Laventille	14291939
 TW/Taipei	271113760168
-TW/Taiwan	53516941348493
+TW/Taiwan	53516942248405
 TW/Takao	7311465
 TZ/Dar es Salaam Region	857174
+UA/Cherkasy	839996
 UA/Chernihiv	1651845
 UA/Chernivtsi	23478211
 UA/Crimea	342816
@@ -1003,7 +1009,7 @@ UA/Lviv	12788771
 UA/Mykolaiv	3661363
 UA/Odessa	34821125
 UA/Poltava	6151082
-UA/Rivne	2898521
+UA/Rivne	4317875
 UA/Sumy	149439816
 UA/Ternopil	760396
 UA/Vinnytsia	6544170
@@ -1011,57 +1017,57 @@ UA/Zaporizhzhia	1498083
 UG/Central Region	23061595
 US/Alabama	171241880721
 US/Alaska	93239680
-US/Arizona	320153421075
+US/Arizona	320155585907
 US/Arkansas	14829975500
-US/California	897540560948570
-US/Colorado	516343712216
-US/Connecticut	901892706559
-US/Delaware	66520170882
+US/California	897720609371106
+US/Colorado	516351175294
+US/Connecticut	901894419744
+US/Delaware	66522614723
 US/District of Columbia	1384917884192
-US/Florida	2165719232477
-US/Georgia	133881251970549
+US/Florida	2165722460294
+US/Georgia	133881255564337
 US/Hawaii	12995176062
 US/Idaho	6234556840
-US/Illinois	1686469840048
-US/Indiana	5633467707528
+US/Illinois	1686474653893
+US/Indiana	5633474119248
 US/Iowa	490063762502
 US/Kansas	5720313678
 US/Kentucky	16804367685
 US/Louisiana	80191695130
 US/Maine	22239179919
-US/Maryland	80309046332058
-US/Massachusetts	998361428684214
-US/Michigan	2297634144988
-US/Minnesota	1753928191360
-US/Mississippi	1075335188038
+US/Maryland	80309049017770
+US/Massachusetts	998361441358519
+US/Michigan	2297638677432
+US/Minnesota	1753942043877
+US/Mississippi	1075336482647
 US/Missouri	477045766234
-US/Montana	647751749417
+US/Montana	647753956699
 US/Nebraska	70470438201
-US/Nevada	28477767874
-US/New Hampshire	1126901117633259
-US/New Jersey	1781719124526
+US/Nevada	28479692925
+US/New Hampshire	1127494789703243
+US/New Jersey	1781722502452
 US/New Mexico	8755639980451
-US/New York	96130050131073
-US/North Carolina	3621236243218
+US/New York	96130091923445
+US/North Carolina	3621243426505
 US/North Dakota	317875802
-US/Ohio	315892625537
-US/Oklahoma	47464486017
-US/Oregon	1503586128285
-US/Pennsylvania	18864565532653
+US/Ohio	315896030059
+US/Oklahoma	47466518560
+US/Oregon	1503588001902
+US/Pennsylvania	18864602089256
 US/Rhode Island	1085080709638
-US/South Carolina	337873770346
+US/South Carolina	337876540132
 US/South Dakota	540555401
-US/Tennessee	33735100783416
-US/Texas	8037600901342
-US/Utah	554261171686
+US/Tennessee	33735102147422
+US/Texas	8037628586493
+US/Utah	554262683458
 US/Vermont	13190351743353
-US/Virginia	59500172190573
-US/Washington	26772393320495
-US/West Virginia	558400051264
-US/Wisconsin	1631884160043
+US/Virginia	59500179612713
+US/Washington	26772397052467
+US/West Virginia	558401885472
+US/Wisconsin	1631889952828
 US/Wyoming	15483348774
 UY/Maldonado	68889574
-UY/Montevideo Department	39827785743
+UY/Montevideo Department	39834409173
 UZ/Andijan Region	1373113
 UZ/Tashkent	126342294
 VC/Saint George Parish	1497627
@@ -1069,7 +1075,7 @@ VE/Anzoátegui	2853589
 VE/Aragua	6760133
 VE/Bolívar	2307671
 VE/Carabobo	105160566
-VE/Distrito Federal	25150010
+VE/Distrito Federal	28424067
 VE/Falcón	6013865
 VE/Guárico	866414
 VE/Lara	1327417
@@ -1096,12 +1102,12 @@ VN/Dong Nai	225246980
 VN/Dong Thap	224966654
 VN/Gia Lai	153207047
 VN/Hai Phong	259528659
-VN/Hanoi	5473974035
+VN/Hanoi	5477430074
 VN/Hà Nam Province	7926468
 VN/Hà Tĩnh Province	2260933
 VN/Hải Dương Province	7898351
 VN/Ho Chi Minh	129396623767
-VN/Ho Chi Minh City (HCMC)	2456799426
+VN/Ho Chi Minh City (HCMC)	2467264877
 VN/Hưng Yên Province	298713737
 VN/Khanh Hoa	77825373
 VN/Lai Châu Province	578
@@ -1134,17 +1140,17 @@ VN/Đắk Lắk	13737348
 VN/Điện Biên Province	7035451
 VN/Đồng Nai Province	15801856
 VN/Đồng Tháp Province	297
-VPN	46643986543606
+VPN	46653786022852
 XK/Mitrovica	7963680
 XK/Pec	6885630
 XK/Pristina	16184448
 ZA/Eastern Cape	6837506
 ZA/Free State	8515695
-ZA/Gauteng	444940461
-ZA/KwaZulu-Natal	137318661
+ZA/Gauteng	457829471
+ZA/KwaZulu-Natal	140610712
 ZA/Limpopo	1354598
 ZA/Mpumalanga	8295077
 ZA/North West	77131896
-ZA/Western Cape	20796565514
+ZA/Western Cape	20798929645
 ZW/Harare	1666029
-bogon	33801270329514
+bogon	33801272749289

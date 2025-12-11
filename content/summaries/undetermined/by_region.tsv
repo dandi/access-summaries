@@ -1,43 +1,49 @@
 region	bytes_sent
-unknown	15377862489672
-GitHub	83882200738
-AWS/us-east-1	5546127056
+unknown	15361773138083
+GitHub	86327770348
+AWS/us-east-1	7752649716
 NL/North Holland	28366342159
-VPN	10863627824
+VPN	12191550963
 IT/Emilia-Romagna	296581956
-GCP/us-central1	1017050218
+GCP/us-central1	1253822898
 IR/Tehran	20697332
-AWS/ap-southeast-1	1780379880
-AWS/us-east-2	145476034
+AWS/ap-southeast-1	1968016659
+AWS/us-east-2	145494826
 US/New York	23970118152
 US/North Carolina	4393626702
 DE/North Rhine-Westphalia	20697332
-US/Virginia	1330598019
-US/California	104427129338
+US/Virginia	1359338959
+US/California	104428332026
+US/Mississippi	20697332
+VN/Ho Chi Minh City (HCMC)	82250132
 bogon	8696636
 US/Massachusetts	133724745657
 US/Pennsylvania	7660100
-CN/Beijing	522336883
+RU/Moscow	7660100
+CN/Beijing	522759703
 US/Georgia	403943436
-FI/Uusimaa	38589186
+US/New Jersey	22512816
+FI/Uusimaa	40825428
 US/Iowa	3307392
-US/Alabama	291277
-GCP/europe-west1	469800
-GCP/europe-west4	291124983
-US/Texas	572893698
+US/Alabama	291278
+GCP/europe-west1	582552
+GCP/europe-west4	291162567
+US/Texas	572921886
 AWS/eu-central-1	1916784
-SG/Singapore	41999955
+SG/Singapore	42056331
 GB/England	11766304
 GCP/us-west1	319464
+US/Maryland	73734392063
 US/New Hampshire	2127341485
 US/Colorado	18792
 GCP/europe-west2	131544
+GCP/us-east1	10539240
 IT/Lazio	426032
 GCP/europe-west3	18792
 CN/Shanghai	26824620576
-GCP/us-east1	10238568
-GCP/us-west4	6621032
+GCP/us-west4	6696200
 GCP/us-west3	206712
+CN/Guangdong	140940
 US/Missouri	385236
 UY/Montevideo Department	2555712
 DO/Nacional	977160
@@ -45,10 +51,10 @@ PA/Panamá	17065284
 DO/La Altagracia Province	1954320
 MX/Guanajuato	7777104
 JP/Tokyo	178888283
-ES/Catalonia	2756657363
-US/Illinois	8268480
-CN/Hebei	563760
-US/Oregon	150343
+ES/Catalonia	2758339247
+US/Illinois	9922176
+CN/Hebei	582552
+US/Oregon	150345
 HK/Hong Kong	2504392288
 GB/Scotland	50582820
 US/Washington	4650376291
@@ -59,10 +65,14 @@ CH/Zurich	22165576
 BR/Rio Grande do Sul	23581976
 NO/Oslo	34692843082
 US/Michigan	72618664
+US/New Mexico	28589374180
 CA/Ontario	28838695906
 CA/Quebec	13232051114
+NZ/Auckland	26176568
 US/Minnesota	552337680
 EG/Damietta	9954600
+RU/Novosibirsk Oblast	9490052
+US/Connecticut	61346128
 EC/Pichincha	21172732
 DE/Baden-Wurttemberg	340166672
 BR/Goiás	1433863
@@ -71,6 +81,7 @@ BR/Santa Catarina	1062003
 KE/Nairobi County	15251454
 IT/Piedmont	1439099
 US/Indiana	715794
+IQ/Bābil	1573260
 CR/San José	2805424
 PK/Punjab	12750453
 IN/Delhi	2841002
@@ -78,6 +89,7 @@ ZA/Gauteng	9156584
 VN/Cao Bằng Province	2427964
 UZ/Tashkent	12217409
 MX/Sinaloa	4789447
+JO/Amman	19374593
 BD/Dhaka Division	21634544
 MY/Kuala Lumpur	1131912
 VN/Da Nang City	1093343
@@ -91,11 +103,11 @@ PS/West Bank	1301596
 IQ/Baghdad	49107683
 IQ/Basra	2106676
 NZ/Waikato Region	1109087
-JO/Amman	16831007
 RU/Nizhny Novgorod Oblast	1988729
 ZA/Western Cape	1146681
 VN/Phu Tho	1981665
 PY/Amambay Department	2875341
+AR/Buenos Aires F.D.	26439414
 VN/Thai Nguyen	3002226
 BR/Federal District	16169334
 US/Florida	195004
@@ -104,23 +116,24 @@ US/Montana	129066795249
 IE/Leinster	8122992
 ID/West Java	565825448
 CH/Vaud	1342939016
+AWS/ap-northeast-1	56023076
 AWS/us-west-2	56023076
 VN/Hanoi	9760692
 CN/Zhejiang	48893535
 JM/Kingston	6878340
-NZ/Auckland	7926468
 AR/Salta	11005344
 IQ/Sulaymaniyah	9826200
-VN/Ho Chi Minh City (HCMC)	6354276
+PA/Panamá Oeste Province	10743312
 VN/Thanh Hóa Province	8057484
-AR/Buenos Aires F.D.	24368976
 VN/Thừa Thiên Huế Province	9040104
 BR/Mato Grosso	4127004
 MX/Mexico City	7926468
 KE/Mombasa County	12446520
 SY/Dimashq	19259352
+AR/Buenos Aires	7467912
 AE/Dubai	9957216
-BR/Minas Gerais	15066840
+BR/Minas Gerais	27120312
+DZ/Bordj Bou Arréridj	7926468
 ID/Jakarta	14477268
 BR/São Paulo	26661756
 BD/Mymensingh Division	17228604
@@ -131,7 +144,9 @@ UA/Chernivtsi	10808820
 CO/Caldas Department	11856948
 CL/Santiago Metropolitan	12381012
 ZA/North West	12315504
+RU/Bryansk Oblast	9891708
 BA/Federation of B&H	10350264
 VE/Distrito Federal	9695184
 IN/Uttar Pradesh	17556144
 VE/Lara	14673792
+IT/Veneto	814480

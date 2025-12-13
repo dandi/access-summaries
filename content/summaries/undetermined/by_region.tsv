@@ -1,38 +1,40 @@
 region	bytes_sent
-unknown	12794414475967
-GitHub	91448203541
-AWS/us-east-1	7950983924
+unknown	12724959699779
+GitHub	101301538196
+AWS/us-east-1	8937690916
 NL/North Holland	28366342159
-VPN	13359428343
+VPN	15770628515
 IT/Emilia-Romagna	296581956
 GCP/us-central1	1253822898
 IR/Tehran	20697332
-AWS/ap-southeast-1	2121459298
+AWS/ap-southeast-1	2301059002
 AWS/us-east-2	145494826
 US/New York	23970118152
 US/North Carolina	4393626702
 DE/North Rhine-Westphalia	20697332
-US/Virginia	2765606315
-US/California	2521890361104
+US/Virginia	18646039699
+US/California	2563834476717
 US/Mississippi	20697332
 VN/Ho Chi Minh City (HCMC)	84523041
 bogon	9260396
-US/Massachusetts	133724745657
+GB/England	7538568292
+US/Massachusetts	133727451705
 US/Pennsylvania	7660100
 RU/Moscow	7660100
 US/Vermont	7660100
-CN/Beijing	523295275
-US/Georgia	404056188
+CN/Beijing	524704675
+BD/Dhaka Division	29294644
+US/Georgia	436703645
 US/New Jersey	22512816
-FI/Uusimaa	40825428
-US/Iowa	3307392
-US/Alabama	310071
+FI/Uusimaa	55079091
+US/Iowa	3758400
+US/Alabama	347655
 GCP/europe-west1	582552
-GCP/europe-west4	291162567
+GCP/europe-west4	291218943
 US/Texas	572921886
 AWS/eu-central-1	1916784
-SG/Singapore	48727491
-GB/England	11766304
+US/Oregon	366453
+SG/Singapore	1335756183
 GCP/us-west1	319464
 US/Maryland	73734392063
 US/New Hampshire	2127341485
@@ -41,11 +43,11 @@ GCP/europe-west2	131544
 GCP/us-east1	10633200
 IT/Lazio	426032
 GCP/europe-west3	18792
-CN/Shanghai	26824620576
+CN/Shanghai	26824902456
 GCP/us-west4	6696200
 GCP/us-west3	206712
 CN/Guangdong	291276
-US/Missouri	385236
+US/Missouri	82934472
 UY/Montevideo Department	2555712
 DO/Nacional	977160
 PA/Panamá	17065284
@@ -53,30 +55,33 @@ DO/La Altagracia Province	1954320
 MX/Guanajuato	7777104
 JP/Tokyo	178888283
 ES/Catalonia	2758339247
-US/Illinois	13661784
-CN/Hebei	620136
-US/Oregon	150345
+US/Illinois	14845680
+CN/Hebei	638928
 HK/Hong Kong	2504392288
 GB/Scotland	50582820
 US/Washington	18079800211
 US/Wisconsin	26823756144
 US/Ohio	13411878305
 KR/Seoul	76062140
+DE/State of Berlin	13411878072
 BE/Wallonia	13084722360
 CH/Zurich	22165576
 CN/Hainan	7227885306
 BR/Rio Grande do Sul	23581976
 NO/Oslo	34692843082
 US/Michigan	72618664
+IT/Piedmont	58762843
 AU/South Australia	248521983198
 US/New Mexico	28589374180
 CA/Ontario	28838695906
+TW/Taiwan	264587392
 CA/Quebec	13232051114
 NZ/Auckland	36330308
 US/Minnesota	552337680
 EG/Damietta	9954600
 RU/Novosibirsk Oblast	9490052
 US/Connecticut	61346128
+CA/British Columbia	32647457
 IE/Leinster	15953944
 EC/Pichincha	21172732
 DE/Baden-Wurttemberg	340166672
@@ -85,7 +90,6 @@ DZ/Algiers	1098652
 BR/Santa Catarina	1062003
 VE/Distrito Federal	11375274
 KE/Nairobi County	15251454
-IT/Piedmont	1439099
 US/Indiana	715794
 IQ/Bābil	1573260
 CR/San José	2805424
@@ -95,22 +99,22 @@ ZA/Gauteng	13283588
 VN/Cao Bằng Province	2427964
 UZ/Tashkent	12217409
 MX/Sinaloa	4789447
-JO/Amman	19374593
-BD/Dhaka Division	21634544
+JO/Amman	29397317
 MY/Kuala Lumpur	1131912
 IQ/Baghdad	50239595
 VN/Da Nang City	1093343
+ID/Central Java	2580387
 TN/Tunis Governorate	22367461
 BR/Minas Gerais	29510171
 RU/Rostov	2724501
 RU/Samara Oblast	2207992
 IL/Central District	3136728
 OM/Muscat	12496677
-ID/Central Java	1487044
 PS/West Bank	1301596
 IQ/Basra	2106676
 NZ/Waikato Region	1109087
 RU/Nizhny Novgorod Oblast	1988729
+NP/Bagmati Province	1146681
 ZA/Western Cape	1146681
 VN/Phu Tho	1981665
 PY/Amambay Department	2875341
@@ -121,12 +125,15 @@ US/Florida	195004
 KR/Ulsan	17224195383
 US/Montana	129066795249
 ID/West Java	565825448
+AWS/eu-north-1	112046152
 CH/Vaud	1342939016
+CH/Geneva	21093576
 AWS/ap-northeast-1	56023076
 AWS/us-west-2	168069228
 VN/Hanoi	9760692
 CN/Zhejiang	48893535
 JM/Kingston	6878340
+UA/Kiev	28495980
 AR/Salta	11005344
 IQ/Sulaymaniyah	9826200
 PA/Panamá Oeste Province	10743312
@@ -134,6 +141,7 @@ VN/Thanh Hóa Province	8057484
 VN/Thừa Thiên Huế Province	9040104
 BR/Mato Grosso	4127004
 MX/Mexico City	7926468
+BR/São Paulo	39763356
 KE/Mombasa County	12446520
 UA/Kyiv City	13887696
 SY/Dimashq	26006676
@@ -142,13 +150,13 @@ AE/Dubai	9957216
 KZ/Karaganda	7140372
 DZ/Bordj Bou Arréridj	7926468
 ID/Jakarta	14477268
-BR/São Paulo	26661756
 BD/Mymensingh Division	17228604
 CO/Antioquia	13822188
 BO/Santa Cruz Department	13363632
 RU/Krasnodar Krai	12053472
 UA/Chernivtsi	10808820
 CO/Caldas Department	11856948
+PK/Sindh	7795452
 CL/Santiago Metropolitan	12381012
 KG/Osh Region	14411760
 ZA/North West	12315504
@@ -157,3 +165,4 @@ BA/Federation of B&H	10350264
 IN/Uttar Pradesh	17556144
 VE/Lara	14673792
 IT/Veneto	814480
+CN/Shandong	233

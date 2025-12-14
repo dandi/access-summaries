@@ -14,7 +14,7 @@ sub-KM131/sub-KM131_ses-20180108T171334_behavior+image.nwb	32836159789
 sub-KM131/sub-KM131_ses-20180109T162423_behavior+image.nwb	26638273547
 sub-KM131/sub-KM131_ses-20180110T175318_behavior+image.nwb	30767665725
 sub-KM131/sub-KM131_ses-20180112T171858_behavior+image.nwb	30039348151
-sub-KM131/sub-KM131_ses-20180116T184757_behavior+ecephys+image.nwb	195773264714
+sub-KM131/sub-KM131_ses-20180116T184757_behavior+ecephys+image.nwb	201256073263
 sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image.nwb	188723893727
 sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image.nwb	209708982082
 sub-KM131/sub-KM131_ses-20180119T170444_behavior+ecephys+image.nwb	231214583615
@@ -76,7 +76,7 @@ sub-234CR/sub-234CR_ses-20190829T123151_behavior+image.nwb	18155403526
 sub-234CR/sub-234CR_ses-20190830T133244_behavior+image.nwb	16594087483
 sub-234CR/sub-234CR_ses-20190902T153625_behavior+image.nwb	21330399850
 sub-234CR/sub-234CR_ses-20190903T110748_behavior+image.nwb	15832019956
-sub-234CR/sub-234CR_ses-20190904T122648_behavior+image.nwb	35809787861
+sub-234CR/sub-234CR_ses-20190904T122648_behavior+image.nwb	36604664669
 sub-234CR/sub-234CR_ses-20190905T123046_behavior+image.nwb	18690015554
 sub-234CR/sub-234CR_ses-20190906T124507_behavior+image.nwb	19717855977
 sub-231CR/sub-231CR_ses-20190830T102534_behavior+image.nwb	16651149677
@@ -351,7 +351,7 @@ sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH
 sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH57.continuous	1911533772
 sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH58.continuous	2104700621
 sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH59.continuous	2065580008
-sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH6.continuous	3188830212
+sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH6.continuous	3340686436
 sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH61.continuous	2217502596
 sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH60.continuous	2034787112
 sourcedata/sub-KM131/sub-KM131_ses-20180117T194023_behavior+ecephys+image/100_CH62.continuous	2120675500
@@ -373,7 +373,7 @@ sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH17.continuous	1873102309
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH18.continuous	1835109884
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH19.continuous	1577855360
-sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH2.continuous	3474134714
+sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH2.continuous	3609099738
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH21.continuous	1550248764
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH20.continuous	1711759388
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH22.continuous	2105570844
@@ -386,7 +386,7 @@ sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH29.continuous	1719324884
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH3.continuous	1564151553
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH30.continuous	1726060361
-sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH31.continuous	2788026831
+sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH31.continuous	2922991855
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH32.continuous	1854820820
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH34.continuous	2697559725
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH33.continuous	1885082308
@@ -400,7 +400,7 @@ sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH41.continuous	1586084496
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH42.continuous	1613029108
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH44.continuous	1719723068
-sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH43.continuous	3473537438
+sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH43.continuous	3608502462
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH45.continuous	1581903509
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH46.continuous	1719656704
 sourcedata/sub-KM131/sub-KM131_ses-20180118T170853_behavior+ecephys+image/100_CH49.continuous	1736446300
@@ -498,7 +498,7 @@ sourcedata/sub-KM131/sub-KM131_ses-20180119T170444_behavior+ecephys+image/100_CH
 sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH1.continuous	3319699532
 sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH10.continuous	4224418316
 sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH11.continuous	5367845250
-sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH13.continuous	5292724123
+sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH13.continuous	5562197747
 sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH12.continuous	3023306041
 sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH14.continuous	2758113364
 sourcedata/sub-KM131/sub-KM131_ses-20180122T193748_behavior+ecephys+image/100_CH15.continuous	2789237252
@@ -609,7 +609,7 @@ sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH
 sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH50.continuous	2183810810
 sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH52.continuous	2766710669
 sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH51.continuous	2563805830
-sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH54.continuous	3996234797
+sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH54.continuous	4187625951
 sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH53.continuous	2180690874
 sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH55.continuous	2374870144
 sourcedata/sub-KF119/sub-KF119_ses-20180125T172804_behavior+ecephys+image/100_CH57.continuous	2387744760
@@ -711,7 +711,7 @@ sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH23.continuous	4007721340
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH24.continuous	4101209425
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH25.continuous	3709259200
-sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH26.continuous	6512611825
+sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH26.continuous	6792957089
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH27.continuous	5695699816
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH28.continuous	5977040044
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH29.continuous	3995510364
@@ -723,7 +723,7 @@ sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH35.continuous	6238504281
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH34.continuous	3419423884
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH36.continuous	3807186712
-sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH38.continuous	13450521758
+sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH38.continuous	13730867022
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH37.continuous	3716126909
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH39.continuous	3417565692
 sourcedata/sub-KF134/sub-KF134_ses-20180208T171905_behavior+ecephys+image/100_CH4.continuous	4015021380
@@ -791,7 +791,7 @@ sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH
 sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH34.continuous	2500881696
 sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH37.continuous	2531210044
 sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH38.continuous	2493050744
-sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH39.continuous	10742896922
+sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH39.continuous	10930907766
 sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH40.continuous	2513589437
 sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH4.continuous	3642053181
 sourcedata/sub-KF134/sub-KF134_ses-20180209T181601_behavior+ecephys+image/100_CH41.continuous	2509541729
@@ -879,7 +879,7 @@ sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH
 sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH56.continuous	2545965088
 sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH57.continuous	2984348316
 sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH58.continuous	2673625390
-sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH6.continuous	4744307874
+sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH6.continuous	4945581208
 sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH60.continuous	2592088068
 sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH59.continuous	2899785720
 sourcedata/sub-KF134/sub-KF134_ses-20180210T191835_behavior+ecephys+image/100_CH62.continuous	2741488026
@@ -1022,7 +1022,7 @@ sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/100_CH
 sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/all_channels.events	19456
 sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/100_CH8.continuous	2880446187
 sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/100_CH7.continuous	3293071745
-sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/messages.events	7680
+sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/messages.events	7808
 sourcedata/sub-KF134/sub-KF134_ses-20180212T183227_behavior+ecephys+image/100_CH9.continuous	2864319735
 sourcedata/sub-KF134/sub-KF134_ses-20180213T190732_behavior+ecephys+image/100_CH1.continuous	3015116180
 sourcedata/sub-KF134/sub-KF134_ses-20180213T190732_behavior+ecephys+image/100_CH10.continuous	2749926012
@@ -1184,7 +1184,7 @@ sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH
 sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH32.continuous	2788573590
 sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH33.continuous	3046454316
 sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH34.continuous	3268000283
-sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH36.continuous	5548345700
+sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH36.continuous	5796736374
 sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH35.continuous	3552725716
 sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH37.continuous	3026213296
 sourcedata/sub-KF132/sub-KF132_ses-20180223T152924_behavior+ecephys+image/100_CH38.continuous	2774172602
@@ -1976,7 +1976,7 @@ sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH
 sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH33.continuous	1848186953
 sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH32.continuous	1826379941
 sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH34.continuous	2142362780
-sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH35.continuous	7953472242
+sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH35.continuous	8100530206
 sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH36.continuous	1959800572
 sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH38.continuous	2153976480
 sourcedata/sub-229CR/sub-229CR_ses-20191009T172531_behavior+ecephys+image/100_CH39.continuous	2128127233
@@ -2155,7 +2155,7 @@ sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH14.continuous	3021982416
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH17.continuous	2449509200
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH18.continuous	2418532568
-sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH16.continuous	4140858204
+sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH16.continuous	4331290948
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH2.continuous	2388168585
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH19.continuous	2156875564
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH22.continuous	2152894552
@@ -2177,7 +2177,7 @@ sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH34.continuous	2338913621
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH36.continuous	2555858756
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH38.continuous	2529579108
-sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH37.continuous	4000162097
+sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH37.continuous	4190594841
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH39.continuous	2328692737
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH4.continuous	2529147273
 sourcedata/sub-229CR/sub-229CR_ses-20191012T141045_behavior+ecephys+image/100_CH40.continuous	3727754457
@@ -2229,7 +2229,7 @@ sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH
 sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH22.continuous	2560791608
 sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH23.continuous	2254413352
 sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH24.continuous	1933202273
-sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH26.continuous	8260109493
+sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH26.continuous	8416716367
 sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH25.continuous	1953476116
 sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH29.continuous	2094188288
 sourcedata/sub-229CR/sub-229CR_ses-20191013T152728_behavior+ecephys+image/100_CH28.continuous	1942260600
@@ -2320,7 +2320,7 @@ sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH
 sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH45.continuous	2388964115
 sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH46.continuous	2994421892
 sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH47.continuous	2368358562
-sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH49.continuous	8391654378
+sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH49.continuous	8570650372
 sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH5.continuous	2201706272
 sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH48.continuous	2200610797
 sourcedata/sub-229CR/sub-229CR_ses-20191014T171024_behavior+ecephys+image/100_CH51.continuous	3993590768
@@ -2372,7 +2372,7 @@ sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH
 sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH31.continuous	1655424421
 sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH33.continuous	1508753376
 sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH34.continuous	1638169781
-sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH35.continuous	2748057634
+sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH35.continuous	2880426878
 sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH36.continuous	1643114368
 sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH37.continuous	1790149560
 sourcedata/sub-255CR/sub-255CR_ses-20200322T135448_behavior+ecephys+image/100_CH38.continuous	2015310536
@@ -2424,7 +2424,7 @@ sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH19.continuous	1989693076
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH21.continuous	1959404348
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH20.continuous	2121709216
-sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH22.continuous	4824979833
+sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH22.continuous	4983236497
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH24.continuous	1956185225
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH23.continuous	2112617348
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH25.continuous	1955654313
@@ -2443,7 +2443,7 @@ sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH38.continuous	2314142348
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH37.continuous	2455178077
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH39.continuous	2318270288
-sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH4.continuous	2120050116
+sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH4.continuous	2232684684
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH40.continuous	2289401948
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH41.continuous	2135710696
 sourcedata/sub-267CR/sub-267CR_ses-20200326T151949_behavior+ecephys+image/100_CH42.continuous	2129008760
@@ -2575,7 +2575,7 @@ sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH38.continuous	1636658317
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH36.continuous	1633605573
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH39.continuous	1621494612
-sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH4.continuous	6500394324
+sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH4.continuous	6631730638
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH40.continuous	1760595514
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH42.continuous	1770781919
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/100_CH41.continuous	1804063438
@@ -2658,7 +2658,7 @@ sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH
 sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH52.continuous	1957551940
 sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH53.continuous	2316737788
 sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH54.continuous	2172317536
-sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH55.continuous	8092273887
+sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH55.continuous	8252488771
 sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH56.continuous	1990434833
 sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH57.continuous	2134092368
 sourcedata/sub-267CR/sub-267CR_ses-20200330T154638_behavior+ecephys+image/100_CH58.continuous	1975005672
@@ -2808,7 +2808,7 @@ sourcedata/sub-267CR/sub-267CR_ses-20200401T140713_behavior+ecephys+image/100_CH
 sourcedata/sub-267CR/sub-267CR_ses-20200401T140713_behavior+ecephys+image/100_CH9.continuous	1744411252
 sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH1.continuous	2551721094
 sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH10.continuous	2229944633
-sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH11.continuous	5677407775
+sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH11.continuous	5858577269
 sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH12.continuous	2610500512
 sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH13.continuous	2231869189
 sourcedata/sub-245CR/sub-245CR_ses-20200327T155556_behavior+ecephys+image/100_CH15.continuous	2599649529
@@ -3271,7 +3271,7 @@ sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20
 sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/pc_feature_ind.npy	167328
 sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/phy.log	3107243
 sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/similar_templates.npy	2655648
-sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/spike_clusters.npy	494028276
+sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/spike_clusters.npy	503465264
 sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/pc_features.npy	4147102537
 sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/spike_templates.npy	156778064
 sourcedata/sub-KF134/sub-KF134_ses-20180207T200156_behavior+ecephys+image/sort20180509010216/spike_times.npy	300733400
@@ -3873,7 +3873,7 @@ sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/config.m	65741
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/master_file.m	17388
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/pc_feature_ind.npy	130144
-sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/pc_features.npy	3934796594
+sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/pc_features.npy	4138071826
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/phy.log	7649864
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/similar_templates.npy	2065504
 sourcedata/sub-267CR/sub-267CR_ses-20200329T140946_behavior+ecephys+image/sort20200405215025/rez.mat	5699450805

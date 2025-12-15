@@ -961,6 +961,9 @@ ES/Cantabria:
 "ES/Castille and Le\xF3n":
   latitude: 42.0
   longitude: -5.5
+ES/Castille-La Mancha:
+  latitude: 40.5430661
+  longitude: -6.3518611
 ES/Catalonia:
   latitude: 41.8523094
   longitude: 1.5745043
@@ -985,6 +988,9 @@ ET/Addis Ababa:
 ET/Amhara:
   latitude: 11.5
   longitude: 38.5
+ET/Dire Dawa:
+  latitude: 9.591323
+  longitude: 41.8566341
 ET/Oromiya:
   latitude: 7.6721644
   longitude: 40.0299727
@@ -1009,6 +1015,9 @@ FR/Bourgogne:
 FR/Brittany:
   latitude: 48.2640845
   longitude: -2.9202408
+FR/Centre:
+  latitude: 47.5490251
+  longitude: 1.7324062
 FR/Grand Est:
   latitude: 48.580002
   longitude: 7.75
@@ -1117,6 +1126,9 @@ GE/Kakheti:
 GE/Kvemo Kartli:
   latitude: 41.5124578
   longitude: 44.5495369
+GE/Samegrelo and Zemo Svaneti:
+  latitude: 42.866527
+  longitude: 43.0714493
 GE/Shida Kartli:
   latitude: 41.9872948
   longitude: 43.9828995
@@ -1150,6 +1162,9 @@ GR/West Greece:
 GT/Guatemala:
   latitude: 15.5855545
   longitude: -90.345759
+GT/Zacapa:
+  latitude: 15.0200926
+  longitude: -89.4858705
 GY/Demerara-Mahaica:
   latitude: 6.4547883
   longitude: -58.1280676
@@ -1165,6 +1180,9 @@ HK/Eastern District:
 HK/Hong Kong:
   latitude: 22.2793278
   longitude: 114.1628131
+HK/Kowloon City:
+  latitude: 22.3301595
+  longitude: 114.1899368
 HK/Kwai Tsing District:
   latitude: 22.3410051
   longitude: 114.1042653
@@ -1210,6 +1228,9 @@ HR/Brod-Posavina:
 "HR/Me\u0111imurje":
   latitude: 46.4061943
   longitude: 16.5472278
+HR/Primorje-Gorski Kotar:
+  latitude: 45.4225937
+  longitude: 14.6172032
 "HR/Vara\u017Edin":
   latitude: 46.3079645
   longitude: 16.3378198
@@ -1345,6 +1366,9 @@ IL/Haifa:
 IL/Jerusalem:
   latitude: 31.7788472
   longitude: 35.2257856
+IL/Northern District:
+  latitude: 40.6904145
+  longitude: -89.4990412
 IL/Southern District:
   latitude: 30.6823334
   longitude: 34.8824229
@@ -1513,6 +1537,9 @@ IR/Tehran:
 IR/Yazd Province:
   latitude: 32.0406164
   longitude: 54.6657189
+IS/Capital Region:
+  latitude: 64.1727138
+  longitude: -21.5667575
 IT/Apulia:
   latitude: 40.9842539
   longitude: 16.6210027
@@ -1540,6 +1567,12 @@ IT/Piedmont:
 IT/Sardinia:
   latitude: 40.0912813
   longitude: 9.0305773
+IT/Sicily:
+  latitude: 37.587794
+  longitude: 14.155048
+IT/Trentino-Alto Adige:
+  latitude: 46.441472
+  longitude: 11.282121
 IT/Tuscany:
   latitude: 43.4586541
   longitude: 11.1389204
@@ -1732,6 +1765,9 @@ KZ/Aqmola:
 KZ/Astana:
   latitude: 51.1282205
   longitude: 71.4306682
+KZ/Atyrau Oblisi:
+  latitude: 43.4580216
+  longitude: 76.73958
 KZ/Batys Qazaqstan:
   latitude: 51.244003
   longitude: 51.376119
@@ -2038,6 +2074,9 @@ MY/Sarawak:
 MY/Selangor:
   latitude: 3.2083304
   longitude: 101.304146
+MY/Terengganu:
+  latitude: 4.8630743
+  longitude: 102.9949297
 MZ/Maputo City:
   latitude: -25.9580602
   longitude: 32.5847152
@@ -2173,6 +2212,9 @@ OM/Muscat:
 PE/Amazonas:
   latitude: -5.0
   longitude: -78.0
+PE/Ancash:
+  latitude: -9.5
+  longitude: -77.75
 PE/Arequipa:
   latitude: -16.3988667
   longitude: -71.5369607
@@ -2203,6 +2245,9 @@ PE/Lima Province:
 PE/Lima region:
   latitude: -11.954966
   longitude: -77.0618782
+PE/Piura:
+  latitude: -5.0
+  longitude: -80.333333
 "PE/San Mart\xEDn Department":
   latitude: -7.286833
   longitude: -76.7657776
@@ -2314,6 +2359,9 @@ PR/Arecibo:
 PR/Carolina:
   latitude: -13.8534071
   longitude: -73.0001377
+PR/Humacao:
+  latitude: 18.1380738
+  longitude: -65.8196369
 PR/Morovis:
   latitude: 18.3170396
   longitude: -66.4122526
@@ -2500,6 +2548,9 @@ RU/Moscow Oblast:
 RU/Nizhny Novgorod Oblast:
   latitude: 55.4718033
   longitude: 44.0911594
+"RU/North Ossetia\u2013Alania":
+  latitude: 42.9920711
+  longitude: 44.2636348
 RU/Novgorod Oblast:
   latitude: 58.2843833
   longitude: 32.5169757
@@ -2593,6 +2644,9 @@ SA/Riyadh Region:
 SA/Tabuk Region:
   latitude: 17.4136195
   longitude: 121.4440137
+SE/Dalarna:
+  latitude: 61.0603779
+  longitude: 14.2151224
 "SE/Sk\xE5ne":
   latitude: 55.8472301
   longitude: 13.6339292
@@ -2611,6 +2665,9 @@ SE/Stockholm:
 SG/Singapore:
   latitude: 1.357107
   longitude: 103.8194992
+SI/Bled:
+  latitude: 46.3684202
+  longitude: 14.1100595
 SI/Ljubljana:
   latitude: 46.0500268
   longitude: 14.5069289
@@ -2776,6 +2833,9 @@ TR/Mersin:
 "TR/Mu\u011Fla":
   latitude: 37.1642053
   longitude: 28.2624288
+TR/Sakarya:
+  latitude: 40.7731834
+  longitude: 30.481606
 TR/Samsun:
   latitude: 41.2303557
   longitude: 35.9683338
@@ -2785,6 +2845,9 @@ TR/Samsun:
 TR/Tokat Province:
   latitude: 40.31389
   longitude: 36.55444
+TR/Trabzon:
+  latitude: 41.0054605
+  longitude: 39.7301463
 TR/Van:
   latitude: 38.3249599
   longitude: 43.6589825
@@ -3070,6 +3133,12 @@ UZ/Andijan Region:
 UZ/Navoiy Region:
   latitude: 42.0
   longitude: 64.0
+UZ/Qashqadaryo:
+  latitude: 38.5639397
+  longitude: 65.5311095
+UZ/Samarqand Region:
+  latitude: 39.7337023
+  longitude: 66.1282889
 UZ/Tashkent:
   latitude: 41.3123363
   longitude: 69.2787079
@@ -3130,6 +3199,9 @@ VE/Yaracuy:
 VE/Zulia:
   latitude: 9.8910697
   longitude: -72.087479
+VG/British Virgin Islands:
+  latitude: 18.4024395
+  longitude: -64.5661642
 VN/An Giang:
   latitude: 10.3188672
   longitude: 105.0432488

@@ -16,6 +16,9 @@ AE/Ras Al Khaimah:
 AE/Sharjah:
   latitude: 25.2797555
   longitude: 56.2775651
+AL/Berat County:
+  latitude: 40.6084482
+  longitude: 20.1088566
 "AL/Dib\xEBr County":
   latitude: 41.622192
   longitude: 20.180816
@@ -172,6 +175,9 @@ AWS/ap-southeast-1:
 AWS/ap-southeast-2:
   latitude: '-33.8678'
   longitude: '151.2073'
+AWS/ap-southeast-3:
+  latitude: '-6.2146'
+  longitude: '106.8451'
 AWS/ca-central-1:
   latitude: '45.5088'
   longitude: '-73.5878'
@@ -283,6 +289,9 @@ BG/Burgas:
 BG/Dobrich:
   latitude: 43.6637775
   longitude: 27.9002123
+BG/Kardzhali:
+  latitude: 41.56876
+  longitude: 25.3948569
 BG/Lovech:
   latitude: 43.0444495
   longitude: 24.4910249
@@ -319,6 +328,9 @@ BO/Cochabamba:
 BO/La Paz Department:
   latitude: -11.7773231
   longitude: -67.4519752
+BO/Oruro:
+  latitude: -18.666667
+  longitude: -67.666667
 "BO/Potos\xED Department":
   latitude: -20.666667
   longitude: -66.666667
@@ -484,6 +496,9 @@ CG/Brazzaville:
 CG/Pointe-Noire:
   latitude: -4.7975373
   longitude: 11.8503297
+CH/Aargau:
+  latitude: 47.412396
+  longitude: 8.1948321
 CH/Basel-City:
   latitude: 47.5579097
   longitude: 7.5927728
@@ -502,6 +517,9 @@ CH/Lucerne:
 "CH/Neuch\xE2tel":
   latitude: 46.9895828
   longitude: 6.9292641
+CH/Schwyz:
+  latitude: 47.0571976
+  longitude: 8.7222073
 CH/Solothurn:
   latitude: 47.31874
   longitude: 7.6698284
@@ -568,6 +586,9 @@ CN/Anhui:
 CN/Beijing:
   latitude: 40.190632
   longitude: 116.412144
+CN/Chongqing:
+  latitude: 30.05518
+  longitude: 107.8748712
 CN/Fujian:
   latitude: 26.193218
   longitude: 118.2208721
@@ -706,6 +727,9 @@ CR/Puntarenas Province:
 CW/Curacao:
   latitude: 12.2135136
   longitude: -69.040892
+CY/Nicosia:
+  latitude: 35.1746503
+  longitude: 33.3638783
 CZ/Central Bohemia:
   latitude: 50.0601579
   longitude: 13.8307479
@@ -721,12 +745,18 @@ CZ/Central Bohemia:
 "CZ/Olomouck\xFD":
   latitude: 49.8591058
   longitude: 16.9561267
+"CZ/Pardubick\xFD":
+  latitude: 49.889819
+  longitude: 16.1283254
 CZ/Prague:
   latitude: 50.0874654
   longitude: 14.4212535
 CZ/South Moravian:
   latitude: 49.1761838
   longitude: 16.3881643
+"CZ/Zl\xEDn":
+  latitude: 49.226766
+  longitude: 17.6667415
 "CZ/\xDAsteck\xFD kraj":
   latitude: 50.5663266
   longitude: 13.8206705
@@ -739,6 +769,9 @@ DE/Bavaria:
 DE/Brandenburg:
   latitude: 52.8455492
   longitude: 13.2461296
+DE/City state Bremen:
+  latitude: 53.07516
+  longitude: 8.80777
 DE/Hamburg:
   latitude: 53.550341
   longitude: 10.000654
@@ -775,6 +808,15 @@ DK/Capital Region:
 DK/Central Jutland:
   latitude: 56.7066248
   longitude: 8.2154843
+DK/South Denmark:
+  latitude: 55.723278
+  longitude: 12.5722686
+DK/Zealand:
+  latitude: 55.5455979
+  longitude: 11.6973741
+DO/Hermanas Mirabal:
+  latitude: 19.3957699
+  longitude: -70.3840578
 DO/La Romana:
   latitude: 18.4230137
   longitude: -68.9661104
@@ -853,6 +895,9 @@ DZ/Touggourt:
 EC/Azuay:
   latitude: -3.0524451
   longitude: -79.2395135
+EC/Carchi:
+  latitude: 0.8375163
+  longitude: -78.2075154
 "EC/Ca\xF1ar":
   latitude: -2.574484
   longitude: -78.9804678
@@ -928,6 +973,9 @@ EG/Kafr el-Sheikh:
 EG/Minya:
   latitude: 28.2125404
   longitude: 30.9123741
+EG/Monufia:
+  latitude: 30.4370098
+  longitude: 30.7466852
 EG/North Sinai:
   latitude: 30.5042803
   longitude: 33.591006
@@ -1006,6 +1054,9 @@ FI/North Ostrobothnia:
 FI/Satakunta:
   latitude: 61.5934279
   longitude: 21.7824512
+FI/Southwest Finland:
+  latitude: 60.3036114
+  longitude: 22.4113084
 FI/Uusimaa:
   latitude: 60.2246684
   longitude: 25.1272631
@@ -1153,6 +1204,9 @@ GR/North Aegean:
 GR/Peloponnese:
   latitude: 37.363372
   longitude: 22.2394984
+GR/South Aegean:
+  latitude: 37.1501032
+  longitude: 25.4550768
 GR/Thessaly:
   latitude: 39.5060878
   longitude: 22.3191881
@@ -1162,6 +1216,9 @@ GR/West Greece:
 GT/Guatemala:
   latitude: 15.5855545
   longitude: -90.345759
+"GT/Solol\xE1":
+  latitude: 14.7039413
+  longitude: -91.282818
 GT/Zacapa:
   latitude: 15.0200926
   longitude: -89.4858705
@@ -1210,6 +1267,9 @@ HK/Yau Tsim Mong District:
 HK/Yuen Long:
   latitude: 22.456686
   longitude: 114.0207401
+HN/Bay Islands:
+  latitude: 16.3217674
+  longitude: -86.1786833
 "HN/Col\xF3n Department":
   latitude: -25.3068884
   longitude: -57.2987869
@@ -1225,6 +1285,9 @@ HN/La Paz Department:
 HR/Brod-Posavina:
   latitude: 45.1581062
   longitude: 18.3958732
+HR/County of Osijek-Baranja:
+  latitude: 45.5
+  longitude: 18.41667
 "HR/Me\u0111imurje":
   latitude: 46.4061943
   longitude: 16.5472278
@@ -1234,6 +1297,9 @@ HR/Primorje-Gorski Kotar:
 "HR/Vara\u017Edin":
   latitude: 46.3079645
   longitude: 16.3378198
+HR/Zadar:
+  latitude: 44.1168594
+  longitude: 15.2353257
 HR/Zagreb:
   latitude: 45.8130967
   longitude: 15.9772795
@@ -1243,6 +1309,9 @@ HT/Ouest:
 HU/Baranya:
   latitude: 45.9714436
   longitude: 18.1669246
+"HU/Borsod-Aba\xFAj-Zempl\xE9n":
+  latitude: 48.2397936
+  longitude: 21.1353474
 HU/Budapest:
   latitude: 47.4978789
   longitude: 19.0402383
@@ -1297,6 +1366,9 @@ ID/East Java:
 ID/East Kalimantan:
   latitude: 0.7884397
   longitude: 116.2419977
+ID/East Nusa Tenggara:
+  latitude: -8.5656787
+  longitude: 120.6978581
 ID/Jakarta:
   latitude: -6.1754049
   longitude: 106.827168
@@ -1429,6 +1501,12 @@ IN/Maharashtra:
 IN/Meghalaya:
   latitude: 25.5379432
   longitude: 91.2999102
+IN/Mizoram:
+  latitude: 23.2146169
+  longitude: 92.8687612
+IN/Nagaland:
+  latitude: 26.1630556
+  longitude: 94.5884911
 IN/Odisha:
   latitude: 20.5431241
   longitude: 84.6897321
@@ -1519,6 +1597,9 @@ IR/Alborz Province:
 IR/East Azerbaijan:
   latitude: 37.9160365
   longitude: 46.6781589
+IR/Fars:
+  latitude: 29.2051447
+  longitude: 53.4327752
 IR/Isfahan:
   latitude: 32.6707877
   longitude: 51.6650002
@@ -1570,6 +1651,9 @@ IT/Sardinia:
 IT/Sicily:
   latitude: 37.587794
   longitude: 14.155048
+IT/The Marches:
+  latitude: 43.5
+  longitude: 13.25
 IT/Trentino-Alto Adige:
   latitude: 46.441472
   longitude: 11.282121
@@ -1654,27 +1738,42 @@ JP/Saitama:
 JP/Shiga:
   latitude: 35.247154
   longitude: 136.109385
+JP/Tochigi:
+  latitude: 36.6782167
+  longitude: 139.8096549
 JP/Tokushima:
   latitude: 33.9196418
   longitude: 134.2509634
 JP/Tokyo:
   latitude: 35.6768601
   longitude: 139.7638947
+JP/Yamanashi:
+  latitude: 35.6399328
+  longitude: 138.6380495
 KE/Embu County:
   latitude: -0.5335779
   longitude: 37.4502128
+KE/Isiolo County:
+  latitude: 0.3645314
+  longitude: 37.5895248
 KE/Kajiado County:
   latitude: -2.121717
   longitude: 36.786255
 KE/Kiambu County:
   latitude: -1.036395
   longitude: 36.8431312
+KE/Kilifi County:
+  latitude: -3.1507392
+  longitude: 39.6750716
 KE/Kisii County:
   latitude: -0.7389425
   longitude: 34.7539855
 KE/Kisumu County:
   latitude: -0.197126
   longitude: 34.7778573
+KE/Laikipia:
+  latitude: 0.2858452
+  longitude: 36.8257711
 KE/Machakos County:
   latitude: -1.2790046
   longitude: 37.3952698
@@ -1708,6 +1807,9 @@ KG/Bishkek:
 KG/Chuy Region:
   latitude: 42.5550236
   longitude: 74.621991
+KG/Issyk-Kul:
+  latitude: 42.4620398
+  longitude: 77.0789862
 KG/Jalal-Abad Region:
   latitude: 41.5107352
   longitude: 73.2283479
@@ -1831,9 +1933,15 @@ LT/Kaunas:
 "LT/Klaip\u0117da County":
   latitude: 55.7827168
   longitude: 21.3496449
+"LT/Panev\u0117\u017Eys":
+  latitude: 55.7344985
+  longitude: 24.3578055
 LT/Vilnius:
   latitude: 54.6870458
   longitude: 25.2829111
+LU/Luxembourg:
+  latitude: 49.8158683
+  longitude: 6.1296751
 "LV/J\u016Brmala":
   latitude: 56.9727164
   longitude: 23.7886979
@@ -2053,6 +2161,9 @@ MY/Kelantan:
 MY/Kuala Lumpur:
   latitude: 3.1526589
   longitude: 101.7022205
+MY/Negeri Sembilan:
+  latitude: 2.7831895
+  longitude: 102.1925319
 MY/Pahang:
   latitude: 3.6168822
   longitude: 102.5994547
@@ -2125,6 +2236,9 @@ NO/Agder:
 NO/Oslo:
   latitude: 59.9133301
   longitude: 10.7389701
+NO/Troms:
+  latitude: 69.5311072
+  longitude: 19.5296839
 "NO/Tr\xF8ndelag":
   latitude: 63.8775924
   longitude: 10.1950505
@@ -2266,6 +2380,9 @@ PH/Cagayan Valley:
 PH/Calabarzon:
   latitude: 14.1658314
   longitude: 121.3535577
+PH/Caraga:
+  latitude: 9.2517336
+  longitude: 125.851666
 PH/Central Luzon:
   latitude: 15.3942729
   longitude: 120.6872959
@@ -2335,6 +2452,9 @@ PL/Mazovia:
 PL/Opole Voivodeship:
   latitude: 50.8918612
   longitude: 17.9321175
+PL/Podlasie:
+  latitude: 54.1575
+  longitude: 21.5594444
 PL/Pomerania:
   latitude: 53.428543
   longitude: 14.552811
@@ -2356,6 +2476,12 @@ PL/West Pomerania:
 PR/Arecibo:
   latitude: 18.4047499
   longitude: -66.6810353
+PR/Cabo Rojo:
+  latitude: 18.0495973
+  longitude: -67.1552085
+PR/Caguas:
+  latitude: 18.2129421
+  longitude: -66.0558844
 PR/Carolina:
   latitude: -13.8534071
   longitude: -73.0001377
@@ -2416,9 +2542,15 @@ PY/Central Department:
 "PY/Itap\xFAa":
   latitude: -26.833333
   longitude: -55.833333
+"PY/Paraguar\xED":
+  latitude: -26.0
+  longitude: -57.166667
 PY/Presidente Hayes:
   latitude: -23.5
   longitude: -58.833333
+PY/San Pedro Department:
+  latitude: -26.66667
+  longitude: -54.0
 "QA/Balad\u012Byat ad Daw\u1E29ah":
   latitude: 25.3
   longitude: 51.5
@@ -2428,6 +2560,9 @@ PY/Presidente Hayes:
 RO/Arad County:
   latitude: 46.1771665
   longitude: 21.3123892
+RO/Arges:
+  latitude: 44.9939764
+  longitude: 24.8488685
 "RO/Bac\u0103u County":
   latitude: 46.5683751
   longitude: 26.9052912
@@ -2458,6 +2593,9 @@ RO/Harghita County:
 "RO/Ia\u0219i County":
   latitude: 47.1835225
   longitude: 27.5686066
+"RO/Mure\u0219 County":
+  latitude: 46.5457344
+  longitude: 24.5562838
 RO/Prahova:
   latitude: 45.1087546
   longitude: 26.0378349
@@ -2515,15 +2653,24 @@ RU/Kaluga Oblast:
 RU/Karelia:
   latitude: 62.6194031
   longitude: 33.4920267
+RU/Khabarovsk:
+  latitude: 51.6312684
+  longitude: 136.121524
 RU/Khakasiya Republic:
   latitude: 37.12005
   longitude: -93.48019
+RU/Khanty-Mansia:
+  latitude: 61.8793428
+  longitude: 68.6418156
 RU/Kirov Oblast:
   latitude: 58.563072
   longitude: 50.1824997
 RU/Komi:
   latitude: 63.9881421
   longitude: 54.3326073
+RU/Kostroma Oblast:
+  latitude: 58.424756
+  longitude: 44.2533273
 RU/Krasnodar Krai:
   latitude: 45.7684014
   longitude: 39.0261044
@@ -2533,6 +2680,9 @@ RU/Krasnoyarsk Krai:
 RU/Kursk Oblast:
   latitude: 51.6568453
   longitude: 36.4852695
+RU/Kuzbass:
+  latitude: 54.5335781
+  longitude: 87.342861
 RU/Lipetsk Oblast:
   latitude: 52.6935178
   longitude: 39.1122664
@@ -2557,6 +2707,9 @@ RU/Novgorod Oblast:
 RU/Novosibirsk Oblast:
   latitude: 55.8204953
   longitude: 78.866158
+RU/Omsk Oblast:
+  latitude: 56.0935263
+  longitude: 73.5099936
 RU/Orenburg Oblast:
   latitude: 52.0269262
   longitude: 54.7276647
@@ -2638,6 +2791,9 @@ SA/Eastern Province:
 SA/Mecca Region:
   latitude: 21.6698063
   longitude: 41.4996029
+SA/Medina Region:
+  latitude: 25.1354363
+  longitude: 39.162594
 SA/Riyadh Region:
   latitude: 23.333333
   longitude: 45.333333
@@ -2647,6 +2803,12 @@ SA/Tabuk Region:
 SE/Dalarna:
   latitude: 61.0603779
   longitude: 14.2151224
+"SE/J\xE4mtland":
+  latitude: 63.3465856
+  longitude: 14.1237511
+SE/Norrbotten:
+  latitude: 59.7650564
+  longitude: 18.0776847
 "SE/Sk\xE5ne":
   latitude: 55.8472301
   longitude: 13.6339292
@@ -2695,6 +2857,12 @@ SK/Trnava Region:
 SN/Dakar:
   latitude: 14.693425
   longitude: -17.447938
+SR/Paramaribo District:
+  latitude: 5.86638
+  longitude: -55.16682
+"SV/Ahuachap\xE1n":
+  latitude: 13.8634993
+  longitude: -89.9273861
 SV/La Libertad Department:
   latitude: -27.33333
   longitude: -59.33333
@@ -2716,6 +2884,9 @@ TH/Bangkok:
 TH/Chiang Mai:
   latitude: 18.7882778
   longitude: 98.9858802
+TH/Chiang Rai:
+  latitude: 19.7589517
+  longitude: 99.6734592
 TH/Chon Buri:
   latitude: 13.1857117
   longitude: 101.1210777
@@ -2734,6 +2905,9 @@ TH/Nakhon Pathom:
 TH/Nakhon Ratchasima:
   latitude: 14.9749389
   longitude: 102.0981358
+TH/Phitsanulok:
+  latitude: 16.9779975
+  longitude: 100.3848239
 TH/Phuket:
   latitude: 7.9366015
   longitude: 98.3529292
@@ -2743,6 +2917,9 @@ TH/Samut Prakan:
 TH/Samut Sakhon:
   latitude: 13.5708192
   longitude: 100.2585874
+TH/Saraburi:
+  latitude: 14.6240563
+  longitude: 100.8601022
 TH/Songkhla:
   latitude: 7.1973429
   longitude: 100.593205
@@ -2755,9 +2932,15 @@ TM/Ashgabat:
 TN/Ariana Governorate:
   latitude: 36.9685735
   longitude: 10.1219855
+TN/Bizerte Governorate:
+  latitude: 37.0354339
+  longitude: 9.6393259
 TN/Monastir Governorate:
   latitude: 35.6054798
   longitude: 10.7876948
+TN/Nabeul Governorate:
+  latitude: 36.7209722
+  longitude: 10.7042
 TN/Sfax Governorate:
   latitude: 34.7232387
   longitude: 10.3358474
@@ -2782,6 +2965,9 @@ TR/Antalya:
 TR/Batman:
   latitude: 37.7874104
   longitude: 41.2573924
+TR/Burdur:
+  latitude: 37.5183407
+  longitude: 30.1691254
 TR/Bursa Province:
   latitude: 40.18333
   longitude: 29.06667
@@ -2794,6 +2980,9 @@ TR/Denizli:
 TR/Erzurum:
   latitude: 39.90632
   longitude: 41.2727715
+TR/Giresun:
+  latitude: 40.6531617
+  longitude: 38.5172032
 TR/Hatay:
   latitude: 36.3451332
   longitude: 36.0748022
@@ -2818,6 +3007,9 @@ TR/Konya:
 "TR/K\xFCtahya":
   latitude: 39.2522508
   longitude: 29.4937732
+"TR/K\u0131rklareli":
+  latitude: 41.7078046
+  longitude: 27.6051334
 TR/Malatya:
   latitude: 38.3487153
   longitude: 38.3190674
@@ -2953,6 +3145,9 @@ UA/Vinnytsia:
 UA/Volyn:
   latitude: 50.7481653
   longitude: 25.3235683
+UA/Zakarpattia:
+  latitude: 48.2953664
+  longitude: 23.4466092
 UA/Zaporizhzhia:
   latitude: 47.8507859
   longitude: 35.1182867
@@ -3157,6 +3352,9 @@ VE/Barinas:
 VE/Carabobo:
   latitude: 10.1686583
   longitude: -68.0350028
+VE/Delta Amacuro:
+  latitude: 8.7939846
+  longitude: -61.3232805
 VE/Distrito Federal:
   latitude: 10.4658389
   longitude: -66.9949964

@@ -1,17 +1,18 @@
 region	bytes_sent
-unknown	142055357238
-GitHub	1955645212
+unknown	123095680450
+GitHub	2598823368
 CN/Shanghai	8340208
 US/Maryland	931136
 US/District of Columbia	1211404
 CA/Quebec	7435626056
-AWS/us-east-1	13614721728
-VPN	375503248
+AWS/us-east-1	18919573464
+VPN	926705712
 JP/Tokyo	465568
 SA/Eastern Province	232784
-IQ/Erbil	459472
-AWS/ap-southeast-1	125816556
-IQ/Al Anbar	439556
+IQ/Erbil	676160
+AWS/ap-southeast-1	134322936
+NL/North Holland	12933734812
+IQ/Al Anbar	698224
 VN/Hanoi	8797120
 BD/Dhaka Division	18640188
 AR/Buenos Aires	694588
@@ -22,10 +23,11 @@ HU/Pest County	11594916
 GB/England	2496672
 RU/Khakasiya Republic	208056
 IN/Uttar Pradesh	467336
-BR/São Paulo	1791904
+BR/São Paulo	2006336
 AE/Dubai	235100
 MX/Mexico City	469428
 AR/Santa Fe	254996
+VN/Ho Chi Minh City (HCMC)	40406848
 CL/Araucanía	249584
 VN/Lam Dong	11145068
 PK/Punjab	1385160
@@ -33,9 +35,11 @@ KE/Kisumu County	9040104
 EC/Guayas	10300836
 KZ/Astana	298436
 BR/Santa Catarina	528460
-IQ/Baghdad	35076744
+IQ/Baghdad	35554148
+BR/Rio de Janeiro	11489340
 DZ/Blida	8057484
-BR/Paraná	445724
+BR/Minas Gerais	1132828
+BR/Paraná	13350800
 AZ/Baki	883496
 KG/Chuy Region	427120
 AL/Tirana	214880
@@ -43,14 +47,14 @@ ID/East Java	214432
 BY/Gomel Oblast	247112
 BR/Maranhão	222836
 RU/Moscow	14241548
-JO/Amman	11786544
+JO/Amman	18009804
 BR/Federal District	234320
+AR/Buenos Aires F.D.	10559440
 MD/Chișinău Municipality	441376
 US/Nebraska	424868760
-VN/Ho Chi Minh City (HCMC)	28656048
 RU/Moscow Oblast	451324
 DZ/Algiers	462792
-PY/Asunción	4580160
+PY/Asunción	4804508
 GCP/us-central1	226796
 ID/West Java	245288
 JO/Zarqa	210032
@@ -59,42 +63,52 @@ IE/Connacht	228356
 IQ/Duhok	221024
 IN/West Bengal	435672
 ZA/Gauteng	15532256
+SN/Dakar	233840
 CI/Abidjan Autonomous District	481840
 BH/Manama	462988
 VN/Da Nang City	240404
 MA/Tanger-Tetouan-Al Hoceima	253076
-BR/Minas Gerais	910088
+BN/Brunei-Muara District	239408
+US/Virginia	1166112
 BD/Barisal Division	226616
 KE/Nairobi County	452772
 DO/Nacional	208056
 KZ/Almaty	439080
 BA/Federation of B&H	223928
-AR/Buenos Aires F.D.	10322828
 ZA/Western Cape	12534068
 VN/Ninh Binh	445704
-EG/Cairo	12970584
+BR/Sergipe	224024
+EG/Cairo	13194632
 VN/Thai Nguyen	228464
 MA/Souss-Massa	223724
 JM/Kingston	226724
 CO/Cesar Department	240200
 IQ/Diyālá	4339388
 MX/Jalisco	15721920
-BR/Rio de Janeiro	258668
+BR/Mato Grosso	229496
 CO/Magdalena Department	236384
 AL/Elbasan County	224348
 US/Pennsylvania	246752
+AM/Yerevan	10334984
+VE/Miranda	257948
 AO/Luanda	231548
 AE/Abu Dhabi	455036
+AE/Sharjah	225044
 LB/Beyrouth	208056
 IN/Gujarat	16508016
+CR/San José	260972
 MA/Oriental	260972
 GB/Scotland	247388
 VN/Phu Tho	247388
-MA/Casablanca-Settat	224192
+MA/Casablanca-Settat	440880
+ID/Central Java	222716
 IN/Uttarakhand	235748
+IN/Rajasthan	18709004
+UA/Crimea	214432
 AZ/Gǝncǝ	214432
+IN/Madhya Pradesh	14149728
 IL/Tel Aviv	11201868
-UZ/Tashkent	22585768
+UZ/Tashkent	22814552
 EC/Pichincha	14870316
 BR/Goiás	14542776
 NP/Bagmati Province	13167108
@@ -102,13 +116,15 @@ OM/Muscat	435424
 UA/Lviv	658288
 RU/Ulyanovsk	220816
 RU/Kirov Oblast	223184
+MX/Yucatán	225072
 ID/Lampung	223952
 VN/Dong Nai	658480
 XK/Pristina	223824
 VN/Cao Bằng Province	218736
 AR/Mendoza	216688
-SA/Riyadh Region	218736
+SA/Riyadh Region	446656
 BR/Pernambuco	10612296
+SY/Dimashq	220816
 AR/Corrientes	222984
 IQ/Nineveh	9040104
 DO/Santo Domingo Province	9520872
@@ -117,7 +133,6 @@ EG/Alexandria	218736
 NG/Rivers State	216688
 CA/British Columbia	214304
 MX/Sonora	220816
-US/Virginia	657872
 CO/Cundinamarca	220400
 VE/Falcón	216688
 VN/Bac Ninh	212240
@@ -130,12 +145,14 @@ EC/Cotopaxi	13101600
 CL/Santiago Metropolitan	13167108
 MX/Puebla	223664
 AR/Entre Rios	216688
+VN/Dak Lak	216688
 PK/Islamabad	216688
 PE/Arequipa	216688
 RS/Vojvodina	9826200
-IN/Rajasthan	18473256
 AM/Shirak	15918444
+KE/Isiolo County	9564168
 IN/Maharashtra	435424
+GA/Estuaire	218736
 PE/Lima region	216688
 UA/Odessa	216688
 AR/Chaco	218736
@@ -143,8 +160,8 @@ MY/Johor	216688
 IQ/Basra	218736
 ET/Addis Ababa	208056
 EG/Red Sea	208056
+RS/Central Serbia	220816
 UZ/Navoiy Region	220816
-AM/Yerevan	10088232
 BO/Santa Cruz Department	13101600
 HN/Cortés Department	13167108
 BG/Sofia-Capital	6878340

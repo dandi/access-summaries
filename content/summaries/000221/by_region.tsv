@@ -1,17 +1,17 @@
 region	bytes_sent
-unknown	201467187817
-GitHub	4118176836
+unknown	197550518029
+GitHub	4121275892
+AWS/us-east-2	1466088
 US/Maryland	31039988
-AWS/us-east-2	977392
 CA/Quebec	3312467260
 US/Florida	4451511042
-AWS/us-east-1	7465227332
-AWS/ap-southeast-1	809540700
+AWS/us-east-1	11326805840
+AWS/ap-southeast-1	846217556
 GB/England	3085011980
 NL/North Holland	7799452256
 US/Vermont	333782952
 JP/Tokyo	6968460
-VPN	7672286756
+VPN	12109604424
 MA/Casablanca-Settat	47315236
 IL/Northern District	11513360
 HK/Hong Kong	244585032
@@ -26,6 +26,7 @@ RU/Saratov Oblast	7698224
 BR/Minas Gerais	47394108
 PK/Islamabad	13073708
 AR/Buenos Aires F.D.	95849244
+PK/Punjab	109255064
 ET/Oromiya	8748116
 AL/Tirana	20074380
 UY/Montevideo Department	25682096
@@ -38,16 +39,17 @@ CO/Bogota D.C.	9025504
 VN/Dak Lak	17918280
 ZA/Mpumalanga	22431032
 VN/Ho Chi Minh City (HCMC)	114738764
-PK/Punjab	101225020
 AR/Buenos Aires	63701404
+BD/Rajshahi Division	44728024
 VE/Lara	14069168
-US/Virginia	73535328
+US/Virginia	89998896
 AL/Berat County	14268260
 BR/Goiás	35487484
 AZ/Baki	26898976
 SY/Aleppo	10020964
+VN/Bac Ninh	33984340
 RS/Central Serbia	31005576
-GCP/us-central1	27078792
+GCP/us-central1	38497272
 US/Minnesota	80455864
 VN/Dong Thap	2307348
 CL/Santiago Metropolitan	41613920
@@ -59,13 +61,12 @@ BW/Gaborone	9689144
 VN/Lam Dong	24742516
 IN/Karnataka	8522516
 RU/Bashkortostan Republic	10618240
-IQ/Baghdad	77130808
+IQ/Baghdad	81245376
 DZ/Blida	30859260
 MX/Nuevo León	27142876
-BD/Rajshahi Division	25880648
 VN/Hanoi	27672960
-ZA/Western Cape	19496024
-BR/São Paulo	194600164
+ZA/Western Cape	29675268
+BR/São Paulo	199674408
 MY/Selangor	9689144
 AR/Chubut	13073708
 JO/Amman	75191748
@@ -73,17 +74,21 @@ AR/Santa Cruz	13007344
 VE/Zulia	53184004
 MX/Sonora	13140072
 IN/Punjab	4490160
-SN/Dakar	25571260
+KZ/Almaty	4490160
+SN/Dakar	39574064
 VN/Thừa Thiên Huế Province	17104408
 VN/Thanh Hóa Province	14075032
+IL/Central District	17540952
 PS/West Bank	7682788
 PE/Lima region	3730576
 UZ/Tashkent	71916596
 IN/Delhi	10196888
+AE/Sharjah	612600
 ML/Bamako	409380
 PE/Amazonas	9468856
 PE/Lima Province	23227400
 NG/Lagos	13538256
+VN/Quảng Ninh	8693684
 IQ/Nineveh	12112352
 VE/Barinas	18913740
 DZ/Algiers	23625584
@@ -101,6 +106,7 @@ KG/Bishkek	12741888
 VN/Vinh Long	6437308
 RU/Chechnya	2079536
 PE/Arequipa	7200712
+CR/San José	39253888
 CO/Bolívar	9556416
 JM/Kingston	12609160
 BD/Sylhet Division	19842836
@@ -112,7 +118,6 @@ JO/Zarqa	19772840
 ID/Riau Islands	11746428
 EC/Pichincha	14268260
 BY/Brest	9888236
-CR/San José	27242004
 BA/Federation of B&H	8494592
 MA/Marrakesh-Safi	6167892
 RO/București	12144612
@@ -127,6 +132,7 @@ EC/Guayas	10485512
 ET/Addis Ababa	10320524
 VN/Lai Châu Province	7698224
 RU/Omsk Oblast	8627320
+ZA/KwaZulu-Natal	15529176
 AU/Queensland	4114568
 BR/Rio Grande do Sul	33867356
 AR/Salta	22497396
@@ -134,7 +140,6 @@ AR/Cordoba	19046468
 ZA/North West	10020964
 CA/Alberta	12228400
 SA/Tabuk Region	7963680
-ZA/KwaZulu-Natal	7631860
 VE/Distrito Federal	26366900
 MX/Morelos	5297684
 VN/Lao Cai	14998264
@@ -157,7 +162,6 @@ MX/Mexico City	18189032
 BR/Pernambuco	12210976
 CH/Basel-City	29341824
 SG/Singapore	30614144
-IL/Central District	14069168
 VN/Sơn La Province	8719884
 GE/Tbilisi	10419148
 MX/Querétaro	9423708
@@ -183,21 +187,22 @@ HN/Cortés Department	12011884
 PY/Alto Paraná Department	6570036
 IQ/Duhok	18995392
 NI/Managua Department	14002804
+VE/Portuguesa	20973992
 VN/Hưng Yên Province	4048204
 VN/Can Tho City	13670984
 VN/Dong Nai	18166172
 EC/Santa Elena	9224596
+CO/Atlántico	19710108
 IN/Gujarat	18117372
 IQ/Al Anbar	8522516
-VN/Bac Ninh	23433292
 BO/Santa Cruz Department	14523272
 IN/Kerala	6105488
 BR/Maranhão	13193328
-VE/Portuguesa	9908460
 EC/Chimborazo Province	16111792
 BR/Bahia	11879156
 RU/Vladimir Oblast	3471784
-CO/Atlántico	12144612
+ID/Riau	5773668
+UA/Kyiv City	11945520
 KZ/Aktyubinskaya Oblast’	10220056
 MX/México	18674484
 BO/La Paz Department	6256800
@@ -218,6 +223,7 @@ MX/Michoacán	8022528
 DZ/Ouargla	4114568
 NI/Chinandega Department	7698224
 IE/Leinster	878128
+AR/Chaco	4863432
 BD/Chittagong	9888236
 BR/Ceará	2053324
 BD/Mymensingh Division	4015152

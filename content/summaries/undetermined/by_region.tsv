@@ -1,55 +1,56 @@
 region	bytes_sent
-AWS/us-east-1	49813181400
-GCP/us-east1	32000572
-US/New Hampshire	640341748657
+AWS/us-east-1	51041371856
+GCP/us-east1	32075740
+US/New Hampshire	640341852013
 bogon	8081624
 KR/Seoul	14818715801
-US/Virginia	51513978517
-GitHub	97135661512
+US/Virginia	51619229685
+GitHub	100778157686
 US/Vermont	559439858461
-unknown	303270807713
 US/Connecticut	13722262073
-VPN	138913922315
+VPN	142276532274
 IT/Lombardy	7159307294
-GCP/us-central1	775342976
-AWS/us-east-2	110851992919
+GCP/us-central1	775418144
+AWS/us-east-2	110853132967
 NL/Flevoland	49417157933
 CA/Quebec	27994703797
-US/Texas	84162708
+US/Texas	84181500
 US/Maine	47825444
 US/Colorado	20697332
 US/Ohio	13432575404
-GCP/us-east4	20885252
+GCP/us-east4	20904044
 US/Hawaii	6662828
-US/New York	8461523083
-GCP/europe-west4	656264774
+US/California	858031254360
+unknown	294177196075
+US/New York	8486761448
+GCP/europe-west4	656302358
 US/Pennsylvania	405369375
 NO/Oslo	714853168
 IT/Emilia-Romagna	170499344
-US/California	857965355070
 US/New Jersey	192354094
 CN/Shaanxi	3498927610
-US/Georgia	1037861225
-AWS/ap-southeast-1	1923603236
+US/Georgia	1063390157
+AWS/ap-southeast-1	2003166456
 RO/Cluj County	6393196
 VN/Ho Chi Minh City (HCMC)	15039173
-BR/São Paulo	47466712
+GB/England	947593021
+BR/São Paulo	51254345
 IN/Punjab	6393196
 IN/Maharashtra	72933846
-US/Massachusetts	64460085885
+US/Massachusetts	64462444725
 FR/Île-de-France	7660100
 US/Nevada	2132647075
 MA/Oriental	6171852
-CN/Guangdong	7848020
+CN/Guangdong	7866812
 RU/Moscow	10255191
 GCP/asia-east1	6776316
-SG/Singapore	106205513
-CN/Beijing	2242517814
-FI/Uusimaa	71014608
-US/Illinois	28103436
+SG/Singapore	106224305
+CN/Beijing	2243184930
+FI/Uusimaa	73203858
+US/Illinois	29343708
 US/Iowa	676512
 CN/Zhejiang	2033880674
-ES/Catalonia	21174544
+ES/Catalonia	21465820
 AWS/us-west-2	112713265
 GCP/asia-northeast3	37584
 US/North Carolina	164576815
@@ -57,25 +58,26 @@ UY/Montevideo Department	1024152
 DO/Santo Domingo Province	169122
 GCP/us-east5	432216
 US/Missouri	3230319575
-CN/Shanghai	28806223169
-GCP/us-west3	281880
+CN/Shanghai	28806317129
+GCP/us-west3	338256
 GCP/asia-south1	310068
-US/Oregon	535571
+US/Oregon	554363
 GCP/europe-west1	319464
 MX/Guanajuato	375840
 US/Maryland	216108
+PA/Panamá	169128
 AWS/eu-central-1	385236
 GCP/europe-west3	206712
-CN/Hebei	281880
-US/Alabama	178525
-GCP/us-west4	9172587
+CN/Hebei	319464
+US/Alabama	234901
+GCP/us-west4	9191379
 AWS/eu-north-1	56376
 GCP/us-west2	65772
 HK/Hong Kong	13810991236
 AWS/us-west-1	75168
 SE/Norrbotten	620136
 GCP/us-west1	40468539
-US/Florida	169128
+US/Florida	364132
 US/Indiana	22774882641
 LU/Esch-sur-Alzette	263088
 PT/Lisbon	57706692
@@ -93,12 +95,11 @@ HK/Yau Tsim Mong District	18792
 IN/Bihar	37584
 IN/Rajasthan	6176544
 IT/Lazio	14586032
-GB/England	615115903
 SE/Stockholm	13714873002
 CH/Zurich	67306449
 US/Michigan	3871398660
 CN/Hainan	3576415738
-US/Wisconsin	13422297220
+US/Wisconsin	13447112084
 IT/Apulia	140472
 BR/Santa Catarina	173505216
 CH/Basel-City	56008
@@ -107,6 +108,7 @@ NL/North Holland	21688037090
 HK/Sha Tin	138779960
 JP/Okayama	35664542
 TR/Istanbul	18295752
+FR/Rhône-Alpes	18295752
 IT/Piedmont	4180932
 AU/South Australia	49050473378
 US/New Mexico	6624059684
@@ -122,6 +124,7 @@ CA/Alberta	50982540
 HU/Baranya	62001800
 NZ/Wellington Region	7897316
 CH/Vaud	375748369
+CH/Geneva	75165335
 AR/Chaco	1062003
 IR/Tehran	69779115
 AT/Tyrol	47759880
@@ -135,15 +138,19 @@ IQ/Baghdad	28738119
 MX/Sinaloa	16176835
 VN/Da Nang City	1093343
 ID/Yogyakarta	1093343
+VN/Lao Cai	1160159
 AR/Tucuman	2056611
 DZ/Ouargla	2056611
+JO/Amman	2701981
 PK/Sindh	9397868
 RU/Rostov	2724501
+IN/Tamil Nadu	67255983
 BA/Federation of B&H	1158052
 ID/Central Java	1487044
 OM/Muscat	1729435
 CL/Antofagasta	1523816
 KE/Nairobi County	1109087
+DE/Baden-Wurttemberg	6457815
 RU/Tambov Oblast	1860858
 MA/Souss-Massa	2154164
 KZ/Karaganda	934727
@@ -173,6 +180,7 @@ JP/Tokyo	25923717
 VE/Falcón	12053472
 VN/Ninh Binh	9171120
 JM/St. Elizabeth	12249996
+DZ/Sétif	7926468
 CI/Abidjan Autonomous District	4127004
 MX/Sonora	11267376
 VE/Apure	9695184
@@ -186,6 +194,7 @@ ET/Addis Ababa	5699196
 MX/Tabasco	13494648
 UZ/Tashkent	9236628
 DE/Thuringia	4127004
+PK/Punjab	9891708
 GA/Estuaire	4192512
 DZ/Blida	10022724
 AR/Cordoba	9891708

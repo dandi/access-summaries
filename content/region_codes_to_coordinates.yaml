@@ -37,6 +37,9 @@ AL/Tirana:
 AM/Aragatsotn:
   latitude: 40.3827655
   longitude: 44.114727
+AM/Ararat:
+  latitude: 40.0053589
+  longitude: 44.7315157
 AM/Kotayk:
   latitude: 40.370707
   longitude: 44.6884739
@@ -160,6 +163,9 @@ AU/Western Australia:
 AW/Aruba:
   latitude: 12.5175663
   longitude: -69.9818642
+AWS/af-south-1:
+  latitude: '-33.9258'
+  longitude: '18.4232'
 AWS/ap-east-1:
   latitude: '22.2783'
   longitude: '114.1747'
@@ -169,6 +175,9 @@ AWS/ap-northeast-1:
 AWS/ap-northeast-2:
   latitude: '37.4565'
   longitude: '126.7052'
+AWS/ap-south-1:
+  latitude: '19.0728'
+  longitude: '72.8826'
 AWS/ap-southeast-1:
   latitude: '1.2897'
   longitude: '103.8501'
@@ -295,6 +304,9 @@ BE/Wallonia:
 BF/Centre:
   latitude: 12.36732
   longitude: -1.5430869
+BG/Burgas:
+  latitude: 42.4936616
+  longitude: 27.4721276
 BG/Gabrovo:
   latitude: 42.9638895
   longitude: 25.2119538
@@ -328,6 +340,9 @@ BN/Brunei-Muara District:
 BN/Tutong:
   latitude: 4.682681
   longitude: 114.6562706
+BO/Chuquisaca Department:
+  latitude: -17.3582809
+  longitude: -63.3917984
 BO/Cochabamba:
   latitude: -17.4012458
   longitude: -66.1675681
@@ -544,6 +559,9 @@ CL/Coquimbo Region:
 CL/Los Lagos Region:
   latitude: -42.300844
   longitude: -73.105387
+CL/Maule Region:
+  latitude: -35.5972284
+  longitude: -71.48868
 CL/O'Higgins Region:
   latitude: -34.534538
   longitude: -71.0354822
@@ -673,6 +691,9 @@ CO/Caldas Department:
 CO/Casanare Department:
   latitude: 5.1749603
   longitude: -72.953691
+CO/Cauca Department:
+  latitude: -15.2621149
+  longitude: -71.2178503
 CO/Cesar Department:
   latitude: -15.0527816
   longitude: -74.8941218
@@ -1060,6 +1081,9 @@ GB/Wales:
 GCP/asia-east1:
   latitude: '25.0531'
   longitude: '121.5264'
+GCP/asia-northeast1:
+  latitude: '35.6895'
+  longitude: '139.6917'
 GCP/asia-northeast3:
   latitude: '37.5660'
   longitude: '126.9784'
@@ -1234,6 +1258,9 @@ HU/Budapest:
 "HU/Hajd\xFA-Bihar":
   latitude: 47.4407848
   longitude: 21.4752281
+"HU/J\xE1sz-Nagykun-Szolnok":
+  latitude: 47.2971598
+  longitude: 20.453178
 "HU/Kom\xE1rom-Esztergom":
   latitude: 47.6511599
   longitude: 18.2551911
@@ -1411,6 +1438,9 @@ IN/Tamil Nadu:
 IN/Telangana:
   latitude: 17.8495919
   longitude: 79.1151663
+IN/Tripura:
+  latitude: 23.7750823
+  longitude: 91.7025091
 IN/Uttar Pradesh:
   latitude: 27.1303344
   longitude: 80.859666
@@ -1816,6 +1846,9 @@ LK/Western Province:
 LT/Kaunas:
   latitude: 54.8982139
   longitude: 23.9044817
+"LT/Panev\u0117\u017Eys":
+  latitude: 55.7344985
+  longitude: 24.3578055
 LT/Vilnius:
   latitude: 54.6870458
   longitude: 25.2829111
@@ -1873,6 +1906,9 @@ MG/Atsinanana:
 MK/Grad Skopje:
   latitude: 41.9961816
   longitude: 21.4319213
+MK/Kumanovo:
+  latitude: 42.135913
+  longitude: 21.7185474
 MK/Ohrid:
   latitude: 41.1170203
   longitude: 20.8017715
@@ -1942,6 +1978,9 @@ MX/Chihuahua:
 MX/Coahuila:
   latitude: 27.3333331
   longitude: -102.0000001
+MX/Colima:
+  latitude: 19.166667
+  longitude: -104.0
 MX/Durango:
   latitude: 24.833333
   longitude: -104.833333
@@ -2203,6 +2242,9 @@ PE/Ancash:
 PE/Arequipa:
   latitude: -16.3988667
   longitude: -71.5369607
+PE/Cajamarca Department:
+  latitude: -7.186151
+  longitude: -78.3641336
 PE/Cuzco Department:
   latitude: -14.3627827
   longitude: -71.318629
@@ -2230,6 +2272,9 @@ PE/Lima region:
 PE/Pasco:
   latitude: -10.5
   longitude: -75.25
+PE/Piura:
+  latitude: -5.0
+  longitude: -80.333333
 PE/Tacna:
   latitude: -18.01386
   longitude: -70.2511032
@@ -2245,9 +2290,15 @@ PH/Central Luzon:
 PH/Central Visayas:
   latitude: 10.4734504
   longitude: 123.8648083
+PH/Cordillera:
+  latitude: 17.3597101
+  longitude: 121.0716923
 PH/Davao Region:
   latitude: 6.6481392
   longitude: 125.3562143
+PH/Eastern Visayas:
+  latitude: 11.2945278
+  longitude: 124.9959508
 PH/Ilocos:
   latitude: 18.166667
   longitude: 120.75
@@ -2416,6 +2467,9 @@ RO/Olt:
 RO/Prahova:
   latitude: 45.1087546
   longitude: 26.0378349
+RO/Satu Mare County:
+  latitude: 47.8
+  longitude: 22.88333
 RO/Sibiu County:
   latitude: 45.8
   longitude: 24.15
@@ -2716,6 +2770,9 @@ TH/Nonthaburi:
 TH/Pathum Thani:
   latitude: 14.048667
   longitude: 100.5640405
+TH/Phitsanulok:
+  latitude: 16.9779975
+  longitude: 100.3848239
 TH/Phuket:
   latitude: 7.9366015
   longitude: 98.3529292
@@ -2746,6 +2803,9 @@ TN/Tunis Governorate:
 TR/Adana:
   latitude: 36.9863599
   longitude: 35.3252861
+TR/Aksaray:
+  latitude: 38.4326291
+  longitude: 33.8976963
 TR/Ankara:
   latitude: 39.9207759
   longitude: 32.8540497
@@ -3067,6 +3127,9 @@ US/Wisconsin:
 US/Wyoming:
   latitude: 43.1700264
   longitude: -107.568534
+UY/Canelones:
+  latitude: -34.6222482
+  longitude: -55.9903797
 UY/Lavalleja:
   latitude: -33.9971964
   longitude: -54.9992242
@@ -3130,6 +3193,9 @@ VE/Monagas:
 "VE/M\xE9rida":
   latitude: 8.5816963
   longitude: -71.1658075
+VE/Nueva Esparta:
+  latitude: 10.9652923
+  longitude: -64.0955258
 VE/Portuguesa:
   latitude: 9.0188628
   longitude: -69.2736055

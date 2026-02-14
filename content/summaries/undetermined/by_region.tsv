@@ -1,66 +1,65 @@
 region	bytes_sent
-AWS/us-east-1	54058640855
+AWS/us-east-1	54964820353
 GCP/us-east1	32169700
-US/New Hampshire	875135706985
-bogon	8372900
-KR/Seoul	14819344417
-US/Virginia	56948884340
-GitHub	111076538747
-US/Vermont	582127913066
-US/Connecticut	27167279277
-VPN	184291792552
+US/New Hampshire	885340751785
+bogon	8382296
+KR/Seoul	14819363209
+US/Virginia	57589043843
+GitHub	112549224766
+US/Vermont	588552304484
+US/Connecticut	27167307462
+VPN	185099115394
 IT/Lombardy	7159307294
-GCP/us-central1	809060521
-AWS/us-east-2	114982678774
-NL/Flevoland	50730645331
-CA/Quebec	28578171816
+GCP/us-central1	809079313
+AWS/us-east-2	117529887433
+NL/Flevoland	51018580749
+CA/Quebec	29039532828
 US/Texas	84181500
 US/Maine	47825444
 US/Colorado	20697332
 US/Ohio	13432575404
 GCP/us-east4	20941628
 US/Hawaii	6662828
-US/California	895245703855
-IT/Lazio	21230068
-US/New York	9382775987
-GCP/europe-west4	712682482
-US/Pennsylvania	407094983
+US/California	905434936957
+IT/Lazio	27623264
+US/New York	9617853276
+GCP/europe-west4	713818718
+US/Pennsylvania	413439703
 NO/Oslo	725533932
 IT/Emilia-Romagna	170499344
-US/New Jersey	200059878
-CN/Shaanxi	3557647866
-US/Georgia	1099181261
-AWS/ap-southeast-1	2324891083
-CN/Beijing	2467309032
+US/New Jersey	200407530
+CN/Shaanxi	3633145338
+US/Georgia	1104828257
+AWS/ap-southeast-1	2327152520
+CN/Beijing	2558691630
 IN/Rajasthan	12820580
 RO/Cluj County	6393196
 VN/Ho Chi Minh City (HCMC)	23710310
-GB/England	36148835163
+GB/England	36148853955
 BR/São Paulo	51254345
 IN/Punjab	6393196
-IN/Maharashtra	72952638
-US/Massachusetts	67986253335
+IN/Maharashtra	75658490
+US/Massachusetts	68459098213
 FR/Île-de-France	7660100
 US/Nevada	2215229263
 MA/Oriental	6171852
-CN/Guangdong	7913792
+CN/Guangdong	13885560
 RU/Moscow	10255191
 GCP/asia-east1	6786158
-unknown	154945897
-SG/Singapore	117565271
-FI/Uusimaa	77854857
-US/Illinois	33647076
-US/Iowa	714096
+SG/Singapore	119275337
+FI/Uusimaa	78813243
+US/Illinois	34680636
+US/Iowa	732888
 CN/Zhejiang	2033880674
-ES/Catalonia	22283272
-AWS/us-west-2	112750849
+ES/Catalonia	22386628
+AWS/us-west-2	112779037
 GCP/asia-northeast3	37584
-US/North Carolina	164670775
+US/North Carolina	278814798
 UY/Montevideo Department	1099320
 DO/Santo Domingo Province	169122
 GCP/us-east5	451008
 US/Missouri	3230357159
-CN/Shanghai	29843280546
+CN/Shanghai	30096141629
 GCP/us-west3	375840
 GCP/asia-south1	347652
 US/Oregon	667112
@@ -70,35 +69,36 @@ PK/Punjab	10004460
 US/Maryland	216108
 PA/Panamá	187920
 AWS/eu-central-1	404028
-GCP/europe-west3	281880
+GCP/europe-west3	300672
 CN/Hebei	394632
 US/Alabama	272485
 GCP/us-west4	9191379
-AWS/eu-north-1	56376
+AWS/eu-north-1	75168
 GCP/us-west2	112752
-HK/Hong Kong	14702409111
+HK/Hong Kong	15139965197
 AWS/us-west-1	75168
-SE/Norrbotten	657720
-GCP/us-west1	9057418884
+SE/Norrbotten	667116
+GCP/us-west1	9057437676
 US/Florida	382924
-US/Indiana	23531803546
+US/Indiana	23599391944
 LU/Esch-sur-Alzette	263088
 PT/Lisbon	57706692
 CN/Inner Mongolia	140940
 US/Idaho	18792
 CN/Gansu	150336
-US/Washington	25104614714
-DO/Nacional	103350
+US/Washington	25106887623
+DO/Nacional	150330
 GCP/europe-west2	150336
 BR/Pernambuco	14561568
 HK/Sai Kung District	112752
-DO/La Altagracia Province	187920
+DO/La Altagracia Province	197313
 AU/Queensland	18486776
 HK/Yau Tsim Mong District	18792
 IN/Bihar	37584
 GCP/us-south1	75168
 AWS/ap-southeast-3	18792
-SE/Stockholm	13736615936
+unknown	139216010
+SE/Stockholm	13738459136
 CH/Zurich	67306449
 US/Michigan	3871398660
 BE/Flanders	13411878072
@@ -116,9 +116,9 @@ GE/Tbilisi	18295752
 JP/Okayama	35664542
 TR/Istanbul	18295752
 IT/Piedmont	4180932
-AU/South Australia	50481896965
+AU/South Australia	51027100483
 US/New Mexico	6738675932
-US/Tennessee	10833189263
+US/Tennessee	11331952882
 CA/Ontario	14290893708
 DE/State of Berlin	4667502193
 DE/North Rhine-Westphalia	15308212261
@@ -153,6 +153,7 @@ PK/Sindh	12400094
 RU/Rostov	2724501
 IN/Tamil Nadu	67255983
 BA/Federation of B&H	1158052
+AR/San Luis	1158052
 ID/Central Java	1487044
 OM/Muscat	10638523
 CL/Antofagasta	1523816
@@ -178,6 +179,7 @@ CO/Santander Department	10612296
 JM/Kingston	6878340
 IQ/Erbil	9826200
 AR/Santa Fe	12643044
+DE/Thuringia	13953204
 UA/Kyiv	33474588
 IQ/Wasit	11856948
 US/West Virginia	15394380
@@ -200,13 +202,14 @@ VE/Apure	9695184
 EC/Pichincha	16311492
 ID/East Java	9891708
 BD/Chittagong	9695184
+NZ/Hawke's Bay Region	10153740
 TT/San Fernando	12249996
 IN/Delhi	36422448
+PS/West Bank	15459888
 CL/O'Higgins Region	12381012
 ET/Addis Ababa	5699196
 MX/Tabasco	13494648
 UZ/Tashkent	9236628
-DE/Thuringia	4127004
 GA/Estuaire	4192512
 DZ/Blida	10022724
 AR/Cordoba	9891708

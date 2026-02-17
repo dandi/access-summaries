@@ -2,7 +2,7 @@ asset_path	bytes_sent
 sub-m1615/sub-m1615_ses-20220712T172906Z_photometry.nwb	881696
 sub-m1615/sub-m1615_ses-20220710T174725Z_photometry.nwb	1513806
 sub-m1615/sub-m1615_ses-20220709T170833Z_photometry.nwb	423920
-sub-m1615/sub-m1615_ses-20220708T150611Z_photometry.nwb	822464
+sub-m1615/sub-m1615_ses-20220708T150611Z_photometry.nwb	1028080
 sub-m1615/sub-m1615_ses-20220711T170132Z_photometry.nwb	430166
 sub-m1615/sub-m1615_ses-20220714T164827Z_photometry.nwb	224080
 sub-m1615/sub-m1615_ses-20220716T144200Z_photometry.nwb	439184
@@ -45,7 +45,7 @@ sub-m1615/sub-m1615_ses-20220906T170357Z_photometry.nwb	578435
 sub-m1615/sub-m1615_ses-20220908T152812Z_photometry.nwb	434944
 sub-m1615/sub-m1615_ses-20220913T141047Z_photometry.nwb	647448
 sub-m1615/sub-m1615_ses-20220909T161435Z_photometry.nwb	1536846
-sub-m1615/sub-m1615_ses-20220907T144800Z_photometry.nwb	226816
+sub-m1615/sub-m1615_ses-20220907T144800Z_photometry.nwb	453632
 sub-m1615/sub-m1615_ses-20220919T151431Z_photometry.nwb	644616
 sub-m1615/sub-m1615_ses-20220921T123537Z_photometry.nwb	677925
 sub-m1615/sub-m1615_ses-20220914T133821Z_photometry.nwb	849536
@@ -85,14 +85,14 @@ sub-m1616/sub-m1616_ses-20220726T190123Z_photometry.nwb	666552
 sub-m1616/sub-m1616_ses-20220727T142144Z_photometry.nwb	877984
 sub-m1616/sub-m1616_ses-20220729T141229Z_photometry.nwb	861472
 sub-m1616/sub-m1616_ses-20220731T174216Z_photometry.nwb	2033702
-sub-m1616/sub-m1616_ses-20220801T150705Z_photometry.nwb	1137840
+sub-m1616/sub-m1616_ses-20220801T150705Z_photometry.nwb	1365408
 sub-m1616/sub-m1616_ses-20220728T150212Z_photometry.nwb	2138747
 sub-m1616/sub-m1616_ses-20220803T122046Z_photometry.nwb	658488
 sub-m1616/sub-m1616_ses-20220805T144231Z_photometry.nwb	437840
 sub-m1616/sub-m1616_ses-20220808T133530Z_photometry.nwb	2640144
 sub-m1616/sub-m1616_ses-20220802T162227Z_photometry.nwb	1810640
 sub-m1616/sub-m1616_ses-20220809T142330Z_photometry.nwb	646488
-sub-m1616/sub-m1616_ses-20220804T141157Z_photometry.nwb	3459920
+sub-m1616/sub-m1616_ses-20220804T141157Z_photometry.nwb	5189880
 sub-m1616/sub-m1616_ses-20220810T153804Z_photometry.nwb	440528
 sub-m1616/sub-m1616_ses-20220811T125046Z_photometry.nwb	2945968
 sub-m1616/sub-m1616_ses-20220812T144215Z_photometry.nwb	863264
@@ -171,7 +171,7 @@ sub-m1618/sub-m1618_ses-20220811T131923Z_photometry.nwb	212928
 sub-m1618/sub-m1618_ses-20220815T133337Z_photometry.nwb	443216
 sub-m1618/sub-m1618_ses-20220812T151340Z_photometry.nwb	926867
 sub-m1618/sub-m1618_ses-20220814T120742Z_photometry.nwb	908584
-sub-m1618/sub-m1618_ses-20220822T153928Z_photometry.nwb	215059
+sub-m1618/sub-m1618_ses-20220822T153928Z_photometry.nwb	430118
 sub-m1618/sub-m1618_ses-20220819T125724Z_photometry.nwb	215368
 sub-m1618/sub-m1618_ses-20220823T143551Z_photometry.nwb	212208
 sub-m1618/sub-m1618_ses-20220825T173638Z_photometry.nwb	425712
@@ -271,10 +271,10 @@ sub-m1620/sub-m1620_ses-20221013T132110Z_photometry.nwb	411392
 sub-m1620/sub-m1620_ses-20221015T181106Z_photometry.nwb	207520
 sub-m1620/sub-m1620_ses-20221012T135622Z_photometry.nwb	2290085
 sub-m1620/sub-m1620_ses-20221015T182130Z_photometry.nwb	630720
-sub-m1620/sub-m1620_ses-20221014T143551Z_photometry.nwb	959110
+sub-m1620/sub-m1620_ses-20221014T143551Z_photometry.nwb	1438665
 sub-m1620/sub-m1620_ses-20221027T121634Z_photometry.nwb	644352
 sub-m1620/sub-m1620_ses-20221016T160625Z_photometry.nwb	430118
-sub-m1620/sub-m1620_ses-20221017T142341Z_photometry.nwb	430864
+sub-m1620/sub-m1620_ses-20221017T142341Z_photometry.nwb	861728
 sub-m1620/sub-m1620_ses-20221028T113346Z_photometry.nwb	643872
 sub-m1620/sub-m1620_ses-20221031T144551Z_photometry.nwb	1473200
 sub-m1621/sub-m1621_ses-20220801T170428Z_photometry.nwb	430608
@@ -332,6 +332,7 @@ sub-m1621/sub-m1621_ses-20221013T145259Z_photometry.nwb	1922550
 sub-m1621/sub-m1621_ses-20221028T120702Z_photometry.nwb	215304
 sub-m1621/sub-m1621_ses-20221027T124637Z_photometry.nwb	437264
 sub-m1636/sub-m1636_ses-20220825T112717Z_photometry.nwb	431120
+sub-m1636/sub-m1636_ses-20220822T140210Z_photometry.nwb	216234
 sub-m1636/sub-m1636_ses-20220823T163257Z_photometry.nwb	657336
 sub-m1636/sub-m1636_ses-20220824T181028Z_photometry.nwb	221704
 sub-m1636/sub-m1636_ses-20220828T112151Z_photometry.nwb	879136

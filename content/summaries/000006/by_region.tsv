@@ -1,14 +1,14 @@
 region	bytes_sent
-GitHub	4226737592
-AWS/us-east-2	520878424
-US/North Carolina	57026104
-VPN	158927360
-US/Virginia	2403468948
+GitHub	4284727424
+AWS/us-east-2	521040968
+US/North Carolina	57823024
+VPN	159312244
+US/Virginia	2426889132
 GCP/us-east1	123426648
 bogon	2998512
 PT/Lisbon	2266708
 GCP/us-west1	1593840
-US/New York	130939308
+US/New York	132201812
 US/Indiana	796920
 CA/Quebec	132405208
 US/Ohio	68006348
@@ -16,11 +16,11 @@ US/Colorado	119700088
 US/Georgia	132579848
 GCP/us-east4	119355516
 KR/Seoul	97801932
-US/California	668651300
+US/California	669099736
 GCP/us-central1	15108876
 AWS/ap-southeast-1	25785516
 US/Michigan	1267728
-US/Vermont	76523112
+US/Vermont	77801872
 GCP/europe-west4	123003424
 US/Maine	120313748
 RU/Moscow	796920
@@ -31,13 +31,13 @@ MX/Mexico City	796920
 IN/Maharashtra	9694256
 NO/Agder	796920
 US/Pennsylvania	1407864
-AWS/us-east-1	336352088
+AWS/us-east-1	336432080
 VN/Ho Chi Minh City (HCMC)	4793408
 JP/Osaka	20279980
 CN/Guangdong	36839608
-US/New Jersey	177534808
+US/New Jersey	179408456
 US/Texas	1061916
-IN/Rajasthan	14919200
+IN/Rajasthan	19670824
 IT/Lombardy	404349760
 IT/Emilia-Romagna	103708880
 NO/Oslo	42902972
@@ -49,15 +49,16 @@ RU/Krasnodar Krai	8194336
 US/Nevada	18068328
 GB/England	4690424
 AWS/us-west-2	276632
-NL/Flevoland	24681824
+NL/Flevoland	25385336
 AR/La Pampa	281012
-US/Massachusetts	47440368
-unknown	2999224
+US/Massachusetts	47892716
+IQ/Karbala	450860
 IQ/An Najaf	604844
 US/Mississippi	14575284
 VN/Dong Thap	499864
 RU/Vladimir Oblast	499864
 IR/Tehran	15266640
+CA/Alberta	426444
 EG/Sharqia	357424
 CN/Shaanxi	809460
 CO/Antioquia	5519112
@@ -67,8 +68,8 @@ ES/Valencia	654184
 US/Hawaii	32792312
 OM/Muscat	1041684
 MX/México	602808
-SE/Stockholm	6332872
-AU/New South Wales	1809392
+SE/Stockholm	6785220
+AU/New South Wales	2261740
 MX/Oaxaca	452348
 GCP/us-west3	452348
 BZ/Belize District	452348
@@ -87,5 +88,6 @@ BR/Federal District	338652
 HR/Zagreb	438876
 BR/Minas Gerais	258992
 RU/Tula Oblast	258992
+GCP/asia-southeast1	258992
 MY/Perak	352892
 BR/Rio de Janeiro	5670812

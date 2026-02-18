@@ -6,7 +6,7 @@ sub-M042/sub-M042_ses-20230316T150907_behavior+ophys.nwb	70810832
 sub-M045/sub-M045_ses-20230516T084234_behavior+ophys.nwb	97793472
 sub-M042/sub-M042_ses-20230316T150632_behavior+ophys.nwb	31779444
 sub-M045/sub-M045_ses-20230517T090242_behavior+ophys.nwb	71874536
-sub-M042/sub-M042_ses-20230316T150921_behavior+ophys.nwb	9125760
+sub-M042/sub-M042_ses-20230316T150921_behavior+ophys.nwb	13318272
 sub-M045/sub-M045_ses-20230609T081549_behavior+ophys.nwb	28356692
 sub-M045/sub-M045_ses-20230602T073131_behavior+ophys.nwb	26735328
 sub-M045/sub-M045_ses-20230526T080136_behavior+ophys.nwb	74903868
@@ -22,11 +22,11 @@ sub-M052/sub-M052_ses-20230616T081803_behavior+ophys.nwb	8388608
 sub-M053/sub-M053_ses-20230509T142044_behavior+ophys.nwb	17529048
 sub-M053/sub-M053_ses-20230511T115930_behavior+ophys.nwb	172775948
 sub-M053/sub-M053_ses-20230515T111523_behavior+ophys.nwb	58487304
-sub-M052/sub-M052_ses-20230602T075920_behavior+ophys.nwb	62277252
+sub-M052/sub-M052_ses-20230602T075920_behavior+ophys.nwb	71251848
 sub-M053/sub-M053_ses-20230529T072653_behavior+ophys.nwb	119482452
 sub-M053/sub-M053_ses-20230602T082206_behavior+ophys.nwb	29360128
 sub-M053/sub-M053_ses-20230609T090401_behavior+ophys.nwb	18463296
-sub-M053/sub-M053_ses-20230623T073030_behavior+ophys.nwb	16533028
+sub-M053/sub-M053_ses-20230623T073030_behavior+ophys.nwb	65313912
 sub-M053/sub-M053_ses-20230616T083741_behavior+ophys.nwb	80287528
 sub-M054/sub-M054_ses-20240202T080547_behavior+ophys.nwb	15306648
 sub-M054/sub-M054_ses-20240205T091802_behavior+ophys.nwb	11528588
@@ -45,7 +45,7 @@ sub-M055/sub-M055_ses-20240220T093919_behavior+ophys.nwb	76425032
 sub-M055/sub-M055_ses-20240227T131148_behavior+ophys.nwb	25486196
 sub-M055/sub-M055_ses-20240305T100816_behavior+ophys.nwb	77404848
 sub-M056/sub-M056_ses-20240202T090150_behavior+ophys.nwb	28244252
-sub-M056/sub-M056_ses-20240203T111744_behavior+ophys.nwb	47876640
+sub-M056/sub-M056_ses-20240203T111744_behavior+ophys.nwb	51938136
 sub-M056/sub-M056_ses-20240209T102926_behavior+ophys.nwb	54481296
 sub-M056/sub-M056_ses-20240205T100630_behavior+ophys.nwb	104696744
 sub-M056/sub-M056_ses-20240213T131353_behavior+ophys.nwb	27760668
@@ -86,8 +86,8 @@ sub-M061/sub-M061_ses-20240405T120028_behavior+ophys.nwb	14939408
 sub-M063/sub-M063_ses-20240517T085328_behavior+ophys.nwb	60455784
 sub-M063/sub-M063_ses-20240518T121517_behavior+ophys.nwb	26147100
 sub-M063/sub-M063_ses-20240522T110348_behavior+ophys.nwb	27262976
-sub-M063/sub-M063_ses-20240530T112659_behavior+ophys.nwb	52951916
-sub-M063/sub-M063_ses-20240603T073647_behavior+ophys.nwb	75101736
+sub-M063/sub-M063_ses-20240530T112659_behavior+ophys.nwb	60812876
+sub-M063/sub-M063_ses-20240603T073647_behavior+ophys.nwb	85587496
 sub-M063/sub-M063_ses-20240610T071156_behavior+ophys.nwb	60861136
 sub-M061/sub-M061_ses-20240315T101332_behavior+ophys.nwb	54013968
 sub-M063/sub-M063_ses-20240617T080206_behavior+ophys.nwb	57627880
@@ -102,11 +102,11 @@ sub-M065/sub-M065_ses-20240518T144959_behavior+ophys.nwb	85863324
 sub-M065/sub-M065_ses-20240523T091523_behavior+ophys.nwb	26865448
 sub-M064/sub-M064_ses-20240530T115416_behavior+ophys.nwb	165517360
 sub-M064/sub-M064_ses-20240624T085424_behavior+ophys.nwb	11665984
-sub-M065/sub-M065_ses-20240530T122825_behavior+ophys.nwb	166291004
+sub-M065/sub-M065_ses-20240530T122825_behavior+ophys.nwb	171533884
 sub-M065/sub-M065_ses-20240603T085411_behavior+ophys.nwb	99889420
 sub-M065/sub-M065_ses-20240515T092439_behavior+ophys.nwb	18554712
 sub-M065/sub-M065_ses-20240610T080239_behavior+ophys.nwb	12889352
-sub-M065/sub-M065_ses-20240617T084352_behavior+ophys.nwb	64877056
+sub-M065/sub-M065_ses-20240617T084352_behavior+ophys.nwb	70119936
 sub-M065/sub-M065_ses-20240624T091412_behavior+ophys.nwb	56889728
 sub-M068/sub-M068_ses-20240523T093959_behavior+ophys.nwb	71175456
 sub-M068/sub-M068_ses-20240524T123655_behavior+ophys.nwb	17758492
@@ -129,7 +129,7 @@ sub-M076/sub-M076_ses-20241017T081031_behavior+ophys.nwb	39248428
 sub-M076/sub-M076_ses-20241024T120017_behavior+ophys.nwb	13631488
 sub-M076/sub-M076_ses-20241104T083551_behavior+ophys.nwb	60465440
 sub-M076/sub-M076_ses-20241111T091818_behavior+ophys.nwb	68346608
-sub-M079/sub-M079_ses-20241009T100836_behavior+ophys.nwb	23357208
+sub-M079/sub-M079_ses-20241009T100836_behavior+ophys.nwb	31545708
 sub-M076/sub-M076_ses-20241118T090220_behavior+ophys.nwb	29862796
 sub-M079/sub-M079_ses-20241015T092247_behavior+ophys.nwb	11214712
 sub-M079/sub-M079_ses-20241020T102858_behavior+ophys.nwb	36230692

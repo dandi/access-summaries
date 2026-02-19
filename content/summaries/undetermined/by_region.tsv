@@ -1,39 +1,39 @@
 region	bytes_sent
-AWS/us-east-1	59600640348
+AWS/us-east-1	59987637539
 GCP/us-east1	32226076
-US/New Hampshire	928016810029
+US/New Hampshire	939664365569
 bogon	8513840
 KR/Seoul	22048305679
-US/Virginia	62521673870
-GitHub	118368351546
-US/Vermont	627036064844
-US/Connecticut	27167561148
-VPN	195999574894
+US/Virginia	62583279318
+GitHub	119990479827
+US/Vermont	635016521783
+US/Connecticut	27175268225
+VPN	199214210474
 IT/Lombardy	7344094728
-GCP/us-central1	810927831
-AWS/us-east-2	122783685718
-NL/Flevoland	52581687993
-CA/Quebec	30443983554
+GCP/us-central1	810984207
+AWS/us-east-2	124295195084
+NL/Flevoland	53010673805
+CA/Quebec	31121790494
 US/Texas	84181500
 US/Maine	47825444
-US/Colorado	20697332
+US/Colorado	20716124
 US/Ohio	13432575404
 GCP/us-east4	20941628
 US/Hawaii	6662828
-US/California	954174769657
+US/California	961783505338
 IT/Lazio	27623264
-US/New York	11096234140
+US/New York	11222994218
 GCP/europe-west4	714063014
-US/Pennsylvania	423861258
+US/Pennsylvania	424289650
 NO/Oslo	725533932
 IT/Emilia-Romagna	170499344
-US/New Jersey	208489154
-CN/Shaanxi	3966481693
-US/Georgia	1126946441
-AWS/ap-southeast-1	2456322696
-CN/Beijing	2733678761
+US/New Jersey	208855598
+CN/Shaanxi	4117476637
+US/Georgia	1132668605
+AWS/ap-southeast-1	2482337384
+CN/Beijing	2797642921
 IN/Rajasthan	12839372
-US/Massachusetts	72800723130
+US/Massachusetts	73104709869
 RO/Cluj County	6393196
 VN/Ho Chi Minh City (HCMC)	24527543
 GB/England	36166967039
@@ -41,32 +41,32 @@ BR/São Paulo	51254345
 IN/Punjab	6393196
 IN/Maharashtra	77092353
 FR/Île-de-France	7660100
-US/Nevada	2422508281
+US/Nevada	2423723107
 MA/Oriental	6171852
 CN/Guangdong	13885560
 RU/Moscow	10255191
-GCP/asia-east1	6803398
-SG/Singapore	126331706
-FI/Uusimaa	83060202
-US/Illinois	39359844
+GCP/asia-east1	6803726
+SG/Singapore	128455199
+FI/Uusimaa	84159528
+US/Illinois	40468572
 US/Iowa	751680
-CN/Zhejiang	2454403732
-ES/Catalonia	2774975523
+CN/Zhejiang	2454422524
+ES/Catalonia	2774994315
 AWS/us-west-2	112797829
 GCP/asia-northeast3	37584
-US/North Carolina	278889966
-UY/Montevideo Department	1174488
+US/North Carolina	278927550
+UY/Montevideo Department	1202676
 DO/Santo Domingo Province	187914
 GCP/us-east5	488592
 US/Missouri	3230394743
-CN/Shanghai	31511879360
+CN/Shanghai	31815666622
 GCP/us-west3	394632
 GCP/asia-south1	366444
-US/Oregon	685905
+US/Oregon	704695
 GCP/europe-west1	573156
 MX/Guanajuato	413424
 PK/Punjab	10004460
-US/Maryland	216108
+US/Maryland	234900
 PA/Panamá	206712
 AWS/eu-central-1	422820
 GCP/europe-west3	319464
@@ -75,33 +75,33 @@ US/Alabama	281882
 GCP/us-west4	9228963
 AWS/eu-north-1	75168
 GCP/us-west2	112752
-HK/Hong Kong	15192146656
+HK/Hong Kong	15200535264
 AWS/us-west-1	75168
 SE/Norrbotten	704700
 GCP/us-west1	9057437676
 US/Florida	382924
-US/Indiana	24461581053
+US/Indiana	25001779560
 LU/Esch-sur-Alzette	263088
 PT/Lisbon	57706692
 CN/Inner Mongolia	140940
 US/Idaho	18792
 CN/Gansu	187920
-US/Washington	25586545192
+US/Washington	25642904836
 DO/Nacional	150330
 GCP/europe-west2	169128
 BR/Pernambuco	14561568
-HK/Sai Kung District	122148
+HK/Sai Kung District	140940
 DO/La Altagracia Province	272481
 AU/Queensland	18486776
 HK/Yau Tsim Mong District	18792
 IN/Bihar	37584
-GCP/us-south1	75168
+GCP/us-south1	93960
 AWS/ap-southeast-3	18792
 IS/Capital Region	18792
-unknown	9650153
-SE/Stockholm	27178019341
+unknown	138377529
+SE/Stockholm	27178940941
 CH/Zurich	67306449
-US/Michigan	3873270660
+US/Michigan	3879102660
 BE/Flanders	13411878072
 CN/Hainan	3586118992
 US/Wisconsin	13447112084
@@ -110,27 +110,27 @@ BR/Santa Catarina	173505216
 CH/Basel-City	56008
 CN/Tianjin	140124124
 FR/Rhône-Alpes	54165025
-NL/North Holland	22308848811
+NL/North Holland	22380329669
 GB/Scotland	13087160
 HK/Sha Tin	138779960
 GE/Tbilisi	18295752
 JP/Okayama	35664542
 TR/Istanbul	18295752
 IT/Piedmont	4180932
-AU/South Australia	53557396298
-US/New Mexico	6741381784
+AU/South Australia	53818211277
+US/New Mexico	6812948623
 US/Tennessee	11331952882
-CA/Ontario	14337907568
+CA/Ontario	18223892907
 DE/State of Berlin	4667502193
 DE/North Rhine-Westphalia	16132125287
 US/Minnesota	122283223
 ZA/Western Cape	29108277
 US/Arizona	721480277
+HU/Baranya	106086112
 IN/Karnataka	16777216
 NZ/Auckland	24229755
 US/Oklahoma	12741888
 CA/Alberta	50982540
-HU/Baranya	106064424
 NZ/Wellington Region	7897316
 CH/Vaud	375748369
 US/Rhode Island	706103297
@@ -157,6 +157,7 @@ DZ/Ouargla	2056611
 JO/Amman	2701981
 PK/Sindh	12400094
 RU/Rostov	2724501
+RU/Moscow Oblast	2951914
 BA/Federation of B&H	11508316
 AR/San Luis	1158052
 ID/Central Java	1487044
@@ -166,6 +167,7 @@ MA/Rabat-Salé-Kénitra	1000361
 KE/Nairobi County	1109087
 IQ/Nineveh	1860858
 RU/Tambov Oblast	1860858
+NP/Bagmati Province	1146681
 FR/Nouvelle-Aquitaine	8491122
 MA/Souss-Massa	2154164
 KZ/Karaganda	934727

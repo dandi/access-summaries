@@ -1,65 +1,66 @@
 region	bytes_sent
-AWS/us-east-1	61680575563
-GCP/us-east1	32244868
-US/New Hampshire	962823842708
-bogon	8532632
+AWS/us-east-1	62587081491
+GCP/us-east1	32282452
+US/New Hampshire	973902933615
+bogon	8551424
 KR/Seoul	22048343263
-US/Virginia	63159854320
-GitHub	122850202699
-US/Vermont	652711163238
-US/Connecticut	27182025013
-VPN	200733723876
+US/Virginia	63202284672
+GitHub	123906536690
+US/Vermont	665549454066
+US/Connecticut	27182062597
+VPN	201305347567
 IT/Lombardy	7376742185
-GCP/us-central1	865313977
-AWS/us-east-2	127507242283
-NL/Flevoland	54365672798
-CA/Quebec	31941680814
-US/Texas	84200292
+GCP/us-central1	865332769
+AWS/us-east-2	128074676750
+NL/Flevoland	54581673020
+CA/Quebec	32907331484
+US/Texas	84219084
 US/Maine	47825444
 US/Colorado	20716124
 US/Ohio	13450871156
 GCP/us-east4	20941628
 US/Hawaii	6662828
-US/California	985041072091
+US/California	991053490593
 IT/Lazio	27623264
-US/New York	12161352556
-GCP/europe-west4	714100598
+US/New York	12296899991
+GCP/europe-west4	714194558
 US/Pennsylvania	425211250
 NO/Oslo	735076492
 IT/Emilia-Romagna	170499344
-US/New Jersey	209438150
+US/New Jersey	209691842
 CN/Shaanxi	4351908188
-US/Georgia	1143483401
-AWS/ap-southeast-1	2542355532
-CN/Beijing	2864256990
+US/Georgia	1148933081
+AWS/ap-southeast-1	2590894834
+CN/Beijing	2864698593
 IN/Rajasthan	12839372
-US/Massachusetts	79257739148
+US/Massachusetts	79866574414
 RO/Cluj County	6393196
 VN/Ho Chi Minh City (HCMC)	25243337
-GB/England	36166985831
+GB/England	36177471591
 BR/São Paulo	51254345
 IN/Punjab	6393196
 IN/Maharashtra	77092353
+unknown	92608329
 FR/Île-de-France	7660100
 US/Nevada	2494334403
 MA/Oriental	6171852
 CN/Guangdong	13894956
 RU/Moscow	10255191
-GCP/asia-east1	6803796
-SG/Singapore	132476678
-FI/Uusimaa	86076303
-US/Illinois	42836364
-US/Iowa	770472
+GCP/asia-east1	6812379
+SG/Singapore	134205539
+FI/Uusimaa	87072279
+US/Illinois	44226972
+US/Iowa	789264
 CN/Zhejiang	2454460108
-ES/Catalonia	2775135255
-AWS/us-west-2	112816621
+ES/Catalonia	2775210423
+AWS/us-west-2	112835413
 GCP/asia-northeast3	37584
-US/North Carolina	278927550
+US/North Carolina	278955738
 UY/Montevideo Department	1221468
 DO/Santo Domingo Province	187914
 GCP/us-east5	488592
-US/Missouri	3230394743
-CN/Shanghai	32592070184
+US/Missouri	4212414071
+CN/Shanghai	32850584684
 GCP/us-west3	394632
 GCP/asia-south1	366444
 US/Oregon	723487
@@ -72,21 +73,21 @@ AWS/eu-central-1	432216
 GCP/europe-west3	338256
 CN/Hebei	394632
 US/Alabama	281882
-GCP/us-west4	9228963
+GCP/us-west4	9266547
 AWS/eu-north-1	75168
 GCP/us-west2	112752
-HK/Hong Kong	15303118145
+HK/Hong Kong	15709930046
 AWS/us-west-1	93960
 SE/Norrbotten	751680
 GCP/us-west1	9212578555
 US/Florida	382924
-US/Indiana	25562523022
+US/Indiana	25562859810
 LU/Esch-sur-Alzette	263088
 PT/Lisbon	57725484
 CN/Inner Mongolia	140940
 US/Idaho	18792
-CN/Gansu	187920
-US/Washington	25854584909
+CN/Gansu	206712
+US/Washington	25887055932
 DO/Nacional	150330
 GCP/europe-west2	169128
 BR/Pernambuco	14561568
@@ -97,9 +98,8 @@ HK/Yau Tsim Mong District	18792
 IN/Bihar	37584
 GCP/us-south1	93960
 AWS/ap-southeast-3	18792
-IS/Capital Region	18792
-unknown	78971404
-SE/Stockholm	27202261995
+IS/Capital Region	56376
+SE/Stockholm	27203593195
 CH/Zurich	67306449
 US/Michigan	4470852928
 BE/Flanders	13411878072
@@ -116,9 +116,9 @@ HK/Sha Tin	138779960
 GE/Tbilisi	18295752
 JP/Okayama	35664542
 TR/Istanbul	18295752
-IT/Piedmont	111466790
-AU/South Australia	55366873829
-US/New Mexico	7141309779
+IT/Piedmont	258614600
+AU/South Australia	56287372336
+US/New Mexico	7293152497
 US/Tennessee	11331952882
 CA/Ontario	18268502336
 DE/State of Berlin	4799553595
@@ -133,7 +133,7 @@ US/Oklahoma	12741888
 CA/Alberta	50982540
 NZ/Wellington Region	7897316
 CH/Vaud	375748369
-US/Rhode Island	706103297
+US/Rhode Island	992084617
 CH/Geneva	75165335
 AR/Chaco	1062003
 IR/Tehran	78823829
@@ -181,6 +181,7 @@ UA/Kyiv City	9826200
 US/Montana	9111220197
 ID/West Java	565825448
 AWS/ap-northeast-1	56023076
+GCP/asia-northeast1	56023076
 TN/Tunis Governorate	4127004
 CO/Santander Department	10612296
 JM/Kingston	6878340
@@ -229,5 +230,5 @@ IL/Southern District	40999840
 DE/Bavaria	122485412
 JP/Miyagi	857333424
 IR/Razavi Khorasan	50695024
-IN/Kerala	285981320
+IN/Kerala	571962640
 MX/Mexico City	10566544

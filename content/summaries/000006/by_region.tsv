@@ -1,30 +1,30 @@
 region	bytes_sent
-GitHub	4565463128
-AWS/us-east-2	523775876
-US/North Carolina	60213784
-VPN	179485652
-US/Virginia	2575805236
+GitHub	4715773872
+AWS/us-east-2	557675636
+US/North Carolina	61807624
+VPN	200118324
+US/Virginia	2643508604
 GCP/us-east1	123878996
-bogon	3795432
+bogon	3795532
 PT/Lisbon	2266708
 GCP/us-west1	32854848
-US/New York	134268188
+US/New York	136179428
 US/Indiana	796920
 CA/Quebec	251308376
 US/Ohio	68803268
 US/Colorado	119700088
-US/Georgia	133484544
+US/Georgia	135186160
 GCP/us-east4	119355516
 KR/Seoul	97801932
-US/California	692399288
-GCP/us-central1	15108876
+US/California	697177824
+GCP/us-central1	20793752
 AWS/ap-southeast-1	25785516
-US/Michigan	1267728
-US/Vermont	82342884
+US/Michigan	1738536
+US/Vermont	82947728
 GCP/europe-west4	123003424
 US/Maine	120313748
 RU/Moscow	796920
-US/New Hampshire	885030657
+US/New Hampshire	885935353
 CN/Shanghai	41377648
 CN/Beijing	2203408
 MX/Mexico City	796920
@@ -32,13 +32,14 @@ IN/Maharashtra	9694256
 NO/Agder	796920
 US/Pennsylvania	1911032
 JP/Okayama	796920
-US/New Jersey	184160080
+US/Texas	1858836
+US/New Jersey	195521948
 GCP/asia-east1	19287776
 AWS/us-east-1	336473864
 PT/Braga	12939768
 DE/State of Berlin	41517844
 ML/Bamako	324348
-NL/Flevoland	30461308
+NL/Flevoland	30961172
 EG/Sharqia	357424
 NO/Oslo	42902972
 VN/Da Nang City	338652
@@ -52,11 +53,11 @@ MX/San Luis Potosí	465540
 IQ/Kirkuk	465540
 IT/Lombardy	404349760
 IT/Emilia-Romagna	103708880
-GB/England	5465928
+GB/England	5789084
 IN/Rajasthan	19670824
 AWS/us-west-2	276632
 US/Nevada	23115928
-JP/Osaka	20279980
+JP/Osaka	31756056
 RU/Krasnodar Krai	8194336
 US/Mississippi	14575284
 BR/Minas Gerais	258992
@@ -67,7 +68,6 @@ IL/Tel Aviv	374788
 SE/Stockholm	6785220
 AU/New South Wales	2261740
 MX/Oaxaca	452348
-US/Texas	1061916
 GCP/us-west3	452348
 BZ/Belize District	452348
 JP/Aichi	52456
@@ -76,6 +76,8 @@ MX/Tabasco	79992
 IN/Karnataka	904696
 US/Washington	535916
 IR/Tehran	15266640
+unknown	505884
+PS/West Bank	813220
 PK/Punjab	654184
 AR/San Juan	654184
 ES/Valencia	654184

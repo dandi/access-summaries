@@ -1,44 +1,45 @@
 region	bytes_sent
-US/Massachusetts	1026155350317
+US/Massachusetts	1053287127797
 GCP/asia-east1	1971150439
 GCP/us-east4	1793145904
-VPN	1020317311205
-US/Virginia	21399184278
-AWS/us-east-1	770121577878
-CN/Shanghai	676665464847
-US/Hawaii	644712400
-GCP/us-central1	5196263847
-US/Washington	1032624330
-US/New Hampshire	319082604104
-GitHub	18535671801
+VPN	1035741610833
+US/Virginia	21791612675
+AWS/us-east-1	792101740482
+CN/Shanghai	696568543722
+US/Hawaii	644722792
+GCP/us-central1	5487631582
+US/Washington	1036425178
+US/New Hampshire	319223938699
+GitHub	18876481265
 US/Maryland	25788820
-US/District of Columbia	212810231
-NL/Flevoland	458557617282
-US/South Carolina	93924
-US/California	460008292904
-CN/Guangdong	14998631769
-AWS/ap-southeast-1	639647958
-US/Illinois	1250345
-US/Texas	195808138
-VN/Ho Chi Minh City (HCMC)	15066223
-US/Connecticut	3217201496
+US/District of Columbia	212813337
+NL/Flevoland	468569990279
+US/South Carolina	99702
+US/California	477392921151
+CN/Guangdong	15005484353
+AWS/ap-southeast-1	655307458
+US/Illinois	1252953
+US/Texas	196013812
+VN/Ho Chi Minh City (HCMC)	15247447
+US/Connecticut	3217204591
 VN/Hanoi	3376
-US/Nevada	290842972
-GB/England	1490608825
-CA/Quebec	147829231139
-BR/Minas Gerais	13780697
-AWS/us-east-2	10260904785
+US/Nevada	290843080
+GB/England	1501372265
+CA/Quebec	150775240703
+BR/Minas Gerais	13780986
+AWS/us-east-2	10517848993
 KR/Busan	7886608
+US/Arizona	65927738
 KE/Nairobi County	1360
-US/New York	3294556113
+US/New York	3323067444
 VN/Lao Cai	211
 VN/Ninh Binh	1367
-HK/Hong Kong	1884047254
-US/Pennsylvania	1933142757
+HK/Hong Kong	1885650806
+US/Pennsylvania	1979509381
 VN/Da Nang City	3324
 BE/Flanders	12249996
 US/North Carolina	69910433
-CN/Shaanxi	86090758444
+CN/Shaanxi	88565397804
 US/New Mexico	12667684
 UZ/Tashkent	6134903
 US/Mississippi	61666200
@@ -46,31 +47,30 @@ VN/Quang Ngai	1787
 DE/Bavaria	2520232542
 CA/Ontario	4183450102
 IT/Emilia-Romagna	154512656
-US/Georgia	74260203
+US/Georgia	74352443
 BR/São Paulo	33235766
 KR/Seoul	11029969530
 OM/Muscat	19759360
 BR/Bahia	3973367
 FI/Uusimaa	555281
 AWS/ap-northeast-1	1062255
-TW/Taiwan	198945147315
+TW/Taiwan	198945157418
 KR/Daejeon	57160979638
 VN/Quảng Ninh	1360
-IQ/Baghdad	7887366
+IQ/Baghdad	7887569
 VE/Lara	2022856
 JO/Amman	4487567
 AR/Chubut	2022856
 CN/Gansu	14271472
 FR/Île-de-France	23387205009
 DE/Baden-Wurttemberg	230679196
-US/Arizona	87687
 CH/Vaud	743773952
-US/Indiana	8571663994
+US/Indiana	8571766906
 NO/Oslo	169268664
 SG/Singapore	591677
 IT/Lazio	305
 CN/Heilongjiang	40
-US/Vermont	515602255
+US/Vermont	516703571
 US/Ohio	53677632
 CA/Alberta	3067424
 BE/Wallonia	2614045364
@@ -79,7 +79,7 @@ JP/Okayama	9573948
 NO/Vestland	11211832
 US/Tennessee	6191820
 AWS/us-west-2	706988912
-unknown	24950150
+unknown	218999310
 AE/Dubai	7978480
 DE/North Rhine-Westphalia	6867348
 IN/Maharashtra	181887
@@ -87,21 +87,22 @@ PT/Lisbon	18737780
 CN/Shandong	128506312
 AR/Formosa	736993
 IQ/Duhok	10677804
-US/Minnesota	11014248445
+US/Minnesota	11014249678
 MA/Casablanca-Settat	4111668
 KW/Al Farwaniyah	4110912
 JP/Aichi	346615172
+CA/British Columbia	10355801288
 BD/Chittagong	307152
 FR/Pays de la Loire	211
 US/New Jersey	1978615
 UA/Kyiv City	19507736
-GCP/us-east1	14107714
+GCP/us-east1	18774154
 BD/Dhaka Division	2976077
 MX/San Luis Potosí	1582768
 ML/Bamako	203
-PY/Central Department	211
+PY/Central Department	8551059
 UA/Kyiv	40973972
-BG/Plovdiv	20372713409
+BG/Plovdiv	25076453759
 KR/Daegu	272351232
 GCP/us-west1	10515459845
 IN/Odisha	967856
@@ -109,12 +110,13 @@ SN/Dakar	967856
 VN/Gia Lai	7337099
 AR/Buenos Aires F.D.	1172574
 EC/Guayas	441418
+AE/Abu Dhabi	441216
 DE/Thuringia	7891756
 IN/West Bengal	665504
 BY/Brest	665504
-GT/Guatemala	203
+GT/Guatemala	372251
 JM/Kingston	2820896
-BR/Rio Grande do Sul	3038
+BR/Rio Grande do Sul	3327
 VN/Dong Nai	1649
 VN/Hai Phong	1593
 BR/Paraíba	1015
@@ -126,7 +128,7 @@ BR/Tocantins	289
 BR/Espírito Santo	1156
 BR/Pará	867
 BR/Goiás	1156
-BR/Rio de Janeiro	10821606
+BR/Rio de Janeiro	10821895
 VN/Phu Tho	1487811
 VN/Lai Châu Province	289
 BR/Piauí	289
@@ -155,17 +157,18 @@ EC/Santo Domingo de los Tsáchilas	289
 VN/Thai Nguyen	1246
 EC/Pichincha	3417569
 VN/Hưng Yên Province	289
-MX/Mexico City	99319
+MX/Mexico City	10253011
 MA/Rabat-Salé-Kénitra	289
 GY/Demerara-Mahaica	289
 BR/Federal District	289
 BR/Amazonas	289
 AWS/eu-west-1	289
-ZA/KwaZulu-Natal	289
-BR/Mato Grosso	289
+ZA/KwaZulu-Natal	491
+BR/Mato Grosso	578
 BR/Ceará	578
 VN/Cao Bằng Province	726
 BR/Maranhão	4363889
+DO/Santo Domingo Province	289
 AO/Luanda	6177240
 DE/State of Berlin	99472
 KZ/Karaganda	520
@@ -179,10 +182,10 @@ CY/Nicosia	3263568
 ID/North Sumatra	1087856
 RU/Moscow	18342240
 ES/Catalonia	42776724
-GB/Scotland	52425859091
+GB/Scotland	54739673200
 LB/Beyrouth	1040496
 PA/Panamá	1040496
-CN/Beijing	1361913884
+CN/Beijing	1385371777
 CN/Jiangsu	8508997762
 PK/Punjab	4563168
 US/Maine	22
@@ -197,7 +200,7 @@ IR/Tehran	402462672
 DO/Monte Plata Province	1200
 IT/Tuscany	19
 CR/San José	1982773
-CA/British Columbia	9966867948
+UY/Montevideo Department	428863
 TR/Sakarya	155
 PE/Lima Province	140
 NZ/Auckland	285
@@ -221,6 +224,7 @@ JP/Hokkaido	12619752
 IT/Liguria	46296112
 RU/Stavropol Kray	706672
 IN/Delhi	364664
+PK/Sindh	364664
 EC/Tungurahua Province	710040
 CN/Hainan	5112253130
 IL/Tel Aviv	27192408
@@ -229,7 +233,6 @@ CR/Alajuela Province	437
 IN/Gujarat	437
 DZ/Algiers	655
 VE/Carabobo	437
-UY/Montevideo Department	424490
 BW/Gaborone	437
 AZ/Baki	437
 EG/Giza	437

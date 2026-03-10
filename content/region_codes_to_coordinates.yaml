@@ -232,6 +232,9 @@ AWS/eu-west-3:
 AWS/me-central-1:
   latitude: '25.0772'
   longitude: '55.3093'
+AWS/me-south-1:
+  latitude: '26.0686'
+  longitude: '50.5039'
 AWS/sa-east-1:
   latitude: '-23.5475'
   longitude: '-46.6361'
@@ -385,6 +388,9 @@ BO/Oruro:
 BO/Pando:
   latitude: 43.2803396
   longitude: -3.9322266
+"BO/Potos\xED Department":
+  latitude: -20.666667
+  longitude: -66.666667
 BO/Santa Cruz Department:
   latitude: -17.333333
   longitude: -61.5
@@ -565,6 +571,9 @@ CH/Geneva:
 CH/Grisons:
   latitude: 46.6960615
   longitude: 9.6027351
+CH/Jura:
+  latitude: 47.3566699
+  longitude: 7.1598893
 CH/Lucerne:
   latitude: 45.5041028
   longitude: -73.6497835
@@ -997,6 +1006,9 @@ EG/Asyut:
 EG/Beheira:
   latitude: 30.7915206
   longitude: 30.3465488
+EG/Beni Suweif:
+  latitude: 29.07441
+  longitude: 31.09785
 EG/Cairo:
   latitude: 30.0443879
   longitude: 31.2357257
@@ -1054,6 +1066,9 @@ ES/Basque Country:
 ES/Canary Islands:
   latitude: 28.2935785
   longitude: -16.6214471
+ES/Cantabria:
+  latitude: 43.1595664
+  longitude: -4.0878382
 "ES/Castille and Le\xF3n":
   latitude: 42.0
   longitude: -5.5
@@ -1726,6 +1741,9 @@ JM/Kingston:
 JM/Saint Catherine Parish:
   latitude: 17.9582225
   longitude: -76.9037543
+JM/Saint James Parish:
+  latitude: 18.4720325
+  longitude: -77.9216168
 JM/St. Elizabeth:
   latitude: 18.053845
   longitude: -77.7828249
@@ -2011,6 +2029,9 @@ LK/Western Province:
 LT/Kaunas:
   latitude: 54.8982139
   longitude: 23.9044817
+"LT/Klaip\u0117da County":
+  latitude: 55.7827168
+  longitude: 21.3496449
 "LT/Panev\u0117\u017Eys":
   latitude: 55.7344985
   longitude: 24.3578055
@@ -2071,12 +2092,18 @@ MA/Tanger-Tetouan-Al Hoceima:
 "MD/Flore\u015Fti":
   latitude: 47.8938318
   longitude: 28.2996474
+"MD/S\xEEngerei":
+  latitude: 47.636085
+  longitude: 28.1455434
 MD/Transnistria:
   latitude: 47.7598678
   longitude: 29.1176055
 ME/Podgorica:
   latitude: 42.4415238
   longitude: 19.2621081
+MG/Analamanga:
+  latitude: -18.6340317
+  longitude: 47.4872346
 MG/Atsinanana:
   latitude: -19.0060414
   longitude: 48.8685368
@@ -2107,6 +2134,9 @@ MM/Mandalay Region:
 MM/Yangon:
   latitude: 16.7967129
   longitude: 96.1609916
+MN/Bayanhongor:
+  latitude: 45.2380937
+  longitude: 99.5146799
 MN/Ulaanbaatar:
   latitude: 47.9184676
   longitude: 106.9177016
@@ -2593,6 +2623,9 @@ PR/Caguas:
 PR/Carolina:
   latitude: 18.3640599
   longitude: -65.9526682
+PR/Humacao:
+  latitude: 18.1380738
+  longitude: -65.8196369
 PR/Ponce:
   latitude: 18.0668224
   longitude: -66.6140412
@@ -2635,6 +2668,9 @@ PT/Porto:
 PT/Vila Real:
   latitude: 41.5229299
   longitude: -7.5466312
+PT/Viseu:
+  latitude: 40.6574713
+  longitude: -7.9138664
 "PT/\xC9vora":
   latitude: 38.5707742
   longitude: -7.9092808
@@ -2962,6 +2998,9 @@ SI/Kranj:
 SI/Ljubljana:
   latitude: 46.0500268
   longitude: 14.5069289
+SI/Urban Municipality of Nova Gorica:
+  latitude: 45.95604
+  longitude: 13.64837
 "SK/Bansk\xE1 Bystrica Region":
   latitude: 48.698797
   longitude: 19.1317411

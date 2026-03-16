@@ -832,6 +832,9 @@ CZ/Prague:
 "CZ/Vyso\u010Dina":
   latitude: 49.3994098
   longitude: 15.5704683
+"CZ/\xDAsteck\xFD kraj":
+  latitude: 50.5663266
+  longitude: 13.8206705
 DE/Baden-Wurttemberg:
   latitude: 48.53775
   longitude: 9.041169
@@ -943,6 +946,9 @@ DZ/Oran:
 DZ/Ouargla:
   latitude: 31.9444998
   longitude: 5.3217813
+"DZ/Sidi Bel Abb\xE8s":
+  latitude: 34.682268
+  longitude: -0.4357555
 "DZ/S\xE9tif":
   latitude: 36.1893494
   longitude: 5.4046876
@@ -1288,9 +1294,15 @@ GR/Crete:
 GR/Ionian Islands:
   latitude: 37.7891384
   longitude: 20.7900896
+GR/Peloponnese:
+  latitude: 37.363372
+  longitude: 22.2394984
 GR/Thessaly:
   latitude: 39.5060878
   longitude: 22.3191881
+GR/West Greece:
+  latitude: 40.3699194
+  longitude: 21.4991906
 GT/Guatemala:
   latitude: 15.5855545
   longitude: -90.345759
@@ -1378,6 +1390,9 @@ HR/Split-Dalmatia:
 HR/Zagreb:
   latitude: 45.8130967
   longitude: 15.9772795
+"HR/\u0160ibenik-Knin":
+  latitude: 44.04085
+  longitude: 16.199433
 HT/Nord:
   latitude: 47.4489392
   longitude: 9.5273798
@@ -1675,6 +1690,9 @@ IR/Fars:
 IR/Isfahan:
   latitude: 32.6707877
   longitude: 51.6650002
+IR/Khuzestan:
+  latitude: 31.5563051
+  longitude: 49.0058885
 IR/Qazvin Province:
   latitude: 36.0156291
   longitude: 49.8398161
@@ -2170,6 +2188,9 @@ MU/Port Louis:
 MV/Kaafu Atoll:
   latitude: 4.7510085
   longitude: 73.439772
+MW/Southern Region:
+  latitude: -15.30629
+  longitude: 35.3283174
 MX/Aguascalientes:
   latitude: 21.880487
   longitude: -102.2967195
@@ -2221,6 +2242,9 @@ MX/Morelos:
 "MX/M\xE9xico":
   latitude: 19.4326296
   longitude: -99.1331785
+MX/Nayarit:
+  latitude: 22.0000001
+  longitude: -105.0000001
 "MX/Nuevo Le\xF3n":
   latitude: 26.2384363
   longitude: -99.8873
@@ -2302,6 +2326,9 @@ MY/Sarawak:
 MY/Selangor:
   latitude: 3.2083304
   longitude: 101.304146
+MZ/Maputo City:
+  latitude: -25.9580602
+  longitude: 32.5847152
 NA/Khomas Region:
   latitude: -22.9082553
   longitude: 17.09198
@@ -2743,6 +2770,9 @@ RO/Satu Mare County:
 RO/Sibiu County:
   latitude: 45.8
   longitude: 24.15
+RO/Suceava:
+  latitude: 47.5326535
+  longitude: 25.8345939
 "RO/S\u0103laj County":
   latitude: 47.1790545
   longitude: 23.0538099
@@ -2962,6 +2992,9 @@ SA/Medina Region:
 SA/Riyadh Region:
   latitude: 23.333333
   longitude: 45.333333
+SE/Dalarna:
+  latitude: 61.0603779
+  longitude: 14.2151224
 "SE/G\xE4vleborg":
   latitude: 61.2682236
   longitude: 16.688925
@@ -3199,12 +3232,18 @@ TR/Kocaeli:
 "TR/K\u0131rklareli":
   latitude: 41.7078046
   longitude: 27.6051334
+"TR/K\u0131r\u0131kkale":
+  latitude: 39.8860105
+  longitude: 33.8278992
 "TR/K\u0131r\u015Fehir":
   latitude: 39.3303066
   longitude: 34.1265884
 TR/Malatya:
   latitude: 38.3487153
   longitude: 38.3190674
+TR/Manisa:
+  latitude: 38.8574402
+  longitude: 28.0565711
 TR/Mardin:
   latitude: 37.3611355
   longitude: 40.8959403

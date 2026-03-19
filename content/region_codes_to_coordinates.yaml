@@ -16,6 +16,9 @@ AE/Ras Al Khaimah:
 AE/Sharjah:
   latitude: 24.9760668
   longitude: 56.2536044
+AG/Saint John Parish:
+  latitude: 45.2498835
+  longitude: -66.0785948
 AI/The Valley:
   latitude: 18.2145861
   longitude: -63.0517759
@@ -97,6 +100,9 @@ AR/Entre Rios:
 AR/Formosa:
   latitude: -24.5955306
   longitude: -60.4289718
+AR/Jujuy:
+  latitude: -23.1546219
+  longitude: -66.1110913
 AR/La Pampa:
   latitude: -37.1789623
   longitude: -65.704912
@@ -334,6 +340,9 @@ BG/Dobrich:
 BG/Gabrovo:
   latitude: 42.9638895
   longitude: 25.2119538
+BG/Kyustendil:
+  latitude: 42.3349427
+  longitude: 22.8884116
 BG/Lovech:
   latitude: 43.0444495
   longitude: 24.4910249
@@ -352,6 +361,9 @@ BG/Sliven:
 BG/Sofia-Capital:
   latitude: 42.6453678
   longitude: 23.3952266
+BG/Targovishte:
+  latitude: 43.2530111
+  longitude: 26.4141884
 BG/Varna:
   latitude: 43.2073873
   longitude: 27.9166653
@@ -1129,6 +1141,9 @@ FI/Paijat-Hame:
 FI/Pirkanmaa:
   latitude: 61.7174331
   longitude: 23.7157115
+FI/South Ostrobothnia:
+  latitude: 62.7389391
+  longitude: 23.1124435
 FI/Southwest Finland:
   latitude: 60.3036114
   longitude: 22.4113084
@@ -1279,6 +1294,9 @@ GE/Tbilisi:
 GH/Greater Accra:
   latitude: 5.8101532
   longitude: 0.0995242
+GM/Western:
+  latitude: 13.258513
+  longitude: -16.4999051
 GP/Guadeloupe:
   latitude: 16.2528827
   longitude: -61.5686855
@@ -1405,6 +1423,9 @@ HU/Budapest:
 "HU/Csongr\xE1d":
   latitude: 46.7097618
   longitude: 20.1537305
+"HU/Fej\xE9r":
+  latitude: 47.0939434
+  longitude: 18.6088562
 "HU/Gy\u0151r-Moson-Sopron":
   latitude: 47.6610134
   longitude: 17.3796437
@@ -1423,6 +1444,9 @@ HU/Pest County:
 "HU/Szabolcs-Szatm\xE1r-Bereg":
   latitude: 48.0297821
   longitude: 22.0040108
+HU/Tolna County:
+  latitude: 46.5
+  longitude: 18.58333
 ID/Bali:
   latitude: -8.2271303
   longitude: 115.1919203
@@ -1435,6 +1459,9 @@ ID/Central Java:
 ID/Central Kalimantan:
   latitude: -1.499583
   longitude: 113.2903307
+ID/Central Papua:
+  latitude: -3.8642437
+  longitude: 136.37328
 ID/Central Sulawesi:
   latitude: -1.6937786
   longitude: 120.8088555
@@ -1522,6 +1549,9 @@ IL/Haifa:
 IL/Jerusalem:
   latitude: 31.7788472
   longitude: 35.2257856
+IL/Northern District:
+  latitude: 40.6904145
+  longitude: -89.4990412
 IL/Southern District:
   latitude: 30.6823334
   longitude: 34.8824229
@@ -1693,6 +1723,9 @@ IR/Isfahan:
 IR/Khuzestan:
   latitude: 31.5563051
   longitude: 49.0058885
+"IR/M\u0101zandar\u0101n":
+  latitude: 36.3159159
+  longitude: 51.8968597
 IR/Qazvin Province:
   latitude: 36.0156291
   longitude: 49.8398161
@@ -1774,6 +1807,9 @@ JO/Ajloun:
 JO/Amman:
   latitude: 31.9515694
   longitude: 35.9239625
+JO/Aqaba:
+  latitude: 29.5266483
+  longitude: 35.0075433
 JO/Irbid:
   latitude: 32.5556091
   longitude: 35.8493023
@@ -1957,9 +1993,15 @@ KW/Al Farwaniyah:
 KW/Hawalli:
   latitude: 29.2911245
   longitude: 48.0378518
+"KW/Mub\u0101rak al Kab\u012Br":
+  latitude: 29.2325894
+  longitude: 48.1192215
 KY/George Town:
   latitude: 19.2953549
   longitude: -81.3807776
+KZ/Abai Region:
+  latitude: 49.6277673
+  longitude: 72.8717674
 "KZ/Aktyubinskaya Oblast\u2019":
   latitude: 55.1809273
   longitude: 61.3538856
@@ -2023,6 +2065,9 @@ LB/Baalbek-Hermel Governorate:
 LB/Beyrouth:
   latitude: 33.8892265
   longitude: 35.5025585
+"LB/B\xE9qaa":
+  latitude: 33.6604238
+  longitude: 35.8425017
 LB/Liban-Nord:
   latitude: 34.3690431
   longitude: 35.8982325
@@ -2068,6 +2113,9 @@ LV/Riga:
 "LV/\u0136ekava":
   latitude: 56.8261827
   longitude: 24.233653
+"LY/Al Jabal al Akh\u1E11ar":
+  latitude: 32.4874119
+  longitude: 21.7089729
 "LY/Az Z\u0101wiyah":
   latitude: 32.7596665
   longitude: 12.7355967
@@ -2332,6 +2380,9 @@ MZ/Maputo City:
 NA/Khomas Region:
   latitude: -22.9082553
   longitude: 17.09198
+NE/Niamey:
+  latitude: 13.524834
+  longitude: 2.109823
 NG/Anambra:
   latitude: 6.2183136
   longitude: 6.9531842
@@ -2539,6 +2590,9 @@ PE/Pasco:
 PE/Piura:
   latitude: -5.0
   longitude: -80.333333
+PE/Puno:
+  latitude: -15.0
+  longitude: -70.0
 PE/Tacna:
   latitude: -18.01386
   longitude: -70.2511032
@@ -2719,6 +2773,9 @@ PY/Central Department:
 PY/Cordillera Department:
   latitude: -25.25
   longitude: -57.0
+"PY/Guair\xE1":
+  latitude: -25.75
+  longitude: -56.5
 "PY/Itap\xFAa":
   latitude: -26.833333
   longitude: -55.833333
@@ -2758,6 +2815,9 @@ RO/Cluj County:
 RO/Harghita County:
   latitude: 46.3484701
   longitude: 25.8079835
+"RO/Mure\u0219 County":
+  latitude: 46.5457344
+  longitude: 24.5562838
 RO/Olt:
   latitude: 44.2923205
   longitude: 24.4663072
@@ -3031,6 +3091,9 @@ SI/Kranj:
 SI/Ljubljana:
   latitude: 46.0500268
   longitude: 14.5069289
+"SI/Municipality of La\u0161ko":
+  latitude: 46.15463
+  longitude: 15.23555
 SI/Urban Municipality of Nova Gorica:
   latitude: 45.95604
   longitude: 13.64837
@@ -3085,6 +3148,9 @@ SY/Damascus Governorate:
 SY/Hama:
   latitude: 35.1343368
   longitude: 36.7496276
+SY/Idlib:
+  latitude: 35.8702332
+  longitude: 36.5481802
 SY/Latakia:
   latitude: 35.5200185
   longitude: 35.7781044
@@ -3148,9 +3214,15 @@ TH/Rayong:
 TH/Samut Prakan:
   latitude: 13.6531651
   longitude: 100.8182578
+TH/Songkhla:
+  latitude: 6.8790221
+  longitude: 100.5498542
 TH/Surat Thani:
   latitude: 9.4674663
   longitude: 98.830042
+TH/Ubon Ratchathani:
+  latitude: 15.1879684
+  longitude: 105.3269544
 TJ/Dushanbe:
   latitude: 38.5762709
   longitude: 68.7863573
@@ -3571,6 +3643,9 @@ UZ/Samarqand Region:
 UZ/Sirdaryo Region:
   latitude: 40.3737191
   longitude: 68.4341132
+UZ/Surxondaryo Region:
+  latitude: 37.9520843
+  longitude: 67.1265996
 UZ/Tashkent:
   latitude: 41.3123363
   longitude: 69.2787079
@@ -3766,6 +3841,9 @@ XK/Pec:
 XK/Pristina:
   latitude: 42.6638771
   longitude: 21.1640849
+XK/Prizren:
+  latitude: 42.2130151
+  longitude: 20.7363339
 ZA/Eastern Cape:
   latitude: -32.2171831
   longitude: 26.6386401

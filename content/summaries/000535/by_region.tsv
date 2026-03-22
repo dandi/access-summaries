@@ -1,41 +1,41 @@
 region	bytes_sent
-CA/Ontario	2067336852
-US/Georgia	3357870788
-US/California	2627205696
-HK/Hong Kong	344954936
-GitHub	3090760956
-CA/Quebec	1232340088
-KR/Seoul	4127526636
-US/Nevada	213556080
-CN/Shaanxi	142456424
-AWS/us-east-1	2292622488
-VPN	6614731413
+CA/Ontario	2312722700
+US/Georgia	3642770660
+US/California	2992807308
+HK/Hong Kong	408484852
+GitHub	3501969972
+CA/Quebec	1393996888
+KR/Seoul	4183660368
+US/Nevada	284304720
+CN/Shaanxi	150845032
+AWS/us-east-1	2417794636
+VPN	7229879389
 US/New Hampshire	47588081100
-CN/Shanghai	2145289292
-NL/Flevoland	636921100
-GB/Northern Ireland	2777316860
+CN/Shanghai	2423515744
+NL/Flevoland	708970804
+GB/Northern Ireland	2826274856
+US/Virginia	3516787016
 PY/Asunción	5699196
-US/District of Columbia	2665041936
+US/District of Columbia	3761355088
 US/Washington	3849401856
-US/Virginia	3361866336
-AT/Vienna	1902074624
+CY/Nicosia	6795543660
+AT/Vienna	2061579328
 KR/Incheon	4476108936
-US/Massachusetts	3040415556
-CY/Nicosia	3095598076
-AWS/ap-southeast-1	217028004
-AWS/us-east-2	1373070284
+US/Massachusetts	3169602904
+unknown	449488244
+AWS/ap-southeast-1	249388956
+AWS/us-east-2	1384782072
 BD/Dhaka Division	7860960
-IT/Veneto	1339604688
+IT/Veneto	1584217800
 BD/Rajshahi Division	9891708
-BR/São Paulo	77585000
-US/New York	3128362897
+BR/São Paulo	90228044
+US/New York	3698634951
 RU/Khabarovsk	10219248
 IQ/Erbil	7860960
 BY/Mogilev	5895720
 VN/Dong Nai	11463900
 CN/Guangdong	61417656
 US/Wisconsin	137379972
-unknown	509136040
 IL/Tel Aviv	16114968
 AE/Sharjah	12577536
 GCP/us-east1	32615660
@@ -45,7 +45,7 @@ IL/Jerusalem	9891708
 IQ/Babil	18735288
 BR/Goiás	10455924
 US/Arizona	14346252
-ES/Andalusia	1740800
+ES/Andalusia	8209379
 NO/Oslo	256989508
 ET/Addis Ababa	16180476
 SN/Dakar	11267376
@@ -56,14 +56,16 @@ BO/Cochabamba	12249996
 ID/Jakarta	5568180
 AZ/Baki	12969588
 IQ/Al Anbar	10455540
-US/Pennsylvania	266444013
+US/Pennsylvania	272588013
 CH/Geneva	11711788
 HK/Central and Western	35133964
 PT/Lisbon	14412376
 US/Florida	128474071
 DE/Baden-Wurttemberg	11711788
 IN/Tamil Nadu	11711788
-SE/Stockholm	311037116
+SE/Stockholm	311081188
+GCP/us-central1	47700908
+IN/Delhi	11711788
 BD/Chittagong	15132348
 BR/Espírito Santo	13429140
 IE/Leinster	15328872
@@ -82,16 +84,19 @@ AR/Buenos Aires F.D.	35898384
 XK/Pristina	7941204
 CL/Santiago Metropolitan	7941204
 BR/Rio de Janeiro	35898384
-BR/Santa Catarina	21683148
+BR/Santa Catarina	31771380
 BR/Bahia	13036092
 AR/La Rioja	9040104
 IR/Fars	9040104
-GB/England	63532192
+BR/Minas Gerais	26203200
+GB/England	79415880
 MA/Béni Mellal-Khénifra	6616308
 EC/Guayas	12118980
 PK/Khyber Pakhtunkhwa	7941204
 IQ/Dhi Qar	15066840
-US/Maryland	156968304
+OM/Muscat	6288768
+MA/Marrakesh-Safi	6812832
+US/Maryland	157016276
 JO/Amman	15481076
 MX/Sonora	15197856
 AR/Buenos Aires	22455604
@@ -99,18 +104,20 @@ PA/Panamá	14804808
 US/Texas	28052596
 UZ/Tashkent	21421116
 PS/West Bank	19259352
-GCP/us-central1	24276828
 IQ/An Najaf	14870316
 IQ/Karbala	10219248
+US/Illinois	13036092
 VN/Ho Chi Minh City (HCMC)	28168440
 AO/Luanda	9433152
-ZA/Western Cape	10546788
+ZA/Western Cape	18604272
 MD/Chișinău Municipality	12053472
 MX/Mexico City	11791440
 HU/Budapest	50018568
+MA/Casablanca-Settat	12970584
 KW/Al Aḩmadī	12643044
 SI/Urban Municipality of Nova Gorica	8254008
 RU/Moscow Oblast	10415772
+IQ/Al-Qadisiyah	9367644
 JP/Okayama	6550800
 US/Indiana	191219584
 US/Rhode Island	16953268
@@ -119,9 +126,9 @@ MX/Chihuahua	12839568
 VN/Can Tho City	11594916
 MA/Tanger-Tetouan-Al Hoceima	20962560
 IN/Haryana	16180476
+KE/Mombasa County	9891708
 GR/Central Macedonia	7926468
 BR/Paraná	10284756
 AR/Cordoba	11712404
 VE/Falcón	11712404
-BR/Minas Gerais	16442508
 VN/Lao Cai	10481280

@@ -160,6 +160,9 @@ AT/Upper Austria:
 AT/Vienna:
   latitude: 48.2083537
   longitude: 16.3725042
+AT/Vorarlberg:
+  latitude: 47.25
+  longitude: 9.9166667
 AU/Australian Capital Territory:
   latitude: -35.4883502
   longitude: 149.0026942
@@ -493,6 +496,9 @@ BS/Freeport:
 BS/New Providence:
   latitude: 25.1943588
   longitude: -77.2953297
+BT/Chukha:
+  latitude: 26.943123
+  longitude: 89.3770528
 BT/Lhuntse:
   latitude: 27.75
   longitude: 91.183333
@@ -562,6 +568,9 @@ CA/Saskatchewan:
 CD/Haut-Katanga:
   latitude: -10.646471
   longitude: 27.630677
+CD/Kinshasa:
+  latitude: -4.3196982
+  longitude: 15.3424196
 CG/Brazzaville:
   latitude: -4.2694407
   longitude: 15.2712256
@@ -811,6 +820,9 @@ CR/Guanacaste Province:
 CR/Heredia Province:
   latitude: 10.3767813
   longitude: -84.0139721
+"CR/Lim\xF3n Province":
+  latitude: 10.0999089
+  longitude: -83.3431873
 CR/Puntarenas Province:
   latitude: 9.095328
   longitude: -84.2003038
@@ -937,6 +949,9 @@ DZ/Annaba:
 DZ/Blida:
   latitude: 36.4705658
   longitude: 2.8274937
+"DZ/Bordj Bou Arr\xE9ridj":
+  latitude: 36.0962029
+  longitude: 4.6602742
 "DZ/B\xE9char":
   latitude: 31.385726
   longitude: -2.0115958
@@ -1324,6 +1339,9 @@ GR/West Greece:
 GT/Guatemala:
   latitude: 15.5855545
   longitude: -90.345759
+GT/Jalapa:
+  latitude: 14.6507936
+  longitude: -89.9390853
 "GT/Pet\xE9n":
   latitude: 16.8317906
   longitude: -90.0450637
@@ -1348,6 +1366,9 @@ HK/Hong Kong:
 HK/Islands:
   latitude: 22.2374914
   longitude: 113.9836098
+HK/Kowloon City:
+  latitude: 22.3301595
+  longitude: 114.1899368
 HK/Kwai Tsing District:
   latitude: 22.3410051
   longitude: 114.1042653
@@ -1414,6 +1435,9 @@ HR/Zagreb:
 HT/Nord:
   latitude: 47.4489392
   longitude: 9.5273798
+HT/Ouest:
+  latitude: 18.7668687
+  longitude: -72.4387315
 HU/Baranya:
   latitude: 45.9714436
   longitude: 18.1669246
@@ -1447,6 +1471,12 @@ HU/Pest County:
 HU/Tolna County:
   latitude: 46.5
   longitude: 18.58333
+HU/Zala County:
+  latitude: 46.7900881
+  longitude: 16.9339428
+ID/Aceh:
+  latitude: 4.3685491
+  longitude: 97.0253024
 ID/Bali:
   latitude: -8.2271303
   longitude: 115.1919203
@@ -1783,6 +1813,9 @@ IT/Tuscany:
 IT/Veneto:
   latitude: 45.6476663
   longitude: 11.8665254
+JE/St Helier:
+  latitude: 49.1856637
+  longitude: -2.1102277
 JM/Clarendon:
   latitude: 17.9518525
   longitude: -77.2719277
@@ -1810,6 +1843,9 @@ JO/Amman:
 JO/Aqaba:
   latitude: 29.5266483
   longitude: 35.0075433
+JO/Balqa:
+  latitude: 32.0060753
+  longitude: 35.634407
 JO/Irbid:
   latitude: 32.5556091
   longitude: 35.8493023
@@ -1942,6 +1978,9 @@ KG/Osh Region:
 KH/Banteay Meanchey:
   latitude: 13.7989147
   longitude: 102.8862666
+KH/Kampong Thom:
+  latitude: 12.6687923
+  longitude: 104.8879197
 KH/Phnom Penh:
   latitude: 11.5730391
   longitude: 104.857807
@@ -2098,6 +2137,9 @@ LT/Kaunas:
 "LT/Panev\u0117\u017Eys":
   latitude: 55.7344985
   longitude: 24.3578055
+LT/Siauliai:
+  latitude: 55.9340823
+  longitude: 23.3157775
 LT/Vilnius:
   latitude: 54.6870458
   longitude: 25.2829111
@@ -2116,6 +2158,9 @@ LV/Riga:
 "LY/Al Jabal al Akh\u1E11ar":
   latitude: 32.4874119
   longitude: 21.7089729
+"LY/Al W\u0101\u1E29\u0101t":
+  latitude: 29.1573123
+  longitude: 21.7496392
 "LY/Az Z\u0101wiyah":
   latitude: 32.7596665
   longitude: 12.7355967
@@ -2158,6 +2203,9 @@ MA/Tanger-Tetouan-Al Hoceima:
 "MD/Flore\u015Fti":
   latitude: 47.8938318
   longitude: 28.2996474
+"MD/Str\u0103\u0219eni":
+  latitude: 47.1474401
+  longitude: 28.6150196
 "MD/S\xEEngerei":
   latitude: 47.636085
   longitude: 28.1455434
@@ -2551,6 +2599,9 @@ OM/Muscat:
 PE/Ancash:
   latitude: -9.5
   longitude: -77.75
+"PE/Apur\xEDmac Department":
+  latitude: -14.0668519
+  longitude: -72.2038943
 PE/Arequipa:
   latitude: -16.3988667
   longitude: -71.5369607
@@ -2593,6 +2644,9 @@ PE/Piura:
 PE/Puno:
   latitude: -15.0
   longitude: -70.0
+"PE/San Mart\xEDn Department":
+  latitude: -6.3933901
+  longitude: -76.277372
 PE/Tacna:
   latitude: -18.01386
   longitude: -70.2511032
@@ -2716,6 +2770,9 @@ PR/San Juan:
 PS/West Bank:
   latitude: 32.0254688
   longitude: 35.2888075
+PT/Aveiro:
+  latitude: 40.640496
+  longitude: -8.6537841
 PT/Azores:
   latitude: 37.8085565
   longitude: -25.4731374
@@ -2731,6 +2788,9 @@ PT/Faro:
 PT/Guarda:
   latitude: 40.7046066
   longitude: -7.1951392
+PT/Leiria:
+  latitude: 39.7437902
+  longitude: -8.8071119
 PT/Lisbon:
   latitude: 38.7077507
   longitude: -9.1365919
@@ -2743,6 +2803,9 @@ PT/Portalegre:
 PT/Porto:
   latitude: 41.1502195
   longitude: -8.6103497
+"PT/Santar\xE9m":
+  latitude: 39.2363637
+  longitude: -8.6867081
 "PT/Set\xFAbal":
   latitude: 38.5241783
   longitude: -8.8932341
@@ -2815,6 +2878,9 @@ RO/Cluj County:
 RO/Harghita County:
   latitude: 46.3484701
   longitude: 25.8079835
+"RO/Maramure\u015F":
+  latitude: 47.6712547
+  longitude: 24.1964613
 "RO/Mure\u0219 County":
   latitude: 46.5457344
   longitude: 24.5562838
@@ -2872,6 +2938,9 @@ RU/Bryansk Oblast:
 RU/Buryatiya Republic:
   latitude: 51.9880072
   longitude: 106.5689379
+RU/Chechnya:
+  latitude: 43.4
+  longitude: 45.7
 RU/Chelyabinsk:
   latitude: 55.1598408
   longitude: 61.4025547
@@ -3052,6 +3121,9 @@ SA/Medina Region:
 SA/Riyadh Region:
   latitude: 23.333333
   longitude: 45.333333
+SD/Al Jazirah:
+  latitude: 14.6671537
+  longitude: 33.222361
 SE/Dalarna:
   latitude: 61.0603779
   longitude: 14.2151224
@@ -3121,6 +3193,9 @@ SK/Trnava Region:
 SN/Dakar:
   latitude: 14.693425
   longitude: -17.447938
+SN/Saint-Louis:
+  latitude: 16.0280445
+  longitude: -16.5048686
 "SN/Thi\xE8s":
   latitude: 14.791461
   longitude: -16.925605
@@ -3181,6 +3256,9 @@ TH/Kamphaeng Phet:
 TH/Khon Kaen:
   latitude: 16.6022387
   longitude: 102.6352933
+TH/Lopburi:
+  latitude: 15.026458
+  longitude: 100.8089178
 TH/Nakhon Pathom:
   latitude: 13.8918425
   longitude: 100.0165659
@@ -3223,6 +3301,9 @@ TH/Surat Thani:
 TH/Ubon Ratchathani:
   latitude: 15.1879684
   longitude: 105.3269544
+TH/Udon Thani:
+  latitude: 17.5211917
+  longitude: 102.6680012
 TJ/Dushanbe:
   latitude: 38.5762709
   longitude: 68.7863573
@@ -3283,6 +3364,9 @@ TR/Gaziantep:
 TR/Hatay:
   latitude: 36.3451332
   longitude: 36.0748022
+TR/Isparta:
+  latitude: 37.9465412
+  longitude: 30.9602093
 TR/Istanbul:
   latitude: 41.006381
   longitude: 28.9758715
@@ -3301,6 +3385,9 @@ TR/Kilis:
 TR/Kocaeli:
   latitude: 40.8216536
   longitude: 29.9507184
+TR/Konya:
+  latitude: 37.872734
+  longitude: 32.4924376
 "TR/K\u0131rklareli":
   latitude: 41.7078046
   longitude: 27.6051334
@@ -3430,6 +3517,9 @@ UA/Kyiv:
 UA/Kyiv City:
   latitude: 50.387643
   longitude: 30.4713298
+UA/Luhansk:
+  latitude: 49.2724587
+  longitude: 38.9150477
 UA/Lviv:
   latitude: 49.841952
   longitude: 24.0315921

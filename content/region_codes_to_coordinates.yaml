@@ -478,6 +478,9 @@ BR/Rio de Janeiro:
 "BR/Rond\xF4nia":
   latitude: -10.943145
   longitude: -62.8277863
+BR/Roraima:
+  latitude: 2.135138
+  longitude: -61.3631922
 BR/Santa Catarina:
   latitude: -27.0628367
   longitude: -51.114965
@@ -850,9 +853,15 @@ CZ/Central Bohemia:
 "CZ/Moravskoslezsk\xFD":
   latitude: 49.860275
   longitude: 18.0386541
+"CZ/Pardubick\xFD":
+  latitude: 49.889819
+  longitude: 16.1283254
 CZ/Prague:
   latitude: 50.0874654
   longitude: 14.4212535
+CZ/South Moravian:
+  latitude: 49.1761838
+  longitude: 16.3881643
 "CZ/Vyso\u010Dina":
   latitude: 49.3994098
   longitude: 15.5704683
@@ -1057,6 +1066,9 @@ EG/Gharbia:
 EG/Giza:
   latitude: 29.9870753
   longitude: 31.2118063
+EG/Ismailia:
+  latitude: 30.6043775
+  longitude: 32.2770825
 EG/Kafr el-Sheikh:
   latitude: 31.3814765
   longitude: 30.8513566
@@ -1291,6 +1303,9 @@ GE/Adjara:
 GE/Imereti:
   latitude: 42.18756
   longitude: 42.9521554
+GE/Kakheti:
+  latitude: 41.8144318
+  longitude: 45.7174977
 GE/Kvemo Kartli:
   latitude: 41.493442
   longitude: 44.4900839
@@ -1336,6 +1351,9 @@ GR/Thessaly:
 GR/West Greece:
   latitude: 40.3699194
   longitude: 21.4991906
+GT/Chiquimula:
+  latitude: 14.6891037
+  longitude: -89.3960023
 GT/Guatemala:
   latitude: 15.5855545
   longitude: -90.345759
@@ -1588,6 +1606,9 @@ IL/Southern District:
 IL/Tel Aviv:
   latitude: 32.0852997
   longitude: 34.7818064
+IM/Douglas:
+  latitude: 54.149774
+  longitude: -4.4779021
 IN/Andhra Pradesh:
   latitude: 15.9240905
   longitude: 80.1863809
@@ -1660,6 +1681,9 @@ IN/Punjab:
 IN/Rajasthan:
   latitude: 26.8105777
   longitude: 73.7684549
+IN/Sikkim:
+  latitude: 27.6016108
+  longitude: 88.4550204
 IN/Tamil Nadu:
   latitude: 11.3323723
   longitude: 78.6098639
@@ -1984,6 +2008,9 @@ KH/Kampong Thom:
 KH/Phnom Penh:
   latitude: 11.5730391
   longitude: 104.857807
+KH/Siem Reap:
+  latitude: 13.3617562
+  longitude: 103.8590321
 KH/Svay Rieng:
   latitude: 11.1950082
   longitude: 105.7967967
@@ -2122,6 +2149,9 @@ LB/South Governorate:
 LC/Castries:
   latitude: 14.0095966
   longitude: -60.9902359
+LK/Central Province:
+  latitude: 7.381949
+  longitude: 80.723428
 LK/Eastern Province:
   latitude: 7.7596435
   longitude: 81.5850205
@@ -2194,15 +2224,27 @@ MA/Tanger-Tetouan-Al Hoceima:
 "MD/B\u0103l\u0163i":
   latitude: 47.7623952
   longitude: 27.9286022
+MD/Cahul:
+  latitude: 45.9044087
+  longitude: 28.1946583
 "MD/Chi\u0219in\u0103u Municipality":
   latitude: 47.0073586
   longitude: 28.843148
 "MD/C\u0103l\u0103ra\u015Fi":
   latitude: 47.2519272
   longitude: 28.3177979
+MD/Drochia:
+  latitude: 48.0318141
+  longitude: 27.8157233
 "MD/Flore\u015Fti":
   latitude: 47.8938318
   longitude: 28.2996474
+MD/Gagauzia:
+  latitude: 46.2070204
+  longitude: 28.7636281
+"MD/Raionul Edine\u0163":
+  latitude: 48.1453442
+  longitude: 27.2723304
 "MD/Str\u0103\u0219eni":
   latitude: 47.1474401
   longitude: 28.6150196
@@ -2266,6 +2308,9 @@ MQ/Martinique:
 MT/Il-Fgura:
   latitude: 35.8728325
   longitude: 14.520799
+"MT/Saint Paul\u2019s Bay":
+  latitude: 35.9480742
+  longitude: 14.3973929
 MT/Valletta:
   latitude: 35.8989979
   longitude: 14.5136607
@@ -2389,6 +2434,9 @@ MY/Johor:
 MY/Kedah:
   latitude: 5.8098265
   longitude: 100.6715035
+MY/Kelantan:
+  latitude: 5.4021302
+  longitude: 102.0635972
 MY/Kuala Lumpur:
   latitude: 3.1516964
   longitude: 101.6942371
@@ -2434,6 +2482,9 @@ NE/Niamey:
 NG/Anambra:
   latitude: 6.2183136
   longitude: 6.9531842
+NG/Borno State:
+  latitude: 12.1875392
+  longitude: 13.3080034
 NG/Delta:
   latitude: 5.5273061
   longitude: 6.1784167
@@ -2530,6 +2581,9 @@ NO/Vestland:
 NP/Bagmati Province:
   latitude: 27.718333
   longitude: 85.5378341
+NP/Gandaki Pradesh:
+  latitude: 28.2017155
+  longitude: 84.2535946
 NP/Koshi:
   latitude: 26.5602871
   longitude: 87.0066582
@@ -2635,6 +2689,9 @@ PE/Lima region:
 PE/Madre de Dios:
   latitude: -12.0
   longitude: -70.25
+PE/Moquegua Department:
+  latitude: -16.7536594
+  longitude: -70.4663381
 PE/Pasco:
   latitude: -10.5
   longitude: -75.25
@@ -2695,6 +2752,9 @@ PH/Northern Mindanao:
 PH/Western Visayas:
   latitude: 11.2367325
   longitude: 122.6878187
+PH/Zamboanga Peninsula:
+  latitude: 7.7787234
+  longitude: 122.7570828
 PK/Azad Kashmir:
   latitude: 33.84412
   longitude: 73.796642
@@ -2752,6 +2812,9 @@ PL/West Pomerania:
 "PL/\u0141\xF3d\u017A Voivodeship":
   latitude: 51.4721678
   longitude: 19.3460637
+PR/Aguadilla:
+  latitude: 18.4496551
+  longitude: -67.1184764
 PR/Caguas:
   latitude: 18.2129421
   longitude: -66.0558844
@@ -2776,6 +2839,9 @@ PT/Aveiro:
 PT/Azores:
   latitude: 37.8085565
   longitude: -25.4731374
+PT/Beja:
+  latitude: 38.0154479
+  longitude: -7.8650368
 PT/Braga:
   latitude: 41.5510583
   longitude: -8.4280045
@@ -2872,12 +2938,21 @@ RO/Cluj County:
 "RO/Constan\u021Ba County":
   latitude: 44.1859611
   longitude: 28.6426798
+RO/Dolj:
+  latitude: 44.2150123
+  longitude: 23.669363
 "RO/Gala\u021Bi County":
   latitude: 45.45
   longitude: 28.05
+RO/Gorj County:
+  latitude: 45.0392661
+  longitude: 23.2760106
 RO/Harghita County:
   latitude: 46.3484701
   longitude: 25.8079835
+RO/Hunedoara County:
+  latitude: 45.75
+  longitude: 22.9
 "RO/Maramure\u015F":
   latitude: 47.6712547
   longitude: 24.1964613
@@ -3307,6 +3382,9 @@ TH/Udon Thani:
 TJ/Dushanbe:
   latitude: 38.5762709
   longitude: 68.7863573
+TJ/Sughd:
+  latitude: 40.5244768
+  longitude: 69.9577679
 TM/Ashgabat:
   latitude: 37.9378322
   longitude: 58.2359467
@@ -3340,12 +3418,21 @@ TR/Antalya:
 TR/Artvin:
   latitude: 41.160506
   longitude: 41.8398627
+"TR/Ayd\u0131n":
+  latitude: 37.7405798
+  longitude: 28.0676404
 "TR/Bal\u0131kesir":
   latitude: 39.5400798
   longitude: 28.0228793
+TR/Bilecik:
+  latitude: 40.1543234
+  longitude: 30.1479907
 TR/Bursa Province:
   latitude: 40.18333
   longitude: 29.06667
+TR/Canakkale:
+  latitude: 40.0549886
+  longitude: 26.9278292
 TR/Denizli:
   latitude: 37.8275892
   longitude: 29.2389539
@@ -3448,6 +3535,12 @@ TT/Borough of Arima:
 TT/Chaguanas:
   latitude: 10.5147394
   longitude: -61.4076757
+TT/Couva-Tabaquite-Talparo:
+  latitude: 10.4497669
+  longitude: -61.3443881
+TT/Point Fortin:
+  latitude: 10.1759283
+  longitude: -61.6827286
 TT/Port of Spain:
   latitude: 10.6572678
   longitude: -61.5180173
@@ -3919,6 +4012,9 @@ VN/Vietnam:
 VN/Vinh Long:
   latitude: 10.046765
   longitude: 106.2947443
+"VN/\u0110i\u1EC7n Bi\xEAn Province":
+  latitude: 21.6546566
+  longitude: 103.2168632
 VPN:
   latitude: null
   longitude: null

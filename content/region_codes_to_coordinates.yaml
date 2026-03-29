@@ -259,6 +259,9 @@ AWS/us-west-1:
 AWS/us-west-2:
   latitude: '45.8399'
   longitude: '-119.7006'
+AX/Mariehamns stad:
+  latitude: 60.117825
+  longitude: 19.9360169
 "AZ/Ab\u015Feron":
   latitude: 40.3361899
   longitude: 49.2093
@@ -331,6 +334,9 @@ BE/Wallonia:
 BF/Centre:
   latitude: 12.36732
   longitude: -1.5430869
+BF/Hauts-Bassins:
+  latitude: 11.3890275
+  longitude: -4.041365
 BG/Blagoevgrad:
   latitude: 41.750287
   longitude: 23.4873411
@@ -505,6 +511,9 @@ BT/Chukha:
 BT/Lhuntse:
   latitude: 27.75
   longitude: 91.183333
+BT/Punakha:
+  latitude: 27.5842857
+  longitude: 89.8593094
 BT/Thimphu District:
   latitude: 27.5583211
   longitude: 89.5524789
@@ -811,6 +820,9 @@ CO/Risaralda Department:
 CO/Santander Department:
   latitude: -4.7042162
   longitude: -76.5204729
+CO/Tolima Department:
+  latitude: 5.3116748
+  longitude: -73.9247572
 CR/Alajuela Province:
   latitude: 10.4523317
   longitude: -84.4663284
@@ -865,6 +877,9 @@ CZ/South Moravian:
 "CZ/Vyso\u010Dina":
   latitude: 49.3994098
   longitude: 15.5704683
+"CZ/Zl\xEDn":
+  latitude: 49.226766
+  longitude: 17.6667415
 "CZ/\xDAsteck\xFD kraj":
   latitude: 50.5663266
   longitude: 13.8206705
@@ -919,6 +934,12 @@ DK/Capital Region:
 DK/Central Jutland:
   latitude: 56.7066248
   longitude: 8.2154843
+DK/North Denmark:
+  latitude: 56.8152793
+  longitude: 9.7273308
+DK/South Denmark:
+  latitude: 55.723278
+  longitude: 12.5722686
 DK/Zealand:
   latitude: 55.5455979
   longitude: 11.6973741
@@ -955,6 +976,9 @@ DZ/Algiers:
 DZ/Annaba:
   latitude: 36.8982165
   longitude: 7.7549272
+DZ/Batna:
+  latitude: 35.3384291
+  longitude: 5.7315453
 DZ/Blida:
   latitude: 36.4705658
   longitude: 2.8274937
@@ -1345,15 +1369,24 @@ GR/Ionian Islands:
 GR/Peloponnese:
   latitude: 37.363372
   longitude: 22.2394984
+GR/South Aegean:
+  latitude: 36.6664741
+  longitude: 25.7315159
 GR/Thessaly:
   latitude: 39.5060878
   longitude: 22.3191881
 GR/West Greece:
   latitude: 40.3699194
   longitude: 21.4991906
+GR/West Macedonia:
+  latitude: 40.3699194
+  longitude: 21.4991906
 GT/Chiquimula:
   latitude: 14.6891037
   longitude: -89.3960023
+GT/El Progreso:
+  latitude: 14.9100437
+  longitude: -90.0682728
 GT/Guatemala:
   latitude: 15.5855545
   longitude: -90.345759
@@ -1402,6 +1435,9 @@ HK/Sai Kung District:
 HK/Sha Tin:
   latitude: 22.3815527
   longitude: 114.1904697
+HK/Sham Shui Po District:
+  latitude: 22.331254
+  longitude: 114.1593014
 HK/Tai Po:
   latitude: 22.4494017
   longitude: 114.1711328
@@ -1444,6 +1480,9 @@ HR/Split-Dalmatia:
 "HR/Vara\u017Edin":
   latitude: 46.3079645
   longitude: 16.3378198
+HR/Zadar:
+  latitude: 44.1168594
+  longitude: 15.2353257
 HR/Zagreb:
   latitude: 45.8130967
   longitude: 15.9772795
@@ -1846,6 +1885,9 @@ JM/Clarendon:
 JM/Kingston:
   latitude: 17.9712148
   longitude: -76.7928128
+JM/Saint Ann Parish:
+  latitude: 18.35
+  longitude: -77.26667
 JM/Saint Catherine Parish:
   latitude: 17.9582225
   longitude: -76.9037543
@@ -1951,6 +1993,9 @@ JP/Toyama:
 JP/Yamanashi:
   latitude: 35.6399328
   longitude: 138.6380495
+KE/Baringo:
+  latitude: 0.71401
+  longitude: 36.0172739
 KE/Garissa County:
   latitude: -0.5236333
   longitude: 40.3564053
@@ -1966,6 +2011,9 @@ KE/Kilifi County:
 KE/Kisumu County:
   latitude: -0.197126
   longitude: 34.7778573
+KE/Machakos County:
+  latitude: -1.2790046
+  longitude: 37.3952698
 KE/Meru County:
   latitude: 0.2254509
   longitude: 37.7772624
@@ -2086,6 +2134,9 @@ KZ/Astana:
 KZ/Atyrau Oblisi:
   latitude: 43.4580216
   longitude: 76.73958
+KZ/Baikonur:
+  latitude: 45.6250869
+  longitude: 63.2689496
 KZ/Batys Qazaqstan:
   latitude: 51.2033835
   longitude: 51.379532
@@ -2194,6 +2245,9 @@ LV/Riga:
 "LY/Az Z\u0101wiyah":
   latitude: 32.7596665
   longitude: 12.7355967
+"LY/Mi\u015Fr\u0101tah":
+  latitude: 32.3745923
+  longitude: 15.0905803
 LY/Tripoli:
   latitude: 32.896672
   longitude: 13.1777923
@@ -2713,6 +2767,9 @@ PE/Ucayali:
 PG/National Capital:
   latitude: -9.4405382
   longitude: 147.1803219
+PH/Bicol Region:
+  latitude: 13.076449
+  longitude: 123.5162387
 PH/Cagayan Valley:
   latitude: 17.6722627
   longitude: 121.8966521
@@ -2977,6 +3034,9 @@ RO/Suceava:
 "RO/S\u0103laj County":
   latitude: 47.1790545
   longitude: 23.0538099
+RO/Teleorman County:
+  latitude: 43.9716029
+  longitude: 25.3269655
 "RO/Timi\u0219 County":
   latitude: 45.7527773
   longitude: 22.1245766
@@ -3115,6 +3175,9 @@ RU/Perm Krai:
 RU/Primorye:
   latitude: 54.941463
   longitude: 20.033976
+RU/Pskov Oblast:
+  latitude: 57.5358729
+  longitude: 28.8586826
 RU/Rostov:
   latitude: 57.2012699
   longitude: 39.4221813
@@ -3295,6 +3358,9 @@ SY/Aleppo:
 SY/Damascus Governorate:
   latitude: 33.5155238
   longitude: 36.2737518
+SY/Deir ez-Zor:
+  latitude: 35.3333335
+  longitude: 40.1499999
 SY/Hama:
   latitude: 35.1343368
   longitude: 36.7496276
@@ -3334,6 +3400,9 @@ TH/Khon Kaen:
 TH/Lopburi:
   latitude: 15.026458
   longitude: 100.8089178
+TH/Maha Sarakham:
+  latitude: 15.9041448
+  longitude: 103.0840638
 TH/Nakhon Pathom:
   latitude: 13.8918425
   longitude: 100.0165659
@@ -3352,6 +3421,9 @@ TH/Pathum Thani:
 TH/Phetchaburi:
   latitude: 13.0692869
   longitude: 99.6044376
+TH/Phichit:
+  latitude: 16.4551073
+  longitude: 100.1924695
 TH/Phitsanulok:
   latitude: 16.9779975
   longitude: 100.3848239
@@ -3511,6 +3583,9 @@ TR/Samsun:
 "TR/Tekirda\u011F":
   latitude: 41.0731403
   longitude: 27.4102013
+TR/Tokat Province:
+  latitude: 40.31389
+  longitude: 36.55444
 "TR/U\u015Fak":
   latitude: 38.5768902
   longitude: 29.3729779
@@ -3520,6 +3595,9 @@ TR/Van:
 TR/Yalova:
   latitude: 40.5795422
   longitude: 29.1687005
+TR/Yozgat:
+  latitude: 39.7152422
+  longitude: 35.170998
 "TR/\xC7orum":
   latitude: 40.5698389
   longitude: 34.7269292
@@ -4030,6 +4108,9 @@ XK/Pristina:
 XK/Prizren:
   latitude: 42.2130151
   longitude: 20.7363339
+YE/Aden:
+  latitude: 12.789585
+  longitude: 45.028504
 ZA/Eastern Cape:
   latitude: -32.2171831
   longitude: 26.6386401
@@ -4057,6 +4138,9 @@ ZA/Northern Cape:
 ZA/Western Cape:
   latitude: -33.546977
   longitude: 20.72753
+ZM/Lusaka Province:
+  latitude: -15.357609
+  longitude: 29.1653092
 ZW/Harare:
   latitude: -17.8567035
   longitude: 31.0601584

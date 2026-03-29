@@ -1,35 +1,38 @@
 region	bytes_sent
-AWS/us-east-1	14451020752
+AWS/us-east-1	15209194156
 SE/Västra Götaland	226796
-GitHub	3623719892
-VPN	23895478944
+GitHub	4060626088
+VPN	25528785616
 GCP/us-west1	226796
-CN/Shanghai	18249341632
-US/Massachusetts	14081696772
-HK/Hong Kong	2145035620
-US/California	14672325052
+CN/Shanghai	21216215096
+US/Massachusetts	15412914504
+US/California	16106750096
+HK/Hong Kong	2354750820
 AR/Buenos Aires F.D.	15295060
-NL/Flevoland	4396012700
-VN/Ho Chi Minh City (HCMC)	41518364
-CA/Quebec	6702956756
+NL/Flevoland	4848668392
+VN/Ho Chi Minh City (HCMC)	41983800
+CA/Quebec	8320827852
+US/Virginia	351454116
 KH/Phnom Penh	13363632
-BR/Minas Gerais	14073564
+BR/Minas Gerais	14515040
 NG/Lagos	433184
-AWS/ap-southeast-1	117617332
-unknown	126906768
-US/Virginia	321003912
+AWS/ap-southeast-1	119507256
+RU/Moscow Oblast	210128
+unknown	197796528
 BD/Dhaka Division	17940916
 ID/Lampung	223952
+ZA/Gauteng	27336812
 BR/Pernambuco	468028
 AR/Chaco	704016
 US/New Hampshire	4144605420
 UY/Montevideo Department	489916
 ET/Addis Ababa	672968
-IR/Tehran	435424
+IR/Tehran	687088
 JO/Amman	1570716
 BR/Pará	218736
-IQ/Baghdad	23740556
-IQ/Erbil	711404
+IQ/Baghdad	34167860
+US/Illinois	16794536
+IQ/Erbil	928092
 CO/Huila Department	220400
 KE/Nairobi County	20566196
 AE/Sharjah	225044
@@ -37,19 +40,18 @@ AR/Buenos Aires	9460604
 IL/Jerusalem	8012140
 PK/Sindh	867488
 GCP/us-east1	216688
-US/Illinois	16353108
 PS/West Bank	12771316
 XK/Prizren	224348
 PY/Asunción	224348
 BO/La Paz Department	240584
 EG/Gharbia	229248
 IN/Maharashtra	16904848
-UZ/Tashkent	17362860
-VN/Hanoi	26763176
+UZ/Tashkent	27320076
+VN/Hanoi	26979864
 KE/Kakamega County	216688
 BR/São Paulo	37032040
 KZ/Shymkent	218736
-BR/Rio Grande do Sul	14967656
+BR/Rio Grande do Sul	15196120
 VN/Bac Ninh	434980
 GCP/us-central1	222740
 US/District of Columbia	857747
@@ -57,22 +59,24 @@ BR/Paraná	13781504
 CO/Nariño	216688
 SN/Dakar	233840
 SE/Stockholm	21743292
+BR/Mato Grosso	11562380
 VE/Distrito Federal	10453172
 AE/Dubai	240200
 BD/Mymensingh Division	240404
 VE/Táchira	530272
 US/Georgia	220816
+UA/Lviv	220816
 IN/Rajasthan	235748
 AE/Abu Dhabi	480404
-ZA/Gauteng	27126684
-CN/Shaanxi	752615680
+CN/Shaanxi	899627276
 AR/Santa Fe	733860
 MY/Selangor	236372
 AR/Cordoba	435424
 VN/Quang Tri	231548
-ID/East Java	467284
-PK/Punjab	35812104
-GB/England	1259016
+ID/East Java	686020
+PK/Punjab	36030440
+BD/Rangpur Division	652112
+GB/England	1467072
 BO/Santa Cruz Department	13337684
 CL/Santiago Metropolitan	26137692
 BR/Bahia	6812832
@@ -85,6 +89,7 @@ US/Delaware	261248
 BR/Rio Grande do Norte	230144
 MX/México	240884
 IQ/Maysan	216688
+CO/Valle del Cauca Department	212240
 KZ/Almaty	437000
 BR/Sergipe	224024
 UA/Zakarpattia	226616
@@ -123,6 +128,7 @@ CA/Ontario	230024
 RU/Moscow	11853244
 MX/Mexico City	25606592
 IN/Uttar Pradesh	259820
+DE/Hesse	940208
 BD/Khulna Division	506356
 ET/Oromiya	298436
 MA/Fès-Meknès	10104092
@@ -133,15 +139,16 @@ TG/Maritime	7991976
 IE/Leinster	220816
 RS/Central Serbia	449280
 IQ/Salah ad Din	461748
-DE/Hesse	232784
 CN/Zhejiang	232784
 AWS/us-east-2	232784
+US/Indiana	102400
 XK/Pristina	223824
 RU/Vladimir Oblast	223824
 VE/Sucre	14935824
 CZ/Moravskoslezský	9433152
 HN/Francisco Morazán Department	11005344
 AZ/Gǝncǝ	433376
+IQ/Dhi Qar	216688
 MX/Sonora	220816
 OM/Muscat	654160
 RU/Samara Oblast	218736
@@ -163,9 +170,9 @@ RU/Altai Krai	228908
 SK/Košice Region	218752
 TN/Sfax Governorate	9171120
 RU/Rostov	675400
-BR/Mato Grosso	229496
 EC/Tungurahua Province	212240
 ZA/KwaZulu-Natal	258524
+IQ/Sulaymaniyah	216688
 HN/Comayagua Department	13167108
 SA/Mecca Region	447936
 UA/Odesa	216688
@@ -194,6 +201,7 @@ UA/Crimea	425224
 PA/Chiriquí Province	14935824
 VN/Da Nang City	6647704
 DO/Nacional	416112
+IQ/Wasit	208056
 RU/Perm Krai	254996
 KG/Chuy Region	214880
 AL/Tirana	429760
@@ -211,5 +219,4 @@ VN/Quảng Ninh	253076
 VE/Vargas	7598928
 RU/Zabaykalskiy (Transbaikal) Kray	222836
 VN/Hai Phong	224496
-BD/Rangpur Division	433376
 EG/Sohag	223724

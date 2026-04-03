@@ -12,8 +12,8 @@ sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-3_flip-2_VFA.nii.gz	367001600
 sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-3_flip-3_VFA.nii.gz	5755041379
 sub-HCPA1/ses-MRI/fmap/sub-HCPA1_ses-MRI_flip-4_TB1DAM.nii.gz	513890
 sub-HCPA2/ses-MRI/fmap/sub-HCPA2_ses-MRI_flip-1_TB1DAM.nii.gz	174469
-sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.json	2255
-sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-2_flip-4_VFA.nii.gz	3055483164
+sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.json	4510
+sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-2_flip-4_VFA.nii.gz	3575576860
 derivatives/Topup_EPIC_B0/sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_flip-2_VFA.nii.gz	1319909265
 sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-3_flip-3_VFA.nii.gz	1126170624
 sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-1_flip-4_VFA.nii.gz	2075036979
@@ -21,7 +21,7 @@ sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-3_flip-4_VFA.nii.gz	1518727512
 sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-3_flip-1_VFA.nii.gz	1249902592
 sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-3_flip-4_VFA.json	585
 sub-HCPA1/ses-MRI/fmap/sub-HCPA1_ses-MRI_flip-7_TB1DAM.json	243
-sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-1_flip-2_VFA.nii.gz	219541400
+sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-1_flip-2_VFA.nii.gz	764800920
 sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b4p0k32dir_dir-AP_dwi.json	4502
 sub-HCPA1/ses-MRI/fmap/sub-HCPA1_ses-MRI_flip-8_TB1DAM.nii.gz	292314
 sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-4_flip-2_VFA.nii.gz	2355894689
@@ -33,14 +33,15 @@ sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-1_flip-3_VFA.nii.gz	6681480050
 sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b0p4k6dir_dir-AP_dwi.nii.gz	46548816
 derivatives/Topup_EPIC_B0_B1/sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_flip-4_VFA.json	588
 sub-HCPA1/ses-MRI/fmap/sub-HCPA1_ses-MRI_flip-1_TB1DAM.json	242
-sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b0_dir-PA_dwi.nii.gz	6184410
+sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b0_dir-PA_dwi.nii.gz	9276615
 sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-2_flip-1_VFA.nii.gz	5337311230
-sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-1_flip-1_VFA.nii.gz	2162355756
+sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-1_flip-1_VFA.nii.gz	2267213356
 derivatives/Topup_EPIC_B0_B1/sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_PD_VFA.nii.gz	1293942784
 sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b31p3k64dir_dir-AP_dwi.json	4508
 sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b0_dir-PA_dwi.json	2244
 derivatives/Topup_EPIC_B0_B1/sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_PD_VFA.json	734
 derivatives/Topup_EPIC_B0_B1/sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_flip-3_VFA.json	294
+sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b0p4k6dir_dir-AP_dwi.nii.gz	19364941
 sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b7p4k32dir_dir-AP_dwi.json	4502
 derivatives/Topup_EPIC_B0/sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_flip-1_VFA.nii.gz	508149212
 derivatives/Topup_EPIC_B0/sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_T1_VFA.nii.gz	681636324
@@ -73,7 +74,7 @@ sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-3_flip-2_VFA.nii.gz	1805647872
 sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b11p8k64dir_dir-AP_dwi.nii.gz	102760448
 sub-HCPA2/ses-MRI/fmap/sub-HCPA2_ses-MRI_flip-4_TB1DAM.nii.gz	217734
 derivatives/Topup_EPIC_B0/sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_T1_VFA.json	366
-sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.nii.gz	85983232
+sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.nii.gz	102760448
 derivatives/Topup_EPIC_B0/sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_flip-3_VFA.json	294
 sub-HCPA1/ses-MRI/fmap/sub-HCPA1_ses-MRI_flip-3_TB1DAM.nii.gz	243394
 sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_echo-2_flip-2_VFA.nii.gz	5491874278
@@ -98,6 +99,7 @@ sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b11p8k64dir_dir-AP_dwi.json	4508
 sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b60p0k64dir_dir-AP_dwi.nii.gz	102760448
 sub-HCPA2/ses-MRI/dwi/sub-HCPA2_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.json	2254
 derivatives/Topup_EPIC_B0_B1/sub-HCPA1/ses-MRI/anat/sub-HCPA1_ses-MRI_T1_VFA.json	732
+sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-2_flip-1_VFA.nii.gz	1048576000
 sub-HCPA2/ses-MRI/anat/sub-HCPA2_ses-MRI_echo-4_flip-1_VFA.nii.gz	2869396114
 sub-HCPA1/ses-MRI/fmap/sub-HCPA1_ses-MRI_flip-7_TB1DAM.nii.gz	286753
 derivatives/Topup_EPIC_B0/dataset_description.json	1005

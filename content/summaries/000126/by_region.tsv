@@ -1,48 +1,48 @@
 region	bytes_sent
-GitHub	16361019504
-US/New York	116346464
-VPN	462203080
-US/Georgia	425208892
-GB/England	578039636
-bogon	23311488
-US/California	499962860
+GitHub	17131482424
+US/New York	122338508
+VPN	490688816
+US/Georgia	443033492
+GB/England	591358020
+bogon	24682752
+US/California	509167673
 BR/Amazonas	514224
-US/Oregon	114910072
-US/Texas	229590712
-CN/Beijing	27602200
-AWS/us-west-2	242889286
-AWS/us-east-1	171226276
-HK/Hong Kong	4518296
-SE/Stockholm	84205392
-VN/Hanoi	2725008
-AWS/us-east-2	37126947
+US/Oregon	120350296
+US/Texas	242041368
+CN/Beijing	29487960
+AWS/us-west-2	273937054
+AWS/us-east-1	209583136
+HK/Hong Kong	4935784
+SE/Stockholm	90550208
+VN/Hanoi	3247904
+AWS/us-east-2	39014639
 AE/Ajman	171408
-VN/Ho Chi Minh City (HCMC)	90524392
+VN/Ho Chi Minh City (HCMC)	91724248
 ZA/KwaZulu-Natal	171408
-BR/Rio de Janeiro	2913936
-US/Virginia	47702680
-BR/São Paulo	10970112
-BR/Pernambuco	1199856
-HK/Tsuen Wan	5487776
+BR/Rio de Janeiro	3085344
+US/Virginia	60311840
+BR/São Paulo	11484336
+BR/Pernambuco	1371264
+HK/Tsuen Wan	5659184
 CR/Puntarenas Province	171408
 BR/Minas Gerais	3942384
 VN/Hai Phong	685632
-GCP/us-central1	1199856
+GCP/us-central1	1371264
 VN/Thanh Hóa Province	685632
-MX/Mexico City	1028448
+MX/Mexico City	1199856
 CN/Jiangsu	1335960
 HU/Budapest	82812
-US/Michigan	6038204
+US/Michigan	6605212
 VN/Vinh Long	342816
 VN/Hưng Yên Province	342816
 KE/Nairobi County	342816
 VN/Dong Nai	514224
 VN/Quang Tri	342816
 BR/Rio Grande do Sul	2742528
-US/Illinois	317410700
+US/Illinois	327546788
 AR/Mendoza	342816
 US/Washington	857312
-BR/Sergipe	514224
+BR/Sergipe	685632
 VN/Thai Nguyen	514224
 UZ/Tashkent	514224
 US/Massachusetts	167256160
@@ -50,12 +50,12 @@ VN/Da Nang City	1371264
 BR/Federal District	1199856
 MX/Yucatán	171408
 PE/Ica	171408
-BR/Goiás	2399712
+BR/Goiás	2571120
 ZA/Western Cape	171408
-VN/Tuyen Quang	342816
+VN/Tuyen Quang	514224
 VN/Dak Lak	171408
 BR/Paraná	2056896
-BR/Santa Catarina	514224
+BR/Santa Catarina	857040
 AWS/ap-northeast-1	171408
 VN/Can Tho City	857040
 JP/Osaka	226592
@@ -77,8 +77,8 @@ EC/Tungurahua Province	171408
 AR/La Rioja	171408
 RU/Moscow	685904
 AR/Misiones	171408
-GCP/us-west1	3683936
-DE/North Rhine-Westphalia	1372352
+GCP/us-west1	4027024
+DE/North Rhine-Westphalia	1544032
 VN/An Giang	685632
 AR/Corrientes	171408
 BR/Maranhão	685632
@@ -89,27 +89,27 @@ UA/Zhytomyr	171408
 AR/Buenos Aires	1199856
 CL/Santiago Metropolitan	514224
 US/Pennsylvania	2941528
-VN/Ninh Binh	1199856
+VN/Ninh Binh	1371264
 HK/Islands	5144688
-SG/Singapore	514768
+SG/Singapore	1028992
 BR/Mato Grosso	685632
 US/Maryland	514224
 VN/Quảng Ninh	514224
-US/New Hampshire	17911960882
-BR/Pará	1199856
+US/New Hampshire	18128388570
+BR/Pará	1371264
 AWS/ap-southeast-1	6514668
 MX/Baja California	342816
 AWS/sa-east-1	171408
-VN/Phu Tho	685632
+VN/Phu Tho	857040
 ZA/Gauteng	171408
 VN/Lao Cai	171408
 MQ/Martinique	342816
 CZ/Prague	171408
-GCP/us-east5	22968672
+GCP/us-east5	25368384
 NZ/Auckland	857312
 VN/Sơn La Province	171408
 BR/Ceará	1199856
-HK/Kwai Tsing District	27592
+HK/Kwai Tsing District	55184
 RU/Stavropol Kray	171408
 AR/San Juan	171408
 MX/Guerrero	171408
@@ -120,7 +120,7 @@ VN/Khanh Hoa	171408
 AR/Formosa	342816
 BR/Mato Grosso do Sul	171408
 PY/Alto Paraná Department	171408
-PT/Lisbon	111446652
+PT/Lisbon	111618060
 AR/Neuquen	171408
 VN/Dong Thap	171408
 BD/Dhaka Division	514224
@@ -128,7 +128,7 @@ US/Connecticut	171408
 VE/Aragua	171408
 BR/Espírito Santo	514224
 CO/Cauca Department	171408
-unknown	87291124
+unknown	45996484
 BR/Alagoas	342816
 CO/Bogota D.C.	171408
 JP/Okayama	342816
@@ -144,7 +144,8 @@ IQ/Karbala	171408
 VN/Ca Mau	342816
 BA/Srpska	171408
 AL/Tirana	171408
-VN/Lam Dong	171408
+BR/Paraíba	171408
+VN/Lam Dong	342816
 UA/Kharkivs’ka Oblast’	171408
 EC/Manabí	171408
 GA/Estuaire	171408
@@ -152,6 +153,9 @@ US/Nevada	171408
 AWS/eu-north-1	171408
 HN/Francisco Morazán Department	171408
 PY/Asunción	171408
+VN/Tay Ninh	171408
+VN/Hà Tĩnh Province	171408
 CN/Shanghai	158506384
-US/Vermont	2306269336
+US/Alabama	171408
+US/Vermont	2434095816
 IN/Maharashtra	36863204

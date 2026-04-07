@@ -40,6 +40,9 @@ AL/Fier County:
 "AL/Kor\xE7\xEB County":
   latitude: 40.5858753
   longitude: 20.7361315
+"AL/Kuk\xEBs County":
+  latitude: 42.1885664
+  longitude: 20.3769633
 "AL/Shkod\xEBr County":
   latitude: 42.2507677
   longitude: 19.5959723
@@ -199,6 +202,9 @@ AWS/ap-northeast-1:
 AWS/ap-northeast-2:
   latitude: '37.4565'
   longitude: '126.7052'
+AWS/ap-northeast-3:
+  latitude: '34.6938'
+  longitude: '135.5011'
 AWS/ap-south-1:
   latitude: '19.0728'
   longitude: '72.8826'
@@ -1009,6 +1015,9 @@ DZ/Constantine:
 DZ/El Oued:
   latitude: 33.215441
   longitude: 7.1553214
+DZ/Khenchela:
+  latitude: 34.9133455
+  longitude: 6.9059431
 DZ/M'Sila:
   latitude: 35.1300205
   longitude: 4.2003107
@@ -1147,6 +1156,9 @@ ES/Aragon:
 ES/Asturias:
   latitude: 43.3133868
   longitude: -5.94192
+ES/Balearic Islands:
+  latitude: 39.613432
+  longitude: 2.8829185
 ES/Basque Country:
   latitude: 42.9911816
   longitude: -2.5543023
@@ -1210,6 +1222,9 @@ FI/Paijat-Hame:
 FI/Pirkanmaa:
   latitude: 61.7174331
   longitude: 23.7157115
+FI/South Karelia:
+  latitude: 61.2667443
+  longitude: 28.4055857
 FI/South Ostrobothnia:
   latitude: 62.7389391
   longitude: 23.1124435
@@ -1219,6 +1234,9 @@ FI/Southwest Finland:
 FI/Uusimaa:
   latitude: 60.2246684
   longitude: 25.1272631
+FJ/Central:
+  latitude: -17.9338436
+  longitude: 178.412103
 FJ/Western:
   latitude: -17.7493989
   longitude: 177.4529413
@@ -1420,6 +1438,9 @@ GT/Jalapa:
 "GT/Pet\xE9n":
   latitude: 16.8317906
   longitude: -90.0450637
+GT/Quetzaltenango:
+  latitude: 14.8464612
+  longitude: -91.5194208
 GT/San Marcos:
   latitude: 14.9533135
   longitude: -91.9120444
@@ -1465,6 +1486,9 @@ HK/Sha Tin:
 HK/Sham Shui Po District:
   latitude: 22.331254
   longitude: 114.1593014
+HK/Southern District:
+  latitude: 22.219269
+  longitude: 114.2252234
 HK/Tai Po:
   latitude: 22.4494017
   longitude: 114.1711328
@@ -1681,6 +1705,9 @@ IL/Tel Aviv:
 IM/Douglas:
   latitude: 54.149774
   longitude: -4.4779021
+IN/Andaman and Nicobar:
+  latitude: 7.0000167
+  longitude: 93.8110528
 IN/Andhra Pradesh:
   latitude: 15.9240905
   longitude: 80.1863809
@@ -2056,6 +2083,9 @@ KE/Kisumu County:
 KE/Machakos County:
   latitude: -1.2790046
   longitude: 37.3952698
+KE/Makueni County:
+  latitude: -2.2829447
+  longitude: 37.825234
 KE/Meru County:
   latitude: 0.2254509
   longitude: 37.7772624
@@ -2350,6 +2380,9 @@ MD/Gagauzia:
 "MD/Raionul Edine\u0163":
   latitude: 48.1453442
   longitude: 27.2723304
+MD/Soroca District:
+  latitude: 48.1642746
+  longitude: 28.1615637
 "MD/Str\u0103\u0219eni":
   latitude: 47.1474401
   longitude: 28.6150196
@@ -2401,6 +2434,9 @@ MM/Yangon:
 MN/Bayanhongor:
   latitude: 45.2380937
   longitude: 99.5146799
+MN/Hovd:
+  latitude: 46.8997977
+  longitude: 92.2959651
 MN/Ulaanbaatar:
   latitude: 47.9184676
   longitude: 106.9177016
@@ -2950,6 +2986,9 @@ PR/Ponce:
 PR/San Juan:
   latitude: 18.384239
   longitude: -66.05344
+PS/Gaza Strip:
+  latitude: 31.4432234
+  longitude: 34.360007
 PS/West Bank:
   latitude: 32.0254688
   longitude: 35.2888075
@@ -3061,6 +3100,9 @@ RO/Bihor County:
 "RO/Bucure\u0219ti":
   latitude: 44.4361414
   longitude: 26.102684
+"RO/Cara\u0219-Severin County":
+  latitude: 45.2896658
+  longitude: 21.8869988
 RO/Cluj County:
   latitude: 46.7764679
   longitude: 23.6153762
@@ -3181,6 +3223,9 @@ RU/Khakasiya Republic:
 RU/Khanty-Mansia:
   latitude: 61.8793428
   longitude: 68.6418156
+RU/Kirov Oblast:
+  latitude: 58.563072
+  longitude: 50.1824997
 RU/Komi:
   latitude: 63.9881421
   longitude: 54.3326073
@@ -3346,6 +3391,9 @@ SE/Dalarna:
 "SE/G\xE4vleborg":
   latitude: 61.2682236
   longitude: 16.688925
+"SE/J\xF6nk\xF6ping":
+  latitude: 57.7825634
+  longitude: 14.165719
 SE/Norrbotten:
   latitude: 59.7650564
   longitude: 18.0776847
@@ -3523,6 +3571,9 @@ TH/Phra Nakhon Si Ayutthaya:
 TH/Phuket:
   latitude: 7.9366015
   longitude: 98.3529292
+TH/Ratchaburi:
+  latitude: 13.6317897
+  longitude: 99.3558216
 TH/Rayong:
   latitude: 12.7943716
   longitude: 101.3705344
@@ -4024,6 +4075,9 @@ UZ/Tashkent:
 UZ/Tashkent Region:
   latitude: 41.0877657
   longitude: 69.4978552
+UZ/Xorazm Region:
+  latitude: 41.4203897
+  longitude: 60.5481182
 VC/Saint George Parish:
   latitude: 43.40618
   longitude: -76.12576
@@ -4225,6 +4279,9 @@ XK/Prizren:
 YE/Aden:
   latitude: 12.789585
   longitude: 45.028504
+"YE/Ta\u2018izz":
+  latitude: 13.5752242
+  longitude: 44.0215268
 ZA/Eastern Cape:
   latitude: -32.2171831
   longitude: 26.6386401

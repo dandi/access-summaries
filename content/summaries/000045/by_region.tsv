@@ -1,53 +1,56 @@
 region	bytes_sent
-AWS/us-east-2	153594899907
-US/California	173382114303
-NL/Flevoland	73893929487
-VPN	198648948485
-CA/Quebec	29005341878
-US/New Hampshire	196880366161
-CN/Shaanxi	6274788694
-GCP/us-west1	659773597
+AWS/us-east-2	162843075877
+US/California	185126766641
+NL/Flevoland	78234607117
+VPN	214530126255
+CA/Quebec	29736946626
+US/New Hampshire	196908029905
+CN/Shaanxi	6823652348
+GCP/us-west1	680136449
 GCP/us-central1	328694745
-AWS/us-east-1	152279033745
-US/Minnesota	1231936181
-US/Massachusetts	65819776765
-AWS/ap-southeast-1	24510120788
-CN/Shanghai	76008294094
-HK/Hong Kong	9217527132
-GitHub	50326387017
-US/Nevada	13199258933
-unknown	2691971895
-ES/Catalonia	182369480
+AWS/us-east-1	161785578134
+US/Minnesota	1282450759
+US/Massachusetts	70204481012
+AWS/ap-southeast-1	26097362633
+CN/Shanghai	80919744853
+HK/Hong Kong	9836582170
+GitHub	53849979495
+US/Nevada	14617827305
+ES/Catalonia	190758088
 BR/Rio de Janeiro	17663169
 IL/Jerusalem	7839124
+unknown	3411198520
+US/Illinois	3128540998
+AWS/us-west-2	4088259665
 US/New York	309680702
-UA/Kyiv	1012116343
-US/Virginia	11072185880
-DE/Thuringia	1620283269
-GCP/us-east1	4275015840
-US/Washington	1336244384
-AWS/us-west-2	2682402629
+UA/Kyiv	1073616237
+US/Virginia	11614904841
+DE/Thuringia	1716017393
+GCP/us-east1	4287492272
+US/Washington	1361705028
 CL/Santiago Metropolitan	20959292
-US/Illinois	2341744012
+BR/Santa Catarina	11658353
 US/North Carolina	15155988
 TW/Taiwan	1051335824
-CN/Beijing	30377955
-AU/New South Wales	92849388
-IE/Leinster	359900720
+CN/Beijing	36709117
+AU/New South Wales	133180446
+IE/Leinster	370039169
 IT/Veneto	660618951
-NO/Vestland	535238706
+NO/Vestland	563443406
 NZ/Wellington Region	40569612
-CA/Ontario	173178598
-GB/England	333072290
+CA/Ontario	227177524
+GB/England	369622038
+UA/Kyiv City	34527600
+AU/Western Australia	15819476
 US/Florida	52612796
 TR/Bursa Province	6238216
 IE/Connacht	35233276
 US/Mississippi	13073708
-US/Georgia	6298376
-NZ/Canterbury	28884138
+US/Georgia	12005680
+NZ/Canterbury	41825118
 AU/Victoria	86518717
 US/New Jersey	33169657
-NZ/Auckland	216215102
+NZ/Auckland	242074526
 IN/Maharashtra	13422860
 PT/Lisbon	22543686
 IN/Rajasthan	269888
@@ -57,23 +60,24 @@ US/Pennsylvania	18913740
 NZ/Bay of Plenty	11589076
 US/Kentucky	30548713
 TT/Princes Town	3325289
+MX/Sinaloa	9698128
 TR/Istanbul	20771932
 PY/Central Department	18515556
 US/Louisiana	10250157
 BR/São Paulo	59616516
 NZ/Waikato Region	18836991
-AU/Queensland	60635505
+AU/Queensland	84924729
 SA/Riyadh Region	9224596
 BR/Rio Grande do Sul	40182308
 US/Texas	62781888
 UY/Montevideo Department	8400608
-NO/Oslo	214369046
+NO/Oslo	216413758
 BR/Minas Gerais	9968336
 US/Wisconsin	10286420
 BD/Chittagong	5906396
 GT/Guatemala	12411877
-US/Indiana	28323700
-US/Connecticut	78254160
+US/Indiana	32512236
+US/Connecticut	86938560
 JP/Okayama	5926048
 FR/Île-de-France	41536906
 US/Rhode Island	2044712
@@ -82,29 +86,27 @@ HU/Budapest	7614004
 CA/Nova Scotia	19975564
 US/Alabama	24496436
 BG/Pleven	10020964
-GB/Wales	18152776
+GB/Wales	26381912
 PH/National Capital Region	18229647
 US/Kansas	10087328
 HR/County of Osijek-Baranja	5972760
 US/District of Columbia	18202540
 IE/Munster	30874579
 GB/Northern Ireland	28138336
-UA/Kyiv City	27541060
 SE/Jönköping	10618240
 ID/South Sumatra	2186064
 IL/Haifa	12776016
 MY/Kuala Lumpur	4180932
-US/Vermont	164029780
+US/Vermont	164954476
 JP/Tokyo	17787232
 US/Utah	10959896
 NZ/Taranaki Region	10419148
-CA/Alberta	35129032
+CA/Alberta	42144616
 US/Missouri	10830259
 BR/Paraná	19245560
 CA/Prince Edward Island	9233364
 TR/Kayseri	6542332
 GR/Attica	2327779
-AU/Western Australia	11638544
 AU/South Australia	36295304
 CA/Manitoba	27758307
 US/Oregon	165143352
@@ -119,13 +121,14 @@ IE/Ulster	8760048
 BR/Alagoas	10205709
 US/Ohio	31164380
 PK/Punjab	6238216
+US/Arkansas	6238216
 VN/Ho Chi Minh City (HCMC)	4370216
-NZ/Hawke's Bay Region	32077108
-BR/Santa Catarina	11625584
+NZ/Hawke's Bay Region	41766252
 EG/Cairo	5707304
 AR/Buenos Aires	36764157
 MX/San Luis Potosí	7315632
 CA/British Columbia	88716031
+US/West Virginia	8054776
 AR/Corrientes	14222737
 BR/Pernambuco	10971660
 US/Tennessee	6075672
@@ -135,6 +138,7 @@ ZA/Limpopo	4048204
 CO/Bogota D.C.	3503168
 BD/Dhaka Division	9556416
 RU/Tyumen Oblast	7897316
+BR/Rio Grande do Norte	11610875
 JP/Okinawa	8892776
 IN/Gujarat	4114568
 RU/Moscow	16804977
@@ -146,13 +150,16 @@ VN/Da Nang City	9755508
 US/Michigan	10153692
 JP/Saitama	9888236
 RU/Astrakhan Oblast	13762157
+US/Idaho	3626336
 TR/Ankara	6383273
 NL/Utrecht	4079260
 PE/San Martín Department	17039400
 US/Nebraska	6762424
+GB/Scotland	10087328
 MX/Querétaro	13206436
 ES/Madrid	5966024
 US/Alaska	6313855
 MX/Aguascalientes	9247220
 BR/Federal District	19643744
 KZ/Pavlodar Region	16192816
+HU/Győr-Moson-Sopron	5143992

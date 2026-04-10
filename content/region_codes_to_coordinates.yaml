@@ -142,6 +142,9 @@ AR/Santa Fe:
 AR/Santiago del Estero:
   latitude: -27.6431016
   longitude: -63.5408542
+AR/Tierra del Fuego:
+  latitude: -53.8904638
+  longitude: -68.348598
 AR/Tucuman:
   latitude: -27.0448424
   longitude: -65.3657954
@@ -358,6 +361,12 @@ BG/Dobrich:
 BG/Gabrovo:
   latitude: 42.9638895
   longitude: 25.2119538
+BG/Haskovo:
+  latitude: 41.763101
+  longitude: 25.9256255
+BG/Kardzhali:
+  latitude: 41.56876
+  longitude: 25.3948569
 BG/Kyustendil:
   latitude: 42.3349427
   longitude: 22.8884116
@@ -382,6 +391,9 @@ BG/Smolyan:
 BG/Sofia-Capital:
   latitude: 42.6453678
   longitude: 23.3952266
+BG/Stara Zagora:
+  latitude: 42.4248111
+  longitude: 25.6257479
 BG/Targovishte:
   latitude: 43.2530111
   longitude: 26.4141884
@@ -397,6 +409,9 @@ BH/Manama:
 BH/Muharraq:
   latitude: 26.2465946
   longitude: 50.6164127
+BH/Northern:
+  latitude: 26.1779416
+  longitude: 50.4613213
 BH/Southern Governorate:
   latitude: 25.840007
   longitude: 50.5902693
@@ -562,6 +577,9 @@ BY/Vitebsk:
 BZ/Belize District:
   latitude: 17.2831812
   longitude: -87.9382009
+BZ/Cayo District:
+  latitude: 16.9497897
+  longitude: -88.8940646
 CA/Alberta:
   latitude: 55.001251
   longitude: -115.002136
@@ -886,6 +904,9 @@ CZ/Central Bohemia:
 "CZ/Pardubick\xFD":
   latitude: 49.889819
   longitude: 16.1283254
+"CZ/Plze\u0148 Region":
+  latitude: 49.5228102
+  longitude: 13.2063118
 CZ/Prague:
   latitude: 50.0874654
   longitude: 14.4212535
@@ -1189,6 +1210,9 @@ ES/Madrid:
 ES/Murcia:
   latitude: 37.9923795
   longitude: -1.1305431
+ES/Navarre:
+  latitude: 42.7027944
+  longitude: -1.7086231
 ES/Valencia:
   latitude: 39.4697065
   longitude: -0.3763353
@@ -1639,6 +1663,9 @@ ID/North Sulawesi:
 ID/North Sumatra:
   latitude: 2.1923519
   longitude: 99.3812201
+ID/Papua:
+  latitude: -2.4749149
+  longitude: 138.08485
 ID/Riau:
   latitude: 1.0498079
   longitude: 101.6548433
@@ -1936,6 +1963,9 @@ IT/Trentino-Alto Adige:
 IT/Tuscany:
   latitude: 43.4586541
   longitude: 11.1389204
+IT/Umbria:
+  latitude: 42.965916
+  longitude: 12.490236
 IT/Veneto:
   latitude: 45.6476663
   longitude: 11.8665254
@@ -1948,6 +1978,9 @@ JM/Clarendon:
 JM/Kingston:
   latitude: 17.9712148
   longitude: -76.7928128
+JM/Manchester:
+  latitude: 18.0499257
+  longitude: -77.5107855
 JM/Saint Ann Parish:
   latitude: 18.35
   longitude: -77.26667
@@ -2071,6 +2104,9 @@ KE/Baringo:
 KE/Garissa County:
   latitude: -0.5236333
   longitude: 40.3564053
+KE/Kajiado County:
+  latitude: -2.121717
+  longitude: 36.786255
 KE/Kakamega County:
   latitude: 0.4957104
   longitude: 34.8015489
@@ -2287,6 +2323,9 @@ LK/Eastern Province:
 LK/Western Province:
   latitude: 6.8275297
   longitude: 79.931296
+LS/Maseru District:
+  latitude: -29.5816942
+  longitude: 27.8243208
 LT/Kaunas:
   latitude: 54.8982139
   longitude: 23.9044817
@@ -2377,9 +2416,15 @@ MD/Drochia:
 "MD/Flore\u015Fti":
   latitude: 47.8938318
   longitude: 28.2996474
+"MD/F\u0103le\u0219ti":
+  latitude: 47.5735141
+  longitude: 27.7068016
 MD/Gagauzia:
   latitude: 46.2070204
   longitude: 28.7636281
+MD/Orhei:
+  latitude: 47.3681328
+  longitude: 28.8271393
 "MD/Raionul Edine\u0163":
   latitude: 48.1453442
   longitude: 27.2723304
@@ -2620,6 +2665,9 @@ MY/Sarawak:
 MY/Selangor:
   latitude: 3.2083304
   longitude: 101.304146
+MY/Terengganu:
+  latitude: 4.8630743
+  longitude: 102.9949297
 MZ/Maputo City:
   latitude: -25.9580602
   longitude: 32.5847152
@@ -2989,6 +3037,9 @@ PR/Humacao:
 PR/Ponce:
   latitude: 18.0668224
   longitude: -66.6140412
+"PR/R\xEDo Grande":
+  latitude: -29.9019598
+  longitude: -51.204937
 PR/San Juan:
   latitude: 18.384239
   longitude: -66.05344
@@ -3106,6 +3157,9 @@ RO/Bihor County:
 "RO/Bucure\u0219ti":
   latitude: 44.4361414
   longitude: 26.102684
+"RO/Buz\u0103u County":
+  latitude: 45.1504602
+  longitude: 26.8099765
 "RO/Cara\u0219-Severin County":
   latitude: 45.2896658
   longitude: 21.8869988
@@ -3283,6 +3337,9 @@ RU/Novgorod Oblast:
 RU/Novosibirsk Oblast:
   latitude: 55.8204953
   longitude: 78.866158
+RU/Omsk Oblast:
+  latitude: 56.0935263
+  longitude: 73.5099936
 RU/Orenburg Oblast:
   latitude: 52.0269262
   longitude: 54.7276647
@@ -3442,6 +3499,9 @@ SI/Ljubljana:
 SI/Urban Municipality of Maribor:
   latitude: 46.55472
   longitude: 15.64667
+SI/Urban Municipality of Murska Sobota:
+  latitude: 46.6625
+  longitude: 16.16639
 SI/Urban Municipality of Nova Gorica:
   latitude: 45.95604
   longitude: 13.64837
@@ -3589,6 +3649,9 @@ TH/Samut Prakan:
 TH/Songkhla:
   latitude: 6.8790221
   longitude: 100.5498542
+TH/Suphan Buri:
+  latitude: 14.6777
+  longitude: 100.0350785
 TH/Surat Thani:
   latitude: 9.4674663
   longitude: 98.830042
@@ -3649,6 +3712,9 @@ TR/Batman:
 TR/Bilecik:
   latitude: 40.1543234
   longitude: 30.1479907
+TR/Bolu:
+  latitude: 40.6212099
+  longitude: 31.6460259
 TR/Bursa Province:
   latitude: 40.18333
   longitude: 29.06667
@@ -3817,6 +3883,9 @@ TW/Takao:
 TZ/Dar es Salaam Region:
   latitude: -6.7620079
   longitude: 39.2677372
+TZ/Zanzibar Urban/West:
+  latitude: -6.1653854
+  longitude: 39.2386951
 UA/Cherkasy:
   latitude: 49.1460165
   longitude: 31.2271744

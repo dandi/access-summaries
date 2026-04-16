@@ -1,63 +1,63 @@
 region	bytes_sent
-GitHub	19915417624
-US/New York	144228472
-VPN	579422744
-US/Georgia	510963452
-GB/England	669394848
-bogon	28453728
-US/California	618081581
+GitHub	21078439336
+US/New York	152945344
+VPN	622135568
+US/Georgia	536328116
+GB/England	688039280
+bogon	29824992
+US/California	668707989
 BR/Amazonas	514224
-US/Oregon	138368408
-US/Texas	275113752
-CN/Beijing	34297688
-AWS/us-west-2	362057112
-AWS/us-east-1	245203684
-HK/Hong Kong	6089704
-SE/Stockholm	113359440
-VN/Hanoi	3961128
-AWS/us-east-2	42629846
+US/Oregon	147672160
+US/Texas	289368536
+CN/Beijing	36184808
+AWS/us-west-2	372369280
+AWS/us-east-1	255029224
+HK/Hong Kong	6600368
+SE/Stockholm	122619280
+VN/Hanoi	4312616
+AWS/us-east-2	45511521
 AE/Ajman	171408
-VN/Ho Chi Minh City (HCMC)	94809592
+VN/Ho Chi Minh City (HCMC)	96009448
 ZA/KwaZulu-Natal	171408
-BR/Rio de Janeiro	3599568
-US/Virginia	74830160
-BR/São Paulo	13027008
+BR/Rio de Janeiro	4113792
+US/Virginia	75285072
+BR/São Paulo	13884048
 BR/Pernambuco	1542672
-HK/Tsuen Wan	6002272
+HK/Tsuen Wan	6345088
 CR/Puntarenas Province	171408
 BR/Minas Gerais	4970832
 VN/Hai Phong	857040
 GCP/us-central1	1714080
-VN/Thanh Hóa Province	685632
-MX/Mexico City	1199856
+VN/Thanh Hóa Province	1028448
+MX/Mexico City	1542672
 CN/Jiangsu	1507368
 HU/Budapest	138020
-US/Michigan	7590580
+US/Michigan	7961000
 VN/Vinh Long	342816
 VN/Hưng Yên Province	342816
 KE/Nairobi County	514224
-VN/Dong Nai	1028448
+VN/Dong Nai	1199856
 VN/Quang Tri	342816
-BR/Rio Grande do Sul	3256752
-US/Illinois	333876924
+BR/Rio Grande do Sul	3599568
+US/Illinois	399721552
 AR/Mendoza	342816
-US/Washington	1200400
+US/Washington	1371808
 BR/Sergipe	685632
 VN/Thai Nguyen	514224
 UZ/Tashkent	514224
 US/Massachusetts	167598976
-VN/Da Nang City	1714080
-BR/Federal District	1199856
+VN/Da Nang City	1885488
+BR/Federal District	1371264
 MX/Yucatán	171408
 PE/Ica	171408
 BR/Goiás	2571120
 ZA/Western Cape	171408
 VN/Tuyen Quang	857040
 VN/Dak Lak	171408
-BR/Paraná	2228304
+BR/Paraná	2399712
 BR/Santa Catarina	857040
 AWS/ap-northeast-1	171408
-VN/Can Tho City	857040
+VN/Can Tho City	1028448
 JP/Osaka	226592
 BR/Bahia	2228304
 IR/Tehran	171408
@@ -75,13 +75,13 @@ PK/Sindh	171408
 VN/Bac Ninh	1028448
 EC/Tungurahua Province	171408
 AR/La Rioja	171408
-RU/Moscow	857312
+RU/Moscow	1028720
 AR/Misiones	171408
-GCP/us-west1	5055744
+GCP/us-west1	5510928
 DE/North Rhine-Westphalia	1544032
-VN/An Giang	857040
+VN/An Giang	1028448
 AR/Corrientes	171408
-BR/Maranhão	685632
+BR/Maranhão	857040
 VN/Nghệ An Province	514224
 BR/Rondônia	171408
 EC/Guayas	685632
@@ -90,22 +90,22 @@ AR/Buenos Aires	1371264
 CL/Santiago Metropolitan	514224
 US/Pennsylvania	3284344
 VN/Ninh Binh	1371264
-HK/Islands	6517312
-SG/Singapore	1371808
+HK/Islands	7374624
+SG/Singapore	1714896
 BR/Mato Grosso	685632
 US/Maryland	514224
 VN/Quảng Ninh	685632
-US/New Hampshire	19162133754
-BR/Pará	1371264
+US/New Hampshire	19695848542
+BR/Pará	1542672
 AWS/ap-southeast-1	6514668
 MX/Baja California	342816
 AWS/sa-east-1	342816
 VN/Phu Tho	1028448
-ZA/Gauteng	342816
+ZA/Gauteng	514224
 VN/Lao Cai	171408
 MQ/Martinique	342816
 CZ/Prague	171408
-GCP/us-east5	30853440
+GCP/us-east5	32910336
 NZ/Auckland	857312
 VN/Sơn La Province	171408
 BR/Ceará	1542672
@@ -118,7 +118,7 @@ AR/Chaco	342816
 AWS/eu-central-1	342816
 VN/Khanh Hoa	171408
 AR/Formosa	342816
-BR/Mato Grosso do Sul	171408
+BR/Mato Grosso do Sul	342816
 PY/Alto Paraná Department	171408
 PT/Lisbon	186230000
 AR/Neuquen	171408
@@ -131,8 +131,8 @@ CO/Cauca Department	171408
 BR/Alagoas	514224
 CO/Bogota D.C.	171408
 JP/Okayama	342816
-unknown	46451708
-NL/Flevoland	37034612
+NL/Flevoland	125114996
+unknown	46661412
 GCP/us-east1	171408
 ES/Madrid	171408
 BR/Tocantins	342816
@@ -144,7 +144,7 @@ IQ/Karbala	342816
 VN/Ca Mau	342816
 BA/Srpska	171408
 AL/Tirana	171408
-BR/Paraíba	171408
+BR/Paraíba	342816
 VN/Lam Dong	342816
 UA/Kharkivs’ka Oblast’	171408
 EC/Manabí	171408
@@ -154,13 +154,17 @@ AWS/eu-north-1	171408
 BR/Piauí	171408
 HN/Francisco Morazán Department	171408
 PY/Asunción	171408
+EC/Chimborazo Province	171408
 VN/Tay Ninh	171408
 VN/Hà Tĩnh Province	171408
 CN/Shanghai	158506384
 LU/Esch-sur-Alzette	171408
 US/Alabama	171408
-IN/Maharashtra	37206020
+BD/Khulna Division	171408
+IN/Maharashtra	74069224
 MA/Rabat-Salé-Kénitra	171408
+AWS/eu-west-1	171408
+GCP/asia-southeast1	342816
 US/Rhode Island	171408
 DE/Bavaria	171408
-US/Vermont	2793772320
+US/Vermont	3020225640

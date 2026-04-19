@@ -1,76 +1,78 @@
 region	bytes_sent
-GitHub	14262756348
-AWS/us-east-2	1231780168
-US/North Carolina	137519492
-VPN	620816334
-US/Virginia	7271077460
-GCP/us-east1	255937176
-bogon	9632676
+GitHub	15003958852
+AWS/us-east-2	1250282264
+US/North Carolina	149858308
+VPN	676542283
+US/Virginia	7610336528
+GCP/us-east1	256389524
+bogon	9632776
 PT/Lisbon	7173980
-GCP/us-west1	88995280
-US/New York	485506828
+GCP/us-west1	89792200
+US/New York	504162992
 US/Indiana	1958880
-CA/Quebec	853660608
-US/Ohio	114892600
+CA/Quebec	854112956
+US/Ohio	116486440
 US/Colorado	356557312
-US/Georgia	253300784
-GCP/us-east4	121164908
+US/Georgia	255907096
+GCP/us-east4	240068076
 KR/Seoul	118903168
-US/California	2177159628
+US/California	2349722928
 GCP/us-central1	58860944
-AWS/ap-southeast-1	57768024
+AWS/ap-southeast-1	58990072
 US/Michigan	107327780
-US/Vermont	238651592
-GCP/europe-west4	124056480
-US/Maine	120313748
-RU/Moscow	796920
-US/New Hampshire	936367925
-CN/Shanghai	295459188
-CN/Beijing	234061244
+US/Vermont	266166164
+GCP/europe-west4	124333112
+US/Maine	120766096
+RU/Moscow	1593840
+US/New Hampshire	937724969
+CN/Shanghai	308731368
+CN/Beijing	234670812
 MX/Mexico City	22913936
-IN/Maharashtra	27980788
+IN/Maharashtra	28022572
 NO/Agder	796920
-US/Pennsylvania	3934736
+US/Pennsylvania	4437904
 JP/Okayama	1981160
 US/Texas	6265652
 VN/Ho Chi Minh City (HCMC)	8128656
-US/Massachusetts	265085872
-SG/Singapore	894606968
+US/Massachusetts	280262476
+SG/Singapore	926872004
 GCP/asia-southeast1	1055912
 US/Rhode Island	1593840
 AR/Buenos Aires	2199932
-US/New Jersey	664886312
+US/New Jersey	738138536
 CN/Shaanxi	7726472
-US/Illinois	118537168
-IN/Rajasthan	85341556
+US/Illinois	147126024
+IN/Rajasthan	86392800
 US/Tennessee	796920
-GCP/asia-east1	55981808
-AWS/us-east-1	1095665010
+GCP/asia-east1	56718680
+AWS/us-east-1	1210282174
 US/Nevada	62597584
 HK/Central and Western	8253408
-US/Washington	123290784
+US/Washington	125627056
 IN/Chandigarh	796920
 US/District of Columbia	48695808
 GCP/us-west3	119355516
-unknown	179336437
+CH/Vaud	118903168
 DE/Hesse	118903168
 BE/Brussels Capital	118903168
 US/Hawaii	69361664
-IN/Karnataka	53768208
+IN/Karnataka	78532080
 JP/Osaka	40009464
+unknown	64950055
 FR/Île-de-France	796920
-AWS/us-west-2	30635984
+AWS/us-west-2	31245552
 PT/Braga	55887408
 DE/State of Berlin	70631676
 ML/Bamako	324348
-NL/Flevoland	78532380
-CA/Ontario	116747876
+NL/Flevoland	79367436
+CA/Ontario	150332760
 IR/Tehran	53820448
 CN/Guangdong	43821440
 US/Mississippi	76020464
 EG/Sharqia	357424
 NO/Oslo	102018068
 CG/Brazzaville	357424
+AZ/Baki	357424
 VN/Da Nang City	338652
 BR/Federal District	338652
 BR/Rio de Janeiro	86375628
@@ -78,19 +80,20 @@ MX/San Luis Potosí	465540
 IQ/Kirkuk	465540
 IT/Lombardy	781903236
 IT/Emilia-Romagna	103708880
-IL/Jerusalem	6666716
-GB/England	53175336
+IL/Jerusalem	13126524
+HK/Hong Kong	17948520
+GB/England	53498492
 JO/Zarqa	276632
 IR/Khuzestan	276632
 IL/Central District	6459808
-HK/Hong Kong	11281804
+NL/North Holland	27126900
 RU/Krasnodar Krai	8194336
-NL/North Holland	15650824
 DZ/Blida	8194336
 AO/Luanda	6822228
 MN/Ulaanbaatar	8194336
 AR/Santa Fe	470808
 AR/Chaco	470808
+QA/Baladīyat ad Dawḩah	470808
 BR/Minas Gerais	647204
 RU/Tula Oblast	258992
 CO/Antioquia	6012628
@@ -100,15 +103,16 @@ TN/Tunis Governorate	374788
 SE/Stockholm	23522096
 AU/New South Wales	4071132
 MX/Oaxaca	1357044
-BZ/Belize District	1809392
-JP/Aichi	208992
+BZ/Belize District	2261740
+JP/Aichi	254360
 SE/Västra Götaland	162424
-MX/Tabasco	163560
+MX/Tabasco	243688
 US/Maryland	349948
 US/South Carolina	904696
 CN/Zhejiang	904696
 AT/Vienna	452348
 GA/Estuaire	452348
+BR/Santa Catarina	878792
 MY/Sarawak	493516
 PE/Puno	493516
 BD/Dhaka Division	493516
@@ -134,7 +138,6 @@ OM/Muscat	1480560
 GE/Tbilisi	553420
 BR/Rio Grande do Sul	388212
 CA/Alberta	426444
-BR/Santa Catarina	426444
 IN/Punjab	338864
 IQ/Basra	338864
 IQ/Karbala	450860

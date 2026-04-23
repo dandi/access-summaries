@@ -61,6 +61,9 @@ AM/Aragatsotn:
 AM/Ararat:
   latitude: 40.0053589
   longitude: 44.7315157
+AM/Armavir:
+  latitude: 40.1556494
+  longitude: 44.038797
 AM/Kotayk:
   latitude: 40.370707
   longitude: 44.6884739
@@ -178,6 +181,9 @@ AU/Australian Capital Territory:
 AU/New South Wales:
   latitude: -31.8759835
   longitude: 147.2869493
+AU/Northern Territory:
+  latitude: -19.8516101
+  longitude: 133.2303375
 AU/Queensland:
   latitude: -22.1646782
   longitude: 144.5844903
@@ -424,6 +430,9 @@ BH/Northern:
 BH/Southern Governorate:
   latitude: 25.840007
   longitude: 50.5902693
+BI/Bujumbura Mairie:
+  latitude: -3.3493959
+  longitude: 29.3631843
 BN/Brunei-Muara District:
   latitude: 4.9752098
   longitude: 114.9367663
@@ -1003,6 +1012,9 @@ DK/South Denmark:
 DK/Zealand:
   latitude: 55.5455979
   longitude: 11.6973741
+"DO/El Se\xEDbo":
+  latitude: 18.7854167
+  longitude: -69.0196781
 DO/Hermanas Mirabal:
   latitude: 19.3957699
   longitude: -70.3840578
@@ -1639,6 +1651,9 @@ HU/Budapest:
 "HU/Hajd\xFA-Bihar":
   latitude: 47.4407848
   longitude: 21.4752281
+HU/Heves County:
+  latitude: 47.83333
+  longitude: 20.25
 "HU/J\xE1sz-Nagykun-Szolnok":
   latitude: 47.2971598
   longitude: 20.453178
@@ -2068,6 +2083,9 @@ JO/Balqa:
 JO/Irbid:
   latitude: 32.5556091
   longitude: 35.8493023
+"JO/Ma\u2019an":
+  latitude: 30.2
+  longitude: 35.7333329
 JO/Zarqa:
   latitude: 32.0668425
   longitude: 36.0885771
@@ -2158,6 +2176,9 @@ JP/Yamanashi:
 KE/Baringo:
   latitude: 0.71401
   longitude: 36.0172739
+KE/Bungoma County:
+  latitude: 0.7829245
+  longitude: 34.7191681
 KE/Garissa County:
   latitude: -0.5236333
   longitude: 40.3564053
@@ -2212,6 +2233,9 @@ KG/Bishkek:
 KG/Chuy Region:
   latitude: 42.6672253
   longitude: 75.2093567
+KG/Issyk-Kul:
+  latitude: 42.4620398
+  longitude: 77.0789862
 KG/Jalal-Abad Region:
   latitude: 41.4804383
   longitude: 72.4649525
@@ -2341,6 +2365,9 @@ KZ/Shymkent:
 KZ/Zhambyl:
   latitude: 44.4168463
   longitude: 72.134166
+LA/Savannakhet Province:
+  latitude: 16.5001958
+  longitude: 105.7155946
 LA/Vientiane Prefecture:
   latitude: 18.120498
   longitude: 102.6505431
@@ -2422,12 +2449,18 @@ LV/Riga:
 "LY/Al Jaf\u0101rah":
   latitude: 32.6859736
   longitude: 13.1764996
+LY/Al Marj:
+  latitude: 31.9108728
+  longitude: 21.1477877
 "LY/Al W\u0101\u1E29\u0101t":
   latitude: 29.1573123
   longitude: 21.7496392
 "LY/Az Z\u0101wiyah":
   latitude: 32.7596665
   longitude: 12.7355967
+"LY/Bangh\u0101z\u012B":
+  latitude: 32.11486
+  longitude: 20.06859
 LY/Darnah:
   latitude: 32.7593795
   longitude: 22.6383195
@@ -2470,12 +2503,18 @@ MA/Tanger-Tetouan-Al Hoceima:
 MD/Cahul:
   latitude: 45.9044087
   longitude: 28.1946583
+MD/Cantemir:
+  latitude: 46.277497
+  longitude: 28.2004972
 "MD/Chi\u0219in\u0103u Municipality":
   latitude: 47.0073586
   longitude: 28.843148
 "MD/C\u0103l\u0103ra\u015Fi":
   latitude: 47.2519272
   longitude: 28.3177979
+"MD/C\u0103u\u015Feni":
+  latitude: 46.6495405
+  longitude: 29.4067719
 MD/Drochia:
   latitude: 48.0318141
   longitude: 27.8157233
@@ -3223,6 +3262,9 @@ PY/Cordillera Department:
 "PY/Itap\xFAa":
   latitude: -26.833333
   longitude: -55.833333
+"PY/Paraguar\xED":
+  latitude: -26.0
+  longitude: -57.166667
 PY/San Pedro Department:
   latitude: -26.66667
   longitude: -54.0
@@ -3319,6 +3361,9 @@ RO/Teleorman County:
 "RO/Timi\u0219 County":
   latitude: 45.7527773
   longitude: 22.1245766
+"RO/V\xE2lcea County":
+  latitude: 45.1064811
+  longitude: 24.3631917
 RS/Central Serbia:
   latitude: 43.8683091
   longitude: 21.0493132
@@ -3601,6 +3646,9 @@ SI/Kranj:
 SI/Ljubljana:
   latitude: 46.0500268
   longitude: 14.5069289
+"SI/Municipality of Ajdov\u0161\u010Dina":
+  latitude: 45.88601
+  longitude: 13.90946
 "SI/Municipality of La\u0161ko":
   latitude: 46.15463
   longitude: 15.23555
@@ -3661,6 +3709,9 @@ SR/Paramaribo District:
 "ST/S\xE3o Tom\xE9 Island":
   latitude: 0.339067
   longitude: 6.7297998
+"SV/Ahuachap\xE1n":
+  latitude: 13.8634993
+  longitude: -89.9273861
 SV/La Libertad Department:
   latitude: -27.33333
   longitude: -59.33333
@@ -3700,6 +3751,9 @@ SY/Suwayda:
 TC/Turks and Caicos Islands:
   latitude: 21.721746
   longitude: -71.5527809
+TG/Kara:
+  latitude: 9.541111
+  longitude: 0.7876018
 TG/Maritime:
   latitude: 6.5175178
   longitude: 1.2045805
@@ -3742,6 +3796,9 @@ TH/Nonthaburi:
 TH/Pathum Thani:
   latitude: 14.048667
   longitude: 100.5640405
+TH/Phetchabun:
+  latitude: 16.3293171
+  longitude: 100.9552749
 TH/Phetchaburi:
   latitude: 13.0692869
   longitude: 99.6044376
@@ -4261,6 +4318,9 @@ US/Wyoming:
 UY/Canelones:
   latitude: -34.6222482
   longitude: -55.9903797
+UY/Colonia:
+  latitude: -34.4698592
+  longitude: -57.8433679
 UY/Florida:
   latitude: -33.833333
   longitude: -55.916667

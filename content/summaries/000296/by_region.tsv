@@ -1,49 +1,51 @@
 region	bytes_sent
-NL/Flevoland	738713050276
-US/Massachusetts	597466451678
-HK/Hong Kong	78914532642
-US/Minnesota	7434607913
-US/California	1034190500542
-US/Nevada	5366218836
-VPN	1009115584904
-MX/México	26068584238
-GitHub	56603295755
-CN/Shanghai	717131254241
-AWS/us-east-1	493097580794
-US/New Hampshire	190064832934
-CN/Shaanxi	64800870007
+NL/Flevoland	771506516717
+US/Massachusetts	623500256281
+HK/Hong Kong	83135840172
+US/Minnesota	7484939561
+US/California	1102486729721
+US/Nevada	5485639920
+VPN	1060033212670
+MX/México	27423762417
+GitHub	59189546353
+CN/Shanghai	756316442796
+AWS/us-east-1	516431680450
+US/New Hampshire	190070532130
+CN/Shaanxi	68406628127
 GCP/us-east1	50441160
-US/New Mexico	112040376334
-CA/Quebec	123092589304
-AWS/us-east-2	7779677434
-IT/Piedmont	4802689108
+US/New Mexico	115271429898
+CA/Quebec	129524172729
+AWS/us-west-2	1472461351
+AWS/us-east-2	7779713090
+IT/Piedmont	5048029541
 IQ/Dhi Qar	9105612
-AWS/ap-southeast-1	2736531192
+AWS/ap-southeast-1	2880321252
 RS/Central Serbia	12118980
-AWS/us-west-2	1270266776
 GCP/us-west1	1212454390
-US/Virginia	2798995573
+US/Virginia	2834557572
 RO/Caraș-Severin County	9826200
 US/New York	489870157
-CA/Ontario	14314104786
-US/District of Columbia	12636629137
-US/Illinois	4226641668
-UY/Montevideo Department	11529408
+CA/Ontario	14327468418
+US/District of Columbia	15392269903
+unknown	1983712775
+US/Illinois	5631620416
+UY/Montevideo Department	21290100
 BR/Santa Catarina	30395712
 NO/Oslo	119292424
 FR/Île-de-France	128489860
 MY/Kuala Lumpur	55616292
-unknown	2679977643
 ID/East Java	8057484
+IN/Maharashtra	231910735
 IE/Leinster	93152376
-GCP/us-central1	10767920922
+GCP/us-central1	11211404513
 US/Texas	39532816
 HU/Budapest	13465751
 VN/Bac Ninh	31836888
 VN/Phu Tho	8581548
+BR/Pernambuco	11725932
 RU/Kaluga Oblast	9105612
 VN/Lam Dong	27447852
-AR/Formosa	10350264
+AR/Formosa	18473256
 UZ/Tashkent	50310144
 US/Pennsylvania	47362284
 US/West Virginia	14608284
@@ -53,14 +55,14 @@ US/Tennessee	8057484
 TW/Taiwan	707403384
 EC/Guayas	8647056
 US/Indiana	147550431
-US/Rhode Island	10807086
-GB/England	3717174911
+US/Rhode Island	16210629
+GB/England	4058758453
 PE/Lima Province	33998652
 BD/Dhaka Division	69176448
-NZ/Auckland	43562820
+NZ/Auckland	62953188
 VN/Quảng Ninh	10874328
 RU/Kurgan Oblast	7598928
-BR/Minas Gerais	19521384
+BR/Minas Gerais	21748656
 BR/Rio Grande do Sul	34195176
 ZA/Gauteng	31967904
 VN/Da Nang City	9040104
@@ -68,7 +70,9 @@ IL/Tel Aviv	24893040
 OM/Muscat	20569512
 BR/Rio de Janeiro	808461876
 VN/Ho Chi Minh City (HCMC)	73762008
-AR/Buenos Aires	107826168
+AR/Buenos Aires	132129636
+IN/Punjab	14870316
+US/Georgia	464285606
 PK/Punjab	40942500
 ID/Central Java	24041436
 RU/Rostov	11136360
@@ -77,8 +81,10 @@ MX/Morelos	16770048
 JO/Amman	34064160
 IQ/Nineveh	17294112
 GY/Demerara-Mahaica	28364964
+KE/Nairobi County	26465232
 BY/Minsk City	13101600
 AR/Tucuman	12643044
+RU/Primorye	13101600
 AU/Victoria	33671112
 AM/Shirak	6878340
 PY/Amambay Department	8974596
@@ -91,20 +97,18 @@ PA/Colón	15590904
 BD/Chittagong	9957216
 AR/Cordoba	9236628
 PT/Lisbon	903849348
-US/Georgia	459765554
-MX/Mexico City	11136360
+MX/Mexico City	21814164
 EC/Pichincha	41204532
 AR/Salta	11201868
 KW/Hawalli	9891708
 MA/Casablanca-Settat	30526728
-BH/Manama	10284756
+BH/Manama	20569512
 MA/Oriental	10874328
 AR/Corrientes	10677804
 AR/Buenos Aires F.D.	42383676
 MT/Il-Fgura	15328872
 VN/Dong Nai	43366296
 IN/Haryana	220105311
-IN/Maharashtra	215664751
 EC/Azuay	15721920
 SA/Riyadh Region	13691172
 CA/Alberta	18473256
@@ -132,7 +136,6 @@ JO/Aqaba	10415772
 VE/Zulia	25810152
 US/Washington	655080
 BR/Espírito Santo	14149728
-KE/Nairobi County	15132348
 IN/Delhi	15001332
 BD/Rajshahi Division	9957216
 AU/Western Australia	4127004
@@ -149,6 +152,7 @@ CO/Bogota D.C.	8778072
 US/Michigan	5830212
 PK/Khyber Pakhtunkhwa	7533420
 CO/Atlántico	13167108
+RU/St.-Petersburg	10284756
 IN/Rajasthan	22141704
 AE/Dubai	18407748
 ID/Jakarta	6747324
@@ -171,6 +175,9 @@ KG/Chuy Region	16049460
 GA/Estuaire	6419784
 PS/West Bank	6878340
 RU/Moscow	9433152
+KR/Seoul	7271388
+SA/Eastern Province	9695184
+DZ/Sétif	9826200
 AU/Tasmania	9826200
 SV/La Libertad Department	11594916
 CI/Abidjan Autonomous District	4061496

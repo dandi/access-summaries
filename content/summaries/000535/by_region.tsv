@@ -1,33 +1,34 @@
 region	bytes_sent
-CA/Ontario	3096334292
-US/Georgia	7770015424
-US/California	5670482248
-HK/Hong Kong	711035828
-GitHub	6738466232
-CA/Quebec	3121465016
-KR/Seoul	7418962724
+CA/Ontario	3221976744
+US/Georgia	7999585736
+US/California	6287910792
+HK/Hong Kong	752978868
+GitHub	6983619872
+CA/Quebec	3184246900
+KR/Seoul	11779602968
 US/Nevada	497271228
-CN/Shaanxi	278891204
-AWS/us-east-1	5720855096
-VPN	13279806567
+CN/Shaanxi	287279812
+AWS/us-east-1	5798431944
+VPN	13751621469
 US/New Hampshire	47588081100
-CN/Shanghai	6789789345
-NL/Flevoland	1378325376
-GB/Northern Ireland	5864515676
-US/Virginia	4194419608
-US/District of Columbia	10807081060
-US/Washington	4945496332
+CN/Shanghai	7019500029
+NL/Flevoland	1416975096
+GB/Northern Ireland	6219328428
+US/Virginia	4249181488
+US/District of Columbia	10896725104
+US/Washington	4957208120
 AWS/us-east-2	7267241060
-US/Massachusetts	6440790660
-CY/Nicosia	13632314724
-CN/Beijing	3211630964
+US/Massachusetts	6500450024
+CY/Nicosia	13903681952
+CN/Beijing	3591113672
 PY/Asunción	18276732
-KR/Incheon	12445165724
-US/New York	4659207811
-AT/Vienna	3156241436
-AWS/ap-southeast-1	464989236
+KR/Incheon	13087572016
+US/New York	4725761495
+AT/Vienna	3256341020
+AWS/ap-southeast-1	488112564
 BR/Minas Gerais	62075268
 BD/Dhaka Division	60267360
+unknown	627860093
 VN/Ho Chi Minh City (HCMC)	76971900
 MX/Nuevo León	12315504
 HU/Budapest	81827826
@@ -38,7 +39,6 @@ GCP/us-east1	59728648
 RU/Khabarovsk	10219248
 CO/Boyacá	10743312
 IT/Emilia-Romagna	276510908
-unknown	399649140
 IQ/Erbil	7860960
 BY/Mogilev	5895720
 ES/Andalusia	53915312
@@ -50,6 +50,7 @@ US/Wisconsin	137379972
 BR/Goiás	16810200
 US/Illinois	315813304
 IL/Tel Aviv	16114968
+BR/Rio de Janeiro	45921108
 AE/Sharjah	12577536
 BY/Brest	16049460
 PK/Punjab	89851476
@@ -63,15 +64,15 @@ IL/Jerusalem	9891708
 IQ/Babil	18735288
 IN/Madhya Pradesh	15480916
 CH/Vaud	15480916
-ET/Addis Ababa	22862292
+ET/Addis Ababa	30854268
 BR/Rio Grande do Sul	19692552
 US/Arizona	14346252
-IQ/Maysan	10219248
+IQ/Maysan	24368976
 BR/Paraná	24893040
 NO/Oslo	256989508
 SN/Dakar	33605604
 UY/Montevideo Department	9629676
-ZA/Gauteng	30657744
+ZA/Gauteng	34784748
 BO/Cochabamba	12249996
 AZ/Baki	23647392
 RU/St.-Petersburg	9760692
@@ -80,34 +81,35 @@ KE/Nairobi County	18080208
 RU/Sakha	13691172
 IQ/Al Anbar	10455540
 PE/Lima region	10455540
-US/Pennsylvania	463036631
+US/Pennsylvania	478396631
 CH/Geneva	38505192
 HK/Central and Western	58556140
 PT/Lisbon	35999259
-US/Florida	273393426
+US/Florida	297805542
 DE/Baden-Wurttemberg	18131572
 IN/Tamil Nadu	11711788
-SE/Stockholm	1345351928
-GCP/us-central1	106259848
+SE/Stockholm	1502876620
+GCP/us-central1	241130644
 IN/Delhi	19652992
 MA/Marrakesh-Safi	18524620
 AWS/ap-south-1	11711788
 BD/Chittagong	15132348
 BR/Espírito Santo	23517372
-IE/Leinster	15328872
+IE/Leinster	45135012
 ZA/KwaZulu-Natal	15839296
 RU/Tomsk Oblast	11725932
 KE/Kisumu County	6288768
 AR/Buenos Aires	35884744
 GA/Estuaire	18473256
 AR/Formosa	8516040
+VN/Thanh Hóa Province	11332884
 VN/Phu Tho	22338228
 GCP/europe-west4	19252028
 DZ/Blida	9040104
 UA/Odesa	9826200
 IN/Maharashtra	30753364
 MX/Puebla	16245984
-IQ/Nineveh	9105612
+IQ/Nineveh	18735288
 RU/Rostov	28625040
 NG/Lagos	35862500
 ID/East Java	9957216
@@ -122,7 +124,6 @@ XK/Pristina	7941204
 CL/Santiago Metropolitan	15882408
 MY/Sarawak	7533420
 AU/New South Wales	7941204
-BR/Rio de Janeiro	35898384
 MU/Plaines Wilhems	9367644
 BR/Santa Catarina	31771380
 BR/Bahia	26072184
@@ -141,18 +142,20 @@ IQ/Dhi Qar	15066840
 OM/Muscat	21768244
 RU/Moscow	11463900
 VE/Zulia	23582880
-US/Maryland	293131336
+US/Maryland	293176664
 PH/National Capital Region	128341421
 JO/Amman	15481076
 MX/Sonora	15197856
+IR/Tehran	13756680
 PA/Panamá	29609616
 MX/Oaxaca	13494648
+ZA/Free State	8647056
 KG/Bishkek	12512028
 US/Texas	28052596
 UZ/Tashkent	34588224
 PS/West Bank	30657744
 CR/San José	23713896
-AWS/us-west-2	6022352
+AWS/us-west-2	10214864
 IQ/An Najaf	14870316
 MA/Oriental	9302136
 IQ/Karbala	20504004
@@ -167,7 +170,7 @@ RU/Moscow Oblast	10415772
 US/Michigan	58695168
 IQ/Al-Qadisiyah	9367644
 JP/Okayama	7304388
-US/Indiana	191563572
+US/Indiana	191665972
 US/Rhode Island	16953268
 BR/Pará	10022724
 JM/Saint Catherine Parish	11710668

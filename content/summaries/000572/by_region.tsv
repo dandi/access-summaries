@@ -1,24 +1,25 @@
 region	bytes_sent
-GitHub	25323829855
-US/California	270574113499
-HK/Hong Kong	13132012038
-US/Virginia	205231096266
-AWS/us-east-1	11443391553
-CN/Shaanxi	23866943667
+GitHub	26538127182
+US/California	281719893275
+HK/Hong Kong	13643717126
+US/Virginia	217958432518
+AWS/us-east-1	12243390679
+CN/Shaanxi	25076115787
 GCP/us-east1	44479932
-US/New Hampshire	143962157945
-CN/Shanghai	330121316214
-US/Massachusetts	256730611927
-VPN	438680156226
+US/New Hampshire	144041007809
+CN/Shanghai	348963401716
+US/Massachusetts	267893052401
+VPN	454006154515
 GCP/us-west1	425745824
-BR/Santa Catarina	24565500
-unknown	983864652
-US/Nevada	1079506332
-CA/Quebec	55818712786
-AR/Buenos Aires	139335516
-IR/Tehran	199741380633
-NL/Flevoland	70086198100
-US/Illinois	1025134692
+BR/Santa Catarina	36618972
+VE/Barinas	42776724
+US/Nevada	1148879304
+CA/Quebec	57506377043
+AR/Buenos Aires	159774012
+KE/Nairobi County	40418436
+IR/Tehran	212932300693
+NL/Flevoland	73347632378
+US/Illinois	1135253640
 XK/Pristina	24172452
 VN/Phu Tho	25613628
 VN/Bac Ninh	15983952
@@ -27,20 +28,21 @@ RU/Moscow	12053472
 JO/Amman	72124308
 LB/Beyrouth	22076196
 AR/Buenos Aires F.D.	116866272
-AWS/ap-southeast-1	930672156
+AWS/ap-southeast-1	948162792
 AR/Chaco	18604272
+unknown	1111277712
 CL/Atacama	13953204
+CL/Santiago Metropolitan	96689808
 NZ/Auckland	9629676
-CL/Santiago Metropolitan	82802112
 TG/Maritime	15459888
-IQ/Nineveh	39566832
+IQ/Nineveh	48672444
 MA/Casablanca-Settat	13232616
 CR/San José	38584212
-BR/Rio de Janeiro	131998620
+BR/Rio de Janeiro	147655032
 BR/Federal District	13298124
 UZ/Tashkent	60267360
 PK/Punjab	80116284
-US/New York	257636900
+US/New York	276107140
 JM/Kingston	13101600
 SA/Mecca Region	30854268
 RU/Moscow Oblast	15263364
@@ -51,17 +53,18 @@ AWS/us-east-2	1144464248
 BR/São Paulo	183684432
 BR/Minas Gerais	90270024
 ID/Central Kalimantan	19914432
-VN/Hanoi	64263348
+VN/Hanoi	74744628
 IQ/Kirkuk	48803460
 IL/Tel Aviv	6681816
 AL/Dibër County	11398392
-ZA/Gauteng	76644360
+AR/San Juan	16311492
+ZA/Gauteng	86405052
 ET/Addis Ababa	24893040
 PA/Colón	11660424
-VE/Distrito Federal	28692504
+VE/Distrito Federal	40614960
 VN/Lam Dong	25155072
 PK/Islamabad	16377000
-US/Vermont	187750474
+US/Vermont	191811970
 IT/Emilia-Romagna	319606502
 BD/Sylhet Division	15590904
 VN/Lao Cai	10350264
@@ -77,7 +80,7 @@ VE/Zulia	27447852
 IN/Uttar Pradesh	21159084
 VN/Vinh Long	17818176
 EG/Sharqia	14346252
-BD/Dhaka Division	113852904
+BD/Dhaka Division	121189800
 MY/Johor	22403736
 VN/Ninh Binh	24565500
 PS/West Bank	33474588
@@ -105,20 +108,19 @@ IN/Madhya Pradesh	28692504
 RS/Vojvodina	19783416
 VN/An Giang	9367644
 US/Texas	1002603828
-AWS/us-west-2	9610764
-US/Washington	4770020
+AWS/us-west-2	17348674
+US/Washington	8897024
 MA/Fès-Meknès	18669780
 AO/Luanda	35701860
 CL/Araucanía	13494648
 AR/Entre Rios	15459888
-KE/Nairobi County	20897052
 IN/Delhi	48082872
 UA/Kyiv City	16245984
 IN/Rajasthan	4127004
 MX/Chihuahua	10088232
 AU/Victoria	4127004
 AZ/Gǝncǝ	4061496
-GB/England	2134255400
+GB/England	2144081600
 CO/Tolima Department	25875660
 AR/Santa Fe	26727264
 CO/Valle del Cauca Department	16049460
@@ -133,8 +135,10 @@ VN/Da Nang City	28823520
 GCP/us-central1	799316468
 BD/Mymensingh Division	22600260
 MX/Nuevo León	65311476
+IN/Maharashtra	40287420
 AR/Misiones	11267376
 PK/Sindh	45593568
+BA/Federation of B&H	16180476
 BR/Mato Grosso	30133680
 BR/Bahia	51489288
 NG/Lagos	9826200
@@ -147,7 +151,6 @@ IN/Gujarat	8974596
 BD/Chittagong	7467912
 IQ/Babil	9171120
 DZ/Blida	18145716
-IN/Maharashtra	28168440
 PK/Balochistan	28823520
 VN/Hai Phong	9891708
 UA/Zakarpattia	34719240
@@ -157,6 +160,7 @@ VE/Anzoátegui	15721920
 AL/Shkodër County	8843580
 BD/Khulna Division	36029400
 RU/Perm Krai	9040104
+KZ/Astana	7729944
 MX/Veracruz	9891708
 PY/Central Department	25679136
 RU/Altai Krai	7533420
@@ -186,6 +190,7 @@ AL/Durrës County	10808820
 IN/Chandigarh	14608284
 BR/Paraíba	9367644
 IL/Jerusalem	9695184
+BD/Rangpur Division	4127004
 MX/Guanajuato	9891708
 VN/Nghệ An Province	7533420
 BD/Rajshahi Division	8450532
@@ -206,6 +211,7 @@ AR/Chubut	12118980
 KZ/Aktyubinskaya Oblast’	15852936
 ML/Bamako	15721920
 PR/San Juan	16704540
+GT/Guatemala	11660424
 QA/Baladīyat ad Dawḩah	11136360
 TN/Sousse Governorate	16835556
 UA/Dnipropetrovsk	9891708

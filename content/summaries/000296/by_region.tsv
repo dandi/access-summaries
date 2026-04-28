@@ -1,34 +1,34 @@
 region	bytes_sent
-NL/Flevoland	815636560830
-US/Massachusetts	650229813881
-HK/Hong Kong	86738548945
-US/Minnesota	7744986409
-US/California	1143626218063
-US/Nevada	5998567560
-VPN	1110622907785
-MX/México	29035325859
-GitHub	62698457005
-CN/Shanghai	793893368884
-AWS/us-east-1	539417189896
+NL/Flevoland	827152479252
+US/Massachusetts	659595101208
+HK/Hong Kong	87855227320
+US/Minnesota	7845649705
+US/California	1156489289145
+US/Nevada	6033483324
+VPN	1126440499848
+MX/México	29331986307
+GitHub	63420394772
+CN/Shanghai	807962887029
+AWS/us-east-1	552605571998
 US/New Hampshire	190070532130
-CN/Shaanxi	72104135800
+CN/Shaanxi	73203040639
 GCP/us-east1	50441160
-US/New Mexico	122684485628
-CA/Quebec	139365122959
-AWS/us-west-2	1656677689
+US/New Mexico	123506477387
+CA/Quebec	142063471573
+AWS/us-west-2	1732527505
+IT/Piedmont	5330144727
 AWS/us-east-2	7779724570
-IT/Piedmont	5221194600
 IQ/Dhi Qar	9105612
-AWS/ap-southeast-1	2989064532
+AWS/ap-southeast-1	3055948200
 RS/Central Serbia	12118980
-unknown	2210616672
+unknown	2495510962
 GCP/us-west1	1212454390
-US/Virginia	2854288244
+US/Virginia	2866603748
 RO/Caraș-Severin County	9826200
 US/New York	489870157
 CA/Ontario	14327468418
 US/District of Columbia	19782862155
-US/Illinois	6685971676
+US/Illinois	7186780336
 UY/Montevideo Department	21290100
 BR/Santa Catarina	30395712
 NO/Oslo	119292424
@@ -46,7 +46,7 @@ BR/Pernambuco	11725932
 RU/Kaluga Oblast	9105612
 KZ/Qostanay	9760692
 VN/Lam Dong	27447852
-AR/Formosa	18473256
+AR/Formosa	31836888
 UZ/Tashkent	50310144
 US/Pennsylvania	47362284
 US/West Virginia	14608284
@@ -55,6 +55,8 @@ VN/Thai Nguyen	25220580
 US/Tennessee	8057484
 TW/Taiwan	707403384
 EC/Guayas	8647056
+MA/Casablanca-Settat	38846244
+PK/Punjab	57581532
 US/Indiana	147550431
 US/Rhode Island	16210629
 GB/England	4229550224
@@ -64,18 +66,19 @@ NZ/Auckland	62953188
 VN/Quảng Ninh	10874328
 RU/Kurgan Oblast	7598928
 BR/Minas Gerais	21748656
-BR/Rio Grande do Sul	34195176
+BR/Rio Grande do Sul	43628328
 ZA/Gauteng	31967904
 VN/Da Nang City	9040104
 IL/Jerusalem	13298124
 IL/Tel Aviv	24893040
 OM/Muscat	20569512
+AR/Buenos Aires	147196476
 BR/Rio de Janeiro	1632633852
+US/Michigan	15132348
+CA/British Columbia	38518704
 VN/Ho Chi Minh City (HCMC)	82605588
-AR/Buenos Aires	132129636
 IN/Punjab	14870316
 US/Georgia	464285606
-PK/Punjab	50179128
 ID/Central Java	24041436
 RU/Rostov	11136360
 ET/Addis Ababa	13560156
@@ -83,17 +86,18 @@ MX/Morelos	16770048
 JO/Amman	34064160
 IQ/Nineveh	17294112
 GY/Demerara-Mahaica	28364964
-KE/Nairobi County	26465232
+KE/Nairobi County	26465233
+CL/Santiago Metropolitan	26399724
 BY/Minsk City	13101600
 AR/Tucuman	12643044
 RU/Primorye	13101600
 AU/Victoria	43693836
 AM/Shirak	6878340
 PY/Amambay Department	8974596
-VN/Hanoi	88108260
+VN/Hanoi	98065476
 VE/Yaracuy	12118980
 VN/Tay Ninh	6223260
-NP/Bagmati Province	13887696
+NP/Bagmati Province	24499992
 TN/Tunis Governorate	9760692
 PA/Colón	15590904
 BD/Chittagong	9957216
@@ -105,7 +109,6 @@ EC/Pichincha	41204532
 AR/Salta	11201868
 KW/Hawalli	9891708
 IQ/Baghdad	53258004
-MA/Casablanca-Settat	30526728
 BH/Manama	20569512
 MA/Oriental	10874328
 AR/Corrientes	10677804
@@ -117,9 +120,7 @@ EC/Azuay	15721920
 SA/Riyadh Region	13691172
 CA/Alberta	18473256
 MX/Nuevo León	26268708
-CL/Santiago Metropolitan	10415772
 NZ/Bay of Plenty	19848924
-CA/British Columbia	24499992
 VN/Ninh Binh	8122992
 US/Mississippi	13560156
 IE/Connacht	10481280
@@ -145,6 +146,7 @@ AU/Western Australia	4127004
 IQ/Babil	8647056
 MA/Rabat-Salé-Kénitra	39370308
 MX/Guanajuato	11332884
+UA/Lviv	15066840
 AL/Shkodër County	10939836
 VN/Thanh Hóa Province	24303468
 TH/Bangkok	8057484
@@ -153,12 +155,12 @@ EG/Cairo	12839568
 RS/Vojvodina	10219248
 MN/Ulaanbaatar	25679136
 CO/Bogota D.C.	8778072
-US/Michigan	5830212
 PK/Khyber Pakhtunkhwa	7533420
 CO/Atlántico	13167108
 RU/St.-Petersburg	10284756
 IN/Rajasthan	22141704
 AE/Dubai	18407748
+VN/Khanh Hoa	11070852
 ID/Jakarta	6747324
 HN/Francisco Morazán Department	23320848
 NZ/Canterbury	4127004
@@ -176,6 +178,7 @@ ZA/Western Cape	10284756
 AU/New South Wales	15787428
 BO/La Paz Department	15459888
 KG/Chuy Region	16049460
+JO/Zarqa	11398392
 GA/Estuaire	6419784
 PS/West Bank	6878340
 RU/Moscow	9433152

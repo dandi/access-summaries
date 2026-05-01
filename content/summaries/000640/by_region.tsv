@@ -1,59 +1,62 @@
 region	bytes_sent
-AWS/us-east-1	29606069240
+AWS/us-east-1	30700875328
 SE/Västra Götaland	226796
-GitHub	7027530028
-VPN	45054926664
+GitHub	7273196120
+VPN	47050290316
 GCP/us-west1	226796
-CN/Shanghai	38524390592
-US/Massachusetts	27193233548
-US/California	25619995332
-US/Illinois	312890480
+CN/Shanghai	39534557960
+US/Massachusetts	28138411016
+US/California	26868953724
+US/Illinois	314032928
 RU/Tomsk Oblast	226796
-unknown	314801484
-HK/Hong Kong	3754978516
+AWS/ap-southeast-1	265318552
+HK/Hong Kong	3914362068
 AR/Buenos Aires F.D.	16001972
-NL/Flevoland	8583436960
+NL/Flevoland	8958362284
 VN/Ho Chi Minh City (HCMC)	80509156
-CA/Quebec	13426791348
-US/Virginia	561944208
+CA/Quebec	13928196908
+US/Virginia	563526780
+BR/Goiás	15708828
 KH/Phnom Penh	13363632
 BR/Minas Gerais	15432592
 NG/Lagos	433184
-AWS/ap-southeast-1	185349188
+unknown	7239252448
 RU/Moscow Oblast	435484
 IN/Gujarat	428608
-BD/Dhaka Division	36053264
+CA/Ontario	4024204
+BD/Dhaka Division	36512424
 KZ/Shymkent	442784
+EG/Cairo	6486940
 IQ/Baghdad	67528528
 IQ/Erbil	15770972
 ID/Lampung	223952
 PA/Chiriquí Province	30095600
 ZA/Gauteng	39390292
 MD/Chișinău Municipality	210128
-BR/Pernambuco	945680
-AR/Chaco	704016
+BR/Pernambuco	1158064
+AR/Chaco	920704
 US/New Hampshire	4144605420
-UY/Montevideo Department	489916
+UY/Montevideo Department	10054084
 ET/Addis Ababa	672968
 IR/Tehran	903776
-JO/Amman	18427304
+JO/Amman	18643992
 BR/Pará	433040
 AWS/us-west-2	6428020
 US/Washington	4536604
-VN/Hanoi	60036280
-PK/Punjab	38301492
+VN/Hanoi	60528056
+PK/Punjab	38518180
 CO/Huila Department	485536
 KE/Nairobi County	36065008
 PK/Sindh	7365108
 AE/Sharjah	6436492
-UZ/Tashkent	44988128
-AR/Buenos Aires	20483564
+UZ/Tashkent	45206864
+AR/Buenos Aires	20717404
 IL/Jerusalem	8012140
 GCP/us-east1	658632
 OM/Muscat	870848
 VN/Da Nang City	7336536
 VN/Quang Ngai	223208
-PS/West Bank	13237960
+PS/West Bank	26621756
 ZA/Western Cape	1587000
 XK/Prizren	224348
 PY/Asunción	460816
@@ -83,7 +86,7 @@ CO/Nariño	216688
 GE/Imereti	216688
 SN/Dakar	454640
 BA/Srpska	233840
-SE/Stockholm	24299560
+SE/Stockholm	30843540
 BR/Mato Grosso	11562380
 HU/Budapest	11594916
 VE/Distrito Federal	21851564
@@ -101,7 +104,7 @@ TN/Tunis Governorate	10917968
 AE/Abu Dhabi	15481736
 PK/Balochistan	272348
 CR/Cartago Province	272348
-CN/Shaanxi	1335602980
+CN/Shaanxi	1402711844
 BR/Santa Catarina	745388
 ID/East Java	905052
 BR/Rio de Janeiro	21358952
@@ -128,6 +131,7 @@ MA/Souss-Massa	884708
 KG/Chuy Region	10810120
 GE/Abkhazia	261248
 US/Delaware	261248
+PE/Lima Province	1356684
 UA/Dnipropetrovsk	15346780
 BR/Rio Grande do Norte	230144
 MX/México	240884
@@ -143,7 +147,7 @@ UA/Zakarpattia	226616
 EC/Guayas	226616
 CL/Los Lagos Region	219584
 SY/Damascus Governorate	881140
-RU/Moscow	12291564
+RU/Moscow	12514748
 IL/Tel Aviv	229436
 IQ/Kirkuk	226736
 EC/Manabí	226736
@@ -158,7 +162,6 @@ SA/Riyadh Region	677392
 ID/Central Java	656092
 RU/St.-Petersburg	656212
 CO/Bogota D.C.	429072
-PE/Lima Province	1095436
 VN/Can Tho City	225424
 PA/Colón	225424
 MA/Rabat-Salé-Kénitra	704192
@@ -167,7 +170,6 @@ VE/Barinas	216688
 RU/Khakasiya Republic	424744
 BR/Maranhão	12996896
 RU/Udmurtiya Republic	208056
-EG/Cairo	6262892
 QA/Baladīyat ad Dawḩah	441408
 GB/Wales	224720
 BY/Homyel’ Voblasc’	247112
@@ -175,17 +177,17 @@ PK/Islamabad	465376
 LB/Mont-Liban	478984
 IL/Central District	11201868
 VN/Phu Tho	698876
+IN/Punjab	257108
 LB/Baalbek-Hermel Governorate	218736
 BD/Sylhet Division	7835844
 MX/Jalisco	15940656
-BR/Goiás	1166052
+IN/Telangana	234320
 US/New York	216688
 EG/Beheira	4127004
 NO/Oslo	165763584
-CA/Ontario	230024
 JP/Tokyo	459575740
 MX/Mexico City	25606592
-IN/Uttar Pradesh	999196
+IN/Uttar Pradesh	1217948
 KG/Bishkek	442800
 ET/Oromiya	298436
 HU/Veszprém	212384
@@ -194,11 +196,12 @@ GY/Demerara-Mahaica	220816
 VN/Lam Dong	11645256
 US/Nebraska	424868760
 TG/Maritime	7991976
+RU/Saratov Oblast	11463900
 IE/Leinster	220816
 RS/Central Serbia	449280
 IQ/Salah ad Din	461748
 CN/Zhejiang	232784
-AWS/us-east-2	232784
+AWS/us-east-2	465568
 US/Indiana	567968
 TW/Taiwan	465568
 US/Rhode Island	465568
@@ -261,6 +264,7 @@ VE/Falcón	250736
 IR/Razavi Khorasan	424768
 BG/Sofia-Capital	212384
 AR/Corrientes	245288
+ID/West Java	245288
 RU/Sverdlovsk Oblast	260816
 EG/Asyut	14804808
 IN/Kerala	11398392
@@ -270,6 +274,7 @@ KE/Mombasa County	433168
 VE/Lara	222984
 NP/Lumbini Province	216688
 NP/Sudurpashchim Pradesh	13167108
+IN/West Bengal	224204
 UA/Crimea	425224
 VE/Carabobo	218564
 DO/Nacional	416112

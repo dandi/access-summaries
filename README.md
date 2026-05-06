@@ -64,25 +64,29 @@ content/
 
 ## Usage examples
 
-The examples below assume you have already extracted the archive into the current directory (so that `content/` exists locally).
-They use [pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/), which you can install with:
+The example below assumes you have already extracted the archive into the current directory (so that `content/` exists locally).
+It uses [matplotlib](https://matplotlib.org/), which you can install with:
 
 ```bash
-pip install pandas matplotlib
+pip install matplotlib
 ```
 
 ### Plot bytes sent over time for a single dandiset
 
 ```python
-import pandas as pd
+import csv
+from datetime import datetime
 import matplotlib.pyplot as plt
 
 dandiset_id = "000003"
-df = pd.read_csv(f"content/summaries/{dandiset_id}/by_day.tsv", sep="\t", parse_dates=["date"])
-df = df.sort_values("date")
+dates, bytes_sent = [], []
+with open(f"content/summaries/{dandiset_id}/by_day.tsv", newline="") as f:
+    for row in sorted(csv.DictReader(f, delimiter="\t"), key=lambda r: r["date"]):
+        dates.append(datetime.strptime(row["date"], "%Y-%m-%d"))
+        bytes_sent.append(int(row["bytes_sent"]) / 1e9)
 
 fig, ax = plt.subplots(figsize=(10, 4))
-ax.plot(df["date"], df["bytes_sent"] / 1e9)
+ax.plot(dates, bytes_sent)
 ax.set_xlabel("Date")
 ax.set_ylabel("Data transferred (GB)")
 ax.set_title(f"Daily data transfer for dandiset {dandiset_id}")

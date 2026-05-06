@@ -4,17 +4,21 @@
 
 Summaries of access stats (full downloads &amp; streaming) for each Dandiset on the DANDI archive.
 
-## Downloading the data
+## Getting the data
 
 A GZIP archive of the `content/` directory is published daily to the [`dist` branch](https://github.com/dandi/access-summaries/tree/dist) via a scheduled GitHub Actions workflow.
 
-### Using `curl`
+### One-time download
+
+Use one of the following methods for a one-time snapshot of the data.
+
+#### Using `curl`
 
 ```bash
 curl -fsSL https://github.com/dandi/access-summaries/raw/dist/content.tar.gz | tar -xz
 ```
 
-### Using Python `urllib`
+#### Using Python `urllib`
 
 ```python
 import io
@@ -25,6 +29,17 @@ url = "https://github.com/dandi/access-summaries/raw/dist/content.tar.gz"
 with urllib.request.urlopen(url) as response:
     with tarfile.open(fileobj=io.BytesIO(response.read()), mode="r:gz") as tar:
         tar.extractall(filter="data")  # requires Python 3.12+; omit filter= on older versions
+```
+
+### Recurring / up-to-date usage
+
+For recurring usage where you want to stay up to date with the latest data, clone the repository and pull regularly to get the newest `content/`:
+
+```bash
+git clone https://github.com/dandi/access-summaries.git
+cd access-summaries
+# Later, to update:
+git pull
 ```
 
 ## Data layout

@@ -7,7 +7,7 @@ This is the underlying data for the [DANDI usage dashboard](https://usage.dandia
 
 ## Getting the data
 
-A GZIP archive of the `content/` directory is published daily to the [`dist` branch](https://github.com/dandi/access-summaries/tree/dist) via a scheduled GitHub Actions workflow.
+A GZIP archive of the `content/` directory is published daily to the [`dist`](https://github.com/dandi/access-summaries/tree/dist) branch via a scheduled GitHub Actions workflow.
 
 ### One-time download
 
@@ -39,7 +39,8 @@ For recurring usage where you want to stay up to date with the latest data, clon
 ```bash
 git clone https://github.com/dandi/access-summaries.git
 cd access-summaries
-# Later, to update:
+
+# Keep up-to-date over time with:
 git pull
 ```
 

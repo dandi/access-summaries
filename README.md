@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/978284804.svg)](https://doi.org/10.5281/zenodo.17148099)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17148099-blue)](https://doi.org/10.5281/zenodo.17148099)
 
 # Dandiset access summaries
 

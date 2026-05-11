@@ -24,5 +24,5 @@ jobs:
           git checkout --orphan dist
           git rm -rf --cached .
           git add content.tar.gz
-          git commit -m "chore: update dist archive [skip ci]"
+          git commit -m "update dist archive [skip ci]"
           git push origin dist --force

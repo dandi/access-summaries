@@ -6,36 +6,37 @@ Summaries of access stats (full downloads &amp; streaming) for each Dandiset on 
 
 This is the underlying data for the [DANDI usage dashboard](https://usage.dandiarchive.org/).
 
+
+
 ## Getting the data
 
 A GZIP archive of the `content/` directory is published daily to the [`dist`](https://github.com/dandi/access-summaries/tree/dist) branch via a scheduled GitHub Actions workflow.
 
-### One-time download
 
-Use one of the following methods for a one-time snapshot of the data.
-
-#### Using `curl`
+### Using `curl`
 
 ```bash
-curl -fsSL https://github.com/dandi/access-summaries/raw/dist/content.tar.gz | tar -xz
+curl -fsSL https://raw.githubusercontent.com/dandi/access-summaries/dist/content.tar.gz | tar -xz
 ```
 
-#### Using Python `urllib`
+
+### Using Python standard library
 
 ```python
 import io
 import tarfile
 import urllib.request
 
-url = "https://github.com/dandi/access-summaries/raw/dist/content.tar.gz"
+url = "https://raw.githubusercontent.com/dandi/access-summaries/dist/content.tar.gz"
 with urllib.request.urlopen(url) as response:
     with tarfile.open(fileobj=io.BytesIO(response.read()), mode="r:gz") as tar:
-        tar.extractall(filter="data")  # requires Python 3.12+; omit filter= on older versions
+        tar.extractall(filter="data")
 ```
 
-### Recurring / up-to-date usage
 
-For recurring usage where you want to stay up to date with the latest data, clone the repository and pull regularly to get the newest `content/`:
+### Using recurring / up-to-date state
+
+For cases where you want to stay up to date with only the latest changes to the data, clone the repository and pull regularly to get the newest `content/`:
 
 ```bash
 git clone https://github.com/dandi/access-summaries.git
@@ -44,6 +45,8 @@ cd access-summaries
 # Keep up-to-date over time with:
 git pull
 ```
+
+
 
 ## Data layout
 
@@ -62,6 +65,8 @@ content/
         ├── by_asset_per_week.tsv # bytes_sent per asset per week
         └── by_asset_type_per_week.tsv  # bytes_sent per asset type per week
 ```
+
+
 
 ## Usage examples
 

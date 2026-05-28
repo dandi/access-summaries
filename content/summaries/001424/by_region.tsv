@@ -1,10 +1,11 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 US/California	4934958264	14	5
-unknown	1258635564869	49548	2385
+missing	1254911088929	49546	2383
 GB/England	30117664220	391	32
 US/Oregon	20643010152	12	12
 US/South Carolina	2763502656	1	1
 US/Illinois	2763555072	2	1
+GCP/us-east1	2763502656	1	1
 US/Utah	2763502656	1	1
 SG/Singapore	4127004	1	1
 GCP/europe-west4	2763502656	1	1
@@ -12,4 +13,5 @@ US/Iowa	3442366264	2	2
 GCP/us-central1	2763502656	1	1
 GCP/us-west4	2763502656	1	1
 GCP/us-east4	1528694576	1	1
+HK/Yuen Long	960973284	1	1
 US/New Jersey	46967072	31	0

@@ -418,6 +418,9 @@ BG/Targovishte:
 BG/Varna:
   latitude: 43.2073873
   longitude: 27.9166653
+BG/Veliko Tarnovo:
+  latitude: 43.0820584
+  longitude: 25.6321312
 BG/Vratsa:
   latitude: 43.400307
   longitude: 23.716675
@@ -2653,6 +2656,9 @@ MA/Tanger-Tetouan-Al Hoceima:
 MD/Anenii Noi:
   latitude: 46.8788495
   longitude: 29.229104
+MD/Bender Municipality:
+  latitude: 46.8207414
+  longitude: 29.4498589
 "MD/B\u0103l\u0163i":
   latitude: 47.7623952
   longitude: 27.9286022
@@ -4831,6 +4837,12 @@ ZW/Harare:
 ZW/Masvingo Province:
   latitude: -20.7453957
   longitude: 31.334138
+missing:
+  latitude: null
+  longitude: null
+undetermined:
+  latitude: null
+  longitude: null
 unknown:
   latitude: null
   longitude: null

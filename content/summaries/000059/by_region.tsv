@@ -1,5 +1,5 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-unknown	59047933183214	3287186	9704
+missing	59047897677068	3286661	9701
 US/Ohio	52037014	80055	0
 US/Virginia	4486861854	5520	3
 US/California	275486899677	2771	33
@@ -11,7 +11,7 @@ IN/Karnataka	9857095851	340	10
 DE/Bavaria	1885261822	72	2
 US/Illinois	174576660	196	17
 US/Iowa	1195167211	57	2
-AWS/us-east-1	5374656	2	1
+AWS/us-east-1	15659412	3	2
 VN/Dak Lak	26624852	2	2
 CL/Santiago Metropolitan	32118092	5	5
 BY/Grodnenskaya	8057484	1	1
@@ -24,11 +24,11 @@ IQ/Baghdad	19455876	2	2
 CN/Shanxi	24992471933	2980	0
 US/New York	31378332	4	4
 AZ/Baki	15132348	1	1
-AWS/ap-southeast-1	7860960	1	1
+AWS/ap-southeast-1	17490636	2	2
 US/Pennsylvania	29675124	1	1
 VPN	211792480	18	18
 BR/São Paulo	16835556	1	1
-GitHub	6573326	534	1
+GitHub	6967184	1056	1
 PY/Cordillera Department	9629676	1	1
 JO/Amman	25220580	2	2
 JM/Kingston	12542796	1	1
@@ -52,5 +52,6 @@ ZA/Gauteng	14804808	1	1
 PY/Asuncion	14935824	1	1
 VN/Ho Chi Minh City (HCMC)	11348244	1	1
 US/Texas	539616	998	0
+PK/Khyber Pakhtunkhwa	15197856	1	1
 VN/Hanoi	4048204	1	1
 VN/Gia Lai	4127004	1	1

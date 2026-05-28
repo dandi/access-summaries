@@ -1,6 +1,6 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 US/Virginia	41410160032	22002	623
-unknown	3139530886980	1438370	44275
+missing	3133843256648	1434972	44204
 US/Ohio	7456874140	1090	34
 NL/Groningen	6197474020	87	87
 US/California	28214578980	6245	395
@@ -13,8 +13,8 @@ US/Iowa	2696128450	1538	33
 US/Texas	4430388796	3183	55
 US/Massachusetts	146313776	2	2
 JP/Tokyo	73156888	1	1
-GitHub	11123364318	2570	146
-VPN	127155989	12	3
+GitHub	16071723738	4755	208
+VPN	186466405	14	5
 UY/Montevideo Department	73156888	1	1
 VN/Ho Chi Minh City (HCMC)	146313776	2	2
 CO/Huila Department	73156888	1	1
@@ -32,16 +32,18 @@ UA/Kyiv City	73156888	1	1
 BR/Rio de Janeiro	73156888	1	1
 BR/Minas Gerais	146313776	2	2
 CN/Shanxi	219029496	27	0
-AWS/us-east-1	158474852	603	1
+AWS/us-east-1	455249900	1807	1
 DE/Saxony	29731072	3	3
 IE/Leinster	11680064	1	1
 MA/Casablanca-Settat	6636400	1	1
 RU/Moscow	12609160	1	1
+AWS/us-west-2	10020964	1	1
 CO/Valle del Cauca Department	9490052	1	1
+UA/Ternopil	10020964	1	1
 KR/Gyeonggi-do	72888592	1	1
 AWS/ap-southeast-1	9622780	1	1
 US/Wyoming	653658336	9	9
-AWS/us-east-2	798915744	11	11
+AWS/us-east-2	1162059264	16	16
 US/South Carolina	72628704	1	1
 US/Washington	876239622	912	9
 US/District of Columbia	72628704	1	1

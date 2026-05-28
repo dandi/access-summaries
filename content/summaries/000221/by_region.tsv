@@ -1,11 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-unknown	286161215788	1011842	17520
+missing	286098955328	1010605	17514
 US/Virginia	7453966595	14136	549
 TN/Tunis Governorate	18980104	2	2
 SG/Singapore	268274020	26	26
 US/Illinois	348350196	161	39
 US/Iowa	2103992	4	4
 US/Texas	2610360	2466	4
+AWS/ap-southeast-1	49006220	6	6
 VN/Ho Chi Minh City (HCMC)	40946588	4	4
 US/California	137147648	6419	23
 AR/Rio Negro	9490052	1	1
@@ -28,16 +29,17 @@ UZ/Tashkent	7764588	1	1
 IQ/Nineveh	15102624	2	2
 BR/Paraná	7192120	1	1
 MX/Coahuila	8295500	1	1
-GitHub	29160600	1274	3
+GitHub	29649296	2505	3
 AM/Yerevan	10043576	1	1
-AWS/ap-southeast-1	24849724	4	4
 AR/Entre Rios	7963680	1	1
 AWS/us-east-1	60527860	8	8
 GB/Wales	10419148	1	1
 ZA/Western Cape	3005128	1	1
 XK/Pristina	11325896	1	1
 PY/Asuncion	41299592	3	3
+IL/Northern District	11513360	1	1
 BR/Rio Grande do Sul	13802884	1	1
+US/New Jersey	3471784	1	1
 VE/Distrito Federal	9989544	1	1
 CI/Abidjan Autonomous District	15529176	1	1
 KZ/North Kazakhstan	10020964	1	1
@@ -47,13 +49,14 @@ PK/Punjab	11515228	3	3
 UY/Montevideo Department	7233676	1	1
 VE/Falcón	15130992	1	1
 CO/Atlántico	7565496	1	1
+NP/Bagmati Province	18714648	2	2
 EC/Loja	12287256	1	1
 ZA/Gauteng	11149152	1	1
 AR/Corrientes	9263056	1	1
 BD/Rajshahi Division	9954600	1	1
 BR/São Paulo	612600	1	1
 GB/Northern Ireland	20241020	1	1
-US/Florida	6256800	1	1
+US/Florida	21653248	2	2
 VN/Thừa Thiên Huế Province	1310148	1	1
 MY/Selangor	9423708	1	1
 IL/Tel Aviv	3471784	1	1
@@ -63,7 +66,6 @@ US/Ohio	7682788	1	1
 AO/Luanda	9556416	1	1
 AL/Durrës County	11326264	1	1
 NI/Managua Department	6947096	1	1
-NP/Bagmati Province	11480972	1	1
 AL/Tirana	13971532	1	1
 BD/Sylhet Division	11879156	1	1
 MA/Tanger-Tetouan-Al Hoceima	4281400	1	1

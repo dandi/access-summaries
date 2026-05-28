@@ -1,12 +1,8 @@
-region	bytes_sent
-VPN	12029760418
-US/Virginia	1495456850
-US/California	2303357952
-CN/Shanghai	10948721557
-US/Arizona	9043276156
-AWS/us-east-1	6746595774
-US/Massachusetts	8603126600
-AWS/ap-southeast-1	258976007
-unknown	756779649
-GCP/us-east1	8385024
-US/Georgia	443
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	81724210621	8083	4095
+SG/Singapore	603736905	52	52
+US/California	1597513745	87	87
+VPN	75912281	11	11
+CN/Beijing	11400757	1	1
+MX/Mexico City	54299993	1	1
+HK/Hong Kong	32958157	3	2

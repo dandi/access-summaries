@@ -1,9 +1,4 @@
-region	bytes_sent
-AWS/us-east-1	107339300537
-GCP/us-central1	59893408520
-US/Massachusetts	105164449101
-VPN	278429081
-unknown	82992098021
-AWS/ap-southeast-1	19245582
-US/New York	367
-US/California	45
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	424076442867	16002	822
+GCP/us-west4	200331610947	207	207
+US/Virginia	77281962995	9244	18

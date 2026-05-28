@@ -1,62 +1,40 @@
-region	bytes_sent
-US/Vermont	100004301
-US/New Hampshire	842261793
-US/California	10858280
-AWS/us-east-1	21413544
-AR/Formosa	1696534
-GB/England	3544576
-AU/South Australia	7753862
-IN/Maharashtra	6829841
-US/Virginia	2620555
-CH/Vaud	6829841
-GitHub	75116194
-AWS/us-east-2	4800952
-CA/Ontario	11457754
-IR/Tehran	3876931
-VPN	21159653
-IN/Tamil Nadu	3900216
-GCP/us-west1	3876931
-CN/Shanghai	6648994
-US/Massachusetts	7089152
-AT/Tyrol	6497486
-US/New York	1696534
-US/New Mexico	4800952
-GCP/europe-west4	7753862
-FR/Nouvelle-Aquitaine	3876931
-IN/Karnataka	5133307
-IT/Lombardy	4800952
-CA/Quebec	2952910
-US/Washington	8237725
-CN/Beijing	2620555
-CH/Geneva	6057328
-DE/Baden-Wurttemberg	5133307
-AWS/us-west-2	4800952
-CH/Zurich	2620555
-MX/Nuevo León	3876931
-GCP/us-west4	2620555
-NL/Flevoland	3876931
-GCP/us-central1	15889204
-US/Texas	8648544
-UZ/Tashkent	2512752
-US/New Jersey	2180397
-VE/Mérida	1256376
-IQ/Nineveh	1256376
-US/Illinois	1256376
-NO/Oslo	4693149
-SA/Riyadh Region	924021
-US/Wisconsin	1744359
-GCP/us-east4	1848042
-DE/North Rhine-Westphalia	924021
-GCP/us-west3	1889894
-DE/Bavaria	1848042
-IT/Veneto	2779871
-NL/North Holland	924021
-PL/Subcarpathia	924021
-US/Ohio	924021
-FR/Centre-Val de Loire	1848042
-RU/St.-Petersburg	924021
-PL/Mazovia	924021
-unknown	8188536
-IT/Friuli Venezia Giulia	924021
-HU/Baranya	7808
-DE/Hesse	1848042
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	191785842409	944417	53740
+US/Virginia	1422130875	22476	282
+US/Ohio	234976142	121	121
+US/California	128870509	11669	56
+US/Illinois	126881568	583	38
+SG/Singapore	39917519	18	18
+PA/Colón	2724501	1	1
+US/South Carolina	11213850	8	8
+CN/Shanxi	9163060	5	5
+AWS/us-east-1	5459716	3	3
+GB/England	1754180	1	1
+VPN	2170717	1	1
+PA/Panamá	2170717	1	1
+IN/Telangana	1487044	1	1
+UY/Montevideo Department	2756607	1	1
+US/Wyoming	5615614	19	1
+GitHub	6334314	2034	1
+US/Arizona	1860704	4016	0
+US/Texas	7992812	4024	8
+BD/Dhaka Division	2847765	1	1
+CL/Antofagasta	1523816	1	1
+US/Iowa	12915164	12	12
+MX/Mexico City	3730432	2	2
+AWS/ap-southeast-1	1188948	1	1
+VE/Distrito Federal	4068805	1	1
+ZA/Gauteng	3002226	1	1
+DE/Hesse	924021	1	1
+CA/Ontario	924021	1	1
+DE/Bavaria	1848042	2	2
+AR/Buenos Aires	5897613	2	2
+KE/Nairobi County	1901540	1	1
+VN/Ho Chi Minh City (HCMC)	2839551	1	1
+IQ/Baghdad	1792142	1	1
+NZ/Auckland	3087041	1	1
+EC/Guayas	817233	1	1
+AR/Misiones	2070438	1	1
+VN/Hai Phong	2427964	1	1
+JM/Kingston	2714501	1	1
+MA/Rabat-Salé-Kénitra	1000361	1	1

@@ -1,51 +1,12 @@
-region	bytes_sent
-US/California	165148207472
-VPN	641432998702
-AWS/us-east-1	559354929845
-GitHub	664196193
-CN/Shanghai	465144885788
-AWS/ap-east-1	509355831089
-US/Massachusetts	886015239201
-US/District of Columbia	309441368
-US/Washington	29392259
-AWS/us-west-2	20133992
-AWS/ap-southeast-1	59803836
-FR/Île-de-France	1167562328518
-US/New Hampshire	3275386567
-GB/England	311338901
-CN/Jiangsu	374713489326
-AE/Abu Dhabi	9664513484
-JP/Tokyo	15487960
-AWS/us-east-2	624571747984
-US/New York	12891310432
-US/Vermont	352484641
-US/Virginia	364350150523
-HK/Hong Kong	201928537098
-SG/Singapore	19795113800
-US/Pennsylvania	8511086930
-NO/Oslo	44283408
-CH/Vaud	170119748120
-unknown	82767458
-US/Texas	180022768
-GCP/us-west1	360060698546
-CH/Geneva	11590792819
-US/Illinois	52013352
-US/North Carolina	200708348
-JP/Chiba	5641926660
-US/Oregon	61942080
-RO/Bistrița-Năsăud County	361297128
-NL/North Holland	16835556
-GCP/us-east4	11106086
-GCP/asia-southeast1	35230292
-GCP/europe-west4	17443100
-IT/Liguria	323498551
-CH/Zurich	26334986
-GCP/us-east1	22208
-US/Minnesota	43126472
-PT/Lisbon	11104
-DE/North Rhine-Westphalia	37863624
-US/Maryland	1082793392
-KR/Gangwon-do	32098920
-MX/Puebla	1
-CA/Ontario	9957216
-SE/Stockholm	14688
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	8934674848994	284646	3582
+SG/Singapore	120330276	12	12
+US/California	43087696411	25	13
+CN/Shanghai	1919040	1	1
+VPN	6558665	4	3
+US/District of Columbia	20359976	26	4
+GCP/us-central1	368208	2	2
+US/Illinois	54609516	6	2
+US/New Jersey	7860960	1	1
+US/Virginia	141626221772	16886	0
+HK/Hong Kong	1368920	1	1

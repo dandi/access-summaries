@@ -1,67 +1,21 @@
-region	bytes_sent
-NL/Flevoland	13539392404
-GitHub	3911022604
-US/New York	34287158816
-AWS/us-east-2	403837960
-US/New Jersey	5707046659
-GCP/us-central1	408196408
-CA/Quebec	6452438536
-US/Vermont	9892725740
-CN/Shanghai	14007269192
-US/New Hampshire	42741948113
-AWS/us-east-1	21321491392
-US/California	31727463497
-VPN	24244937596
-IT/Emilia-Romagna	89533300
-GCP/us-east4	10517715532
-KR/Daegu	7743746740
-IT/Lombardy	7278344692
-US/Nevada	356482172
-US/Washington	12920526052
-US/Virginia	91068644
-DE/State of Berlin	9114766404
-ES/Catalonia	1326896
-US/Massachusetts	19461874524
-US/New Mexico	10527044224
-HK/Hong Kong	798723996
-IR/Tehran	9074841564
-US/Minnesota	3044272
-AWS/ap-southeast-1	279051172
-US/Georgia	156092552
-AWS/us-west-2	215700780
-GCP/us-east1	1498628
-NO/Oslo	46289188
-CN/Shaanxi	1284098772
-US/Illinois	135420812
-CA/Ontario	6921560
-MX/Mexico City	8524296
-GB/England	480859796
-DE/Bavaria	10494684
-SE/Stockholm	4557468
-CH/Vaud	4026268
-US/Pennsylvania	4366236
-unknown	6959092
-AU/New South Wales	4336460
-PT/Lisbon	13669896
-BR/Rio de Janeiro	10551876
-AU/Victoria	2260604
-BR/Rio Grande do Sul	1065336
-US/Indiana	6518720
-JP/Okayama	3699456
-US/Rhode Island	4464192
-RU/Moscow	1488064
-KR/Seoul	1488064
-IN/Uttar Pradesh	1488064
-IN/Delhi	1488064
-CN/Beijing	530912
-FR/Île-de-France	899744
-US/Ohio	703756
-US/Florida	6370944
-CL/Santiago Metropolitan	1724220
-IN/Punjab	1774800
-IN/Maharashtra	449204
-IN/Rajasthan	1763792
-TW/Taiwan	871252
-VN/Ho Chi Minh City (HCMC)	1224672
-IE/Leinster	1558588
-NZ/Auckland	3184920
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	356031454488	240948	11625
+US/Virginia	4986451848	5733	375
+KR/Daegu	1865390956	130	130
+DE/State of Berlin	14737628224	200	200
+SG/Singapore	97110488	38	38
+US/Illinois	70780216	150	33
+US/California	48904360	1855	18
+CN/Shanxi	841879552	106	5
+GitHub	12465764	373	2
+PT/Lisbon	1359417	13	0
+US/Texas	2134792	714	4
+US/Arizona	561840	710	0
+US/New York	1740704	110	1
+US/New Jersey	1488064	1	1
+RU/Moscow	1488064	1	1
+VPN	3098644	3	3
+CL/Santiago Metropolitan	2173424	5	5
+AWS/us-east-1	1101920	1	1
+US/Iowa	1673876	4	4
+BR/São Paulo	1061824	1	1

@@ -1,41 +1,12 @@
-region	bytes_sent
-US/New Hampshire	270956039073
-GitHub	44611399772
-AWS/us-east-1	11044470015
-CN/Shanghai	6967478508
-US/Vermont	10327254288
-CA/Quebec	9701474753
-CH/Vaud	4237364836
-HK/Hong Kong	672766854
-US/California	9202644733
-VPN	10494050886
-DE/North Rhine-Westphalia	4127214620
-CN/Shaanxi	308908578
-CA/Ontario	4605531806
-US/Nevada	395995860
-US/Massachusetts	4812637843
-CN/Beijing	2485916905
-AU/South Australia	3518712343
-NL/Flevoland	2219757543
-NO/Oslo	229936368
-US/Washington	3978244920
-AWS/us-east-2	101435550
-IT/Lombardy	2047941037
-US/Utah	3339374484
-IT/Emilia-Romagna	2832794898
-AWS/ap-southeast-1	335794008
-GCP/us-central1	682798319
-US/Virginia	53803735
-US/New York	71365676
-unknown	714314232
-GB/England	408391259
-US/Illinois	360339178
-AWS/us-west-2	134932217
-US/Maryland	48334692
-CH/Geneva	26334216
-US/District of Columbia	6354276
-PL/West Pomerania	18604272
-US/Indiana	3437725985
-JP/Okayama	21383009
-US/Rhode Island	22253825
-MX/Mexico City	9167105
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	598431355884	1548096	13469
+US/Virginia	4209871175	13602	323
+SG/Singapore	161726371	6	6
+US/California	917319853	505	22
+US/Washington	394223383	6	6
+US/Illinois	197975535	3553	6
+US/South Carolina	251762320	5	5
+CN/Shanxi	41042804	5	0
+AWS/us-east-1	8254008	1	1
+US/Wyoming	23095032	115	1
+GitHub	2977824	3075	0

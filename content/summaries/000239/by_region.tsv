@@ -1,76 +1,23 @@
-region	bytes_sent
-US/Nevada	1077931979
-NL/Flevoland	14422752868
-GitHub	71686724855
-US/California	37354061715
-US/Virginia	18428635698
-CN/Shaanxi	1312399026
-HK/Hong Kong	10749362228
-US/New Mexico	7304094472
-VPN	21134535287
-CN/Shanghai	16247716608
-US/Massachusetts	22099407573
-US/Minnesota	209002576
-US/New Hampshire	29493625506
-AWS/us-east-1	36450024009
-GCP/us-west3	7629926009
-IR/Tehran	9534990832
-US/New York	15539000834
-AWS/us-west-2	5537954896
-US/Pennsylvania	10820167798
-ES/Andalusia	9730668466
-CA/Quebec	9531652220
-AWS/ap-southeast-1	1119956915
-GCP/us-east4	8251938736
-GCP/us-west1	70251099
-KR/Seoul	7550434118
-US/District of Columbia	10286934999
-IN/Uttarakhand	7343290780
-GCP/us-central1	202488042
-US/Tennessee	8369529959
-BR/Rio de Janeiro	8192597008
-GCP/us-east1	18145380
-unknown	69134592
-US/Georgia	3737959505
-US/Illinois	958057364
-NZ/Auckland	1899748
-AWS/us-east-2	265752178
-SE/Västra Götaland	38297204
-GCP/us-west4	299460230
-GCP/asia-east1	10485760
-CA/Ontario	819440
-NO/Oslo	332759407
-GB/England	542791499
-VN/Ho Chi Minh City (HCMC)	1015104
-PT/Lisbon	766120
-US/Indiana	429776
-JP/Okayama	634576
-US/Rhode Island	634576
-SN/Dakar	445840
-NO/Vestfold	143419120
-MX/Mexico City	10551876
-EC/Pichincha	391456
-DE/Bavaria	60990006
-IE/Munster	889154
-CN/Beijing	8232328
-IN/Delhi	54287497
-BR/São Paulo	387240
-GB/Wales	16922820
-GT/Guatemala	487976
-US/Connecticut	8786927
-CL/Santiago Metropolitan	18042181
-AU/Queensland	719136
-IE/Leinster	9707840
-SE/Stockholm	883792
-US/Utah	354216
-BR/Piauí	409160
-US/Mississippi	11016424
-AU/New South Wales	390168
-IN/Maharashtra	517136
-US/Washington	5178052
-TR/Trabzon	73792291
-ES/Asturias	394752
-US/New Jersey	605488
-US/Iowa	302744
-US/Florida	302744
-HU/Budapest	38906016
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	543701653685	838692	36303
+US/California	1826631026	3492	122
+US/Virginia	6129438983	16253	926
+GCP/us-east1	747508	2	2
+US/Illinois	643304579	1476	55
+CL/Santiago Metropolitan	35972542	5	5
+GitHub	203415993	991	11
+NZ/Auckland	386496	1	1
+SG/Singapore	66707660	28	28
+AWS/us-east-1	48374810	17	17
+US/Iowa	2543104	10	10
+US/Texas	1453968	576	4
+US/Arizona	438864	572	0
+US/New Jersey	634576	3	1
+US/Wyoming	183321665	486	7
+CN/Shanxi	636273769	103	24
+US/South Carolina	73392997	8	8
+GB/England	371464	1	1
+AWS/ap-southeast-1	16461408	4	4
+US/Tennessee	395134	1	1
+US/Ohio	274488	288	0
+ES/Asturias	394752	1	1

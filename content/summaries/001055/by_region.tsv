@@ -1,24 +1,4 @@
-region	bytes_sent
-HK/Hong Kong	151606292
-IT/Emilia-Romagna	304826488
-AWS/us-east-1	1418811972
-US/Massachusetts	909095151
-US/California	1725267725
-GitHub	1004790602
-NL/Flevoland	596077429
-IR/Alborz Province	622731830
-US/New Hampshire	2598141001
-GCP/asia-east1	1253787768
-US/Virginia	1258529172
-VPN	2236992944
-BR/São Paulo	1372508513
-CN/Shanghai	1746487202
-US/Texas	1804289656
-US/District of Columbia	40352928
-AWS/ap-southeast-1	22731276
-CA/Quebec	751614390
-GCP/us-central1	916718630
-GB/England	396799195
-US/Washington	385895427
-PT/Lisbon	404016674
-GCP/us-west4	474882980
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	26649912738	3931	191
+BR/São Paulo	1253787768	5	5
+US/California	131257601	10	4

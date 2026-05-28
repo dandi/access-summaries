@@ -1,10 +1,10 @@
-asset_path	bytes_sent
-derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_label-vessels_mask.ome.zarr	6542383
-sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_OCT.ome.zarr	817754092
-derivatives/annotations/sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_label-tissue_mask.ome.zarr	130606591
-derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_label-vessels_probseg.ome.zarr	28901546
-sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_OCT.ome.zarr	38490002908
-derivatives/annotations/sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_label-vessels_mask.ome.zarr	7099733
-derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_label-vessels_mask.ome.zarr	155076099
-derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_label-vessels_probseg.ome.zarr	15488147044
-derivatives/weights/epoch=117-val_loss=0.00306.ckpt	204126167
+asset_path	bytes_sent	number_of_requests	number_of_downloads
+derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_label-vessels_mask.ome.zarr	9586053	1388	1214
+sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_OCT.ome.zarr	1114522134	2017	1843
+derivatives/annotations/sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_label-tissue_mask.ome.zarr	191508798	31948	25235
+derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_label-vessels_probseg.ome.zarr	38323012	487	313
+sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_OCT.ome.zarr	58556821721	83254	75982
+derivatives/annotations/sub-I46/micr/sub-I46_sample-somatosensory_chunk-02_label-vessels_mask.ome.zarr	10912569	1617	1443
+derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_label-vessels_mask.ome.zarr	229967097	41703	35102
+derivatives/predictions/sub-I46/micr/sub-I46_sample-somatosensory_chunk-01_label-vessels_probseg.ome.zarr	24303474658	30000	23360
+derivatives/weights/epoch=117-val_loss=0.00306.ckpt	334506960	32	5

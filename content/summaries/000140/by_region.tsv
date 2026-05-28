@@ -1,128 +1,39 @@
-region	bytes_sent
-GitHub	70631025810
-AWS/us-east-2	141353250
-AWS/us-east-1	453313716
-US/Colorado	7336864937
-US/California	1986748720
-US/New Hampshire	7105747299
-GCP/us-east1	2663302012
-US/Georgia	22026748216
-GCP/asia-southeast1	2151193856
-DE/Baden-Wurttemberg	178691728
-GCP/us-central1	4307212896
-GCP/asia-east1	2000331032
-FI/Uusimaa	29896840
-US/Virginia	102111372
-TW/Taiwan	210397384
-US/Vermont	195729060
-US/Iowa	119587360
-GB/England	1975013664
-US/New York	972188380
-JP/Tokyo	149484200
-GCP/europe-west4	1787606592
-CA/British Columbia	177313104
-CH/Geneva	207209944
-US/Arizona	60482992
-CN/Shanghai	973756648
-GCP/us-west1	1730570160
-GCP/us-west4	722349344
-GCP/us-east4	1643636888
-KR/Seoul	180070352
-GCP/europe-west1	453277784
-BZ/Belize District	689312
-VPN	2307232608
-US/Pennsylvania	913836060
-US/Rhode Island	30586152
-US/Indiana	121860096
-CN/Beijing	357383456
-GCP/us-west3	385901672
-US/Nevada	7126620
-US/Maryland	118898048
-DK/Capital Region	29896840
-US/Washington	388419900
-IL/Central District	689312
-TR/Ankara	60482992
-HK/Hong Kong	331622488
-GH/Greater Accra	30586152
-PT/Lisbon	66686800
-GB/Scotland	118898048
-IR/Tehran	309241362
-CN/Zhejiang	347753308
-CN/Jiangsu	58834586
-US/Oregon	29896840
-KR/Daejeon	119587360
-US/Massachusetts	231066140
-DE/State of Berlin	59793680
-CA/Quebec	348965632
-CH/Vaud	121655296
-SG/Singapore	150173512
-ZA/Western Cape	31275464
-AWS/us-west-2	122805224
-IL/Tel Aviv	29896840
-US/Michigan	205142008
-CN/Guangdong	180247056
-IN/Karnataka	29896840
-NO/Oslo	247445168
-NL/Overijssel	50918881
-US/New Jersey	118898048
-VN/Ho Chi Minh City (HCMC)	1378624
-US/Florida	29896840
-IT/Lombardy	48618608
-CN/Ningxia	59104368
-MA/Tanger-Tetouan-Al Hoceima	29896840
-CN/Jiangxi	30586152
-AU/Queensland	689312
-CH/Zurich	29896840
-SE/Stockholm	29896840
-CN/Inner Mongolia	689312
-US/North Carolina	89001208
-US/Louisiana	29896840
-CH/Basel-City	689312
-HK/Sha Tin	59793680
-US/Connecticut	59793680
-BE/Wallonia	29896840
-CA/Ontario	70371228
-CL/Santiago Metropolitan	29896840
-US/Tennessee	689312
-CN/Shaanxi	689312
-FR/Normandy	689312
-BE/Flanders	59104368
-IL/Haifa	59104368
-unknown	1957247976
-PL/Lower Silesia	29896840
-JP/Aichi	60482992
-HU/Budapest	29896840
-US/Illinois	412351952
-NL/Flevoland	29896840
-AU/New South Wales	29896840
-AR/Rio Negro	24561656
-US/Texas	59919688
-CN/Chongqing	29896840
-FI/Pirkanmaa	689312
-FR/Île-de-France	118898048
-AWS/ap-southeast-1	689312
-JP/Saitama	30586152
-IN/Bihar	29896840
-US/Ohio	89001208
-JP/Chiba	89001208
-CN/Sichuan	29896840
-KR/Daegu	29896840
-NL/North Holland	59104368
-JP/Osaka	38498488
-IN/Maharashtra	58415056
-DE/Bavaria	58415056
-IT/Lazio	29207528
-US/New Mexico	29207528
-US/Minnesota	87622584
-IN/Delhi	29207528
-NL/Gelderland	29207528
-VN/Hanoi	29207528
-IT/Trentino-Alto Adige	29207528
-CN/Heilongjiang	29207528
-EE/Harjumaa	29207528
-CN/Anhui	29207528
-RU/Moscow	29207528
-GB/Northern Ireland	29207528
-US/Utah	24000
-AWS/ap-southeast-2	29207528
-MX/Mexico City	862732
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	220471399240	98111	15470
+US/Virginia	2226554376	2900	149
+US/Illinois	1621418584	126	110
+US/California	944527056	1787	70
+US/Arizona	616395432	750	42
+US/Oregon	239174720	16	16
+GB/England	133947656	11	11
+US/Wyoming	538143120	36	36
+US/Pennsylvania	539521744	38	38
+US/Iowa	956009568	63	63
+GitHub	1046597880	408	70
+US/Massachusetts	689312	1	1
+US/Texas	1795584	678	2
+BE/Brussels Capital	59793680	4	4
+CL/Santiago Metropolitan	29896840	2	2
+GCP/asia-southeast1	29896840	2	2
+US/Georgia	119587360	8	8
+US/Nevada	89690520	6	6
+CN/Zhejiang	29896840	2	2
+PT/Lisbon	29896840	2	2
+GCP/us-east1	689312	1	1
+US/New Jersey	29896840	2	2
+GCP/europe-west1	29896840	2	2
+US/South Carolina	298968400	20	20
+NL/Groningen	149484200	10	10
+VPN	29896840	2	2
+US/New York	93225065	159	7
+TW/Taiwan	149484200	10	10
+KR/Daejeon	29896840	2	2
+SG/Singapore	89690520	6	6
+CN/Guangdong	29896840	2	2
+US/Washington	59793680	4	4
+US/District of Columbia	59793680	4	4
+DE/Saxony	31275464	4	4
+CA/Quebec	59793680	4	4
+US/Indiana	29896840	2	2
+NL/North Holland	29896840	2	2
+GCP/us-central1	29896840	2	2

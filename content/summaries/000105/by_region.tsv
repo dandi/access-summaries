@@ -1,15 +1,4 @@
-region	bytes_sent
-US/Massachusetts	20401964331383
-US/California	3793922655967
-AWS/us-east-1	1768330389428
-NL/Flevoland	4201579037823
-VPN	11615380678111
-GB/England	91252236
-AWS/us-east-2	298119323
-CN/Shanghai	1742707930700
-US/Virginia	9756149
-CN/Henan	5773668
-HK/Hong Kong	79238616
-JP/Okayama	9893944
-US/New York	49208437
-CA/Quebec	641
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	54001088395742	853622	51
+US/Virginia	2542027975111	303034	0
+CN/Henan	5773668	1	1

@@ -1,18 +1,10 @@
-asset_path	bytes_sent
-derivatives/dandiset-001747/sub-chip19894/ses-recording049/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/dataset_description.json	1460
-derivatives/dandiset-001469/sub-Chronic-Implant-2/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/logs/trace.txt	1625
-derivatives/dandiset-001469/sub-Chronic-Implant-2/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/logs/report.html	4886069
-derivatives/dandiset-001469/sub-Chronic-Implant-2/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/visualization/block0_acquisition-ElectricalSeries_recording1/traces_full_seg0.png	1742502
-derivatives/dandiset-000943/sub-M1/ses-M1-D6-2020-08-10-15-01-45/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/logs/report.html	2358288
-derivatives/dandiset-000943/sub-M1/ses-M1-D6-2020-08-10-15-01-45/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/visualization/block0_acquisition-ElectricalSeries_recording1/traces_proc_seg0.png	995331
-derivatives/dandiset-001469/sub-Chronic-Implant-2/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/dataset_description.json	730
-dataset_description.json	1362
-derivatives/dandiset-001747/sub-chip19894/ses-recording049/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/logs/timeline.html	252365
-README.md	3640
-derivatives/dandiset-001469/sub-Chronic-Implant-2/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/derivatives/00089114-fc52-4421-b143-a0e6d0b07ef2_block0_recording1.nwb	504135
-derivatives/dandiset-001469/sub-Chronic-Implant-2/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/code/submit.sh	5440
-sourcedata/README.md	286
-derivatives/dandiset-001747/sub-chip19894/ses-recording049/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/logs/trace.txt	882
-derivatives/dandiset-001747/sub-chip19894/ses-recording049/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/code/submit.sh	5530
-derivatives/dandiset-000943/sub-M1/ses-M1-D6-2020-08-10-15-01-45/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/dataset_description.json	1460
-derivatives/dandiset-000943/sub-M1/ses-M1-D6-2020-08-10-15-01-45/pipeline-aind+ephys/version-v1.1.1+b268fd2/params-98fd947_config-6568dda_attempt-1/visualization/block0_acquisition-ElectricalSeries_recording1/traces_full_seg0.png	2169732
+asset_path	bytes_sent	number_of_requests	number_of_downloads
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/derivatives/visualization/block0_acquisition-ElectricalSeriesRaw_recording1/traces_full_seg0.png	5574750	6	5
+README.md	17520	6	5
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/logs/dag.html	2561625	759	758
+dataset_description.json	16344	24	23
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/code/name-mit+engaging_revision-1.config	78425	25	24
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/derivatives/visualization/block0_acquisition-ElectricalSeriesRaw_recording1/traces_proc_seg0.png	5690082	6	5
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/code/main_multi_backend.nf	4560714	174	173
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/code/name-deterministic.json	236700	18	17
+derivatives/dandiset-001849/sub-test/sourcedata/aind-sample/pipeline-aind+ephys/version-v1.1.1+b268fd2+938ee17_params-4af6a25_config-0d4bf36_date-2026+05+24_attempt-1/code/capsule_versions.env	144246	174	173

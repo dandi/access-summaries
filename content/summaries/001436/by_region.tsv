@@ -1,17 +1,7 @@
-region	bytes_sent
-CN/Shanghai	1438774960
-US/Massachusetts	987862596
-CA/Quebec	3105323782
-VPN	2622901350
-DE/Baden-Wurttemberg	1499848276
-DE/Lower Saxony	590092592
-HK/Hong Kong	1027119226
-US/California	265745923
-US/Virginia	701362172
-PK/Punjab	1007081379
-AWS/ap-southeast-1	124805132
-GCP/us-west1	87586
-AWS/us-east-1	467244870
-FR/Île-de-France	353646991
-unknown	44445157
-GCP/us-east1	114131
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	22959226720	14257	13364
+CA/Quebec	1042212406	662	662
+SG/Singapore	82663476	18	18
+US/California	125765267	88	88
+VPN	18646677	3	3
+CN/Shanghai	18779011	4	3

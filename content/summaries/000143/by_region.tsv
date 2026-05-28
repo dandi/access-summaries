@@ -1,77 +1,15 @@
-region	bytes_sent
-VPN	33018646
-NL/Gelderland	49767523
-GCP/us-central1	51598322
-US/North Carolina	15050440
-CA/Quebec	3238914
-US/California	17520964
-AWS/us-east-1	24206112
-CN/Shanghai	26306591
-US/Massachusetts	10595828
-US/Virginia	10547948
-NL/Flevoland	9947551
-US/New Jersey	14243614
-PK/Punjab	878
-NP/Bagmati Province	445
-AWS/ap-southeast-1	2914434
-unknown	4785151
-GCP/us-east1	438
-MA/Casablanca-Settat	881
-LB/Beyrouth	416298
-VN/Ho Chi Minh City (HCMC)	2136487
-BR/Pernambuco	649
-DE/State of Berlin	716
-CN/Shaanxi	1234503
-US/Pennsylvania	441733
-US/Illinois	828001
-CR/San José	441733
-CO/Magdalena Department	397385
-MU/Port Louis	397385
-RU/Irkutsk Oblast	382309
-AR/Buenos Aires	382309
-US/Maryland	449311
-SY/Aleppo	449311
-BR/Pará	449311
-US/Washington	449311
-US/New Hampshire	416508
-MY/Selangor	443
-PA/Colón	394936
-IN/Gujarat	402977
-MX/Veracruz	436
-US/Texas	436
-VN/Hà Tĩnh Province	436
-SN/Dakar	429
-VN/An Giang	429
-CA/Ontario	389874
-IQ/Basra	385395
-VN/Thanh Hóa Province	385395
-PY/Asunción	385395
-IL/Tel Aviv	393181
-BR/Santa Catarina	448268
-KE/Nairobi County	870963
-UA/Cherkasy	435
-VN/Hanoi	435038
-CL/Aysén	439450
-BR/São Paulo	846217
-FR/Provence-Alpes-Côte d'Azur	1606975
-JP/Okayama	438153
-JP/Tokyo	438153
-BR/Minas Gerais	425
-VN/Bac Ninh	425
-VE/Distrito Federal	425
-DZ/Ouargla	437675
-IQ/Nineveh	434174
-VN/Phu Tho	429
-VN/Lam Dong	429
-BR/Paraíba	422695
-KZ/Shymkent	67
-VN/Nghệ An Province	444
-ZA/Gauteng	406323
-MA/Fès-Meknès	437242
-IQ/Babil	435
-VN/Vinh Long	435
-VN/Hai Phong	429
-BO/La Paz Department	395493
-IQ/Baghdad	438
-RU/Amur Oblast	444
-GB/England	415630
+region	bytes_sent	number_of_requests	number_of_downloads
+US/New Jersey	19998682	100	100
+unknown	331540225	1652	1566
+NL/Gelderland	63647779	304	304
+BR/Pernambuco	416298	1	1
+FR/Grand Est	716	2	2
+US/California	1247759	4	4
+CN/Beijing	443	1	1
+CN/Shanxi	395376	2	2
+VN/Thanh Hóa Province	385395	1	1
+AWS/us-east-1	448268	1	1
+VE/Distrito Federal	425	1	1
+BD/Dhaka Division	429	1	1
+KE/Nairobi County	422695	1	1
+BO/Cochabamba	437242	1	1

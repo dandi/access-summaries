@@ -1,71 +1,17 @@
-region	bytes_sent
-US/New York	362130898
-HK/Hong Kong	1442053675
-US/Virginia	383696285
-US/California	4127484223
-VPN	4854922021
-US/Kansas	226119807
-GitHub	155603271
-CA/Ontario	145969176
-GCP/us-west1	476765930
-CA/Quebec	758972572
-VN/Ho Chi Minh City (HCMC)	160233370
-CH/Vaud	858508120
-TR/Istanbul	304042417
-RU/Moscow Oblast	472610588
-US/Rhode Island	304807791
-CN/Shanghai	2146557968
-US/Tennessee	79965043
-AWS/us-east-1	900762680
-US/Arizona	231961563
-US/Massachusetts	1965745561
-US/Washington	1304434574
-US/Georgia	1071250037
-CN/Zhejiang	1166637549
-DE/Lower Saxony	788334188
-JP/Tokyo	618236338
-US/Pennsylvania	3935301517
-CN/Ningxia	230924368
-HK/Sha Tin	79965043
-US/Michigan	1052371510
-CH/Zurich	232725812
-HK/Islands	224216521
-FR/Île-de-France	163531807
-DE/Bavaria	143948194
-MY/Kuala Lumpur	466661870
-US/Illinois	858722475
-IN/Kerala	154068004
-JP/Saitama	308000946
-CN/Beijing	384790172
-AT/Vienna	310443089
-SG/Singapore	702353637
-AWS/ap-southeast-1	172782775
-IT/Emilia-Romagna	309258566
-GB/England	539256826
-TW/Taiwan	397765112
-IR/Razavi Khorasan	314512465
-PT/Lisbon	600470
-US/Maryland	300544667
-KR/Daejeon	242870238
-AWS/us-east-2	600470
-GCP/asia-east1	75011511
-US/Florida	239560713
-KR/Busan	82540929
-CN/Heilongjiang	166467529
-AWS/ap-northeast-1	240921466
-BE/Flanders	321938512
-GCP/us-west4	160329309
-CL/Santiago Metropolitan	77031606
-DE/Baden-Wurttemberg	162689434
-MX/Mexico City	4792514
-GCP/us-central1	154269122
-unknown	65846030
-MY/Selangor	81498933
-NL/North Holland	105853886
-AWS/us-west-2	14931585
-NO/Oslo	11020257
-US/New Hampshire	417616418
-ES/Basque Country	4696864
-JP/Kyoto	20897564
-US/Oregon	24361432
-NL/Flevoland	69522030
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	55175800832	6959	2067
+CA/Ontario	311792278	11	11
+HK/Hong Kong	623584556	22	22
+CN/Beijing	311792278	11	11
+US/California	13474624	42	4
+US/Pennsylvania	623584556	22	22
+CH/Geneva	311792278	11	11
+JP/Tokyo	309258566	7	7
+IR/Razavi Khorasan	623584556	22	22
+CL/Santiago Metropolitan	5139634	5	5
+SG/Singapore	1784993	3	3
+US/Virginia	22211832	11	2
+US/New Jersey	283614320	22	0
+US/Georgia	219232146	3	3
+CN/Shanghai	73077382	1	1
+US/Massachusetts	24361432	2	0

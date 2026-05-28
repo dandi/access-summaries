@@ -1,35 +1,15 @@
-region	bytes_sent
-US/New Hampshire	4481448936
-AWS/us-east-1	12579232812
-US/Massachusetts	17831338428
-VPN	14962101616
-GB/England	84481414787
-US/California	9202351200
-CN/Shanghai	21607659620
-GCP/us-central1	72549901668
-GCP/us-west4	30368920084
-GCP/us-east4	49040720580
-GCP/us-west1	94817271788
-GCP/europe-west4	17625383488
-US/Florida	5310695596
-GitHub	152791420
-GCP/asia-east1	51810563460
-unknown	73611175984
-GCP/us-east1	118247347656
-AWS/us-east-2	54841512
-US/Tennessee	2981910924
-GCP/us-west3	33312360660
-US/Virginia	566042736
-US/District of Columbia	49327524
-US/New York	45474536
-IN/Tamil Nadu	495764764
-US/Washington	16471573768
-US/Illinois	2763502656
-AWS/ap-southeast-1	14215236
-IL/Jerusalem	2059939692
-US/Vermont	62773756
-IT/Trentino-Alto Adige	527290644
-DE/Lower Saxony	3132902624
-DE/Bavaria	28037424
-GCP/asia-southeast1	3169109412
-US/Maryland	149481092
+region	bytes_sent	number_of_requests	number_of_downloads
+US/California	4934958264	14	5
+unknown	1258635564869	49548	2385
+GB/England	30117664220	391	32
+US/Oregon	20643010152	12	12
+US/South Carolina	2763502656	1	1
+US/Illinois	2763555072	2	1
+US/Utah	2763502656	1	1
+SG/Singapore	4127004	1	1
+GCP/europe-west4	2763502656	1	1
+US/Iowa	3442366264	2	2
+GCP/us-central1	2763502656	1	1
+GCP/us-west4	2763502656	1	1
+GCP/us-east4	1528694576	1	1
+US/New Jersey	46967072	31	0

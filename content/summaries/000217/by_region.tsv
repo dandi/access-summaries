@@ -1,71 +1,22 @@
-region	bytes_sent
-HK/Hong Kong	191515136
-NL/Flevoland	3054079940
-AWS/us-east-1	5034794912
-VPN	5562233064
-GitHub	7274658252
-US/California	4882762563
-AWS/ap-southeast-1	823683844
-US/Tennessee	3736328172
-US/New Hampshire	24651951378
-AWS/us-east-2	105485632
-US/Virginia	2046272144
-CN/Shanghai	2358013464
-US/Minnesota	19114684
-CA/Quebec	1455194120
-NZ/Auckland	27386496
-ES/Catalonia	17033996
-US/Massachusetts	1989882452
-AWS/us-west-2	408921216
-US/Nevada	661120492
-GCP/us-central1	66707900
-IL/Jerusalem	187536
-CN/Shaanxi	244975164
-US/Illinois	183277328
-DE/Bavaria	1601354572
-GCP/us-west1	2420696
-GCP/us-east1	7141704
-unknown	66052948
-CA/Ontario	71255380
-US/Vermont	724791228
-NO/Oslo	9707704
-GB/England	5004292
-US/Texas	3010468
-US/Nebraska	1115412
-AU/Northern Territory	189380
-IE/Leinster	749920
-IN/Gujarat	182576
-US/Washington	4584824
-AU/Australian Capital Territory	182576
-BR/Rio de Janeiro	379660
-BN/Brunei-Muara District	190172
-US/Oregon	554416
-BR/São Paulo	380056
-IN/Telangana	190532
-US/New York	187592
-CL/Santiago Metropolitan	15734600
-US/Arizona	190100
-AU/New South Wales	192336
-NZ/Bay of Plenty	571768
-US/Indiana	1022816
-JP/Okayama	187536
-US/Rhode Island	187536
-SN/Dakar	190776
-NZ/Wellington Region	189488
-RU/Stavropol Kray	188712
-GCP/asia-southeast1	712896
-KE/Mombasa County	189992
-IT/Tuscany	189560
-PT/Lisbon	1592576
-IN/Maharashtra	532736
-VN/Ho Chi Minh City (HCMC)	353264
-US/North Carolina	15686008
-BR/Pernambuco	184780
-AU/Victoria	189812
-BR/Minas Gerais	11680064
-US/Michigan	10087328
-CN/Beijing	565640
-AR/Cordoba	187536
-KH/Phnom Penh	190100
-AR/Buenos Aires	379408
-BR/Pará	189704
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	73382590830	365499	60767
+VPN	18318012	14	14
+US/Virginia	684617688	5197	1615
+SG/Singapore	161687425	172	171
+GitHub	8081668	220	10
+US/Illinois	51625208	169	66
+GB/England	190316	1	1
+AWS/us-east-1	7725584	16	16
+AU/Northern Territory	189380	1	1
+US/Wyoming	18979604	48	15
+US/California	27556916	1056	39
+US/South Carolina	34080952	15	15
+CN/Shanxi	88072028	53	43
+US/New York	187592	1	1
+US/Texas	1307624	384	6
+AWS/ap-southeast-1	12516072	4	4
+US/Arizona	228144	378	0
+US/Iowa	1061176	6	6
+CA/Ontario	190600	1	1
+US/Oregon	178504	1	1
+CN/Beijing	187536	1	1

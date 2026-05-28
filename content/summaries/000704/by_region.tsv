@@ -1,13 +1,6 @@
-region	bytes_sent
-US/Virginia	111870561
-VPN	512898467
-US/California	35004180
-GitHub	159153337
-CN/Shanghai	207658656
-US/Massachusetts	142198333
-AWS/us-west-2	9812068
-unknown	7598928
-MX/Mexico City	6719408
-US/Illinois	28020246
-JP/Okayama	8292942
-US/Washington	4434204
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	2167782226	1896	234
+US/Illinois	6517444	16	1
+US/California	69696207	17	9
+HK/Hong Kong	10531220	3	2
+SG/Singapore	9462157	1	1

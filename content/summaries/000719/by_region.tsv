@@ -1,18 +1,9 @@
-region	bytes_sent
-US/Vermont	801696189400
-US/California	424233019960
-AWS/us-east-2	12986615128
-US/Massachusetts	118175976620
-US/Illinois	373
-US/Virginia	13973825797
-bogon	23371533122
-VPN	44621010
-CH/Zurich	16300561
-US/Texas	402897
-GitHub	501559
-VN/Khanh Hoa	49936
-VN/Ho Chi Minh City (HCMC)	99872
-AWS/us-east-1	32769
-US/New York	149880
-DE/City state Bremen	49936
-US/New Hampshire	50503
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	1997579814969	6635838	6369134
+bogon	1564997339	97	97
+SG/Singapore	11660477	4	4
+US/Virginia	586466	193	193
+GitHub	524250	212	212
+US/Illinois	524250	212	212
+US/Iowa	262850	114	114
+US/New York	99872	2	2

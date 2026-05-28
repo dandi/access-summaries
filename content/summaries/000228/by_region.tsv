@@ -1,139 +1,28 @@
-region	bytes_sent
-US/New Hampshire	228621609520
-US/Vermont	29116835154
-US/Massachusetts	6155149996
-AR/Buenos Aires	24621044
-AWS/us-east-2	1507535819
-US/California	16076116262
-CN/Shanghai	6993830388
-AU/South Australia	15873589791
-CN/Shaanxi	987085515
-NL/Flevoland	7371351300
-GitHub	41721870416
-VPN	14366510354
-CA/Quebec	10498392514
-HK/Hong Kong	1191502723
-ZA/Western Cape	23492856
-AWS/us-east-1	28444858945
-US/Minnesota	294420834
-CA/Ontario	11425927195
-US/Washington	6653390770
-US/Nevada	458374492
-ET/Addis Ababa	9556416
-US/Oregon	4615205858
-unknown	3736477348
-AWS/ap-southeast-1	698413909
-NO/Vestland	84416772
-RU/Sakha	11016424
-US/New Mexico	4301378449
-JO/Amman	32916544
-GCP/us-west1	187909038
-RU/Volgograd Oblast	15263720
-NO/Oslo	788745088
-PE/Lima Province	38491120
-US/Illinois	199003899
-VN/Tuyen Quang	10286420
-US/Virginia	92245564
-BR/Pará	23094672
-PK/Punjab	33115636
-UA/Dnipropetrovsk	13007344
-TN/Tunis Governorate	10883696
-NG/Lagos	15661904
-BR/São Paulo	9423688
-IQ/Babil	10950060
-GCP/us-east1	24156496
-BR/Santa Catarina	7963680
-ID/Central Java	13007344
-VN/Lao Cai	9888236
-IL/Haifa	30792896
-NI/Managua Department	9025504
-US/Indiana	7496539847
-JP/Okayama	20710871
-AE/Sharjah	13737348
-JP/Tokyo	11950823
-US/Rhode Island	29072103
-GB/England	937628836
-RU/Saratov Oblast	5840032
-IN/Maharashtra	127441764
-MN/Ulaanbaatar	12476432
-CL/Santiago Metropolitan	14799172
-AR/Tucuman	11812792
-EC/El Oro	9821872
-VN/Ho Chi Minh City (HCMC)	121870364
-UA/Kharkivs’ka Oblast’	11480972
-HU/Baranya	23589
-MX/Mexico City	26412872
-DZ/Annaba	12542796
-PS/West Bank	15130992
-IQ/Baghdad	37562024
-MX/Michoacán	11480972
-AR/Buenos Aires F.D.	32850180
-VN/Hai Phong	10352784
-BD/Dhaka Division	34575644
-DZ/Blida	7631860
-KZ/Astana	14799172
-NP/Bagmati Province	8361864
-VN/Can Tho City	8693684
-BD/Khulna Division	24820136
-RU/Samara Oblast	9954600
-IQ/Duhok	6437308
-IN/Tamil Nadu	11680064
-KE/Nairobi County	15993724
-AR/San Juan	15661904
-EC/Pichincha	14931900
-VE/Zulia	10087328
-UZ/Tashkent	32717452
-US/New York	15462812
-VE/Falcón	15661904
-AO/Luanda	12741888
-KW/Al Farwaniyah	9622780
-VN/Hanoi	14931900
-BR/Bahia	13471892
-PT/Lisbon	178979451
-BR/Paraná	27806516
-IQ/Kirkuk	9755508
-MX/Jalisco	10352784
-IQ/Nineveh	24222860
-PH/Central Luzon	11547336
-GE/Mtskheta-Mtianeti	4048204
-UA/Chernivtsi	31987448
-AR/Mendoza	17121912
-RU/Rostov	32120176
-PK/Sindh	25019228
-MA/Marrakesh-Safi	5773668
-BO/La Paz Department	9821872
-AE/Dubai	13272800
-VN/Bac Ninh	20506476
-DO/Nacional	5972760
-IN/West Bengal	14467352
-IQ/Sulaymaniyah	11480972
-CZ/Prague	11082788
-VE/Miranda	16922820
-DZ/Algiers	5906396
-RO/Galați County	15661904
-IQ/Anbar	4180932
-DZ/Sétif	5840032
-BR/Minas Gerais	25483776
-IN/Uttar Pradesh	23293764
-KG/Chuy Region	6636400
-CG/Brazzaville	16591000
-BR/Rio de Janeiro	23028308
-DZ/Khenchela	11348244
-SN/Dakar	15462812
-VN/Ca Mau	9689144
-US/Ohio	5840032
-KZ/Shymkent	14400988
-KZ/Almaty	14600080
-RU/Krasnodar Krai	11016424
-OM/Muscat	20771932
-IL/Tel Aviv	9490052
-GY/Demerara-Mahaica	9954600
-UA/Odesa	9158232
-VN/Lam Dong	18847376
-GCP/us-central1	192863250
-IQ/Karbala	9755508
-RU/Khanty-Mansia	4180932
-DO/Santiago Province	11812792
-PY/Asunción	4114568
-EC/Guayas	9954600
-EG/Cairo	6437308
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	629527187910	2747287	20766
+US/Virginia	10008995211	42973	317
+ZA/Western Cape	9888236	1	1
+GCP/us-east1	10220056	1	1
+UA/Dnipropetrovsk	13007344	1	1
+US/California	885063519	15538	26
+US/Illinois	78854018	309	5
+NI/Managua Department	9025504	1	1
+US/Arizona	2865904	6476	0
+US/Texas	122101794	6426	4
+GitHub	21198468	3298	1
+AE/Sharjah	13737348	1	1
+US/New Jersey	10087328	1	1
+US/Iowa	138694746	4	4
+SG/Singapore	318845356	9	9
+CN/Shanxi	403990427	50	0
+VN/Ho Chi Minh City (HCMC)	4048204	1	1
+BD/Dhaka Division	22895580	2	2
+NP/Bagmati Province	8361864	1	1
+BD/Khulna Division	10153692	1	1
+US/Wyoming	22679827	97	1
+VN/Hanoi	4114568	1	1
+US/South Carolina	156063224	3	3
+VE/Falcón	12542796	1	1
+DZ/Sétif	5840032	1	1
+BR/Minas Gerais	6570036	1	1
+IQ/Baghdad	14998264	1	1

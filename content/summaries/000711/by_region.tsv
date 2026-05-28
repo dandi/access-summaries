@@ -1,150 +1,41 @@
-region	bytes_sent
-US/Massachusetts	1436122321786
-HK/Hong Kong	145471118016
-US/Virginia	1076977271390
-AWS/us-east-1	1298155594724
-IT/Emilia-Romagna	211189434756
-GCP/us-east1	573993960
-TW/Taiwan	1120520911841
-CN/Shanghai	1815356129205
-CA/Quebec	604040479866
-AR/Buenos Aires	72119833
-VPN	2532722017107
-GitHub	141770794663
-AWS/ap-southeast-1	48497341116
-US/California	375352456651
-GCP/us-west1	6173495023
-US/Illinois	36732717772
-NL/Flevoland	418017182904
-unknown	6383209270
-US/Texas	725589030
-GCP/us-central1	5754449242
-AU/South Australia	45397044
-GB/Scotland	6223260
-US/New Hampshire	65165647132
-US/Washington	180592287
-US/District of Columbia	4164409068
-IE/Leinster	232815432
-PA/Panamá	9236628
-BG/Blagoevgrad	10153740
-bogon	5724920972
-NZ/Wellington Region	10219248
-CN/Zhejiang	6223260
-BR/São Paulo	212864164
-BR/Maranhão	193436960
-NO/Oslo	31069815
-AWS/us-east-2	213106645
-DE/Lower Saxony	30068172
-US/Florida	190984492
-CA/Ontario	106778040
-CA/British Columbia	53192496
-BR/Pernambuco	10612296
-CA/New Brunswick	24237960
-NZ/Auckland	207267312
-GB/England	507358128
-NZ/Manawatu-Wanganui	26334216
-AU/New South Wales	149489256
-IN/Jharkhand	4192512
-BR/Santa Catarina	10284756
-AU/Queensland	49196508
-AU/Victoria	73958532
-AWS/us-west-2	49614677
-VE/Zulia	6878340
-IN/Rajasthan	28626996
-NP/Bagmati Province	4127004
-US/New York	90086364
-US/Ohio	17621652
-BR/Rondônia	115977832
-DE/Hesse	589424916
-DE/North Rhine-Westphalia	51560394
-KR/Seoul	154911752
-EC/Guayas	90233188
-US/North Carolina	53978592
-DE/State of Berlin	13560156
-US/Kentucky	37208544
-VN/Ho Chi Minh City (HCMC)	9891708
-BR/Alagoas	114536656
-NL/North Holland	713392564
-AR/San Luis	10284756
-CN/Beijing	502589720
-RU/Moscow	17032080
-US/Arizona	9760692
-AU/Western Australia	50965224
-US/Alabama	11660424
-US/Mississippi	11005344
-IE/Munster	9433152
-ID/Jakarta	4127004
-BA/Federation of B&H	196097730
-IN/West Bengal	4127004
-US/Utah	21683148
-US/Michigan	35046780
-ZA/Western Cape	52275384
-NZ/Taranaki Region	10022724
-IN/Gujarat	5895720
-NZ/Hawke's Bay Region	26792772
-CU/Havana	10284756
-PH/Calabarzon	13691172
-US/South Carolina	21421116
-DO/Nacional	24565500
-BE/Wallonia	10546788
-MA/Fès-Meknès	9433152
-IN/Kerala	7991976
-IN/Bihar	8843580
-AU/Tasmania	9891708
-US/Arkansas	25744644
-MX/Veracruz	10874328
-NZ/Canterbury	14280744
-VN/Nghệ An Province	8188500
-NZ/Bay of Plenty	18473256
-NO/Rogaland	9629676
-IN/Maharashtra	5830212
-PY/Ñeembucú Department	11332884
-RU/Kaliningrad Oblast	7991976
-BR/Rio de Janeiro	85314901
-AR/Mendoza	9695184
-DZ/Oran	18669780
-US/Colorado	48541428
-BR/Minas Gerais	38256672
-VN/Dong Nai	9695184
-TN/Tunis Governorate	10284756
-RU/St.-Petersburg	10153740
-CN/Jiangsu	6026736
-IN/Delhi	8254008
-VN/Vinh Long	15328872
-IE/Ulster	10219248
-EC/Pichincha	5633688
-PH/Ilocos	67604256
-IE/Connacht	9891708
-ZA/Gauteng	9564168
-CL/Tarapacá	18604272
-FR/Île-de-France	7336896
-CA/Alberta	24303468
-BR/Paraná	102679708
-KZ/Almaty	8319516
-US/Oklahoma	13363632
-SV/Usulután	12249996
-IN/Uttar Pradesh	7336896
-ZA/KwaZulu-Natal	8254008
-DK/Capital Region	11398392
-US/New Jersey	10284756
-TR/Antalya	9891708
-RU/Kuzbass	7271388
-US/Indiana	630986295
-US/Pennsylvania	1078093821
-US/Rhode Island	29735000
-JP/Okayama	1596460
-JP/Saitama	1070600
-MX/Mexico City	1331200
-CL/Santiago Metropolitan	10088232
-GB/Wales	10612296
-BR/Rio Grande do Sul	6223260
-SA/Riyadh Region	13101600
-BR/Paraíba	10022724
-PE/Lima Province	12446520
-IN/Punjab	9891708
-US/Connecticut	14477268
-PH/National Capital Region	259744800
-TR/Istanbul	16245984
-CA/Manitoba	27185820
-AT/Vienna	188587640
-DZ/Constantine	4061496
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	16206874938825	1379583	134574
+US/California	214663629064	6726	2808
+US/Virginia	19820347032	18021	735
+CN/Beijing	3344314416	207	207
+VPN	3242156740	194	191
+SG/Singapore	36440536780	2199	2199
+MX/Mexico City	3627847134	50	47
+GCP/us-east1	122434452	14	14
+US/Illinois	6388405712	3750	217
+US/Wyoming	527098438	2012	50
+US/South Carolina	7860960	1	1
+AWS/ap-southeast-1	308804712	33	33
+HK/Hong Kong	3656948637	83	83
+CN/Zhejiang	6223260	1	1
+GitHub	469161713	2094	51
+AWS/us-east-1	724125432	91	91
+AU/New South Wales	19652400	2	2
+CA/Prince Edward Island	12512028	1	1
+AU/Queensland	4127004	1	1
+BR/Rondônia	115977832	1	1
+EC/Guayas	80996560	1	1
+CA/Quebec	11856948	1	1
+GB/England	45986616	4	4
+CN/Shanghai	450614045	10	7
+CN/Hebei	4061496	1	1
+ID/Central Java	6812832	1	1
+BR/Espírito Santo	104382916	1	1
+NZ/Hawke's Bay Region	6550800	1	1
+NZ/Auckland	20897052	2	2
+BR/São Paulo	19521385	2	1
+IN/Bihar	8843580	1	1
+NZ/Bay of Plenty	18473256	1	1
+CA/Ontario	13232616	1	1
+US/Nebraska	21421116	1	1
+CN/Liaoning	11201868	1	1
+MA/Rabat-Salé-Kénitra	1	1	0
+BR/Minas Gerais	10350264	1	1
+US/Texas	10219248	1	1
+IN/Punjab	9891708	1	1
+CA/Alberta	14935824	1	1

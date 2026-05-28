@@ -1,62 +1,17 @@
-region	bytes_sent
-IN/Maharashtra	89557328
-US/Massachusetts	2647861000
-CA/Quebec	943246048
-AWS/us-east-1	3408534780
-PT/Lisbon	955565296
-US/California	2213952764
-GitHub	1787495084
-IR/Tehran	779905024
-US/New Hampshire	28816069216
-GB/England	771053632
-AWS/ap-southeast-1	31247316
-VPN	17034792276
-CN/Shanghai	2235332124
-HK/Hong Kong	843976648
-BD/Dhaka Division	25351596
-US/Nevada	89221896
-US/Washington	3563035740
-IL/Central District	679799700
-GCP/us-east1	891679024
-JP/Aichi	872908268
-GCP/us-central1	2492910332
-unknown	802909880
-CN/Guangdong	794668664
-ES/Catalonia	758489204
-US/Vermont	283172360
-US/Florida	190445408
-CH/Geneva	47605112
-US/Michigan	47605112
-BR/São Paulo	14673792
-AWS/us-west-2	47183016
-UZ/Tashkent	10415772
-US/Virginia	27346708
-US/Tennessee	715088192
-UA/Lviv	20700528
-NO/Oslo	73262288
-US/North Carolina	16887088
-JP/Tokyo	88246080
-ZA/Mpumalanga	14542776
-CN/Shaanxi	16887088
-NL/Flevoland	141168740
-RU/Moscow	15328872
-RU/Altai	6288768
-AR/Santiago del Estero	6288768
-AWS/us-east-2	804884528
-CR/San José	29609616
-MA/Casablanca-Settat	10153740
-US/Arizona	91477840
-PK/Punjab	12315504
-AR/Buenos Aires F.D.	9171120
-OM/Muscat	10612296
-US/Indiana	923027832
-EC/Pichincha	8516040
-US/District of Columbia	7336896
-JP/Okayama	7873252
-US/Rhode Island	30993904
-MX/Mexico City	921600
-VN/Khanh Hoa	8057484
-PK/Sindh	11463900
-BR/Minas Gerais	14935824
-VN/Ho Chi Minh City (HCMC)	8319516
-ZA/Western Cape	7991976
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	74718821172	68995	4144
+AWS/us-east-1	31443840	3	3
+US/Virginia	745390520	3027	0
+US/Iowa	1046740856	13	13
+GCP/us-west1	1145892200	14	14
+US/Tennessee	1046740856	13	13
+CH/Geneva	47605112	1	1
+US/California	140007016	1451	4
+US/South Carolina	148700072	2	2
+CN/Shanxi	16887088	3	0
+SG/Singapore	88403748	2	2
+AR/Santiago del Estero	6288768	1	1
+GCP/us-central1	194490224	1	1
+US/Arizona	684176	720	0
+US/Texas	684176	720	0
+GitHub	342088	360	0

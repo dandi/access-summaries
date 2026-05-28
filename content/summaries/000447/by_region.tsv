@@ -1,55 +1,17 @@
-region	bytes_sent
-US/New Hampshire	107373951376
-US/Massachusetts	119148662624
-US/California	99435347156
-AWS/us-east-1	53731097453
-US/Vermont	663115576
-GB/England	34279881820
-CN/Shanghai	56715028772
-GitHub	439039936
-VPN	161507664820
-IN/Karnataka	31783546918
-AWS/us-west-2	24539968
-US/Washington	8439072
-AWS/ap-southeast-1	20569512
-US/Virginia	30277453496
-AR/Buenos Aires	9760692
-AR/Buenos Aires F.D.	13101600
-US/Utah	5660490744
-AWS/us-east-2	5958988928
-CN/Shaanxi	9462349824
-bogon	80538024312
-US/Indiana	484391484
-US/Rhode Island	81338848
-US/New York	14612102988
-CA/Quebec	23415076164
-VN/Dak Lak	9629676
-BR/São Paulo	23844912
-VN/Lạng Sơn Province	10153740
-OM/Muscat	6616308
-US/Louisiana	525771388
-PY/Asunción	22469244
-NO/Oslo	717807072
-US/Minnesota	45436960
-unknown	5400549440
-US/Pennsylvania	544152064
-NL/Flevoland	10993787884
-US/District of Columbia	3550976416
-US/Wyoming	2266053630
-RU/Moscow	73703132
-VN/Ho Chi Minh City (HCMC)	21486624
-DE/State of Berlin	5051486864
-IT/Piedmont	5051486864
-TN/Tunis Governorate	11201868
-NO/Trøndelag	1872272196
-AE/Dubai	11725932
-VN/Lam Dong	9629676
-MX/Mexico City	6113284
-US/New Jersey	500150772
-BD/Dhaka Division	4127004
-GB/Scotland	103432152
-IT/Lombardy	40047216
-FR/Île-de-France	179352
-JP/Okayama	8518700
-JO/Amman	8385024
-KG/Chuy Region	10481280
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	1071330648363	279130	1439
+US/California	5098591676	5661	4
+US/Virginia	14306488	11289	1
+bogon	35607282324	259	30
+US/Texas	1513120	2822	0
+GitHub	756560	1411	0
+VN/Quang Tri	9629676	1	1
+US/Arizona	1513120	2822	0
+BR/São Paulo	9957216	1	1
+US/New Jersey	153027440	43	1
+US/New York	14608284	2	2
+US/Massachusetts	11791440	1	1
+SG/Singapore	4127004	1	1
+GB/Scotland	47468144	10	0
+AWS/us-east-1	65536	1	0
+BD/Dhaka Division	4127004	1	1

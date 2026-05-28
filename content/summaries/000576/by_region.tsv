@@ -1,77 +1,18 @@
-region	bytes_sent
-GitHub	2256308290
-US/Colorado	875342624
-CA/Quebec	688012065
-CN/Shanghai	608082219
-AWS/us-east-1	3799641734
-US/Washington	400878974
-US/Massachusetts	1454172451
-US/New York	786615048
-US/New Hampshire	8956820840
-US/Nevada	91514676
-GCP/us-central1	153626610
-VPN	2494045904
-US/Montana	175196135
-US/Utah	4316243
-CN/Shaanxi	26643532
-FR/Île-de-France	1051747800
-US/California	686339023
-GCP/us-west1	623761459
-HK/Hong Kong	121949160
-NO/Oslo	156188148
-CA/Ontario	83743938
-CN/Beijing	401213217
-US/Virginia	12625611
-US/Arizona	125819372
-US/Minnesota	111978095
-NL/Flevoland	84187263
-PL/Mazovia	103221072
-AWS/us-west-2	332447603
-GB/England	372791703
-CH/Zurich	460650942
-unknown	456542306
-MX/Mexico City	26964110
-US/District of Columbia	29795537
-AWS/ap-southeast-1	88959864
-US/Pennsylvania	352231223
-US/Illinois	50377247
-PK/Punjab	171678405
-GCP/us-east1	80222759
-ES/Catalonia	30133588
-JP/Okayama	7663098
-AWS/us-east-2	151311895
-US/Indiana	250352358
-US/Rhode Island	54329669
-US/Maryland	946738
-CL/Santiago Metropolitan	28167996
-GCP/asia-east1	75250039
-TM/Ashgabat	20876721
-DE/North Rhine-Westphalia	20876721
-IN/Maharashtra	20876721
-BR/Rio Grande do Sul	10022724
-RU/Moscow Oblast	13232616
-GB/Scotland	20876721
-bogon	20876721
-CN/Guangdong	22352
-VN/Dong Nai	6681816
-VN/Tay Ninh	9826200
-NL/North Holland	20876721
-CH/Geneva	62630035
-US/New Jersey	2426423
-SG/Singapore	20876721
-VN/Lam Dong	5699196
-VN/Thanh Hóa Province	17687160
-NL/Limburg	20876721
-VN/Ninh Binh	9236628
-DE/Hesse	19324860
-US/Georgia	20876721
-VN/Hanoi	4061496
-BR/Espírito Santo	9498660
-VN/Phu Tho	10022724
-VN/Ho Chi Minh City (HCMC)	6681816
-US/Texas	42041515
-US/Ohio	77626494
-US/Oregon	115736710
-IN/Telangana	78757951
-US/Wisconsin	20876593
-IN/Delhi	13756680
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	91862619157	26725	2181
+US/California	132293409	87	18
+US/Massachusetts	473198038	35	14
+CL/Santiago Metropolitan	70354864	5	5
+SG/Singapore	87057037	6	6
+ES/Catalonia	48591898	435	1
+CN/Shanxi	20788218	3	0
+US/Virginia	152439343	1935	0
+GitHub	198776	381	0
+US/New Jersey	4389036	1	1
+US/New York	18669812	5	2
+CA/Ontario	20876721	4	0
+DE/Hesse	19324860	1	1
+US/Georgia	20876721	1	1
+US/Wyoming	5316590	6	1
+NL/Gelderland	20876593	1	1
+US/District of Columbia	20876593	1	1

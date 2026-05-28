@@ -1,33 +1,33 @@
-asset_path	bytes_sent
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_peakV3.bvecs	244143165
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_space-CIT168_desc-CSD_tractography.trk	13312845960
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-NextBrain_seg.nii.gz	5467778
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_tractography.trk	4641244176
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_l0.nii.gz	59316760
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-highb_norm.nii.gz	22931384
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CIT168_to_dwi_1Warp.nii.gz	346984741
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_peakV1.bvecs	99051622
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_space-CIT168_desc-CSD_tractography.trk	25944326752
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-b0_mean.nii.gz	117485269
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CIT168_to_dwi_1Warp.nii.gz	537525992
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-DWI_biascorr.nii.gz	26788090508
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-highb_mean.nii.gz	54010947
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_peakV3.bvecs	59309828
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_ODFs.nii.gz	2200998616
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_ODFs.nii.gz	5965168822
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-DWI_biascorr.nii.gz	52542353634
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_peakV1.bvecs	224395264
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-DTI_FA.nii.gz	54520516
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-DTI_FA.nii.gz	76378514
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_l0.nii.gz	94083204
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-b0_mean.nii.gz	92072521
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CIT168_to_dwi_1InverseWarp.nii.gz	663998711
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CIT168_to_dwi_0GenericAffine.mat	579
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CIT168_to_dwi_0GenericAffine.mat	386
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-highb_mean.nii.gz	132587266
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CIT168_to_dwi_1InverseWarp.nii.gz	235006920
-dataset_description.json	2020
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-preproc_dwi.bvecs	26116
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-preproc_dwi.bvecs	52228
-derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_peakV2.bvecs	277229859
-derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_peakV2.bvecs	57464703
+asset_path	bytes_sent	number_of_requests	number_of_downloads
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_peakV3.bvecs	550692483	30	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_space-CIT168_desc-CSD_tractography.trk	32121923352	1486	5
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-NextBrain_seg.nii.gz	19137223	7	6
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_tractography.trk	32130046344	1486	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_l0.nii.gz	109593180	10	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-highb_norm.nii.gz	109889178	10	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CIT168_to_dwi_1Warp.nii.gz	1293264855	65	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_peakV1.bvecs	275253690	17	5
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_space-CIT168_desc-CSD_tractography.trk	38298020988	1770	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-b0_mean.nii.gz	243003687	16	5
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CIT168_to_dwi_1Warp.nii.gz	1419559536	70	5
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-DWI_biascorr.nii.gz	78734920812	3634	5
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-highb_mean.nii.gz	220629249	14	3
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_peakV3.bvecs	249766743	15	3
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_ODFs.nii.gz	3697718844	174	3
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_ODFs.nii.gz	8866534455	370	4
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-DWI_biascorr.nii.gz	71546243691	3301	3
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_peakV1.bvecs	522626091	28	3
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-DTI_FA.nii.gz	88271442	8	3
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-DTI_FA.nii.gz	165226959	12	3
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_l0.nii.gz	229914558	16	4
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-b0_mean.nii.gz	242407371	15	3
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CIT168_to_dwi_1InverseWarp.nii.gz	1267823613	63	3
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CIT168_to_dwi_0GenericAffine.mat	965	5	4
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CIT168_to_dwi_0GenericAffine.mat	965	5	4
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-highb_mean.nii.gz	236040063	15	3
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CIT168_to_dwi_1InverseWarp.nii.gz	1398854628	68	3
+dataset_description.json	4040	10	9
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-preproc_dwi.bvecs	65290	5	4
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-preproc_dwi.bvecs	65285	5	4
+derivatives/sub-Ha1/dwi/sub-Ha1_sample-hemi_desc-CSD_peakV2.bvecs	535179555	28	3
+derivatives/sub-Hb1/dwi/sub-Hb1_sample-hemi_desc-CSD_peakV2.bvecs	249070725	15	3

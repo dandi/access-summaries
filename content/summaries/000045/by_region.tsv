@@ -1,196 +1,49 @@
-region	bytes_sent
-AWS/us-east-2	224993424364
-US/California	257478381255
-NL/Flevoland	110212349921
-VPN	343614574823
-CA/Quebec	39397516553
-US/New Hampshire	197177798216
-CN/Shaanxi	9447987128
-GCP/us-west1	982927878
-GCP/us-central1	395990737
-AWS/us-east-1	214522622391
-US/Minnesota	1725591202
-US/Massachusetts	97082074059
-AWS/ap-southeast-1	43987910675
-CN/Shanghai	115074748563
-GitHub	77382478004
-IL/Jerusalem	23175968
-GCP/us-east1	8829059966
-HK/Hong Kong	13352655651
-US/Nevada	19488005749
-ES/Catalonia	476895075
-AWS/us-west-2	12796160561
-unknown	3368284642
-BR/Rio de Janeiro	28062763
-US/Illinois	9854323648
-US/New York	350353130
-UA/Kyiv	1571632417
-US/Virginia	15863009824
-DE/Thuringia	2185160948
-US/Washington	1412276672
-NO/Vestland	800512594
-CL/Santiago Metropolitan	26006544
-BR/Santa Catarina	11658353
-IE/Leinster	527887418
-US/North Carolina	23650580
-TW/Taiwan	1723482708
-AU/Western Australia	23982248
-CN/Beijing	71162715
-AU/New South Wales	156924934
-FR/Île-de-France	61379742
-IT/Veneto	660618951
-AU/Victoria	127166561
-PS/West Bank	1
-IN/Tamil Nadu	1128188
-NZ/Wellington Region	58376592
-CA/Ontario	334612450
-GB/England	589796764
-UA/Kyiv City	42690372
-IE/Munster	36514391
-US/New Jersey	45047985
-US/Ohio	64877292
-NZ/Canterbury	56298759
-CA/Nova Scotia	49499700
-US/Florida	85197476
-TR/Bursa Province	6238216
-IE/Connacht	56005208
-US/Mississippi	13073708
-US/Georgia	32753052
-NZ/Auckland	343242991
-TW/Taipei	4678453
-NO/Oslo	265971462
-IN/Maharashtra	13744236
-PT/Lisbon	39249228
-IN/Rajasthan	591264
-CA/British Columbia	126278055
-US/Arizona	5066136
-ES/Canary Islands	10153692
-US/Pennsylvania	23003164
-GB/Scotland	30593804
-NZ/Bay of Plenty	27596508
-US/Kentucky	30548713
-TT/Princes Town	3325289
-MX/Sinaloa	9698128
-MX/Jalisco	26620948
-TR/Istanbul	20771932
-PY/Central Department	18515556
-US/Louisiana	10250157
-BR/São Paulo	122462374
-NZ/Waikato Region	42952483
-AU/Queensland	92478117
-SA/Riyadh Region	9224596
-BR/Rio Grande do Sul	40182308
-US/Texas	102802994
-UY/Montevideo Department	8400608
-BR/Minas Gerais	20254756
-US/Wisconsin	10286420
-BD/Chittagong	5906396
-GT/Guatemala	12411877
-US/Indiana	33225748
-US/Connecticut	86938560
-JP/Okayama	5926048
-US/Rhode Island	4089424
-US/Oregon	177350397
-TR/Mersin	6636400
-HU/Budapest	7614004
-BR/Bahia	14716848
-US/Alabama	24496436
-BG/Pleven	10020964
-GB/Wales	32471200
-CA/Alberta	56030011
-PH/National Capital Region	18229647
-US/Kansas	10087328
-HR/County of Osijek-Baranja	5972760
-CA/Manitoba	39770191
-US/District of Columbia	18202540
-IN/Madhya Pradesh	7969162
-GB/Northern Ireland	28138336
-SE/Jönköping	10618240
-MX/Coahuila	15907235
-IN/Kerala	5905488
-ID/South Sumatra	2186064
-IL/Haifa	12776016
-AU/Tasmania	5241461
-MY/Kuala Lumpur	4180932
-US/Vermont	196480948
-JP/Tokyo	25750912
-US/Utah	10959896
-TR/Kayseri	17502228
-NG/Lagos	10959896
-DE/State of Berlin	10959896
-GCP/us-west4	19644296
-NZ/Taranaki Region	10419148
-US/Missouri	10830259
-BR/Paraná	19245560
-US/Nebraska	36588003
-CA/Prince Edward Island	19121600
-GR/Attica	2327779
-AU/South Australia	36295304
-TT/Mayaro	10286420
-BA/Federation of B&H	22303816
-VN/Ninh Binh	7034584
-DZ/Algiers	7014369
-IN/Delhi	3091704
-PY/Alto Paraná Department	5281673
-BR/Alagoas	21812144
-CA/Newfoundland and Labrador	17582976
-AR/Buenos Aires	39562861
-ID/East Java	24087448
-PL/Mazovia	8892776
-US/Michigan	21833756
-IE/Ulster	8760048
-LT/Vilnius	10485512
-PK/Punjab	6238216
-US/Arkansas	6238216
-VN/Ho Chi Minh City (HCMC)	9304660
-NZ/Hawke's Bay Region	54242684
-EG/Cairo	5707304
-MX/San Luis Potosí	7315632
-MX/Mexico City	10580416
-BR/Maranhão	4463072
-US/West Virginia	8054776
-ES/Castille-La Mancha	10087328
-IT/Liguria	8462808
-AR/Corrientes	14222737
-BR/Pernambuco	21457696
-DE/North Rhine-Westphalia	7636156
-US/Tennessee	6075672
-NZ/Northland	4598396
-ID/West Kalimantan	3978296
-ET/Addis Ababa	10817332
-US/Oklahoma	6706025
-ZA/Limpopo	4048204
-CO/Bogota D.C.	3503168
-BD/Dhaka Division	9556416
-RU/Tyumen Oblast	7897316
-BR/Rio Grande do Norte	11610875
-JP/Okinawa	8892776
-IN/Gujarat	4114568
-RU/Moscow	16804977
-US/Delaware	6570036
-PT/Leiria	14003701
-RO/București	2871972
-VN/Da Nang City	9755508
-CR/San José	12347256
-IN/Telangana	8377501
-KR/Incheon	7600848
-EC/Pichincha	4396440
-KE/Nakuru County	3617986
-BO/Santa Cruz Department	4622694
-JP/Saitama	9888236
-PY/Paraguarí	9888236
-RU/Astrakhan Oblast	13762157
-US/Idaho	3626336
-TR/Ankara	6383273
-NL/Utrecht	4079260
-PE/San Martín Department	17039400
-MX/Querétaro	13206436
-ES/Madrid	5966024
-US/Alaska	6313855
-MX/Aguascalientes	9247220
-BR/Federal District	19643744
-SV/San Salvador Department	9025504
-BI/Bujumbura Mairie	4114568
-KZ/Pavlodar Region	16192816
-HU/Győr-Moson-Sopron	5143992
-PE/Lima Province	3770775
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	2420500106835	11562034	180362
+US/California	8975605421	3963	731
+SG/Singapore	14840037888	1600	1599
+CN/Beijing	1532433772	159	159
+US/Virginia	9196370327	13558	1738
+US/South Carolina	1140553735	70	70
+UA/Kyiv	401471998	82	82
+GCP/us-east1	92162076	11	11
+US/Illinois	2204700330	1258	274
+AWS/us-east-1	680457594	107	107
+CL/Santiago Metropolitan	18014340	10	10
+IE/Leinster	69846469	8	8
+CA/Quebec	1492795136	321	321
+AWS/ap-southeast-1	334454535	48	48
+VPN	2048395562	266	259
+FR/Grand Est	1107566982	211	211
+US/Wyoming	273431984	538	50
+HK/Hong Kong	390326808	49	48
+NZ/Canterbury	20838296	2	2
+MX/Mexico City	165885449	18	17
+NZ/Wellington Region	25173683	3	3
+NZ/Auckland	64086232	9	9
+CN/Shanghai	84210128	13	10
+GitHub	183118113	852	40
+US/Iowa	1116800	4	4
+US/Texas	39424260	992	8
+AU/New South Wales	16178884	3	3
+IN/Kerala	8076758	1	1
+GB/England	46509884	5	5
+US/Arizona	692216	984	0
+CN/Shanxi	4357482280	693	127
+CA/Ontario	12121593	2	1
+HU/Budapest	7614004	1	1
+IE/Munster	24482308	3	3
+PH/National Capital Region	10796879	1	1
+AU/Victoria	16958324	3	3
+BR/Santa Catarina	4190288	2	1
+VN/Da Nang City	6984864	1	1
+US/Florida	4119384	1	1
+ID/East Java	12043724	1	1
+XK/Pristina	10535188	1	1
+ZA/Limpopo	4048204	1	1
+PT/Lisbon	51081260	12	2
+US/Georgia	6321396	1	1
+PY/Paraguarí	9888236	1	1
+CA/Alberta	15661904	1	1
+EC/Tungurahua Province	1	1	0
+US/Mississippi	5640940	1	1

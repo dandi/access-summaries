@@ -1,169 +1,38 @@
-region	bytes_sent
-GitHub	17680947028
-AWS/us-east-2	1544845936
-US/North Carolina	168341524
-VPN	940173525
-US/Virginia	8863917664
-GCP/us-east1	259555960
-bogon	15740856
-PT/Lisbon	8829680
-GCP/us-west1	90589120
-US/New York	615330280
-US/Indiana	2858200
-CA/Quebec	854565304
-US/Ohio	122861800
-US/Colorado	362076424
-US/Georgia	266621332
-GCP/us-east4	240972772
-KR/Seoul	190983108
-US/California	2762649512
-GCP/us-central1	66594064
-AWS/ap-southeast-1	85220044
-US/Michigan	115506600
-US/Vermont	309690248
-GCP/europe-west4	124333112
-US/Maine	120766096
-RU/Moscow	1593840
-US/New Hampshire	959448825
-CN/Shanghai	320997012
-CN/Beijing	236077300
-MX/Mexico City	24960124
-IN/Maharashtra	37332244
-NO/Agder	796920
-US/Pennsylvania	5737992
-JP/Okayama	1981160
-US/Texas	7062572
-VN/Ho Chi Minh City (HCMC)	8710444
-US/Massachusetts	325513696
-SG/Singapore	1243747712
-GCP/asia-southeast1	1055912
-US/Rhode Island	1593840
-AR/Buenos Aires	2199932
-US/New Jersey	854823660
-CN/Shaanxi	7726472
-US/Illinois	201783588
-IN/Rajasthan	86717148
-US/Tennessee	796920
-GCP/asia-east1	78748764
-AWS/us-east-1	1291701614
-US/Nevada	81106964
-HK/Central and Western	8253408
-US/Washington	161649292
-IN/Chandigarh	796920
-US/District of Columbia	48695808
-GCP/us-west3	120712560
-CH/Vaud	118903168
-DE/Hesse	118903168
-BE/Brussels Capital	118903168
-US/Hawaii	97379084
-IN/Karnataka	80270388
-JP/Osaka	40009464
-FR/Île-de-France	796920
-AWS/us-west-2	48313296
-MX/Jalisco	46240
-NL/Flevoland	102820768
-NL/Groningen	1593840
-unknown	103764238
-GB/England	126837188
-PT/Braga	55887408
-DE/State of Berlin	125103520
-ML/Bamako	324348
-CA/Ontario	151611980
-IR/Tehran	79761736
-CN/Guangdong	43821440
-US/Mississippi	109461052
-BR/Rio Grande do Sul	712560
-EG/Sharqia	357424
-NO/Oslo	102470416
-CG/Brazzaville	357424
-AZ/Baki	357424
-VN/Da Nang City	1151872
-BR/Federal District	338652
-BR/Rio de Janeiro	86375628
-IQ/Nineveh	338652
-MX/San Luis Potosí	465540
-IQ/Kirkuk	828140
-IT/Lombardy	781903236
-IT/Emilia-Romagna	103708880
-IL/Jerusalem	13126524
-PK/Khyber Pakhtunkhwa	6666716
-HK/Hong Kong	17948520
-JO/Zarqa	276632
-IR/Khuzestan	276632
-IL/Central District	6459808
-VE/Falcón	6304580
-NL/North Holland	38602976
-RU/Krasnodar Krai	8194336
-DZ/Blida	8194336
-AO/Luanda	6822228
-MN/Ulaanbaatar	8194336
-SE/Stockholm	33978172
-AR/Santa Fe	470808
-AR/Chaco	470808
-QA/Baladīyat ad Dawḩah	470808
-BR/Minas Gerais	647204
-RU/Tula Oblast	258992
-CO/Antioquia	6012628
-IQ/Sulaymaniyah	5519112
-SY/Aleppo	5519112
-IL/Tel Aviv	374788
-TN/Tunis Governorate	374788
-AU/New South Wales	4071132
-MX/Oaxaca	1357044
-BZ/Belize District	2714088
-JP/Aichi	254360
-SE/Västra Götaland	162424
-MX/Tabasco	243688
-US/Maryland	452348
-US/South Carolina	904696
-CN/Zhejiang	904696
-AT/Vienna	452348
-GA/Estuaire	452348
-BR/Santa Catarina	878792
-MY/Sarawak	493516
-PE/Puno	493516
-BD/Dhaka Division	493516
-PS/West Bank	6498096
-PK/Punjab	5583472
-AR/San Juan	654184
-ES/Valencia	12023936
-CL/Santiago Metropolitan	5047600
-ZA/Western Cape	5047600
-UZ/Tashkent	7806216
-MA/Rabat-Salé-Kénitra	7456488
-PK/Sindh	746036
-IQ/An Najaf	604844
-AE/Dubai	604844
-NP/Bagmati Province	444520
-VN/Hanoi	897444
-DZ/Sétif	344024
-MA/Fès-Meknès	344024
-BR/Ceará	4751624
-SK/Žilina Region	4100256
-HR/Zagreb	438876
-OM/Muscat	1480560
-GE/Tbilisi	553420
-CA/Alberta	426444
-IN/Punjab	338864
-IQ/Basra	338864
-IQ/Karbala	450860
-KE/Nakuru County	9829340
-SY/Damascus Governorate	349728
-MX/México	602808
-RU/Saratov Oblast	602808
-SA/Eastern Province	602808
-PK/Islamabad	6942912
-UA/Volyn	384920
-KE/Nairobi County	884784
-DZ/Jijel	323156
-AR/La Pampa	281012
-CZ/Prague	281012
-BD/Khulna Division	6323700
-AR/Buenos Aires F.D.	362600
-NG/Rivers State	362600
-BR/Bahia	609568
-AZ/Nakhchivan	609568
-MY/Perak	352892
-BO/La Paz Department	554044
-VN/Dong Thap	999728
-RU/Vladimir Oblast	499864
+region	bytes_sent	number_of_requests	number_of_downloads
+US/California	609963476	4932	210
+unknown	73854893988	565532	23092
+US/Virginia	2294507436	14351	664
+US/Arizona	84032344	3172	27
+US/Ohio	403072860	204	0
+TW/Taiwan	123105656	263	53
+SG/Singapore	69147493	29	28
+US/Texas	82755180	2423	22
+GitHub	132455724	1520	46
+US/New York	341374292	182	115
+US/New Jersey	796920	1	1
+MX/Mexico City	10175400	2	2
+BR/Rio Grande do Sul	324348	1	1
+KG/Chuy Region	338652	1	1
+US/Illinois	219079864	1283	68
+CN/Shandong	24565084	8	8
+US/Massachusetts	6644036	1	1
+CL/Santiago Metropolitan	20697332	3	3
+US/Iowa	47625856	465	14
+DZ/Blida	8194336	1	1
+VPN	5921889	5	4
+IQ/Nineveh	470808	1	1
+GCP/us-east1	470808	1	1
+CN/Shanxi	5778104	2	2
+CN/Beijing	16557337	4	3
+BR/São Paulo	374788	1	1
+TN/Tunis Governorate	374788	1	1
+US/Wyoming	14689280	42	4
+AT/State of Vienna	452348	1	0
+US/South Carolina	904696	2	0
+US/Washington	4577016	11	1
+PK/Punjab	1039104	2	2
+AR/Buenos Aires F.D.	349728	1	1
+BR/Sergipe	349728	1	1
+NL/Gelderland	22980300	3	3
+CA/Quebec	13206436	2	2
+IQ/Kirkuk	362600	1	1

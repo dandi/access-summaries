@@ -1,101 +1,32 @@
-region	bytes_sent
-US/New Hampshire	5710927546964
-US/Vermont	125239282872
-CN/Shaanxi	137752754624
-GitHub	102090345252
-CN/Shanghai	1510229584888
-HK/Hong Kong	142883066688
-CA/Quebec	363707310572
-US/California	758175956088
-US/Massachusetts	1197009840732
-AWS/us-east-1	1296203512360
-AWS/ap-southeast-1	48695268110
-GCP/us-west1	4930134476
-US/Virginia	76046507176
-US/New York	1744454296
-GCP/us-east1	982161444
-IT/Piedmont	65291966460
-VPN	2009384819834
-US/District of Columbia	13111164168
-NL/Flevoland	384511765494
-unknown	16870881546
-US/Texas	669461756
-US/Illinois	20128119096
-US/Pennsylvania	334228732
-CA/Ontario	45528060
-US/Kentucky	12184488
-AR/Buenos Aires	94043552
-MX/Guerrero	10415772
-TR/Ankara	84086336
-CA/New Brunswick	26727264
-GB/England	1525895488
-CA/Manitoba	31050792
-BR/São Paulo	215600464
-NZ/Wellington Region	7926468
-IE/Leinster	153223212
-AU/New South Wales	32885016
-US/Tennessee	84086336
-AU/Victoria	30002664
-BR/Minas Gerais	104393816
-IN/Rajasthan	17163096
-US/Florida	40483944
-GB/Scotland	34981272
-BR/Ceará	9891708
-AWS/us-east-2	74331820
-US/Rhode Island	16329408
-US/Indiana	54533656
-JP/Okayama	17093184
-CN/Beijing	438341300
-CN/Jiangsu	9695184
-LV/Riga	8254008
-CA/Nova Scotia	20045448
-US/Nevada	11005344
-DO/La Vega	20831544
-IE/Munster	13691172
-NZ/Auckland	32360952
-BR/Pernambuco	10350264
-BR/Mato Grosso do Sul	10612296
-US/Arizona	15001332
-AU/South Australia	6223260
-IN/Maharashtra	106293548
-IN/Gujarat	6681816
-RU/Moscow Oblast	13429140
-IN/Chandigarh	8254008
-PH/National Capital Region	16377000
-VN/Dak Lak	84086336
-ZA/Mpumalanga	7533420
-CA/Saskatchewan	4127004
-VN/Ho Chi Minh City (HCMC)	6223260
-PH/Calabarzon	8385024
-HU/Budapest	11986720
-AU/Western Australia	24303468
-US/Wyoming	10088232
-RU/Orenburg Oblast	7860960
-IN/Delhi	8319516
-IN/Karnataka	28168440
-US/Ohio	10743312
-FR/Brittany	8712564
-US/South Carolina	15852936
-NZ/Canterbury	8188500
-CL/Region of Magallanes	10022724
-TH/Pathum Thani	4061496
-IN/Haryana	4127004
-IN/Jammu and Kashmir	7729944
-MY/Selangor	4192512
-US/Colorado	18342240
-US/Connecticut	13232616
-MY/Kuala Lumpur	7729944
-UZ/Tashkent	8516040
-UA/Kyiv	9367644
-JP/Osaka	6223260
-FR/Île-de-France	7860960
-PY/Cordillera Department	8254008
-US/Wisconsin	13625664
-NP/Lumbini Province	4192512
-AU/Queensland	28758012
-US/Georgia	15787428
-VN/Bac Ninh	5961228
-BR/Rondônia	14346252
-BR/Rio de Janeiro	84086336
-US/North Carolina	15590904
-BR/Bahia	10284756
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	21850549014402	8489531	2076945
+US/California	176347054184	5168	3555
+SG/Singapore	139895094668	2228	2228
+CN/Beijing	3413883912	224	224
+VPN	12868985910	209	207
+US/Illinois	4138069700	890	284
+US/Virginia	7025621084	6030	1225
+AWS/us-east-1	580859436	66	66
+GCP/us-east1	252991896	29	29
+GitHub	506480772	807	133
+CN/Shanghai	27971924	16	8
+AWS/ap-southeast-1	154860912	15	15
+US/South Carolina	9959950328	126	126
+HK/Hong Kong	1438666933	88	87
+MX/Mexico City	674746039	27	24
+US/Wyoming	596120380	508	127
+IN/Chhattisgarh	1	1	0
+US/New York	190359116	52	6
+US/Arizona	347472	550	0
+US/Texas	347472	550	0
+CN/Shanxi	63145634240	8245	0
+BR/São Paulo	94829648	2	2
+IE/Leinster	18538764	2	2
+BR/Rio Grande do Sul	1	1	0
+IN/Gujarat	6681816	1	1
+JO/Zarqa	1	1	0
+CO/Risaralda Department	9236628	1	1
+IN/Delhi	5830212	2	2
+TW/Takao	1	1	0
+US/Georgia	1	1	0
+BR/Bahia	10284756	1	1

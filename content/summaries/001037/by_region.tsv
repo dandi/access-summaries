@@ -1,53 +1,11 @@
-region	bytes_sent
-US/California	1105054812
-AWS/us-east-1	15588384
-GCP/us-central1	268202284
-CN/Shanghai	23537688
-FR/Île-de-France	93535968
-GCP/us-west4	16345280
-GCP/us-east1	1801859956
-US/New York	15616524
-US/Georgia	4589844
-US/Ohio	7094520
-KR/Daegu	4589844
-VPN	26503480
-CN/Jiangsu	4051248
-GCP/us-west3	119389392
-GCP/asia-southeast1	14119824
-US/Massachusetts	28608560
-GCP/europe-west4	6136416
-GitHub	23815600
-US/Illinois	17213716
-GCP/us-east4	311321072
-IT/Tuscany	11535408
-US/Pennsylvania	31466548
-RU/Moscow Oblast	4589844
-CN/Guangdong	140176368
-US/Utah	7094520
-US/Virginia	5613844
-IL/Haifa	17351840
-SG/Singapore	367360
-KR/Seoul	4589844
-US/New Jersey	16558152
-IL/Jerusalem	7094520
-GCP/us-west1	6555924
-CN/Beijing	7934432
-US/Texas	4170336
-US/Connecticut	9179688
-US/Maryland	4589844
-NL/Flevoland	4589844
-DK/Central Jutland	6675012
-KR/Daejeon	4589844
-unknown	18537452
-GCP/asia-east1	6136416
-IL/Tel Aviv	17062964
-US/Indiana	4589844
-DK/Capital Region	4589844
-AWS/us-west-2	2439444
-US/Washington	1506684
-MX/Mexico City	1645976
-JP/Kanagawa	4589844
-GB/England	44541504
-CH/Zurich	2504676
-US/New Hampshire	2504676
-JP/Tokyo	2504676
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	6303774224	10884	803
+GCP/us-central1	167624048	75	3
+SG/Singapore	1200768	155	0
+US/Nevada	25499888	19	4
+US/California	9589288	8	4
+FR/Occitanie	4589844	2	2
+TW/Taiwan	8102496	12	2
+IL/Haifa	5666196	12	3
+CN/Shanghai	4589844	2	2
+US/South Carolina	2504676	1	0

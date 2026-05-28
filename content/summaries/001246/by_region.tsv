@@ -1,12 +1,10 @@
-region	bytes_sent
-AWS/us-east-1	509321175
-US/Massachusetts	4078532803
-bogon	631772024
-JP/Tokyo	2446947102
-VPN	115997180
-US/Virginia	95263
-CR/San José	839290
-unknown	841565
-US/Illinois	232820
-GitHub	16547
-US/New Jersey	220636087
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	11957257184	18760	12525
+US/Virginia	24593229	39	39
+bogon	34990702	61	61
+AWS/us-east-1	9915857	16	16
+VPN	471	2	2
+SG/Singapore	12952814	18	18
+US/Illinois	5798	4	4
+GitHub	5961	9	9
+US/New York	296	4	4

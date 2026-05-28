@@ -1,90 +1,24 @@
-region	bytes_sent
-US/Virginia	1945482484
-US/New Hampshire	42445423249
-US/Vermont	231441320
-HK/Hong Kong	106607304
-US/Washington	63761516
-CN/Beijing	137954296
-GCP/us-east1	291582088
-GB/England	261959496
-US/Georgia	162109731
-CN/Shanghai	249749336
-AWS/us-east-2	226380560
-CH/Geneva	31346992
-GCP/us-west1	159842128
-GitHub	389739480
-TW/Taiwan	109714472
-US/California	463809140
-IT/Trentino-Alto Adige	29793408
-AWS/us-east-1	216781844
-GCP/asia-southeast1	31346992
-US/Michigan	86273056
-GCP/us-central1	279015760
-CA/Ontario	75776873
-US/New Jersey	29793408
-GCP/asia-east1	186528368
-CH/Vaud	43913320
-CN/Zhejiang	62693984
-US/Massachusetts	64299136
-US/Tennessee	17227080
-GCP/us-east4	94040976
-US/Maryland	111323664
-VPN	3658579820
-US/New Mexico	15673496
-GCP/europe-west4	186528368
-US/Illinois	34454160
-HU/Budapest	15673496
-PT/Lisbon	34454160
-IR/Tehran	58076064
-IT/Lombardy	20861232
-CN/Guangdong	65801152
-US/New York	153580380
-SG/Singapore	15673496
-US/North Carolina	82466776
-AWS/ap-southeast-1	11110000
-HK/Islands	9413275
-AU/New South Wales	14119912
-JP/Tokyo	78367480
-AWS/ap-southeast-2	15673496
-US/Florida	29793408
-IL/Haifa	59586816
-GCP/us-west4	45466904
-FR/Provence-Alpes-Côte d'Azur	32900576
-US/Pennsylvania	76813896
-US/Iowa	14119912
-BE/Flanders	15673496
-JP/Aichi	15673496
-AWS/us-west-2	36110604
-US/Indiana	19412648
-VN/Ho Chi Minh City (HCMC)	15673496
-FR/Île-de-France	31356472
-NL/Gelderland	14119912
-CA/Quebec	43331192
-AU/Queensland	15673496
-IN/Maharashtra	14119912
-unknown	92683860
-CA/British Columbia	15673496
-US/Colorado	15673496
-AT/Vienna	15246312
-JP/Osaka	29793408
-HK/Kwai Tsing District	15673496
-NO/Oslo	109411384
-DE/Baden-Wurttemberg	17227080
-CL/Santiago Metropolitan	15673496
-US/Connecticut	15673496
-ES/Madrid	15673496
-KR/Seoul	15673496
-GB/Northern Ireland	15673496
-CN/Ningxia	15673496
-IN/West Bengal	14119912
-JP/Saitama	15673496
-TR/Ankara	14119912
-MX/Mexico City	204800
-KR/Daejeon	1553584
-NL/Flevoland	4660752
-NL/North Brabant	1553584
-US/Nevada	1553584
-US/Rhode Island	1553584
-DE/State of Berlin	1553584
-JP/Okayama	1553584
-IN/Karnataka	1553584
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	17337681148	57439	2159
+US/Virginia	233367582	3238	29
+JP/Tokyo	15673496	2	2
+US/South Carolina	47020488	6	6
+US/California	24698948	2147	8
+US/Florida	14119912	1	1
+GCP/us-west1	15673496	2	2
+NL/Groningen	15673496	2	2
+DE/Saxony	15673496	2	2
+BE/Flanders	15673496	2	2
+US/Oregon	31346992	4	4
+US/Iowa	15673496	2	2
+US/District of Columbia	15673496	2	2
+TW/Taiwan	15673496	2	2
+CN/Zhejiang	15673496	2	2
+NL/North Holland	15673496	2	2
+CL/Santiago Metropolitan	15673496	2	2
+US/Arizona	410144	706	0
+US/Texas	3517312	708	2
+US/Illinois	3107168	2	2
+GitHub	205072	353	0
+GCP/us-central1	1553584	1	1
+US/Nevada	1553584	1	1

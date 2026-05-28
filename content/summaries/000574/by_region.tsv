@@ -1,77 +1,21 @@
-region	bytes_sent
-AWS/us-east-1	183872711376
-US/Massachusetts	220186810878
-VPN	192765002942
-US/Wisconsin	315683877832
-CA/Alberta	13983876
-US/California	295962371323
-CN/Shanghai	249873409675
-US/Missouri	175942537698
-MA/Tanger-Tetouan-Al Hoceima	3266855876
-GitHub	11115907002
-GCP/us-west1	2718177567
-US/Arizona	61184131306
-CH/Zurich	597463227188
-US/Pennsylvania	134495638
-ES/Basque Country	98483200
-PH/National Capital Region	6681816
-unknown	78505588534
-US/New Hampshire	34545092850
-HU/Budapest	105442994282
-CA/Quebec	110997851152
-CN/Shaanxi	16314118924
-US/Montana	74088875460
-US/New York	52932920109
-AWS/ap-southeast-1	397437036
-US/District of Columbia	7325847745
-US/Virginia	767818732
-NL/Flevoland	47969273497
-AWS/ap-northeast-1	25426568136
-GB/England	24927290197
-NO/Oslo	142749075
-NL/Gelderland	177686368
-US/Maryland	1458987237
-PL/Mazovia	24133872
-CD/Kinshasa	9629676
-US/Florida	6520988556
-US/North Carolina	22076196
-HK/Islands	144445140
-AWS/us-west-2	18066658
-US/Washington	8334116
-CA/Ontario	1760015295
-GCP/us-west4	2380500962
-DE/North Rhine-Westphalia	1382545855
-KR/Seoul	228119364
-IR/Tehran	1062144871
-IR/East Azerbaijan	205535033
-JP/Tokyo	42649074
-DE/Lower Saxony	1382545855
-ES/Madrid	1382545855
-US/Texas	1424694135
-GCP/us-east1	29882815
-AWS/us-east-2	33632239718
-LK/Western Province	11856948
-US/Connecticut	1393682215
-DE/Baden-Wurttemberg	257110736
-MX/Mexico City	413855052
-VN/Ho Chi Minh City (HCMC)	4127004
-US/Rhode Island	114275695
-HK/Tsuen Wan	2387368542
-PL/Pomerania	2665166322
-US/Illinois	177854220
-ES/Catalonia	83465452
-GB/Wales	1541642104
-NZ/Waikato Region	9891708
-GCP/us-central1	17110352
-US/Georgia	21381136
-US/Indiana	442292009
-US/Vermont	5787148
-GCP/us-east4	1877404786
-RO/București	18931812
-JP/Osaka	16180476
-US/Alabama	53126988
-FR/Provence-Alpes-Côte d'Azur	49998
-GCP/asia-east1	561215033
-US/Colorado	1408065655
-HK/Kwai Tsing District	20110956
-IN/Tamil Nadu	23451864
+region	bytes_sent	number_of_requests	number_of_downloads
+unknown	4326576337255	174251	3942
+SG/Singapore	66949176	10	10
+US/Illinois	112231061	172	15
+AWS/us-east-1	5044116	1	1
+US/District of Columbia	5332769641	342	0
+US/California	22184549563	107	17
+US/Missouri	55973721985	18	18
+GitHub	2547099	13	1
+VPN	25679136	4	4
+CN/Shanxi	5511690746	659	0
+MX/Mexico City	11267377	2	1
+US/Florida	1382545855	1	1
+CA/Ontario	369739496	1	1
+US/Oregon	29882815	6	0
+ES/Catalonia	103465196	7	0
+US/Virginia	14300538	556	2
+AWS/ap-southeast-1	7860960	1	1
+US/New York	132205266	4	2
+CN/Beijing	7860960	1	1
+US/New Jersey	1804800	18	0

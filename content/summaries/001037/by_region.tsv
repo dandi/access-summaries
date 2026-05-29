@@ -1,11 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	6290004692	10878	802
-GCP/us-central1	178888904	80	3
-SG/Singapore	1200768	155	0
-US/Nevada	25499888	19	4
-US/California	12093964	9	5
-FR/Occitanie	4589844	2	2
-TW/Taiwan	8102496	12	2
-IL/Haifa	5666196	12	3
-CN/Shanghai	4589844	2	2
-US/South Carolina	2504676	1	0
+missing	6286886256	10740	800
+GCP/us-central1	178888904	80	<50
+SG/Singapore	1200768	160	<50
+US/Nevada	25499888	<50	<50
+US/California	12093964	<50	<50
+VPN	3118436	140	<50
+FR/Occitanie	4589844	<50	<50
+TW/Taiwan	8102496	<50	<50
+IL/Haifa	5666196	<50	<50
+CN/Shanghai	4589844	<50	<50
+US/South Carolina	2504676	<50	<50

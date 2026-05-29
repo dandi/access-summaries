@@ -970,6 +970,9 @@ CZ/Olomouc Region:
 "CZ/Olomouck\xFD":
   latitude: 49.8591058
   longitude: 16.9561267
+CZ/Pardubice Region:
+  latitude: 49.889819
+  longitude: 16.1283254
 "CZ/Pardubick\xFD":
   latitude: 49.889819
   longitude: 16.1283254
@@ -985,6 +988,9 @@ CZ/South Bohemian Region:
 CZ/South Moravian:
   latitude: 49.1761838
   longitude: 16.3881643
+CZ/Vysocina:
+  latitude: 49.3994098
+  longitude: 15.5704683
 "CZ/Vyso\u010Dina":
   latitude: 49.3994098
   longitude: 15.5704683
@@ -1096,6 +1102,9 @@ DO/Puerto Plata:
 "DO/San Crist\xF3bal":
   latitude: 18.4174531
   longitude: -70.1103346
+"DO/San Pedro de Macor\xEDs":
+  latitude: 18.6078948
+  longitude: -69.4885492
 DO/Santo Domingo Province:
   latitude: 9.9745486
   longitude: -84.0967784
@@ -2230,6 +2239,9 @@ JP/Kagawa:
 JP/Kanagawa:
   latitude: 35.4342935
   longitude: 139.374753
+JP/Kumamoto:
+  latitude: 32.6450475
+  longitude: 130.6341345
 JP/Kyoto:
   latitude: 35.0115754
   longitude: 135.7681441
@@ -2551,6 +2563,9 @@ LK/Central Province:
 LK/Eastern Province:
   latitude: 7.7596435
   longitude: 81.5850205
+LK/Northern Province:
+  latitude: 9.28
+  longitude: 80.2827753
 LK/Western Province:
   latitude: 6.8275297
   longitude: 79.931296
@@ -2710,6 +2725,9 @@ MD/Soroca District:
 MD/Transnistria:
   latitude: 47.7598678
   longitude: 29.1176055
+ME/Herceg Novi:
+  latitude: 42.4517622
+  longitude: 18.5367516
 ME/Podgorica:
   latitude: 42.4415238
   longitude: 19.2621081
@@ -4837,6 +4855,9 @@ ZW/Harare:
 ZW/Masvingo Province:
   latitude: -20.7453957
   longitude: 31.334138
+bogon:
+  latitude: null
+  longitude: null
 missing:
   latitude: null
   longitude: null

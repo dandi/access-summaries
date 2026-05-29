@@ -1,14 +1,21 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	286098955328	1010605	17514
+missing	281819209420	1008320	17444
+AWS/us-east-1	3889737052	863	10
 US/Virginia	7453966595	14136	549
+EC/Tungurahua Province	3799236	1	1
 TN/Tunis Governorate	18980104	2	2
 SG/Singapore	268274020	26	26
-US/Illinois	348350196	161	39
+GitHub	138920284	3899	35
+US/Illinois	356977516	162	40
+AR/Chubut	8399896	1	1
+VPN	91885664	7	7
 US/Iowa	2103992	4	4
 US/Texas	2610360	2466	4
-AWS/ap-southeast-1	49006220	6	6
-VN/Ho Chi Minh City (HCMC)	40946588	4	4
+AWS/ap-southeast-1	89721840	11	11
+VN/Ho Chi Minh City (HCMC)	64970356	7	7
 US/California	137147648	6419	23
+NZ/Auckland	8361864	1	1
+MX/Mexico City	9954600	1	1
 AR/Rio Negro	9490052	1	1
 GCP/us-east1	9313212	2	2
 VN/Hanoi	6702764	1	1
@@ -16,6 +23,7 @@ ZA/Mpumalanga	10352784	1	1
 BD/Dhaka Division	19754760	2	2
 AR/Buenos Aires F.D.	22762852	2	2
 EC/Pichincha	7300040	1	1
+IQ/Duhok	9040792	1	1
 US/Wyoming	30999948	34	6
 BR/Rio de Janeiro	20373748	2	2
 CL/Santiago Metropolitan	25748404	2	2
@@ -24,26 +32,33 @@ CN/Shanxi	370958436	55	4
 US/South Carolina	12287256	1	1
 CN/Guangdong	4657276	6	1
 CN/Beijing	47687628	12	7
+DO/Santo Domingo Province	9423688	1	1
 NL/Flevoland	21811768	1	1
 UZ/Tashkent	7764588	1	1
+US/West Virginia	3511488	1	1
 IQ/Nineveh	15102624	2	2
 BR/Paraná	7192120	1	1
 MX/Coahuila	8295500	1	1
-GitHub	29649296	2505	3
 AM/Yerevan	10043576	1	1
 AR/Entre Rios	7963680	1	1
-AWS/us-east-1	60527860	8	8
+BR/São Paulo	34535140	4	4
 GB/Wales	10419148	1	1
+RU/Moscow	11480972	1	1
 ZA/Western Cape	3005128	1	1
+KE/Nairobi County	14135532	2	2
+BD/Rajshahi Division	17851916	2	2
 XK/Pristina	11325896	1	1
 PY/Asuncion	41299592	3	3
 IL/Northern District	11513360	1	1
 BR/Rio Grande do Sul	13802884	1	1
+CO/Bogota D.C.	9556416	1	1
 US/New Jersey	3471784	1	1
+PY/Alto Paraná Department	10020964	1	1
 VE/Distrito Federal	9989544	1	1
 CI/Abidjan Autonomous District	15529176	1	1
 KZ/North Kazakhstan	10020964	1	1
-AR/Buenos Aires	20458640	2	2
+TN/Bizerte Governorate	11219976	1	1
+AR/Buenos Aires	27365016	3	3
 BR/Minas Gerais	5723208	1	1
 PK/Punjab	11515228	3	3
 UY/Montevideo Department	7233676	1	1
@@ -51,12 +66,12 @@ VE/Falcón	15130992	1	1
 CO/Atlántico	7565496	1	1
 NP/Bagmati Province	18714648	2	2
 EC/Loja	12287256	1	1
+BR/Alagoas	8919552	1	1
 ZA/Gauteng	11149152	1	1
 AR/Corrientes	9263056	1	1
-BD/Rajshahi Division	9954600	1	1
-BR/São Paulo	612600	1	1
 GB/Northern Ireland	20241020	1	1
-US/Florida	21653248	2	2
+US/Florida	30916304	3	3
+KZ/Aktobe	10220056	1	1
 VN/Thừa Thiên Huế Province	1310148	1	1
 MY/Selangor	9423708	1	1
 IL/Tel Aviv	3471784	1	1
@@ -69,5 +84,4 @@ NI/Managua Department	6947096	1	1
 AL/Tirana	13971532	1	1
 BD/Sylhet Division	11879156	1	1
 MA/Tanger-Tetouan-Al Hoceima	4281400	1	1
-KE/Nairobi County	10020964	1	1
 LB/Mount Lebanon	10419148	1	1

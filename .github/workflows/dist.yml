@@ -1,0 +1,28 @@
+name: Publish dist archive
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create GZIP archive of content
+        run: tar -czf content.tar.gz content/
+
+      - name: Push archive to dist branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan dist
+          git rm -rf --cached .
+          git add content.tar.gz
+          git commit -m "update dist archive [skip ci]"
+          git push origin dist --force

@@ -46,6 +46,9 @@ AL/Fier County:
 "AL/Kuk\xEBs County":
   latitude: 42.1885664
   longitude: 20.3769633
+"AL/Lezh\xEB County":
+  latitude: 41.7932241
+  longitude: 19.8891143
 "AL/Shkod\xEBr County":
   latitude: 42.2507677
   longitude: 19.5959723
@@ -769,6 +772,9 @@ CM/Centre:
 CM/Littoral:
   latitude: 4.203033
   longitude: 10.0563057
+CM/South-West:
+  latitude: 5.3356587
+  longitude: 100.2389496
 CN/Anhui:
   latitude: 32.0
   longitude: 117.0
@@ -1135,6 +1141,9 @@ DZ/Constantine:
 DZ/El Oued:
   latitude: 33.215441
   longitude: 7.1553214
+DZ/Ghardaia:
+  latitude: 32.440827
+  longitude: 3.5618209
 DZ/Jijel:
   latitude: 36.7292188
   longitude: 5.9607776
@@ -1201,6 +1210,9 @@ EC/Loja:
 "EC/Manab\xED":
   latitude: -0.7588025
   longitude: -80.0612131
+EC/Napo:
+  latitude: -0.6081965
+  longitude: -77.9520341
 EC/Pichincha:
   latitude: -0.0584893
   longitude: -78.3284371
@@ -1351,6 +1363,9 @@ ET/Oromiya:
 ET/Sidama Region:
   latitude: 6.6507504
   longitude: 38.4796794
+ET/Somali:
+  latitude: 7.2629844
+  longitude: 43.5360531
 ET/South Ethiopia Regional State:
   latitude: 6.8529485
   longitude: 37.7545421
@@ -1681,6 +1696,9 @@ HK/Yuen Long:
 HN/Bay Islands:
   latitude: 16.3217674
   longitude: -86.1786833
+"HN/Col\xF3n Department":
+  latitude: 13.4112824
+  longitude: -86.3432452
 "HN/Cop\xE1n Department":
   latitude: -15.7960195
   longitude: -72.8574863
@@ -2194,6 +2212,9 @@ JO/Balqa:
 JO/Irbid:
   latitude: 32.5556091
   longitude: 35.8493023
+JO/Mafraq:
+  latitude: 32.1934466
+  longitude: 37.4472962
 "JO/Ma\u2019an":
   latitude: 30.2
   longitude: 35.7333329
@@ -2233,6 +2254,9 @@ JP/Ibaraki:
 JP/Ishikawa:
   latitude: 36.9890574
   longitude: 136.8162839
+JP/Iwate:
+  latitude: 39.5713763
+  longitude: 141.4253574
 JP/Kagawa:
   latitude: 34.2480104
   longitude: 134.0586579
@@ -2293,6 +2317,9 @@ KE/Baringo:
 KE/Bungoma County:
   latitude: 0.7829245
   longitude: 34.7191681
+KE/Embu County:
+  latitude: -0.5335779
+  longitude: 37.4502128
 KE/Garissa County:
   latitude: -0.5236333
   longitude: 40.3564053
@@ -2311,6 +2338,12 @@ KE/Kiambu County:
 KE/Kilifi County:
   latitude: -3.1507392
   longitude: 39.6750716
+KE/Kirinyaga County:
+  latitude: -0.468878
+  longitude: 37.3027681
+KE/Kisii County:
+  latitude: -0.7389425
+  longitude: 34.7539855
 KE/Kisumu County:
   latitude: -0.197126
   longitude: 34.7778573
@@ -2413,6 +2446,9 @@ KR/Incheon:
 KR/Jeollabuk-do:
   latitude: 35.8198999
   longitude: 127.109
+KR/North Chungcheong:
+  latitude: 36.8527154
+  longitude: 127.7153257
 KR/Seoul:
   latitude: 37.5666791
   longitude: 126.9782914
@@ -2542,6 +2578,9 @@ LB/Mont-Liban:
 LB/Mount Lebanon:
   latitude: 34.29
   longitude: 36.092
+LB/Nabatieh:
+  latitude: 33.3079104
+  longitude: 35.5059689
 "LB/Nabat\xEEy\xE9":
   latitude: 33.3812029
   longitude: 35.4825346
@@ -2599,6 +2638,9 @@ LV/Riga:
 "LV/\u0136ekava":
   latitude: 56.8261827
   longitude: 24.233653
+LY/Al Butnan:
+  latitude: 30.1782873
+  longitude: 24.0530924
 "LY/Al Bu\u0163n\u0101n":
   latitude: 30.1782873
   longitude: 24.0530924
@@ -2629,6 +2671,9 @@ LY/Darnah:
 LY/Jabal al Gharbi:
   latitude: 30.704649
   longitude: 13.2233859
+LY/Misratah:
+  latitude: 32.3745923
+  longitude: 15.0905803
 "LY/Mi\u015Fr\u0101tah":
   latitude: 32.3745923
   longitude: 15.0905803
@@ -2653,6 +2698,9 @@ MA/Fes-Meknes:
 "MA/F\xE8s-Mekn\xE8s":
   latitude: 33.8333136
   longitude: -4.8556382
+MA/Guelmim-Oued Noun:
+  latitude: 28.5273703
+  longitude: -10.0315515
 MA/Marrakesh-Safi:
   latitude: 31.6048574
   longitude: -8.3654032
@@ -3166,6 +3214,9 @@ PE/Ancash:
 PE/Arequipa:
   latitude: -16.3988667
   longitude: -71.5369607
+PE/Ayacucho:
+  latitude: -14.0
+  longitude: -74.0
 PE/Cajamarca Department:
   latitude: -7.186151
   longitude: -78.3641336
@@ -3283,6 +3334,9 @@ PK/Azad Kashmir:
 PK/Balochistan:
   latitude: 28.0
   longitude: 66.0
+PK/Gilgit-Baltistan:
+  latitude: 35.9999972
+  longitude: 75.0000023
 PK/Islamabad:
   latitude: 33.6938118
   longitude: 73.0651511
@@ -3343,6 +3397,9 @@ PL/West Pomerania:
 PR/Aguadilla:
   latitude: 18.4496551
   longitude: -67.1184764
+PR/Arecibo:
+  latitude: 18.4047499
+  longitude: -66.6810353
 "PR/Bayam\xF3n":
   latitude: 18.3449582
   longitude: -66.168374
@@ -3391,6 +3448,9 @@ PT/Beja:
 PT/Braga:
   latitude: 41.5510583
   longitude: -8.4280045
+PT/Castelo Branco:
+  latitude: 39.9767583
+  longitude: -7.4460599
 PT/Coimbra:
   latitude: 40.2111931
   longitude: -8.4294632
@@ -3469,6 +3529,9 @@ PY/San Pedro Department:
 QA/Baladiyat ad Dawhah:
   latitude: 25.3
   longitude: 51.5
+QA/Baladiyat ar Rayyan:
+  latitude: 25.0819602
+  longitude: 51.158416
 "QA/Balad\u012Byat ad Daw\u1E29ah":
   latitude: 25.3
   longitude: 51.5
@@ -3634,6 +3697,9 @@ RU/Kaliningrad Oblast:
 RU/Kaluga Oblast:
   latitude: 54.4382773
   longitude: 35.5272854
+RU/Karachayevo-Cherkesiya Republic:
+  latitude: 37.12005
+  longitude: -93.48019
 RU/Karelia:
   latitude: 62.6194031
   longitude: 33.4920267
@@ -3835,6 +3901,9 @@ SE/Norrbotten:
 SE/Stockholm:
   latitude: 59.3251172
   longitude: 18.0710935
+"SE/S\xF6dermanland":
+  latitude: 58.9649445
+  longitude: 16.7293984
 SE/Uppsala:
   latitude: 59.8586126
   longitude: 17.6387436
@@ -3997,6 +4066,9 @@ TG/Maritime:
 TH/Bangkok:
   latitude: 13.7524938
   longitude: 100.4935089
+TH/Buriram:
+  latitude: 14.6107101
+  longitude: 102.6453162
 TH/Chachoengsao:
   latitude: 13.6093192
   longitude: 101.5467201
@@ -4030,6 +4102,9 @@ TH/Nakhon Pathom:
 TH/Nakhon Ratchasima:
   latitude: 14.9749389
   longitude: 102.0981358
+TH/Nakhon Sawan:
+  latitude: 15.7054772
+  longitude: 99.9288481
 TH/Nakhon Si Thammarat:
   latitude: 8.6772337
   longitude: 99.7309635
@@ -4159,6 +4234,9 @@ TR/Canakkale:
 TR/Denizli:
   latitude: 37.8275892
   longitude: 29.2389539
+"TR/D\xFCzce":
+  latitude: 40.8774545
+  longitude: 31.2009618
 TR/Edirne:
   latitude: 41.6759327
   longitude: 26.5587225
@@ -4579,6 +4657,9 @@ US/Wyoming:
 UY/Canelones:
   latitude: -34.6222482
   longitude: -55.9903797
+UY/Cerro Largo:
+  latitude: -32.333333
+  longitude: -54.333333
 UY/Colonia:
   latitude: -34.4698592
   longitude: -57.8433679

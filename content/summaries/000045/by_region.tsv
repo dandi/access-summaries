@@ -1,44 +1,54 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	2338462074031	11538960	174620
-AWS/ap-southeast-1	42792135876	5160	5160
-US/California	41902607808	10680	1940
-VPN	25136809529	2780	2760
-GitHub	11421614455	19880	1880
+missing	2314419347203	11529400	171680
+VPN	37209771278	4260	4220
+AWS/ap-southeast-1	44608797667	5400	5400
+US/California	41910169272	10680	1960
+GCP/us-east1	3167234172	260	260
+GitHub	14341798552	27000	2380
 SG/Singapore	15186971396	1640	1640
-CN/Beijing	1556039042	160	160
-US/Virginia	10369174611	13680	1860
+AWS/us-east-1	6898517108	1020	1020
+CN/Beijing	1577299322	160	160
+US/Virginia	10809124765	13720	1900
 US/Washington	2458321618	1680	260
 US/South Carolina	1146540783	80	80
+CN/Shanghai	366046517	60	<50
 UA/Kyiv	401471998	80	80
-GCP/us-east1	92162076	<50	<50
-US/Illinois	4103948841	1600	480
-AWS/us-east-1	4568966410	680	680
+US/Illinois	5786522423	1780	640
 CL/Santiago Metropolitan	18014340	<50	<50
-IE/Leinster	166154907	<50	<50
-AU/Western Australia	8162772	<50	<50
-CA/Quebec	1508097844	320	320
-FR/Grand Est	1107566982	220	220
+IE/Leinster	189554043	<50	<50
+AU/Western Australia	12277340	<50	<50
+CA/Quebec	1534801293	320	320
+IT/Lazio	5840032	<50	<50
+BR/Rio Grande do Sul	25848823	<50	<50
 US/Wyoming	273431984	540	40
 HK/Hong Kong	390326808	<50	<50
-CA/Ontario	83083393	<50	<50
+CA/Ontario	112511173	<50	<50
+US/Ohio	21316008	<50	<50
+FR/Grand Est	196454762	<50	<50
 NZ/Canterbury	45434880	<50	<50
+AWS/us-east-2	114119568	<50	<50
 MX/Mexico City	182214378	<50	<50
 NZ/Wellington Region	31480979	<50	<50
-NZ/Auckland	105525188	<50	<50
-CN/Shanghai	291024221	60	<50
-GB/England	140016374	<50	<50
+NZ/Auckland	133178670	<50	<50
+GB/England	185926550	<50	<50
 US/Iowa	8416840	<50	<50
-US/Texas	69937832	1000	<50
-AU/Queensland	7553388	<50	<50
+US/Texas	77888596	1000	<50
+MX/Querétaro	1	<50	<50
+IN/Rajasthan	2	<50	<50
+BR/São Paulo	37362934	<50	<50
+AU/Queensland	11667956	<50	<50
 AU/New South Wales	71267361	<50	<50
 DZ/Algiers	8852602	<50	<50
 US/Rhode Island	8715281	<50	<50
-IN/Kerala	8076758	<50	<50
+BD/Chittagong	5906396	<50	<50
+IN/Kerala	13982246	<50	<50
+JP/Tokyo	8520896	<50	<50
 US/Arizona	692216	980	<50
-AWS/us-east-2	4089424	<50	<50
+US/New York	41326472	<50	<50
 CN/Shanxi	4357482280	700	120
 HU/Budapest	7614004	<50	<50
-IE/Munster	32645080	<50	<50
+IE/Munster	38883296	<50	<50
+US/Alabama	15197356	<50	<50
 US/Oklahoma	9062376	<50	<50
 US/New Jersey	18117372	<50	<50
 PH/National Capital Region	10796879	<50	<50
@@ -47,54 +57,56 @@ AL/Vlorë County	1	<50	<50
 US/Kentucky	12657139	<50	<50
 BR/Minas Gerais	13036636	<50	<50
 AU/Victoria	21072892	<50	<50
-BR/Rio Grande do Sul	7969162	<50	<50
 BR/Santa Catarina	4190288	<50	<50
-BR/São Paulo	21369210	<50	<50
+MY/Kuala Lumpur	11945520	<50	<50
 IT/Sicily	10959896	<50	<50
 US/Massachusetts	10959896	<50	<50
 BR/Ceará	8959140	<50	<50
 SA/Eastern Province	7480191	<50	<50
-US/New York	17804362	<50	<50
+VN/Dak Lak	9556416	<50	<50
+NZ/Bay of Plenty	21092836	<50	<50
 US/Oregon	165143352	<50	<50
+VN/Hai Phong	7034584	<50	<50
 VN/Da Nang City	6984864	<50	<50
 BR/Alagoas	11606435	<50	<50
-US/Florida	21614912	<50	<50
+US/Florida	27177765	<50	<50
 ID/East Java	12043724	<50	<50
+IN/Delhi	18634037	<50	<50
 US/North Carolina	23156060	<50	<50
 XK/Pristina	10535188	<50	<50
 IN/Odisha	6769128	<50	<50
-IN/Delhi	17439485	<50	<50
+GB/Scotland	5707304	<50	<50
 BR/Mato Grosso	2853652	<50	<50
 BR/Maranhão	4463072	<50	<50
 CN/Liaoning	10020964	<50	<50
 BR/Pernambuco	10971660	<50	<50
-MY/Kuala Lumpur	7764588	<50	<50
-IN/Rajasthan	1	<50	<50
+RU/Moscow	10087328	<50	<50
 US/Maryland	9290960	<50	<50
 ID/West Kalimantan	3978296	<50	<50
 ET/Addis Ababa	10817332	<50	<50
+ID/Jakarta	4114569	<50	<50
 ZA/Limpopo	4048204	<50	<50
+TW/Taiwan	2680648	<50	<50
 PT/Lisbon	51081260	<50	<50
 MX/Jalisco	16922820	<50	<50
+BR/Mato Grosso do Sul	1	<50	<50
 IN/Telangana	8377501	<50	<50
-US/Ohio	2667724	<50	<50
-ID/Jakarta	4114568	<50	<50
-NZ/Hawke's Bay Region	9888236	<50	<50
+AR/Buenos Aires	25194457	<50	<50
+NZ/Hawke's Bay Region	15728268	<50	<50
 US/Georgia	7889572	<50	<50
 UA/Odesa	6304580	<50	<50
 PY/Paraguarí	9888236	<50	<50
-AR/Buenos Aires	5133336	<50	<50
 CA/Alberta	15661904	<50	<50
-AU/South Australia	6727952	<50	<50
+AU/South Australia	17051477	<50	<50
 US/South Dakota	4114568	<50	<50
 GB/Wales	10087328	<50	<50
-JP/Tokyo	2594848	<50	<50
 CA/Manitoba	4453560	<50	<50
 EC/Tungurahua Province	1	<50	<50
 UA/Kharkivs’ka Oblast’	5098652	<50	<50
 MX/Baja California	9152464	<50	<50
 BR/Federal District	9821872	<50	<50
 US/Mississippi	5640940	<50	<50
+RU/Moscow Oblast	9357324	<50	<50
 CN/Hebei	1	<50	<50
 CN/Heilongjiang	862732	<50	<50
 FR/Hauts-de-France	6613021	<50	<50

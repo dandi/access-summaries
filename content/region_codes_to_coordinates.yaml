@@ -235,6 +235,9 @@ AWS/ap-southeast-2:
 AWS/ap-southeast-3:
   latitude: '-6.2146'
   longitude: '106.8451'
+AWS/ap-southeast-5:
+  latitude: '3.1412'
+  longitude: '101.6865'
 AWS/ca-central-1:
   latitude: '45.5088'
   longitude: '-73.5878'
@@ -397,6 +400,9 @@ BG/Pleven:
 BG/Plovdiv:
   latitude: 42.1418541
   longitude: 24.7499297
+BG/Ruse:
+  latitude: 43.8480413
+  longitude: 25.9542057
 BG/Silistra:
   latitude: 43.9057061
   longitude: 27.0705496
@@ -1138,6 +1144,9 @@ DZ/Blida:
 DZ/Constantine:
   latitude: 36.3641642
   longitude: 6.6084281
+DZ/Djelfa:
+  latitude: 34.671359
+  longitude: 3.254037
 DZ/El Oued:
   latitude: 33.215441
   longitude: 7.1553214
@@ -2605,6 +2614,9 @@ LK/Eastern Province:
 LK/Northern Province:
   latitude: 9.28
   longitude: 80.2827753
+LK/Southern Province:
+  latitude: 6.149
+  longitude: 80.7318178
 LK/Western Province:
   latitude: 6.8275297
   longitude: 79.931296
@@ -2656,6 +2668,9 @@ LY/Al Marj:
 "LY/Al W\u0101\u1E29\u0101t":
   latitude: 29.1573123
   longitude: 21.7496392
+LY/Az Zawiyah:
+  latitude: 32.3787032
+  longitude: 12.5214934
 "LY/Az Z\u0101wiyah":
   latitude: 32.7596665
   longitude: 12.7355967
@@ -3043,6 +3058,9 @@ NG/FCT:
 NG/Lagos:
   latitude: 6.4550575
   longitude: 3.3941795
+NG/Ogun State:
+  latitude: 6.9788582
+  longitude: 3.4389293
 NG/Oyo State:
   latitude: 8.2151249
   longitude: 3.5642897
@@ -3154,6 +3172,9 @@ NZ/Bay of Plenty:
 NZ/Canterbury:
   latitude: -43.4941761
   longitude: 171.8098448
+NZ/Gisborne:
+  latitude: -38.661326
+  longitude: 178.0206487
 NZ/Hawke's Bay Region:
   latitude: 3.0
   longitude: 43.5
@@ -3526,6 +3547,9 @@ PY/Cordillera Department:
 PY/San Pedro Department:
   latitude: -26.66667
   longitude: -54.0
+QA/Al Khor:
+  latitude: 25.7567822
+  longitude: 51.3269839
 QA/Baladiyat ad Dawhah:
   latitude: 25.3
   longitude: 51.5
@@ -3871,6 +3895,9 @@ SA/Eastern Province:
 SA/Ha'il Region:
   latitude: 48.1352526
   longitude: -1.6615717
+SA/Jazan Region:
+  latitude: 17.4569109
+  longitude: 43.0607228
 SA/Mecca Region:
   latitude: 21.6698063
   longitude: 41.4996029
@@ -3985,6 +4012,9 @@ SN/Dakar:
 SN/Diourbel Region:
   latitude: 14.784454
   longitude: -16.0316451
+SN/Kaolack:
+  latitude: 14.138815
+  longitude: -16.076391
 SN/Louga:
   latitude: 15.3966885
   longitude: -15.6779283
@@ -4045,6 +4075,9 @@ SY/Idlib:
 SY/Latakia:
   latitude: 35.5200185
   longitude: 35.7781044
+SY/Raqqa:
+  latitude: 35.949678
+  longitude: 39.0089212
 SY/Rif-dimashq:
   latitude: 33.5194958
   longitude: 37.0760724
@@ -4072,6 +4105,9 @@ TH/Buriram:
 TH/Chachoengsao:
   latitude: 13.6093192
   longitude: 101.5467201
+TH/Chai Nat:
+  latitude: 15.1453182
+  longitude: 99.9010244
 TH/Chiang Mai:
   latitude: 18.7882778
   longitude: 98.9858802

@@ -1,802 +1,925 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	208049266581700	77372860	54206760
-US/California	4980634672930	695160	17360
-US/Massachusetts	45604897106905	22498340	22491760
-AWS/ap-southeast-1	168812037554	41240	41240
-US/Washington	10928223535802	5232340	5232340
+CN/Shanxi	544029466451	66260	920
+US/California	4982113468968	696120	18320
+missing	181192497117229	70723840	50809680
+US/Massachusetts	60842776081869	25653620	22522760
+AWS/ap-southeast-1	169974240090	41580	41580
+VPN	1375106902209	418300	418180
+US/Washington	14271346242001	6674000	6674000
 GCP/us-central1	227660344236	39760	39760
-CN/Beijing	4135554999739	15820	15360
-AWS/us-east-1	2082338109258	272240	26180
-US/South Carolina	137145689190	88080	88080
-VPN	270479263621	163300	163300
-US/Virginia	573405869506	368420	362960
-US/Illinois	1857177381965	1225020	1225020
-US/New York	3348338377	2940	2900
-BR/São Paulo	3699622833	640	640
-US/Tennessee	27678769	<50	<50
-TR/Sakarya	27953655	<50	<50
-bogon	97760131236	69040	69040
-GCP/us-east1	1959701016	880	880
-SG/Singapore	44516423216	26940	26940
-UY/Montevideo Department	22950755	<50	<50
-US/Texas	11905795020	6880	6820
+NL/Flevoland	3356263491207	9620	9620
+CN/Beijing	4135561601649	15820	15360
+US/South Carolina	160724912308	93440	93440
+AWS/us-east-1	3526364052406	679600	306860
+BR/São Paulo	85328363515	1100	1100
+US/Virginia	769262110296	529660	529620
+US/Illinois	3561915537777	2348760	2348760
+US/New York	16935290777	6700	6640
+BR/Rio Grande do Sul	395396238	260	260
+US/Tennessee	34582925	<50	<50
+TR/Sakarya	29503704	<50	<50
+bogon	148060078832	104680	104680
+GCP/us-east1	2154568430	980	980
+SG/Singapore	45913115612	27180	27180
+HK/Sham Shui Po District	1114609	<50	<50
+UY/Montevideo Department	58360505	<50	<50
+US/Texas	24749882717	11980	11700
 US/New Hampshire	2585013623	<50	<50
-HK/Hong Kong	5670293297	360	360
+HK/Hong Kong	10939855207	460	460
+US/Georgia	2433758215	1620	1620
 UA/Chernivtsi	3021519	<50	<50
-BR/Santa Catarina	173504246	80	80
-ES/Catalonia	331816706	<50	<50
-MX/Mexico City	533727454	260	260
-US/Georgia	1446105714	960	960
-CN/Jiangsu	26159062	<50	<50
-BE/Brussels Capital	3000029	<50	<50
+BR/Santa Catarina	253870783	140	140
+BR/Maranhão	46429107	<50	<50
+ES/Catalonia	343228792	<50	<50
+MX/Mexico City	565459821	280	280
+CN/Shanghai	34117314473	<50	<50
+GitHub	45391026548	28320	28320
+CN/Jiangsu	32945328	<50	<50
+BR/Ceará	76659752	60	60
+BE/Brussels Capital	6957394	<50	<50
 EC/Bolívar	1406784	<50	<50
-BR/Federal District	68103160	<50	<50
-DE/Hesse	2289437	<50	<50
-AR/Buenos Aires F.D.	69387805	60	60
-MX/Nuevo León	8123088	<50	<50
-US/Alabama	20946208	<50	<50
-VN/Ho Chi Minh City (HCMC)	230174788	160	160
-TR/Ankara	19437258	<50	<50
-BR/Rio de Janeiro	317729963	200	200
-BR/Maranhão	29162439	<50	<50
-ZA/KwaZulu-Natal	4458788	<50	<50
-RS/Central Serbia	6534475	<50	<50
-IN/Maharashtra	196287139	120	120
-MY/Kuala Lumpur	46142381	<50	<50
-IN/Madhya Pradesh	39896692	<50	<50
-VN/Hanoi	137218392	100	100
-BR/Rio Grande do Sul	244399802	160	160
-PH/National Capital Region	69453649	<50	<50
-MX/Jalisco	25646657	<50	<50
-BR/Minas Gerais	374065844	240	240
-ID/Bali	5129502	<50	<50
+BR/Federal District	97073218	60	60
+IN/Haryana	60904059	<50	<50
+DE/Hesse	8784432	<50	<50
+AR/Buenos Aires F.D.	106714290	80	80
+MX/Nuevo León	18251514	<50	<50
+ID/Yogyakarta	12845563	<50	<50
+US/Alabama	41726396	<50	<50
+VN/Ho Chi Minh City (HCMC)	337114418	240	240
+MY/Selangor	94840256	60	60
+TR/Ankara	27938739	<50	<50
+MY/Kuala Lumpur	70754859	40	40
+BR/Rio de Janeiro	504842250	320	320
+ZA/KwaZulu-Natal	9654108	<50	<50
+RS/Central Serbia	12400992	<50	<50
+IN/Maharashtra	280507268	180	180
+US/Maryland	4844758700	2020	2000
+AWS/cn-north-1	54930266	<50	<50
+BR/Minas Gerais	627161767	400	400
+IN/Madhya Pradesh	74458382	<50	<50
+VN/Hanoi	202141643	160	160
+CN/Shandong	6380410	<50	<50
+PH/Central Luzon	18601283	<50	<50
+PH/National Capital Region	117278759	80	80
+MX/Jalisco	32976099	<50	<50
+FR/Île-de-France	1158226399	640	640
+ID/Bali	10996449	<50	<50
 ID/Banten	6576056	<50	<50
-UA/Kyiv City	9336256	<50	<50
-BR/Espírito Santo	33059100	<50	<50
-IN/Karnataka	74659472	<50	<50
+UA/Kyiv City	22184175	<50	<50
+IN/Delhi	224572816	160	160
+VN/Hai Phong	89037412	60	60
+BR/Espírito Santo	64193206	<50	<50
+BR/Tocantins	19522204	<50	<50
+IN/Karnataka	101063339	60	60
 PE/Ancash	3006170	<50	<50
-IN/Uttar Pradesh	96927665	60	60
-IN/Odisha	15251456	<50	<50
-AR/Buenos Aires	159626245	120	120
-EC/Pichincha	62903487	<50	<50
-PH/Calabarzon	26097545	<50	<50
-TT/Chaguanas	5228241	<50	<50
-BR/Ceará	50335045	<50	<50
-BR/Goiás	95379375	60	60
-IN/Punjab	63996650	<50	<50
-BR/Paraná	152919289	100	100
+IN/Uttar Pradesh	158070472	100	100
+IN/Odisha	24557808	<50	<50
+AR/Buenos Aires	271622869	180	180
+EC/Pichincha	88691642	60	60
+PH/Calabarzon	42330898	<50	<50
+TT/Chaguanas	6601650	<50	<50
+BR/Goiás	140300533	100	100
+IN/Punjab	98080656	60	60
+BR/Paraná	244291898	160	160
 CN/Tianjin	2714252796	140	60
-GitHub	35102917360	21420	21420
-IE/Leinster	19751798	<50	<50
+CH/Bern	131833178574	14520	14520
+IE/Leinster	23944127	<50	<50
 AM/Yerevan	3567060	<50	<50
-US/New Jersey	15388406	<50	<50
-MY/Penang	4622188	<50	<50
-UA/Zaporizhzhia	1311367	<50	<50
-PE/Lima region	18125055	<50	<50
-NP/Bagmati Province	30955760	<50	<50
-IN/Telangana	18575208	<50	<50
-US/Pennsylvania	5141849290	200	200
-BR/Amazonas	5277978	<50	<50
-IN/Jammu and Kashmir	13888166	<50	<50
-US/Iowa	2012931059	1260	1260
-IN/Assam	11449011	<50	<50
+US/New Jersey	29085337	<50	<50
+MY/Penang	8243460	<50	<50
+UA/Zaporizhzhia	2580402	<50	<50
+PE/Lima region	25024827	<50	<50
+NP/Bagmati Province	46036752	<50	<50
+IN/Telangana	43031282	<50	<50
+US/Pennsylvania	10115320014	220	220
+BR/Amazonas	14026630	<50	<50
+IN/Jammu and Kashmir	13609531	<50	<50
+US/Iowa	2018931579	1260	1260
+IN/Assam	18529752	<50	<50
 PK/Khyber Pakhtunkhwa	1358119	<50	<50
-AE/Abu Dhabi	5351439	<50	<50
-SE/Stockholm	7915909	<50	<50
-MY/Selangor	58430121	<50	<50
-US/Florida	95346605	60	60
-US/Wisconsin	8411780	<50	<50
-VE/Distrito Federal	19340197	<50	<50
-US/Kentucky	10544769	<50	<50
-ID/Jakarta	59666904	<50	<50
-ID/West Java	51888932	<50	<50
-IN/Gujarat	94548691	60	60
+AE/Abu Dhabi	15564419	<50	<50
+SE/Stockholm	9332486	<50	<50
+RU/Moscow Oblast	18854418	<50	<50
+US/Florida	159895307	100	100
+US/Wisconsin	19813414	<50	<50
+VE/Distrito Federal	29825908	<50	<50
+US/Kentucky	17998496	<50	<50
+ID/Jakarta	88594542	60	60
+CZ/Prague	10858824	<50	<50
+ID/West Java	80349416	60	60
+IN/Gujarat	128396355	80	80
+PY/Asuncion	28074460	<50	<50
 NO/Trøndelag	2310832	<50	<50
-PK/Punjab	31567968	<50	<50
-US/Arizona	19653499426	11600	11600
-IN/Delhi	134627397	100	100
+PK/Punjab	56831744	<50	<50
+US/Arizona	19667513120	11620	11620
+US/Missouri	34426267	<50	<50
 GB/Wales	28215206409	<50	<50
-AE/Sharjah	8781473	<50	<50
+AE/Sharjah	16904157	<50	<50
 DZ/Annaba	1148727	<50	<50
-TR/Istanbul	55107414	<50	<50
+TR/Istanbul	77425655	60	60
 DZ/Djelfa	965365	<50	<50
-TH/Bangkok	19102266	<50	<50
-BR/Pará	203469888	<50	<50
-US/Nevada	27206140	<50	<50
-US/Missouri	23040852	<50	<50
-ID/East Java	31299887	<50	<50
-VN/Da Nang City	35684605	<50	<50
-PT/Porto	7990935	<50	<50
-ID/Lampung	3975288	<50	<50
+DZ/Tlemcen	5557055	<50	<50
+TH/Bangkok	32199508	<50	<50
+BR/Bahia	230365928	160	160
+BR/Pará	233754820	60	<50
+US/Nevada	39535259	<50	<50
+ID/East Java	64605279	<50	<50
+VN/Da Nang City	52413679	<50	<50
+PT/Porto	11324550	<50	<50
+CH/Schwyz	1495766	<50	<50
+CL/Antofagasta	2349129	<50	<50
+ID/Lampung	6333992	<50	<50
 NZ/Auckland	13546137	<50	<50
-UA/Dnipropetrovsk	6541771	<50	<50
-TN/Tunis Governorate	23795971	<50	<50
+UA/Dnipropetrovsk	13873234	<50	<50
+FR/Bourgogne	1821322	<50	<50
+TN/Tunis Governorate	36399474	<50	<50
+BR/Rio Grande do Norte	38466792	<50	<50
 TR/Adana	7012125	<50	<50
-MY/Sarawak	9803665	<50	<50
-CL/Santiago Metropolitan	65737458	<50	<50
+MY/Sarawak	17412656	<50	<50
+BR/Pernambuco	93655503	60	60
+CL/Santiago Metropolitan	94317905	60	60
 KZ/Aktobe	2418814	<50	<50
-BR/Pernambuco	59820674	<50	<50
 KW/Mubārak al Kabīr	3165114	<50	<50
-BD/Khulna Division	8940584	<50	<50
-AE/Dubai	9745806	<50	<50
-PK/Islamabad	10712247	<50	<50
+DZ/Algiers	26318682	<50	<50
+BD/Khulna Division	13469987	<50	<50
+AE/Dubai	13516884	<50	<50
+SI/Urban Municipality of Maribor	2611104	<50	<50
+PK/Islamabad	14235578	<50	<50
 BO/Cochabamba	2154752	<50	<50
-BR/Bahia	132348534	100	100
-US/Maryland	4236684021	2000	1980
+UZ/Tashkent	34071082	<50	<50
+SV/Usulutan	1732668	<50	<50
+US/Colorado	6303053581	<50	<50
+RU/Moscow	49940836	<50	<50
 IT/Campania	6075415	<50	<50
 DO/Peravia	2123855	<50	<50
-IN/West Bengal	37787936	<50	<50
-JP/Tokyo	12373740	<50	<50
-BR/Piauí	23939041	<50	<50
-EC/Azuay	12719665	<50	<50
-CO/Antioquia	21364406	<50	<50
-HU/Fejér	1403055	<50	<50
+FR/Provence-Alpes-Côte d'Azur	20277047	<50	<50
+IN/West Bengal	54133253	<50	<50
+RO/Mureș County	1255429	<50	<50
+US/South Dakota	3937724	<50	<50
+JP/Tokyo	19739784	<50	<50
+BR/Piauí	32529536	<50	<50
+EC/Azuay	14193528	<50	<50
+CO/Antioquia	27210828	<50	<50
+IN/Jharkhand	23663721	<50	<50
+HU/Fejér	3697694	<50	<50
 AR/La Rioja	2010980	<50	<50
-PL/Mazovia	23528207	<50	<50
-VN/Hai Phong	49968386	<50	<50
-US/Ohio	34274657	<50	<50
-BR/Mato Grosso	39013731	<50	<50
-BR/Alagoas	35101888	<50	<50
-BR/Rondônia	5131208	<50	<50
-FI/Uusimaa	3428353	<50	<50
-CO/Valle del Cauca Department	16286224	<50	<50
+BR/Mato Grosso	62562443	<50	<50
+BD/Dhaka Division	170061188	120	120
+PL/Mazovia	28062050	<50	<50
+US/Ohio	70752160	<50	<50
+BR/Alagoas	46659374	<50	<50
+FR/Hauts-de-France	8444197	<50	<50
+BO/La Paz Department	6745589	<50	<50
+BR/Rondônia	7086394	<50	<50
+BD/Rajshahi Division	22905709	<50	<50
+FI/Uusimaa	7237819	<50	<50
+CO/Valle del Cauca Department	17636638	<50	<50
 BY/Vitebsk	3039178	<50	<50
-NP/Koshi	9486101	<50	<50
-US/Indiana	16293066	<50	<50
+NP/Koshi	12909520	<50	<50
+US/Indiana	32734575	<50	<50
 AWS/us-east-2	10417842788	<50	<50
-RU/Ryazan Oblast	2261450	<50	<50
-PE/Lima Province	27127997	<50	<50
-US/North Carolina	10901108944	340	320
-IN/Chandigarh	5059382	<50	<50
-SA/Mecca Region	18350995	<50	<50
-MX/Tamaulipas	5989927	<50	<50
+RU/Ryazan Oblast	4000305	<50	<50
+PE/Lima Province	57830452	<50	<50
+US/North Carolina	10925586338	360	340
+IN/Chandigarh	9002670	<50	<50
+SA/Mecca Region	31110534	<50	<50
+NP/Madhesh	12467936	<50	<50
+MX/Tamaulipas	8116198	<50	<50
 FR/Occitanie	9954247	<50	<50
-US/District of Columbia	343857040	220	200
+ID/North Sumatra	7607386	<50	<50
+US/District of Columbia	346674330	220	200
 EC/Imbabura	2270034	<50	<50
-DO/Nacional	6406613	<50	<50
+DO/Nacional	14282026	<50	<50
+EC/Guayas	64333260	<50	<50
 EG/Gharbia	2389312	<50	<50
 RU/Kostroma Oblast	1379291	<50	<50
-AR/Cordoba	26405352	<50	<50
-IN/Bihar	27387149	<50	<50
-US/Arkansas	10483003	<50	<50
+AR/Cordoba	35253605	<50	<50
+IN/Bihar	48870275	<50	<50
+US/Arkansas	11355744	<50	<50
+PH/Davao Region	13202796	<50	<50
 MX/Aguascalientes	2656290	<50	<50
-IT/Veneto	52544372	<50	<50
-IT/Lazio	327136358	180	180
-GB/England	1436202794863	757460	747560
-US/Nebraska	54632704	<50	<50
-AR/San Juan	56799993	<50	<50
-US/Oklahoma	61541991	<50	<50
-IT/Tuscany	1076016320	1340	1320
-TT/Tunapuna/Piarco	2772416	<50	<50
-DZ/Algiers	20922809	<50	<50
-UZ/Tashkent	19781523	<50	<50
-ID/Central Java	22266333	<50	<50
-MX/Puebla	9584293	<50	<50
-US/Connecticut	1568683303	800	760
+IT/Veneto	4949408906	<50	<50
+IT/Lazio	1237367051	1340	1340
+GB/England	1444919599286	761240	751240
+NO/Oslo	10032623069	6540	6260
+US/Nebraska	61019435	<50	<50
+AR/San Juan	59541579	<50	<50
+US/Oklahoma	67621014	<50	<50
+IT/Tuscany	1076067292	1340	1320
+TT/Tunapuna/Piarco	5235429	<50	<50
+IN/Kerala	25646760	<50	<50
+KE/Nairobi County	21858577	<50	<50
+IN/Chhattisgarh	11324985	<50	<50
+ID/Central Java	25868638	<50	<50
+MX/Puebla	13055287	<50	<50
 PT/Madeira	3498068	<50	<50
+CO/Santander Department	6608395	<50	<50
 HU/Jász-Nagykun-Szolnok	10415772	<50	<50
-CN/Shanghai	14693793051	<50	<50
-PY/Central Department	7055723	<50	<50
-EC/Manabí	4428814	<50	<50
-AR/Corrientes	8684899	<50	<50
-TR/İzmir Province	4623786	<50	<50
-AR/Santa Fe	14260747	<50	<50
-ID/North Sumatra	2109931	<50	<50
+ZA/Western Cape	36161466	<50	<50
+PY/Central Department	15244595	<50	<50
+EC/Manabí	11980730	<50	<50
+MX/Veracruz	8578311	<50	<50
+CR/Limón Province	886289	<50	<50
+AR/Corrientes	18103629	<50	<50
+MV/Kaafu Atoll	4197553	<50	<50
+TR/İzmir Province	12439141	<50	<50
+AR/Santa Fe	16921913	<50	<50
+GT/Guatemala	10039261	<50	<50
 EC/Carchi	4272170	<50	<50
-US/Michigan	39893241	<50	<50
-AR/Chaco	6537812	<50	<50
-BD/Dhaka Division	91638296	60	60
-CO/Bogota D.C.	45628326	<50	<50
-US/Colorado	43262439	<50	<50
-US/Delaware	34999222	<50	<50
-EG/Giza	8287402	<50	<50
-TN/Sfax Governorate	1300421	<50	<50
-ID/East Kalimantan	7080063	<50	<50
+AR/Mendoza	27787803	<50	<50
+ID/Riau	18634099	<50	<50
+CO/Bogota D.C.	75398441	<50	<50
+US/Michigan	70680547	<50	<50
+AR/Chaco	14576840	<50	<50
+US/Delaware	41781100	<50	<50
+EG/Giza	9682351	<50	<50
+TN/Sfax Governorate	2315337	<50	<50
+ID/East Kalimantan	8901073	<50	<50
 AR/Tierra del Fuego	1596445	<50	<50
+SA/Riyadh Region	33501673	<50	<50
 VI/Saint Thomas Island	2195795	<50	<50
-NP/Madhesh	4928783	<50	<50
 US/New Mexico	11236958	<50	<50
-FR/Grand Est	3681363	<50	<50
+QA/Baladiyat ad Dawhah	5332152	<50	<50
+FR/Grand Est	5440522	<50	<50
 BT/Chukha	1318067	<50	<50
-FR/Île-de-France	1140486139	620	620
-PK/Sindh	20775104	<50	<50
+PK/Sindh	29550988	<50	<50
 PL/Greater Poland	8627687	<50	<50
-MX/México	3330470	<50	<50
-IQ/Baghdad	26661226	<50	<50
-BD/Rajshahi Division	12105976	<50	<50
-TH/Chon Buri	8682218	<50	<50
-IN/Kerala	17572182	<50	<50
-US/Utah	7685766	<50	<50
+BR/Sergipe	30843684	<50	<50
+MX/México	4181098	<50	<50
+IQ/Baghdad	45049405	<50	<50
+TH/Chon Buri	11549220	<50	<50
+US/Utah	16741316	<50	<50
 BY/Minsk City	7951061	<50	<50
-BR/Tocantins	7721833	<50	<50
-US/Minnesota	19076996	<50	<50
-PH/Davao Region	7998714	<50	<50
-ZA/Western Cape	20162259	<50	<50
+US/Minnesota	28081959	<50	<50
+RO/Bucharest	5101472	<50	<50
 DO/San Cristóbal	2145906	<50	<50
-LV/Riga	2544597	<50	<50
-MK/Grad Skopje	3058031	<50	<50
+NP/Gandaki Pradesh	8957152	<50	<50
+LV/Riga	5007456	<50	<50
+MK/Grad Skopje	4561788	<50	<50
 ID/Jambi	2021436	<50	<50
-IQ/Dhi Qar	1359460	<50	<50
-RU/Moscow	32186144	<50	<50
+IQ/Dhi Qar	3271354	<50	<50
 SE/Östergötland	16976	<50	<50
-IN/Rajasthan	61134693	<50	<50
-KH/Phnom Penh	16528579	<50	<50
-CO/Atlántico	3126525	<50	<50
-AWS/cn-north-1	27227466	<50	<50
-EG/Alexandria	6125610	<50	<50
-EC/Guayas	43589045	<50	<50
+IN/Rajasthan	110811755	80	80
+KH/Phnom Penh	30862297	<50	<50
+DO/Valverde Province	2409467	<50	<50
+CO/Atlántico	8460962	<50	<50
+EG/Alexandria	7445186	<50	<50
 LC/Castries	725963	<50	<50
-PY/Asuncion	21437752	<50	<50
-IN/Haryana	34631713	<50	<50
 RW/Kigali	1323924	<50	<50
-UA/Lviv	9617107	<50	<50
-CR/San José	10233009	<50	<50
+UA/Lviv	12770409	<50	<50
+BE/Flanders	12158979	<50	<50
+EG/Sharqia	3737710	<50	<50
+CR/San José	13905496	<50	<50
 EC/Los Ríos	2992260	<50	<50
 UY/Cerro Largo	2807611	<50	<50
-BD/Mymensingh Division	2220185	<50	<50
+RU/Leningradskaya Oblast'	1826187	<50	<50
+IT/Lombardy	59907771	180	180
+BD/Mymensingh Division	2221484	<50	<50
 SK/Bratislava Region	1382778	<50	<50
-IT/Lombardy	6267105	<50	<50
-UA/Odesa	5534651	<50	<50
-CL/Los Ríos Region	1031052	<50	<50
-MX/Yucatán	10477595	<50	<50
-UA/Kharkivs’ka Oblast’	2476516	<50	<50
-MY/Sabah	12543578	<50	<50
-IQ/Sulaymaniyah	5061682	<50	<50
-MX/Guanajuato	8954085	<50	<50
+NI/Managua Department	9302823	<50	<50
+IN/Andhra Pradesh	15312298	<50	<50
+UA/Odesa	7608088	<50	<50
+CL/Los Ríos Region	1927212	<50	<50
+MX/Yucatán	13387901	<50	<50
+UA/Kharkivs’ka Oblast’	2609252	<50	<50
+MY/Sabah	26030270	<50	<50
+IQ/Sulaymaniyah	7346955	<50	<50
+MX/Guanajuato	11797900	<50	<50
 KE/Kisii County	1363302	<50	<50
 IQ/Babil	1304721	<50	<50
-VN/Bac Ninh	11268537	<50	<50
-MX/Coahuila	4312406	<50	<50
-BR/Paraíba	137041255	<50	<50
-VN/Phu Tho	19610324	<50	<50
-BD/Chittagong	22292619	<50	<50
-PH/Central Visayas	6766854	<50	<50
-CO/Magdalena Department	3111109	<50	<50
-ET/Addis Ababa	9857410	<50	<50
-IQ/Erbil	1476141	<50	<50
-FR/Provence-Alpes-Côte d'Azur	9616287	<50	<50
+VE/Falcón	4366659	<50	<50
+VN/Bac Ninh	17316505	<50	<50
+MX/Coahuila	5679394	<50	<50
+PH/Zamboanga Peninsula	7125515	<50	<50
+BR/Paraíba	143645358	<50	<50
+VN/Phu Tho	39671658	<50	<50
+BD/Chittagong	34122163	<50	<50
+CA/Ontario	46254973	<50	<50
+PH/Central Visayas	21369956	<50	<50
+CO/Magdalena Department	5495211	<50	<50
+ET/Addis Ababa	13176979	<50	<50
+IQ/Erbil	2396446	<50	<50
+EG/Cairo	25920779	<50	<50
+VN/Dak Lak	41652199	<50	<50
 RU/Altai Krai	1880882	<50	<50
 MX/Hidalgo	1319219	<50	<50
 CA/New Brunswick	1737074	<50	<50
-VN/Thanh Hóa Province	32354938	<50	<50
-VN/Ninh Binh	23241003	<50	<50
-SA/Riyadh Region	16957367	<50	<50
-MX/Oaxaca	3175361	<50	<50
-VN/Can Tho City	8361067	<50	<50
+VN/Thanh Hóa Province	41885577	<50	<50
+SA/Al-Qassim Region	859939	<50	<50
+VN/Ninh Binh	39556915	<50	<50
+VN/Quang Tri	13436022	<50	<50
+JO/Amman	15759095	<50	<50
+MX/Oaxaca	5404647	<50	<50
+VN/Can Tho City	14371396	<50	<50
+PL/Silesia	9336088	<50	<50
+ZA/Free State	1348457	<50	<50
 RU/Saratov Oblast	1328752	<50	<50
-KE/Nairobi County	12514481	<50	<50
-EG/Beheira	874489	<50	<50
-VN/Quang Ngai	11677986	<50	<50
-IQ/Karbala	3199241	<50	<50
-FR/Hauts-de-France	4364180	<50	<50
-VN/Khanh Hoa	9163826	<50	<50
+EG/Beheira	2132566	<50	<50
+VN/Quang Ngai	19617284	<50	<50
+RU/Zabaykalskiy (Transbaikal) Kray	1949352	<50	<50
+IQ/Karbala	5303802	<50	<50
+ES/Aragon	1841922	<50	<50
+IQ/Kirkuk	6251925	<50	<50
+VN/Khanh Hoa	17523680	<50	<50
 KR/North Chungcheong	1385004	<50	<50
 DE/Bavaria	2778423	<50	<50
 RU/Buryatiya Republic	1329405	<50	<50
-JO/Amman	5385949	<50	<50
-UY/Maldonado	2279696	<50	<50
-VE/Carabobo	8526313	<50	<50
-VE/Zulia	7940275	<50	<50
+TR/Zonguldak Province	1841926	<50	<50
+VN/Nghệ An Province	11777913	<50	<50
+UY/Maldonado	6523040	<50	<50
+VE/Carabobo	10341413	<50	<50
+VE/Zulia	10729172	<50	<50
 TR/Erzurum	3026671	<50	<50
 TR/Bartın	826324	<50	<50
-VN/Dak Lak	26160319	<50	<50
+MY/Perak	13688845	<50	<50
+MA/Rabat-Salé-Kénitra	8107582	<50	<50
+TW/Takao	9234663	<50	<50
+CA/Quebec	9629182818	80	80
+PS/West Bank	13522242	<50	<50
 RU/Novosibirsk Oblast	1907947	<50	<50
 TW/Taipei	13137632	<50	<50
 KR/Incheon	4922768133	<50	<50
 PT/Guarda	1837642	<50	<50
 EG/Port Said	1332701	<50	<50
+CL/Valparaiso	2731132	<50	<50
 MM/Shan State	1668011	<50	<50
-VN/Dong Nai	18801522	<50	<50
-IQ/Nineveh	9487731	<50	<50
-ID/Riau	9441911	<50	<50
+VN/Dong Nai	29715600	<50	<50
+IQ/Nineveh	10958130	<50	<50
 BE/Wallonia	2515599	<50	<50
+ZA/Gauteng	52981495	<50	<50
 TR/Osmaniye	3232752	<50	<50
-CA/Ontario	42595279	<50	<50
-VN/An Giang	4624344	<50	<50
-ZA/Gauteng	36200968	<50	<50
-PH/Western Visayas	1671192	<50	<50
+MZ/Maputo City	3429725	<50	<50
+VN/An Giang	11722568	<50	<50
+PH/Western Visayas	2526445	<50	<50
 MW/Southern Region	1751691	<50	<50
 PT/Braga	1138395	<50	<50
 VN/Lao Cai	3671426	<50	<50
-CA/Quebec	175198334	60	60
+UA/Kirovohrad	1086795	<50	<50
+VN/Vinh Long	5332023	<50	<50
+AO/Luanda	4981432	<50	<50
 KE/Taita Taveta	1329248	<50	<50
-JM/Kingston	10300037	<50	<50
+JM/Kingston	11689790	<50	<50
 VN/Tuyen Quang	1326170	<50	<50
 TH/Songkhla	2990770	<50	<50
 CA/Nova Scotia	1331636	<50	<50
 DO/Baoruco Province	1375056	<50	<50
-US/Wyoming	4480584	<50	<50
+FR/Normandy	83364723	<50	<50
+US/Wyoming	7183834	<50	<50
 AT/Upper Austria	122190870	100	100
+TN/Kairouan	4385216	<50	<50
 MX/Baja California	11258525	<50	<50
-RU/Kaluga Oblast	3788233	<50	<50
-RU/Nizhny Novgorod Oblast	1677383	<50	<50
-TW/Takao	6923717	<50	<50
+RU/Kaluga Oblast	5296966	<50	<50
+RU/Nizhny Novgorod Oblast	3078012	<50	<50
+US/Mississippi	12195468	<50	<50
 ID/North Sulawesi	4632958	<50	<50
-IN/Tamil Nadu	21626800	<50	<50
+IN/Tamil Nadu	31951490	<50	<50
+EC/Cotopaxi	2170562	<50	<50
 FI/North Ostrobothnia	545364	<50	<50
 KZ/Aqmola	930178	<50	<50
-XK/Pec	6699513	<50	<50
+XK/Pec	7736741	<50	<50
 SA/Eastern Province	5855836	<50	<50
 GE/Tbilisi	101182	<50	<50
-AR/La Pampa	2349234	<50	<50
-MA/Casablanca-Settat	9701869	<50	<50
-PT/Lisbon	7654109	<50	<50
-FR/Brittany	2092234	<50	<50
-GH/Greater Accra	5034989	<50	<50
-ES/Murcia	3636576	<50	<50
-EC/Santo Domingo de los Tsáchilas	2681811	<50	<50
-RU/Krasnodar Krai	6039809	<50	<50
-AR/Salta	3314577	<50	<50
-CR/Alajuela Province	2861694	<50	<50
+AR/La Pampa	118567458	<50	<50
+MA/Casablanca-Settat	15150326	<50	<50
+MX/Zacatecas	736304	<50	<50
+PT/Lisbon	11740878	<50	<50
+FR/Brittany	5117767	<50	<50
+GH/Greater Accra	6598535	<50	<50
+ES/Murcia	6322881	<50	<50
+BN/Brunei-Muara District	3292347	<50	<50
+CN/Henan	11988717	<50	<50
+EC/Santo Domingo de los Tsáchilas	8855576	<50	<50
+RU/Krasnodar Krai	9885194	<50	<50
+AR/Salta	6697138	<50	<50
+PH/Ilocos	7241655	<50	<50
+CR/Alajuela Province	5319852	<50	<50
+BB/Christ Church	1356089	<50	<50
+NZ/Canterbury	2669204	<50	<50
+NG/Lagos	7594006	<50	<50
+AR/San Luis	5708019	<50	<50
 EC/Esmeraldas	3702835	<50	<50
-BA/Srpska	3773825	<50	<50
-IN/Jharkhand	13077743	<50	<50
+US/Connecticut	1573820543	820	760
+BA/Srpska	6031011	<50	<50
 GR/East Macedonia and Thrace	1329099	<50	<50
+IN/Nagaland	2489754	<50	<50
 CZ/Hradec Králové Region	2220196	<50	<50
 TR/Mersin	5298490	<50	<50
+ES/Valencia	6870634	<50	<50
+RU/Bryansk Oblast	2585227	<50	<50
+BY/Minsk	2010384	<50	<50
 BR/Acre	2506065	<50	<50
-HN/Cortés Department	10982415	<50	<50
+MY/Johor	12795768	<50	<50
+HN/Cortés Department	16275658	<50	<50
 MX/Morelos	2551745	<50	<50
-RU/Vologda Oblast	3836138	<50	<50
-XK/Pristina	1346118	<50	<50
-UA/Ivano-Frankivsk	6244923	<50	<50
-IN/Andhra Pradesh	7469093	<50	<50
-US/Idaho	4309435	<50	<50
+RU/Vologda Oblast	5096444	<50	<50
+ZA/Eastern Cape	4452071	<50	<50
+DO/Santiago Province	3580959	<50	<50
+XK/Pristina	4283068	<50	<50
+UA/Ivano-Frankivsk	7934994	<50	<50
+US/Idaho	9795576	<50	<50
 VE/Trujillo	1335837	<50	<50
 PL/Lublin	2423058	<50	<50
 TJ/Dushanbe	903370	<50	<50
+TR/Gaziantep	4860110	<50	<50
+SY/Damascus Governorate	7701115	<50	<50
+LB/Bekaa	3797588	<50	<50
 VE/Vargas	851014	<50	<50
-DO/Santiago Province	1472666	<50	<50
 OM/Southeastern Governorate	1221250	<50	<50
 BD/Rangpur Division	6364021	<50	<50
-VN/Thừa Thiên Huế Province	9284530	<50	<50
+VN/Thừa Thiên Huế Province	15551203	<50	<50
 DE/Saarland	1104197	<50	<50
 QA/Baladiyat ar Rayyan	75404	<50	<50
 GH/Ashanti	2450560	<50	<50
-VN/Gia Lai	2611089	<50	<50
+VN/Gia Lai	12253682	<50	<50
+PY/Alto Paraná Department	17422174	<50	<50
 DO/Samaná	2443808	<50	<50
 VN/Điện Biên Province	1800624	<50	<50
-FR/Rhône-Alpes	6134164	<50	<50
+BH/Manama	6481715	<50	<50
+FR/Rhône-Alpes	8665490	<50	<50
+VE/Barinas	3938587	<50	<50
 RU/Karelia	1049273	<50	<50
+TH/Phuket	4523688	<50	<50
 AZ/Yevlax City	1121032	<50	<50
-TR/Eskişehir	1404957	<50	<50
+TR/Eskişehir	2899783	<50	<50
 BR/Roraima	1769585	<50	<50
-VN/Nghệ An Province	3964905	<50	<50
-CI/Abidjan Autonomous District	3226660	<50	<50
-EG/Cairo	14231009	<50	<50
-CO/Cundinamarca	4851545	<50	<50
-RU/Sverdlovsk Oblast	2262446	<50	<50
-VN/Quảng Ninh	6443733	<50	<50
+CI/Abidjan Autonomous District	4563396	<50	<50
+AR/Entre Rios	21702207	<50	<50
+KZ/Almaty	2286085	<50	<50
+VN/Dong Thap	4524386	<50	<50
+CO/Cundinamarca	6867105	<50	<50
+IQ/Najaf	3142730	<50	<50
+RU/Sverdlovsk Oblast	3132138	<50	<50
+VN/Quảng Ninh	9964453	<50	<50
 TR/Denizli	1716161	<50	<50
 FR/Corsica	2665597	<50	<50
 PA/Colón	5838387	<50	<50
-VN/Thai Nguyen	2880088	<50	<50
+VN/Thai Nguyen	4720191	<50	<50
 RU/Dagestan	2160790	<50	<50
-EG/Damietta	1392208	<50	<50
+FR/New Aquitaine	13341973	<50	<50
+EG/Damietta	1446998	<50	<50
 KZ/East Kazakhstan	3027491	<50	<50
-PA/Panamá	3068749	<50	<50
-VN/Quang Tri	8771699	<50	<50
+KR/Jeollabuk-do	1363402	<50	<50
+PT/Setúbal	5456885	<50	<50
+PA/Panamá	6837964	<50	<50
 AZ/Sumqayit	1015039	<50	<50
-RU/Rostov	1931571	<50	<50
-CO/La Guajira Department	1707535	<50	<50
-MM/Yangon	3239511	<50	<50
-MX/Veracruz	7260335	<50	<50
-TW/Taiwan	12242962	<50	<50
-VN/Hưng Yên Province	9807917	<50	<50
+RU/Rostov	3042843	<50	<50
+CO/La Guajira Department	3561591	<50	<50
+SY/Aleppo	6083657	<50	<50
+MM/Yangon	5696197	<50	<50
+TW/Taiwan	4561357548	<50	<50
+VN/Hưng Yên Province	15599036	<50	<50
 TH/Suphan Buri	1387887	<50	<50
-DZ/Oran	6724663	<50	<50
-AR/Entre Rios	12335635	<50	<50
-MA/Marrakesh-Safi	5579847	<50	<50
-ES/Madrid	16159474	<50	<50
-IQ/Muthanna	2424287	<50	<50
+DZ/Oran	9610714	<50	<50
+MA/Marrakesh-Safi	8935480	<50	<50
+ES/Madrid	24397999	<50	<50
+MX/Sonora	6211915	<50	<50
+IQ/Muthanna	3743865	<50	<50
 JP/Osaka	3954346	<50	<50
+TN/Sousse Governorate	2282607	<50	<50
 IQ/Al-Qadisiyah	1698973	<50	<50
 PT/Viseu	849367	<50	<50
+RU/Vladimir Oblast	1406490	<50	<50
+ES/Andalusia	16754963	<50	<50
+SR/Paramaribo District	7902645	<50	<50
 PA/Panamá Oeste Province	1360568	<50	<50
-TT/Port of Spain	4258887	<50	<50
+DZ/Batna	1798077	<50	<50
+TT/Port of Spain	9910143	<50	<50
 SE/Örebro	1300596	<50	<50
+AR/Jujuy	5479387	<50	<50
 TR/Kilis	2316569	<50	<50
 PT/Castelo Branco	2482975	<50	<50
+ID/South Sumatra	20251862	<50	<50
 MY/Negeri Sembilan	2439032	<50	<50
+GA/Estuaire	3983976	<50	<50
 SA/Medina Region	2981979	<50	<50
+HR/Zagreb	4851433	<50	<50
 KE/Baringo	879720	<50	<50
+JO/Aqaba	3418028	<50	<50
 TG/Maritime	1137977	<50	<50
 RU/Tver Oblast	2174836	<50	<50
 TR/Canakkale	1401833	<50	<50
-IQ/Kirkuk	2694918	<50	<50
+ZA/Mpumalanga	10515232	<50	<50
+NI/Masaya Department	1098194	<50	<50
+RU/Volgograd Oblast	2459238	<50	<50
 RU/Khanty-Mansia	4591148	<50	<50
-NI/Masaya Department	250242	<50	<50
-RU/Moscow Oblast	11438866	<50	<50
 TR/Mardin	2466331	<50	<50
-TR/Konya	3972597	<50	<50
+TR/Konya	8118179	<50	<50
+IQ/Duhok	4718134	<50	<50
 DE/North Rhine-Westphalia	1816073248	<50	<50
-NO/Vestland	2325100	<50	<50
-NZ/Canterbury	1319401	<50	<50
+CH/Geneva	10444537871	<50	<50
+NO/Vestland	3925277	<50	<50
 RU/Voronezh Oblast	8452531	<50	<50
-PH/Zamboanga Peninsula	2262476	<50	<50
-CO/Nariño	1435041	<50	<50
-ID/Yogyakarta	6635479	<50	<50
+CO/Nariño	5688612	<50	<50
+US/Alaska	8209849	<50	<50
+MQ/Martinique	1328628	<50	<50
 ES/Navarre	2244778	<50	<50
 CL/Tarapacá	2576532	<50	<50
-US/Oregon	13176270	<50	<50
+US/Oregon	16786879	<50	<50
 HN/Colón Department	44	<50	<50
-RU/Kuzbass	4031784	<50	<50
-GR/Attica	1600417	<50	<50
+RU/Kuzbass	5684033	<50	<50
+GR/Attica	5508685	<50	<50
 US/Hawaii	1089633	<50	<50
 GR/Central Macedonia	6510353	<50	<50
-DZ/Sétif	5197185	<50	<50
-SN/Dakar	11424286	<50	<50
+DZ/Sétif	8866803	<50	<50
+SN/Dakar	16867506	<50	<50
 SA/Jazan Region	1114549	<50	<50
-CN/Anhui	19690483	<50	<50
-DZ/Blida	6541057	<50	<50
-PY/Cordillera Department	2376705	<50	<50
-NL/North Holland	1380967	<50	<50
+CN/Anhui	22589185	<50	<50
+DZ/Blida	13320830	<50	<50
+PH/Northern Mindanao	6826255	<50	<50
+AR/Misiones	18104118	<50	<50
+PY/Cordillera Department	3251088	<50	<50
+NL/North Holland	8667993	<50	<50
+LT/Vilnius	5205099	<50	<50
 GR/North Aegean	1288634	<50	<50
+BD/Barisal Division	5558028	<50	<50
 VE/Miranda	831497	<50	<50
-RS/Vojvodina	2733338	<50	<50
-AU/Queensland	10551876	<50	<50
+RS/Vojvodina	4039457	<50	<50
+AU/Queensland	354954292	200	200
 ES/Castille and León	6035486	<50	<50
-PH/Ilocos	5727309	<50	<50
 VE/Táchira	4664899	<50	<50
-MX/Chihuahua	3989491	<50	<50
+MX/Chihuahua	9479168	<50	<50
 IT/Umbria	1879604	<50	<50
-US/Mississippi	6930896	<50	<50
-NL/Flevoland	1628865	<50	<50
-CO/Risaralda Department	2623946	<50	<50
-BR/Mato Grosso do Sul	19337922	<50	<50
-EC/El Oro	875260	<50	<50
+CO/Risaralda Department	4816994	<50	<50
+BR/Mato Grosso do Sul	25234255	<50	<50
+EC/El Oro	3965999	<50	<50
 DZ/Constantine	3717162	<50	<50
-CN/Hebei	2332098	<50	<50
-CZ/Moravian-Silesian Region	748426	<50	<50
-LK/Western Province	7307697	<50	<50
-GT/Guatemala	5566611	<50	<50
+CN/Hebei	4561479	<50	<50
+MX/San Luis Potosí	3961766	<50	<50
+CZ/Moravian-Silesian Region	3175659	<50	<50
+OM/Al Batinah North	2189870	<50	<50
+PL/Warmia-Masuria	1684819	<50	<50
+PY/Caaguazú Department	4160233	<50	<50
+LK/Western Province	9905382	<50	<50
 CO/Casanare Department	3264422	<50	<50
-BR/Rio Grande do Norte	26655576	<50	<50
-OM/Muscat	7933711	<50	<50
+RU/Ivanovo Oblast	1233429	<50	<50
+OM/Muscat	16386003	<50	<50
 US/Rhode Island	3335975	<50	<50
-EC/Loja	6445783	<50	<50
-TR/Kayseri	3060883	<50	<50
-ID/West Kalimantan	1338960	<50	<50
+MA/Souss-Massa	13467681	<50	<50
+EC/Loja	11842316	<50	<50
+TR/Kayseri	4813175	<50	<50
+BG/Varna	8482905	<50	<50
+ID/West Kalimantan	2683261	<50	<50
 US/Maine	4218876	<50	<50
 PL/Lesser Poland	758101	<50	<50
 AR/Tucuman	5642418	<50	<50
-BB/Saint Michael	10350657	<50	<50
+BB/Saint Michael	11464478	<50	<50
 HN/El Paraíso Department	1521563	<50	<50
-ZA/Eastern Cape	3094569	<50	<50
-CZ/Prague	6625811	<50	<50
-LB/Mount Lebanon	4650773	<50	<50
+CL/O'Higgins Region	1540083	<50	<50
+BY/Homyel’ Voblasc’	6833653	<50	<50
+LB/Mount Lebanon	7067937	<50	<50
 TR/Van	987193	<50	<50
-BG/Varna	5166678	<50	<50
 GR/Ionian Islands	1616786	<50	<50
-CN/Shanxi	496733128948	60520	860
-AR/Misiones	10051382	<50	<50
+TH/Lopburi	2321087	<50	<50
 RO/Arad County	879270	<50	<50
-US/Louisiana	4324398921	<50	<50
-ID/South Sulawesi	8046946	<50	<50
-NP/Lumbini Province	1689523	<50	<50
-CN/Fujian	4242744	<50	<50
-PY/Caaguazú Department	3356721	<50	<50
-TH/Lopburi	1433595	<50	<50
-CN/Liaoning	3776960	<50	<50
-IT/Piedmont	541771167	440	440
+AU/Victoria	8018513	<50	<50
+US/Louisiana	4332275592	<50	<50
+ID/South Sulawesi	12067365	<50	<50
+NP/Lumbini Province	3478021	<50	<50
+SE/Västra Götaland	7325686	<50	<50
+CN/Fujian	6284120	<50	<50
+NP/Sudurpashchim Pradesh	4713758	<50	<50
+CN/Liaoning	6705607	<50	<50
+IT/Piedmont	546254357	440	440
 KW/Al Aḩmadī	973619	<50	<50
 EG/Qalyubia	5003936	<50	<50
 RU/Yaroslavl Oblast	3387534	<50	<50
-AL/Tirana	6941308	<50	<50
-ZA/Mpumalanga	6573285	<50	<50
-CL/Biobio	3358898	<50	<50
-BA/Federation of B&H	2236392	<50	<50
-QA/Baladiyat ad Dawhah	4126109	<50	<50
+HN/Choluteca Department	399	<50	<50
+AL/Tirana	9085016	<50	<50
+CL/Biobio	8288739	<50	<50
+BA/Federation of B&H	4827509	<50	<50
+TN/Bizerte Governorate	2748621	<50	<50
 ES/Canary Islands	4223401	<50	<50
-TR/Bursa Province	2331958	<50	<50
+FR/Centre-Val de Loire	5872686	<50	<50
+TR/Bursa Province	5072535	<50	<50
+TR/Antalya	5104966	<50	<50
 TH/Nakhon Sawan	1247174	<50	<50
-ID/West Sumatra	1179245	<50	<50
+ID/West Sumatra	2969512	<50	<50
 CZ/South Bohemian Region	851801	<50	<50
 PY/San Pedro Department	876529	<50	<50
-VE/Barinas	3077988	<50	<50
-AZ/Baki	2290863	<50	<50
+AZ/Baki	6059314	<50	<50
 IT/Apulia	2492328	<50	<50
-MX/Sinaloa	1195607	<50	<50
+JM/Manchester	1506315	<50	<50
+MX/Sinaloa	2140020	<50	<50
 SV/Santa Ana Department	882420	<50	<50
+DO/Santo Domingo Province	14006297	<50	<50
 MG/Analamanga	2503207	<50	<50
 AE/Ajman	3753892	<50	<50
 LA/Champasak Province	1251348	<50	<50
-IQ/Duhok	3844686	<50	<50
 LB/Beirut	2344006	<50	<50
+US/Montana	2114124	<50	<50
+DK/Capital Region	6660697	<50	<50
 VN/Ca Mau	2100133	<50	<50
-BY/Homyel’ Voblasc’	4651168	<50	<50
+AG/Saint John Parish	1948614	<50	<50
 JP/Saitama	1349812	<50	<50
-DK/Capital Region	4622058	<50	<50
-EE/Harjumaa	3752412	<50	<50
-PR/San Juan	2414068	<50	<50
-UA/Sumy	4258618	<50	<50
-NP/Gandaki Pradesh	6951329	<50	<50
-BR/Sergipe	17265332	<50	<50
-PY/Alto Paraná Department	14026344	<50	<50
+MD/Chișinău Municipality	6713697	<50	<50
+EE/Harjumaa	4475433	<50	<50
+PR/San Juan	3746787	<50	<50
+PH/Cordillera	4418715	<50	<50
+UA/Sumy	5750137	<50	<50
 DZ/Béchar	5852935	<50	<50
-BH/Manama	2976199	<50	<50
-MA/Souss-Massa	10599527	<50	<50
-BG/Sofia-Capital	9205683	<50	<50
-TR/Antalya	3637099	<50	<50
-BE/Flanders	5263451	<50	<50
-AR/Rio Negro	3108254	<50	<50
-US/West Virginia	3436890	<50	<50
+IN/Andaman and Nicobar	2425547	<50	<50
+BG/Sofia-Capital	10598984	<50	<50
+JO/Balqa	2068112	<50	<50
+AR/Rio Negro	5198192	<50	<50
+MX/Tabasco	3920211	<50	<50
+US/West Virginia	4369715	<50	<50
 CH/Fribourg	2343025	<50	<50
-IN/Himachal Pradesh	8916434	<50	<50
-PH/Northern Mindanao	3016432	<50	<50
-PE/Ica	2442316	<50	<50
-CN/Henan	5904410	<50	<50
-ZA/Limpopo	2305386	<50	<50
-ES/Valencia	6936795	<50	<50
-PY/Canindeyú	3251643	<50	<50
-MX/Michoacán	4442590	<50	<50
-IN/Uttarakhand	7228326	<50	<50
+CL/Coquimbo Region	3060289	<50	<50
+IN/Himachal Pradesh	9666627	<50	<50
+KG/Chuy Region	3395500	<50	<50
+PE/Ica	4539425	<50	<50
+ZA/Limpopo	3592072	<50	<50
+PL/Kujawsko-Pomorskie	4837230	<50	<50
+PY/Canindeyú	4255566	<50	<50
+MX/Michoacán	5670757	<50	<50
+IN/Uttarakhand	19622728	<50	<50
+TH/Chiang Mai	1357529	<50	<50
+TH/Surat Thani	1633597	<50	<50
+AR/Chubut	3321436	<50	<50
+KE/Kakamega County	1328712	<50	<50
+KZ/Karaganda	1329409	<50	<50
 ES/Asturias	1064237	<50	<50
+IE/Munster	7440000	<50	<50
 VE/Aragua	7362218	<50	<50
-TR/Gaziantep	2039905	<50	<50
-IQ/Basra	3594754	<50	<50
-MY/Johor	6983697	<50	<50
-KG/Bishkek	1311422	<50	<50
-FR/Normandy	7762176	<50	<50
-PH/Central Luzon	5367076	<50	<50
-SR/Paramaribo District	3854746	<50	<50
-VN/Dong Thap	3213487	<50	<50
+ID/Riau Islands	1339236	<50	<50
+TR/Şanlıurfa	4317846	<50	<50
+IT/Emilia-Romagna	2208963	<50	<50
+IQ/Basra	4898093	<50	<50
+KG/Bishkek	2505123	<50	<50
+VE/Mérida	3715979	<50	<50
+JO/Zarqa	4271644	<50	<50
 TR/Düzce	1072345	<50	<50
-VN/Lam Dong	5808989	<50	<50
-LY/Az Zawiyah	1266015	<50	<50
+VN/Lam Dong	8746540	<50	<50
+LY/Az Zawiyah	2539942	<50	<50
+KE/Mombasa County	2107637	<50	<50
+TH/Chiang Rai	1388823	<50	<50
 TR/Samsun	5301978	<50	<50
+EC/Tungurahua Province	2241290	<50	<50
 IQ/Wasit	1307008	<50	<50
-MA/Beni Mellal-Khenifra	2143147	<50	<50
+MN/Ulaanbaatar	11324686	<50	<50
+MA/Beni Mellal-Khenifra	2393573	<50	<50
+VN/Cao Bằng Province	3476436	<50	<50
 TR/Şırnak	1341475	<50	<50
 TR/Hatay	1296660	<50	<50
-SV/San Salvador Department	5243956	<50	<50
+SV/San Salvador Department	8748672	<50	<50
 RU/Penza Oblast	1299262	<50	<50
-ID/South Sumatra	10379863	<50	<50
+KR/Seoul	2540535	<50	<50
+PH/Bicol Region	1675718	<50	<50
+ET/Amhara	1296431	<50	<50
 IM/Douglas	852766	<50	<50
-EC/Cotopaxi	824355	<50	<50
+JP/Ehime	2209466	<50	<50
 BG/Veliko Tarnovo	1923328	<50	<50
 ID/Bengkulu	1357418	<50	<50
-CY/Nicosia	1299879	<50	<50
+CY/Nicosia	2801941	<50	<50
 KE/Kajiado County	775388	<50	<50
 EG/Monufia	1360890	<50	<50
 IL/Central District	298	<50	<50
+CH/Basel-Landschaft	2531211547	<50	<50
 NL/Groningen	27502	60	60
-MX/Sonora	2518420	<50	<50
 AR/Santiago del Estero	4025810	<50	<50
 MA/Tanger-Tetouan-Al Hoceima	4828475	<50	<50
 TH/Phra Nakhon Si Ayutthaya	1478384	<50	<50
+VN/Tay Ninh	12188117	<50	<50
 HN/Francisco Morazán Department	3979054	<50	<50
-MN/Ulaanbaatar	7886302	<50	<50
+RU/Kursk Oblast	844693	<50	<50
+TR/Burdur	1284663	<50	<50
 XK/Mitrovica	2373198	<50	<50
-UG/Central Region	3238312	<50	<50
-IN/Chhattisgarh	5683264	<50	<50
-MX/Querétaro	5874990	<50	<50
-IE/Munster	5185033	<50	<50
+UG/Central Region	4658438	<50	<50
+MX/Querétaro	9479204	<50	<50
+PT/Leiria	1940149	<50	<50
 PH/Soccsksargen	1243529	<50	<50
 ID/Central Kalimantan	2953839	<50	<50
-NL/Limburg	141	<50	<50
-FR/Bourgogne	117613	<50	<50
+NL/Limburg	1424541	<50	<50
 PL/Opole Voivodeship	104750	<50	<50
 HT/Ouest	942327	<50	<50
+ID/Bangka–Belitung Islands	1380774	<50	<50
 UY/Colonia	939478	<50	<50
-AR/San Luis	4383018	<50	<50
+PE/Tacna	1671998	<50	<50
+EC/Chimborazo Province	8966070	<50	<50
 CN/Yunnan	2440332	<50	<50
-SK/Košice Region	4609491	<50	<50
+PT/Vila Real	1605220	<50	<50
+SK/Košice Region	5986839	<50	<50
 DO/Espaillat Province	1708579	<50	<50
 TR/Tokat Province	1328245	<50	<50
-PS/West Bank	5311262	<50	<50
-DO/Santo Domingo Province	8279847	<50	<50
-NP/Sudurpashchim Pradesh	2519023	<50	<50
+PL/Świętokrzyskie	2714625	<50	<50
+PE/Cuzco Department	3748708	<50	<50
+SE/Uppsala	1348574	<50	<50
+TT/San Juan/Laventille	3290987	<50	<50
 PE/Ayacucho	2712538	<50	<50
 RU/Krasnoyarsk Krai	2620998	<50	<50
 GP/Guadeloupe	2448734	<50	<50
-BD/Barisal Division	2410805	<50	<50
+KE/Kiambu County	3594695	<50	<50
+RO/Vâlcea County	1056192	<50	<50
 RO/Iași County	815887	<50	<50
-PT/Setúbal	4066858	<50	<50
 NL/Gelderland	1623173	<50	<50
-KW/Hawalli	870059	<50	<50
-PE/Cuzco Department	2184440	<50	<50
+RO/Constanța County	1177604	<50	<50
+KW/Hawalli	3692518	<50	<50
 PE/La Libertad	3241004	<50	<50
 PL/Podlasie	1433521	<50	<50
-MX/Quintana Roo	2238847	<50	<50
-ES/Andalusia	8826350	<50	<50
+PT/Azores	1203669	<50	<50
+MX/Quintana Roo	10239225	<50	<50
+RU/Tula Oblast	1772717	<50	<50
+HU/Budapest	12089073	<50	<50
 BG/Kyustendil	1711534	<50	<50
 FI/Satakunta	1680467	<50	<50
+CL/Araucania	3848391	<50	<50
 MA/Fes-Meknes	2809996	<50	<50
 SK/Nitra Region	2035991	<50	<50
-VN/Sơn La Province	1788622	<50	<50
-AU/New South Wales	10413864	<50	<50
+LY/Al Marj	2360086	<50	<50
+VN/Sơn La Province	3203347	<50	<50
+AU/New South Wales	18667872	<50	<50
+LA/Vientiane Prefecture	2248891	<50	<50
 KZ/Astana	1528567	<50	<50
-SY/Aleppo	1552994	<50	<50
-TH/Nakhon Pathom	1411021	<50	<50
+TH/Nakhon Pathom	4186113	<50	<50
 LY/Al Butnan	1198893	<50	<50
+ID/North Kalimantan	2957208	<50	<50
 VE/Lara	1260150	<50	<50
 LY/Jabal al Gharbi	1980630	<50	<50
 LK/Central Province	1480805	<50	<50
 TH/Rayong	1146315	<50	<50
-BO/Santa Cruz Department	2753880	<50	<50
-TH/Prachin Buri	928417	<50	<50
-SY/Damascus Governorate	1498067	<50	<50
-GA/Estuaire	2553615	<50	<50
+BO/Santa Cruz Department	3864777	<50	<50
+MA/Guelmim-Oued Noun	1536028	<50	<50
+TH/Prachin Buri	2328287	<50	<50
 NG/Edo State	967538	<50	<50
 VE/Monagas	1450972	<50	<50
+IQ/Diyala	2335590	<50	<50
 AL/Korçë County	1553922	<50	<50
-CO/Bolívar	343197	<50	<50
-JO/Zarqa	1257445	<50	<50
+CO/Bolívar	1205819	<50	<50
+CM/Centre	1395565	<50	<50
 TZ/Zanzibar Urban/West	1426714	<50	<50
 LY/Misratah	2372341	<50	<50
 IR/Tehran	904365	<50	<50
-AR/Formosa	2515470	<50	<50
-NI/Managua Department	5140734	<50	<50
+AR/Formosa	5560415	<50	<50
 PT/Faro	3226355	<50	<50
 KG/Issyk-Kul	1242730	<50	<50
+VN/Hà Tĩnh Province	2017090	<50	<50
+RU/Ulyanovsk	1676824	<50	<50
 CG/Pointe-Noire	1501697	<50	<50
-VN/Cao Bằng Province	2164527	<50	<50
-FR/New Aquitaine	4818079	<50	<50
 KE/Garissa County	1416815	<50	<50
-PH/Cordillera	3552628	<50	<50
+ES/Galicia	3264551	<50	<50
 DZ/M'Sila	2239090	<50	<50
-ES/Galicia	1267050	<50	<50
 RU/Oryol oblast	1494404	<50	<50
-VN/Vinh Long	3979215	<50	<50
 SO/Banaadir	2333949	<50	<50
 FR/Pays de la Loire	2593437	<50	<50
-VN/Hà Tĩnh Province	763660	<50	<50
-TR/Şanlıurfa	2127352	<50	<50
-AU/Victoria	1351958	<50	<50
+UA/Khmelnytskyi	2308536	<50	<50
+UY/Lavalleja	3222506	<50	<50
+PY/Itapúa	6625827	<50	<50
 ET/Oromiya	797810	<50	<50
-NG/Lagos	1467186	<50	<50
-HU/Budapest	5468777	<50	<50
-MY/Perak	6679481	<50	<50
-AR/Jujuy	1833949	<50	<50
-KR/Seoul	1261938	<50	<50
 KZ/Zhambyl	2302555	<50	<50
 RO/Sălaj County	2673145	<50	<50
+CH/Zurich	3260838	<50	<50
 CO/Cesar Department	1452173	<50	<50
+JP/Kyoto	253485676	<50	<50
+AL/Berat County	2922478	<50	<50
 OM/Dhofar	1442413	<50	<50
-EC/Tungurahua Province	1318759	<50	<50
+NO/Agder	985394	<50	<50
 ES/Basque Country	2674624	<50	<50
 PT/Santarém	1155048	<50	<50
-AR/Mendoza	12279437	<50	<50
+RU/Komi	1463553	<50	<50
+CO/Huila Department	4991030	<50	<50
 ES/Extremadura	3606120	<50	<50
+CN/Heilongjiang	359959	<50	<50
+SV/La Libertad Department	4068765	<50	<50
 PT/Aveiro	3535992	<50	<50
-VN/Tay Ninh	9689144	<50	<50
-UA/Kyiv	2276795	<50	<50
+UA/Kyiv	3651341	<50	<50
 JP/Fukuoka	1388422	<50	<50
+RU/Chelyabinsk	8750761	<50	<50
 UA/Rivne	5837233	<50	<50
-MV/Kaafu Atoll	1410817	<50	<50
 IN/Sikkim	1450721	<50	<50
 RO/Sibiu County	1395512	<50	<50
+DO/Monseñor Nouel	153897	<50	<50
 CZ/Vysocina	1001815	<50	<50
+TH/Nakhon Ratchasima	824943	<50	<50
 IT/Sicily	1275245	<50	<50
-JO/Balqa	746795	<50	<50
-MX/San Luis Potosí	2617868	<50	<50
-BR/Amapá	883520	<50	<50
+BR/Amapá	1891910	<50	<50
 TL/Dili Municipality	1807984	<50	<50
-MZ/Maputo City	2056388	<50	<50
+CO/Norte de Santander Department	858013	<50	<50
+VE/Bolívar	2307671	<50	<50
 CN/Hunan	2241241	<50	<50
 LU/Luxembourg	1325346	<50	<50
-EC/Chimborazo Province	1355512	<50	<50
 SV/San Miguel Department	2183945	<50	<50
 GR/Central Greece	2050589	<50	<50
-AR/Neuquen	5565249	<50	<50
+AR/Neuquen	7673651	<50	<50
 CW/Curacao	2391371	<50	<50
+RO/Hunedoara County	1085911	<50	<50
 VN/Lạng Sơn Province	1147230	<50	<50
-OM/Al Batinah North	855702	<50	<50
-RU/Chelyabinsk	3107014	<50	<50
+DO/Hato Mayor Province	2073377	<50	<50
+PL/Lubusz	748532	<50	<50
 CO/Quindío Department	1428640	<50	<50
 EC/Napo	1929232	<50	<50
+NL/South Holland	2491218	<50	<50
 CZ/Ústí nad Labem Region	1767650	<50	<50
+TH/Yasothon	1357667	<50	<50
 RU/St.-Petersburg	11144984	<50	<50
+IE/Connacht	170	<50	<50
 TT/Borough of Arima	1546631	<50	<50
 CO/Meta Department	1330333	<50	<50
-AL/Berat County	1053742	<50	<50
+UA/Poltava	1341305	<50	<50
+LY/Tripoli	1359819	<50	<50
 UA/Vinnytsia	4841776	<50	<50
 PE/Junin	1630676	<50	<50
 PL/Łódź Voivodeship	816771	<50	<50
-MD/Chișinău Municipality	2545909	<50	<50
+TH/Samut Prakan	908749	<50	<50
 DK/North Denmark	1345560	<50	<50
 EG/Kafr el-Sheikh	1380350	<50	<50
-RU/Tula Oblast	921160	<50	<50
-CA/Alberta	6748	<50	<50
+TH/Nakhon Si Thammarat	163837	<50	<50
+RO/Vaslui County	369986	<50	<50
+BG/Plovdiv	368	<50	<50
+CA/Alberta	7988	<50	<50
 UA/Ternopil	3374	<50	<50
+JP/Hyōgo	1227963	<50	<50
+US/Kansas	9506589	<50	<50
 ID/Central Sulawesi	11396	<50	<50
-MY/Melaka	2935346	<50	<50
-NO/Oslo	2791606	<50	<50
+KZ/Pavlodar Region	2803111	<50	<50
+MY/Melaka	5392513	<50	<50
 MY/Kelantan	2793172	<50	<50
-JO/Irbid	2784411	<50	<50
-CL/Maule Region	2915405	<50	<50
+ID/Southeast Sulawesi	544	<50	<50
+BS/New Providence	2884880	<50	<50
+JO/Irbid	3664351	<50	<50
+CL/Maule Region	4257832	<50	<50
 TH/Nonthaburi	2866564	<50	<50
 RO/Vrancea	2754860	<50	<50
 HK/Islands	2921144	<50	<50
 MT/Saint Paul’s Bay	2965603	<50	<50
-US/Kansas	3500388	<50	<50
-TH/Ratchaburi	2775092	<50	<50
-SE/Västra Götaland	4308718	<50	<50
+CO/Cauca Department	2808162	<50	<50
+PL/Lower Silesia	4702263	<50	<50
 JM/Saint Catherine Parish	4032813	<50	<50
 CO/Caldas Department	1686077	<50	<50
-PE/Piura	1379577	<50	<50
+PE/Piura	2776501	<50	<50
 ME/Herceg Novi	1413576	<50	<50
-JO/Aqaba	930480	<50	<50
-US/South Dakota	2478314	<50	<50
+LT/Panevėžys	1345784	<50	<50
 AL/Durrës County	1377322	<50	<50
 JP/Aichi	3517263	<50	<50
-PL/Silesia	6721832	<50	<50
+GU/Tamuning	1489372	<50	<50
+UA/Zakarpattia	1410877	<50	<50
 RO/Dolj	1370226	<50	<50
-CO/Santander Department	3656632	<50	<50
+GY/Demerara-Mahaica	2536906	<50	<50
+NL/Overijssel	1188131	<50	<50
+PL/Subcarpathia	1727830	<50	<50
 US/Vermont	1275275	<50	<50
 EG/Dakahlia	2581074	<50	<50
 RO/Olt	2596892	<50	<50
 JP/Kanagawa	2723254	<50	<50
-BO/La Paz Department	3377	<50	<50
-NL/South Holland	1407425	<50	<50
-CH/Zurich	3377	<50	<50
-KZ/Almaty	1135745	<50	<50
-RU/Bryansk Oblast	840288	<50	<50
-HR/Zagreb	2176054	<50	<50
-TH/Chiang Mai	1269360	<50	<50
+CO/Boyacá	858844	<50	<50
+RE/Reunion	2307414	<50	<50
+BT/Punakha	1689568	<50	<50
+AR/Catamarca	1088060	<50	<50
+IT/Sardinia	880804	<50	<50
 KW/Al Asimah	1304852	<50	<50
 VE/Guárico	766851	<50	<50
+ID/Aceh	1353967	<50	<50
 KY/George Town	851683	<50	<50
+HU/Heves County	2392113	<50	<50
 TR/Aksaray	2560725	<50	<50
 RU/Belgorod Oblast	1332178	<50	<50
 BZ/Cayo District	955235	<50	<50
-VE/Mérida	2429933	<50	<50
 PE/Arequipa	875148	<50	<50
-CN/Shandong	2217420	<50	<50
-RO/Bucharest	1395544	<50	<50
-KE/Kiambu County	1319884	<50	<50
-HK/Sham Shui Po District	1114585	<50	<50
+MX/Chiapas	5200769	<50	<50
 HU/Győr-Moson-Sopron	1728409	<50	<50
+NL/Zeeland	1520982	<50	<50
 LT/Klaipėda County	1387664	<50	<50
-CO/Boyacá	855467	<50	<50
-MX/Chiapas	3891495	<50	<50
-SI/Urban Municipality of Maribor	961964	<50	<50
+MO/Macao	1428974	<50	<50
+DO/Duarte Province	2315716	<50	<50
+UA/Chernihiv	1479352	<50	<50
 ID/South Kalimantan	1143792	<50	<50
-CO/Huila Department	3605801	<50	<50
+PE/Madre de Dios	236893	<50	<50
+NL/North Brabant	2501300	<50	<50
+CN/Guangdong	1292623	<50	<50
 CR/Heredia Province	2410980	<50	<50
-PY/Itapúa	2722465	<50	<50
+IT/Trentino-Alto Adige	1992872	<50	<50
 MX/Campeche	1214141	<50	<50
 MX/Nayarit	1322281	<50	<50
-LT/Vilnius	1320462	<50	<50
 GE/Shida Kartli	1071204	<50	<50
 CN/Zhejiang	766320	<50	<50
+RU/Smolensk Oblast	1311925	<50	<50
 BD/Sylhet Division	2214168	<50	<50
-ZA/North West	891197	<50	<50
+ZA/North West	2890063	<50	<50
 SX/Sint Maarten	1148098	<50	<50
-JP/Hyōgo	1224589	<50	<50
-BS/New Providence	1493880	<50	<50
+EC/Santa Elena	2358470	<50	<50
 RU/Tyumen Oblast	1226328	<50	<50
-FR/Centre-Val de Loire	3036822	<50	<50
 SK/Banská Bystrica Region	1439940	<50	<50
-MA/Rabat-Salé-Kénitra	2507861	<50	<50
 MD/Bender Municipality	1937292	<50	<50
-MX/Tabasco	2194615	<50	<50
-ID/North Kalimantan	1386194	<50	<50
+MX/Guerrero	744704	<50	<50
+HR/Varaždin	1541424	<50	<50
 GE/Kakheti	1966932	<50	<50
 PE/Lambayeque	878911	<50	<50
 LK/Northern Province	1810279	<50	<50
+TR/Isparta	1322727	<50	<50
 PR/Caguas	1779852	<50	<50
 IN/Tripura	1241071	<50	<50
 PL/Pomerania	1483698	<50	<50
-PL/Lower Silesia	1889811	<50	<50
-IQ/Najaf	2048725	<50	<50
+CL/Ñuble	1700667	<50	<50
 AL/Vlorë County	1373876	<50	<50
 TC/Turks and Caicos Islands	151970	<50	<50
-UY/Lavalleja	892914	<50	<50
-KE/Mombasa County	1236754	<50	<50
-BY/Minsk	1134632	<50	<50
-IN/Goa	1304247	<50	<50
-CL/Araucania	1947532	<50	<50
+CO/Tolima Department	3442037	<50	<50
+IN/Goa	2159094	<50	<50
 ID/Papua	279420	<50	<50
 HR/Karlovac	1189151	<50	<50
 CZ/Pardubice Region	2406979	<50	<50
-PL/Świętokrzyskie	1465412	<50	<50
 FI/Pirkanmaa	2443626	<50	<50
-US/Alaska	2065914	<50	<50
 TR/Kastamonu	2666580	<50	<50
-PL/Kujawsko-Pomorskie	764244	<50	<50
 VE/Nueva Esparta	1355292	<50	<50
-KG/Chuy Region	1123399	<50	<50
+GE/Abkhazia	2259811	<50	<50
 HU/Pest County	4016551	<50	<50
 GT/Quetzaltenango	774338	<50	<50
+KE/Murang'A	1539164	<50	<50

@@ -16,6 +16,9 @@ AE/Ras Al Khaimah:
 AE/Sharjah:
   latitude: 24.9760668
   longitude: 56.2536044
+AE/Umm Al Quwain:
+  latitude: 25.5144944
+  longitude: 55.718292
 AG/Saint John Parish:
   latitude: 45.2498835
   longitude: -66.0785948
@@ -313,6 +316,9 @@ AZ/Sumqayit:
 AZ/Yevlax City:
   latitude: 40.6832717
   longitude: 46.4052315
+"BA/Br\u010Dko":
+  latitude: 44.8771222
+  longitude: 18.8095022
 BA/Federation of B&H:
   latitude: 43.8588634
   longitude: 18.3968191
@@ -391,6 +397,9 @@ BG/Kyustendil:
 BG/Lovech:
   latitude: 43.0444495
   longitude: 24.4910249
+BG/Pazardzhik:
+  latitude: 42.1486841
+  longitude: 24.1531871
 BG/Pernik:
   latitude: 42.628442
   longitude: 22.8823119
@@ -448,6 +457,12 @@ BH/Southern Governorate:
 BI/Bujumbura Mairie:
   latitude: -3.3493959
   longitude: 29.3631843
+BJ/Littoral:
+  latitude: 6.3663195
+  longitude: 2.4170608
+BM/Hamilton city:
+  latitude: 32.2942679
+  longitude: -64.7853167
 BN/Brunei-Muara District:
   latitude: 4.9752098
   longitude: 114.9367663
@@ -583,6 +598,9 @@ BT/Punakha:
 BT/Thimphu District:
   latitude: 27.5583211
   longitude: 89.5524789
+BW/Central:
+  latitude: -21.4790187
+  longitude: 26.2154174
 BW/City of Francistown:
   latitude: -21.16995
   longitude: 27.50787
@@ -622,6 +640,9 @@ BZ/Cayo District:
 BZ/Corozal District:
   latitude: 18.2276324
   longitude: -88.2921257
+BZ/Orange Walk District:
+  latitude: 17.7831833
+  longitude: -88.8620283
 BZ/Southern District:
   latitude: 31.5999837
   longitude: 34.787207
@@ -862,6 +883,9 @@ CN/Sichuan:
 CN/Tianjin:
   latitude: 39.3032619
   longitude: 117.4163641
+CN/Xinjiang:
+  latitude: 42.4804953
+  longitude: 85.4633464
 CN/Yunnan:
   latitude: 25.0
   longitude: 102.0
@@ -979,6 +1003,9 @@ CZ/Central Bohemia:
 "CZ/Kr\xE1lov\xE9hradeck\xFD kraj":
   latitude: 50.4093927
   longitude: 15.6850054
+CZ/Liberec Region:
+  latitude: 50.747604
+  longitude: 14.9903103
 "CZ/Libereck\xFD kraj":
   latitude: 50.747604
   longitude: 14.9903103
@@ -1036,6 +1063,9 @@ DE/Bavaria:
 DE/Brandenburg:
   latitude: 52.8455492
   longitude: 13.2461296
+DE/Bremen:
+  latitude: 53.0758196
+  longitude: 8.8071646
 DE/City state Bremen:
   latitude: 53.07516
   longitude: 8.80777
@@ -1201,6 +1231,9 @@ DZ/Ouargla:
 DZ/Tindouf:
   latitude: 27.6721823
   longitude: -8.1404163
+DZ/Tizi Ouzou:
+  latitude: 36.6816175
+  longitude: 4.237186
 DZ/Tlemcen:
   latitude: 34.881789
   longitude: -1.316699
@@ -1288,6 +1321,9 @@ EG/Dakahlia:
 EG/Damietta:
   latitude: 31.4167427
   longitude: 31.8213657
+EG/Faiyum:
+  latitude: 29.3074076
+  longitude: 30.8399651
 EG/Gharbia:
   latitude: 30.8391947
   longitude: 31.0016072
@@ -1360,6 +1396,9 @@ ES/Castille-La Mancha:
 ES/Catalonia:
   latitude: 41.8523094
   longitude: 1.5745043
+ES/Ceuta:
+  latitude: 35.888361
+  longitude: -5.304138
 ES/Extremadura:
   latitude: 39.1748426
   longitude: -6.1529891
@@ -1663,6 +1702,9 @@ GT/San Marcos:
 "GT/Solol\xE1":
   latitude: 14.7039413
   longitude: -91.282818
+GU/Dededo:
+  latitude: 13.5167272
+  longitude: 144.8391381
 GU/Tamuning:
   latitude: 13.4966854
   longitude: 144.7772156
@@ -1747,6 +1789,9 @@ HN/Bay Islands:
 "HN/El Para\xEDso Department":
   latitude: -5.8964322
   longitude: -77.397771
+"HN/Santa B\xE1rbara Department":
+  latitude: 4.8604619
+  longitude: -74.2478019
 HR/Brod-Posavina:
   latitude: 45.1581062
   longitude: 18.3958732
@@ -1825,6 +1870,9 @@ HU/Heves County:
 HU/Pest County:
   latitude: 47.41667
   longitude: 19.33333
+HU/Somogy County:
+  latitude: 46.41667
+  longitude: 17.58333
 "HU/Szabolcs-Szatm\xE1r-Bereg":
   latitude: 48.0297821
   longitude: 22.0040108
@@ -1888,6 +1936,9 @@ ID/Maluku:
 ID/North Kalimantan:
   latitude: 3.0235817
   longitude: 116.2049306
+ID/North Maluku:
+  latitude: 0.6301215
+  longitude: 127.9720219
 ID/North Sulawesi:
   latitude: 0.6555692
   longitude: 124.090151
@@ -2365,12 +2416,18 @@ JP/Tokyo:
 JP/Toyama:
   latitude: 36.6468015
   longitude: 137.2183531
+JP/Yamaguchi:
+  latitude: 34.2379614
+  longitude: 131.5873845
 JP/Yamanashi:
   latitude: 35.6399328
   longitude: 138.6380495
 KE/Baringo:
   latitude: 0.71401
   longitude: 36.0172739
+KE/Bomet County:
+  latitude: -0.7822297
+  longitude: 35.3436118
 KE/Bungoma County:
   latitude: 0.7829245
   longitude: 34.7191681
@@ -2389,6 +2446,9 @@ KE/Kajiado County:
 KE/Kakamega County:
   latitude: 0.4957104
   longitude: 34.8015489
+KE/Kericho County:
+  latitude: -0.3209968
+  longitude: 35.2261276
 KE/Kiambu County:
   latitude: -1.036395
   longitude: 36.8431312
@@ -2434,6 +2494,9 @@ KE/Nyandarua County:
 KE/Nyeri County:
   latitude: -0.4740867
   longitude: 37.2365388
+KE/Samburu County:
+  latitude: 1.0935625
+  longitude: 36.6949666
 KE/Taita Taveta:
   latitude: -3.4178355
   longitude: 38.3670676
@@ -2482,6 +2545,9 @@ KN/Saint George Basseterre:
 KR/Busan:
   latitude: 35.1799528
   longitude: 129.0752365
+KR/Chungcheongnam-do:
+  latitude: 36.6593
+  longitude: 126.6729
 KR/Daegu:
   latitude: 35.8713
   longitude: 128.6018
@@ -2674,6 +2740,9 @@ LK/Central Province:
 LK/Eastern Province:
   latitude: 7.7596435
   longitude: 81.5850205
+LK/North Western Province:
+  latitude: 7.9745867
+  longitude: 79.9720053
 LK/Northern Province:
   latitude: 9.28
   longitude: 80.2827753
@@ -2845,12 +2914,18 @@ MD/Orhei:
 MD/Soroca District:
   latitude: 48.1642746
   longitude: 28.1615637
+MD/Stefan-Voda:
+  latitude: 46.5156075
+  longitude: 29.6621136
 "MD/Str\u0103\u0219eni":
   latitude: 47.1474401
   longitude: 28.6150196
 "MD/S\xEEngerei":
   latitude: 47.636085
   longitude: 28.1455434
+"MD/Telene\u015Fti":
+  latitude: 47.5030998
+  longitude: 28.3638314
 MD/Transnistria:
   latitude: 47.7598678
   longitude: 29.1176055
@@ -2926,6 +3001,9 @@ MQ/Martinique:
 MR/Mauritania:
   latitude: 20.2540382
   longitude: -9.2399263
+MT/Birkirkara:
+  latitude: 35.8994577
+  longitude: 14.4649552
 MT/Il-Fgura:
   latitude: 35.8728325
   longitude: 14.520799
@@ -3124,6 +3202,9 @@ NG/Enugu State:
 NG/FCT:
   latitude: 9.0643305
   longitude: 7.4892974
+NG/Jigawa State:
+  latitude: 12.3252362
+  longitude: 9.5103296
 NG/Lagos:
   latitude: 6.4550575
   longitude: 3.3941795
@@ -3205,6 +3286,9 @@ NO/Oslo:
 NO/Rogaland:
   latitude: 58.9363138
   longitude: 5.8058786
+NO/Troms:
+  latitude: 69.5311072
+  longitude: 19.5296839
 "NO/Tr\xF8ndelag":
   latitude: 63.8775924
   longitude: 10.1950505
@@ -3892,6 +3976,9 @@ RU/Primorye:
 RU/Pskov Oblast:
   latitude: 57.5358729
   longitude: 28.8586826
+RU/Republic of Tyva:
+  latitude: 51.7272401
+  longitude: 94.413366
 RU/Rostov:
   latitude: 57.2012699
   longitude: 39.4221813
@@ -3991,6 +4078,9 @@ SA/Riyadh Region:
 SD/Al Jazirah:
   latitude: 14.6671537
   longitude: 33.222361
+SD/Khartoum:
+  latitude: 15.5635972
+  longitude: 32.5349123
 SE/Dalarna:
   latitude: 61.0603779
   longitude: 14.2151224
@@ -4018,6 +4108,9 @@ SE/Uppsala:
 "SE/V\xE4rmland":
   latitude: 59.8907917
   longitude: 13.2949215
+"SE/V\xE4sterbotten":
+  latitude: 64.7282044
+  longitude: 18.5534514
 "SE/V\xE4stmanland":
   latitude: 59.6965564
   longitude: 16.1846084
@@ -4111,6 +4204,9 @@ SN/Thies:
 SO/Banaadir:
   latitude: 2.0783351
   longitude: 45.2805421
+SR/Para District:
+  latitude: 4.5764735
+  longitude: -74.096762
 SR/Paramaribo District:
   latitude: 5.86638
   longitude: -55.16682
@@ -4510,6 +4606,9 @@ TT/Diego Martin Regional Corporation:
 TT/Mayaro:
   latitude: 10.3027609
   longitude: -61.0081263
+TT/Penal/Debe:
+  latitude: 10.1649187
+  longitude: -61.4286325
 TT/Point Fortin:
   latitude: 10.1759283
   longitude: -61.6827286
@@ -4573,6 +4672,9 @@ UA/Donetsk:
 UA/Ivano-Frankivsk:
   latitude: 48.7481718
   longitude: 24.5207477
+UA/Kharkiv:
+  latitude: 49.9923181
+  longitude: 36.2310146
 "UA/Kharkivs\u2019ka Oblast\u2019":
   latitude: 49.5
   longitude: 36.5
@@ -4591,6 +4693,9 @@ UA/Kyiv:
 UA/Kyiv City:
   latitude: 50.387643
   longitude: 30.4713298
+UA/Kyiv Oblast:
+  latitude: 50.178595
+  longitude: 30.4924884
 UA/Luhansk:
   latitude: 49.2724587
   longitude: 38.9150477
@@ -4610,6 +4715,9 @@ UA/Poltava:
   latitude: 49.8607809
   longitude: 33.7498787
 UA/Rivne:
+  latitude: 51.2074112
+  longitude: 26.5208033
+UA/Rivne Oblast:
   latitude: 51.2074112
   longitude: 26.5208033
 UA/Sevastopol City:
@@ -4634,6 +4742,9 @@ UA/Zaporizhzhia:
   latitude: 47.8507859
   longitude: 35.1182867
 UA/Zhytomyr:
+  latitude: 50.9080532
+  longitude: 28.3867504
+UA/Zhytomyr Oblast:
   latitude: 50.9080532
   longitude: 28.3867504
 UG/Central Region:
@@ -5071,9 +5182,15 @@ ZA/Northern Cape:
 ZA/Western Cape:
   latitude: -33.546977
   longitude: 20.72753
+ZM/Eastern Province:
+  latitude: -13.6514737
+  longitude: 31.9958539
 ZM/Lusaka Province:
   latitude: -15.357609
   longitude: 29.1653092
+ZW/Bulawayo:
+  latitude: -20.1053948
+  longitude: 28.5426856
 ZW/Harare:
   latitude: -17.8567035
   longitude: 31.0601584

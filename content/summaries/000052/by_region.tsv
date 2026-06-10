@@ -1,61 +1,70 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	3094768080	5940	5820
-VPN	283140208	700	700
-AWS/us-east-1	101344960	220	220
+US/Massachusetts	229482931	280	<50
+missing	2385228638	4780	4660
+CN/Shanghai	481230779	720	720
+VPN	464821917	960	960
+AWS/us-east-1	124014383	260	260
 CN/Shanxi	29112741	<50	<50
 US/New York	226804820	520	520
-US/Massachusetts	227927732	260	<50
-AWS/ap-southeast-1	195562635	300	300
+AWS/ap-southeast-1	205242665	320	320
 US/Minnesota	1555199	<50	<50
 NL/Flevoland	146911255	180	180
 US/California	129052968	220	220
-US/Illinois	48696937	60	60
+US/Illinois	54463780	60	60
 SG/Singapore	6643777	<50	<50
-US/Virginia	13424826	<50	<50
+US/Virginia	17497296	<50	<50
+GCP/us-east1	982558	<50	<50
 US/South Carolina	5291189	<50	<50
 AU/New South Wales	1768149	<50	<50
 US/New Hampshire	21507	<50	<50
 JP/Tokyo	136	<50	<50
 GB/England	65	<50	<50
 TW/Takao	764032	<50	<50
-VN/Hanoi	6647	<50	<50
-BR/Rio de Janeiro	7514	<50	<50
+IE/Munster	1875866	<50	<50
+VN/Khanh Hoa	867	<50	<50
+VN/Hanoi	8670	<50	<50
+BR/São Paulo	25432	80	80
+PY/Alto Paraná Department	289	<50	<50
+BR/Rio de Janeiro	7803	<50	<50
 BR/Paraná	3757	<50	<50
-VN/Ho Chi Minh City (HCMC)	25721	80	80
+VN/Ho Chi Minh City (HCMC)	30056	100	100
 EC/Pichincha	1445	<50	<50
 UA/Kyiv City	289	<50	<50
 BR/Piauí	867	<50	<50
-BR/Espírito Santo	2023	<50	<50
-BR/Minas Gerais	8959	<50	<50
-BR/Rio Grande do Sul	5202	<50	<50
+BR/Espírito Santo	2312	<50	<50
+BR/Minas Gerais	10115	<50	<50
+BR/Rio Grande do Sul	6647	<50	<50
 RU/Moscow	289	<50	<50
-BR/São Paulo	21386	80	80
 RU/Bashkortostan Republic	289	<50	<50
-VN/Hai Phong	3757	<50	<50
-BR/Bahia	3179	<50	<50
-BR/Pernambuco	2601	<50	<50
+VN/Hai Phong	4624	<50	<50
+BR/Bahia	4624	<50	<50
+BR/Santa Catarina	2601	<50	<50
+BR/Pernambuco	3179	<50	<50
+BN/Brunei-Muara District	289	<50	<50
 BD/Dhaka Division	1734	<50	<50
-BR/Pará	1445	<50	<50
-AR/Formosa	289	<50	<50
+BR/Pará	1734	<50	<50
+AR/Formosa	578	<50	<50
 HK/Hong Kong	1445	<50	<50
-VN/Da Nang City	2601	<50	<50
+VN/Da Nang City	3179	<50	<50
 ZA/Western Cape	289	<50	<50
-VN/Dong Nai	867	<50	<50
+VN/Dong Nai	1156	<50	<50
+BR/Ceará	12424	<50	<50
 AR/Chubut	578	<50	<50
 AR/Buenos Aires	2312	<50	<50
 AR/San Luis	289	<50	<50
-VN/Bac Ninh	1734	<50	<50
+VN/Bac Ninh	2023	<50	<50
 MK/Grad Skopje	289	<50	<50
 CL/Santiago Metropolitan	289	<50	<50
-BR/Santa Catarina	2312	<50	<50
+BR/Rio Grande do Norte	1734	<50	<50
+BR/Tocantins	289	<50	<50
+VN/Ninh Binh	1734	<50	<50
 BR/Alagoas	867	<50	<50
-BR/Ceará	11557	<50	<50
 BR/Maranhão	578	<50	<50
 MX/Baja California	289	<50	<50
-BR/Rio Grande do Norte	1445	<50	<50
+ZA/Gauteng	289	<50	<50
 PY/Asuncion	289	<50	<50
 PK/Sindh	578	<50	<50
-BR/Goiás	1156	<50	<50
+BR/Goiás	1445	<50	<50
 VN/Quảng Ninh	578	<50	<50
 BR/Federal District	1156	<50	<50
 AR/Buenos Aires F.D.	1734	<50	<50
@@ -64,45 +73,48 @@ BR/Rondônia	867	<50	<50
 UY/Maldonado	289	<50	<50
 CO/Bogota D.C.	578	<50	<50
 CO/Bolívar	578	<50	<50
+VN/Hưng Yên Province	867	<50	<50
 BR/Paraíba	867	<50	<50
-VN/Hưng Yên Province	578	<50	<50
-VN/Khanh Hoa	578	<50	<50
-VN/Ninh Binh	1445	<50	<50
 AR/Cordoba	289	<50	<50
+PE/Lima Province	1156	<50	<50
 EC/Guayas	578	<50	<50
 XK/Pec	289	<50	<50
 BR/Mato Grosso	867	<50	<50
 CO/Valle del Cauca Department	578	<50	<50
+VN/Quang Tri	289	<50	<50
 RU/Nizhny Novgorod Oblast	289	<50	<50
 BR/Amazonas	289	<50	<50
+VN/Can Tho City	289	<50	<50
 UZ/Tashkent	578	<50	<50
-PE/Lima Province	867	<50	<50
+GY/Demerara-Mahaica	289	<50	<50
+UY/Montevideo Department	289	<50	<50
 MX/Mexico City	578	<50	<50
 VN/Phu Tho	1445	<50	<50
 SI/Urban Municipality of Kranj	289	<50	<50
 BH/Manama	289	<50	<50
+KE/Nairobi County	578	<50	<50
 VE/Guárico	289	<50	<50
 VN/Nghệ An Province	289	<50	<50
 KZ/North Kazakhstan	289	<50	<50
 AU/Victoria	289	<50	<50
 MA/Rabat-Salé-Kénitra	289	<50	<50
-BR/Mato Grosso do Sul	867	<50	<50
+VN/Thanh Hóa Province	867	<50	<50
+BR/Mato Grosso do Sul	1156	<50	<50
 LT/Vilnius	289	<50	<50
 IE/Leinster	289	<50	<50
 HN/Cortés Department	289	<50	<50
 VN/Dong Thap	289	<50	<50
 VN/Lam Dong	578	<50	<50
 MX/Puebla	289	<50	<50
-VN/Thanh Hóa Province	578	<50	<50
 BD/Chittagong	578	<50	<50
 RU/Tula Oblast	289	<50	<50
 CL/Antofagasta	289	<50	<50
 RU/St.-Petersburg	289	<50	<50
 AR/Entre Rios	578	<50	<50
+RU/Kaliningrad Oblast	289	<50	<50
 BR/Sergipe	289	<50	<50
 VN/Thai Nguyen	289	<50	<50
 AR/Santa Fe	289	<50	<50
-KE/Nairobi County	289	<50	<50
 VN/Dak Lak	289	<50	<50
 NZ/Auckland	289	<50	<50
 EG/Cairo	289	<50	<50

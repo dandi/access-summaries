@@ -1,34 +1,36 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	13831454615	39600	1720
+missing	12784083743	36000	1600
 AWS/us-east-1	132133564	<50	<50
-US/California	291522316	2180	<50
-US/Virginia	1115280906	3520	140
+AWS/us-east-2	264474244	1640	<50
+US/California	352662716	2200	<50
+US/Virginia	1361450862	3580	160
 AWS/us-west-2	47457380	<50	<50
-CH/Geneva	78367480	<50	<50
+CH/Geneva	94040976	<50	<50
 JP/Tokyo	49001256	<50	<50
+CN/Shanghai	186101959	<50	<50
 TW/Taiwan	94040976	<50	<50
-CN/Shanghai	128068727	<50	<50
 AWS/ap-southeast-2	15673496	<50	<50
-VPN	304258760	140	<50
-GCP/us-central1	161395712	<50	<50
-IR/Tehran	43956152	<50	<50
+VPN	334052168	140	<50
+CN/Zhejiang	111268056	<50	<50
+GCP/us-central1	162949296	<50	<50
+IR/Tehran	61183232	<50	<50
 KR/Seoul	29793408	<50	<50
-GCP/asia-east1	78367480	<50	<50
+GCP/asia-east1	109714472	<50	<50
 GCP/us-east1	142615048	<50	<50
 US/North Carolina	56296176	<50	<50
+US/New York	95547148	60	<50
 US/Florida	14119912	<50	<50
 IT/Lombardy	10430616	<50	<50
-GB/England	64366952	<50	<50
-GitHub	151369488	15960	<50
+GB/England	80040448	<50	<50
+GitHub	178210136	19140	<50
+US/Pennsylvania	15673496	<50	<50
 JP/Osaka	29793408	<50	<50
-GCP/us-west1	94040976	<50	<50
+GCP/us-west1	156734960	<50	<50
 FR/Provence-Alpes-Côte d'Azur	31346992	<50	<50
-AWS/ap-southeast-1	12410068	<50	<50
-CN/Zhejiang	78367480	<50	<50
-HK/Hong Kong	15673496	<50	<50
-US/Georgia	31346992	<50	<50
-CN/Beijing	15673496	<50	<50
-AWS/us-east-2	49486648	1440	<50
+CN/Beijing	47020488	<50	<50
+AWS/ap-southeast-1	21634664	<50	<50
+HK/Hong Kong	31346992	<50	<50
+US/Georgia	47020488	<50	<50
 RW/Kigali	15673496	<50	<50
 US/Oregon	31346992	<50	<50
 US/Washington	31346992	<50	<50
@@ -38,18 +40,19 @@ DE/Saxony	15673496	<50	<50
 US/Michigan	43913320	<50	<50
 CA/British Columbia	15673496	<50	<50
 PT/Lisbon	31346992	<50	<50
+IL/Haifa	29793408	<50	<50
 US/Massachusetts	47020488	<50	<50
 GCP/asia-southeast1	31346992	<50	<50
 BE/Flanders	15673496	<50	<50
 HK/Islands	29793409	<50	<50
 NL/Flevoland	14119912	<50	<50
+GCP/us-east4	47020488	<50	<50
 US/Tennessee	15673496	<50	<50
 IN/West Bengal	15673496	<50	<50
 US/Iowa	31346992	<50	<50
-GCP/us-east4	31346992	<50	<50
-IL/Haifa	15673496	<50	<50
+US/New Mexico	15673496	<50	<50
+US/New Jersey	38415696	<50	<50
 US/Illinois	32900576	<50	<50
-US/New York	32900576	<50	<50
 TR/Ankara	15673496	<50	<50
 IT/Trentino-Alto Adige	15673496	<50	<50
 AT/State of Vienna	15246312	<50	<50
@@ -63,8 +66,8 @@ CL/Santiago Metropolitan	15673496	<50	<50
 DE/Baden-Wurttemberg	15673496	<50	<50
 DE/State of Berlin	15673496	<50	<50
 HK/Kwai Tsing District	15673496	<50	<50
+MX/Mexico City	6283880	<50	<50
 US/Arizona	410144	700	<50
-US/New Jersey	7068704	<50	<50
 GCP/us-west4	1553584	<50	<50
 NL/North Brabant	1553584	<50	<50
 US/Texas	3517312	700	<50

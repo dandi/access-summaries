@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Create GZIP archive of content
         run: tar -czf content.tar.gz content/

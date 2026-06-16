@@ -1,9 +1,9 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	9919335744	1160	1160
-GitHub	2690514704	8760	1380
+VPN	9922292220	1180	1160
+GitHub	2738611376	9000	1420
 AWS/ap-southeast-1	649761792	300	300
-missing	146255557524	33840	9360
-AWS/us-east-1	19034250320	3520	1020
+missing	146541512832	34160	9520
+AWS/us-east-1	19035568148	3520	1020
 US/California	45587513252	2780	580
 CN/Shanghai	58449541960	5040	940
 SE/Västra Götaland	226796	<50	<50
@@ -21,7 +21,7 @@ RU/Moscow Oblast	8549808	<50	<50
 GA/Estuaire	426816	<50	<50
 US/New York	37874516	<50	<50
 AU/Victoria	210128	<50	<50
-US/Illinois	548345940	220	120
+US/Illinois	566821440	240	140
 BD/Dhaka Division	27592992	<50	<50
 KZ/Shymkent	224048	<50	<50
 PY/Central Department	249584	<50	<50
@@ -86,6 +86,7 @@ IE/Leinster	7642604	<50	<50
 VE/Bolívar	15176228	<50	<50
 VE/Falcón	951296	<50	<50
 RU/Ulyanovsk	220816	<50	<50
+undetermined	14151852	<50	<50
 US/South Dakota	220816	<50	<50
 IN/Uttarakhand	235748	<50	<50
 IQ/Basra	15194888	<50	<50
@@ -226,6 +227,7 @@ CL/Valparaiso	230672	<50	<50
 CA/Alberta	216688	<50	<50
 KG/Bishkek	428928	<50	<50
 RU/Yaroslavl Oblast	208056	<50	<50
+CH/Vaud	620912	<50	<50
 BG/Sofia-Capital	429072	<50	<50
 IN/Assam	216688	<50	<50
 NP/Madhesh	220816	<50	<50

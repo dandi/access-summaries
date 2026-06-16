@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 AWS/ap-southeast-1	488742508	60	60
-VPN	2996635017	360	340
-GitHub	433851397	520	120
+VPN	3004299453	360	340
+GitHub	458078464	580	140
 AWS/us-east-1	2846017953	440	180
 CN/Shanghai	3799100407	500	60
-missing	13341941195	5440	1680
+missing	13452881045	5480	1700
 US/California	1260718660	240	<50
 MX/Mexico City	95397594	200	60
 US/Massachusetts	894226436	<50	<50
@@ -12,7 +12,9 @@ SG/Singapore	215441843	<50	<50
 AWS/us-west-2	14672702	<50	<50
 US/Wyoming	7688538	<50	<50
 US/Illinois	7172186	<50	<50
+undetermined	33628921	<50	<50
 US/Washington	29136900	<50	<50
+CH/Vaud	577040	<50	<50
 US/New York	10418460	<50	<50
 BO/La Paz Department	19705710	<50	<50
 US/Virginia	4559192	<50	<50

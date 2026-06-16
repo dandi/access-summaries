@@ -1,9 +1,9 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	12784083743	36000	1600
+missing	12766409456	36000	1620
 AWS/us-east-1	132133564	<50	<50
 AWS/us-east-2	264474244	1640	<50
 US/California	352662716	2200	<50
-US/Virginia	1361450862	3580	160
+US/Virginia	1363585926	3580	160
 AWS/us-west-2	47457380	<50	<50
 CH/Geneva	94040976	<50	<50
 JP/Tokyo	49001256	<50	<50
@@ -22,14 +22,15 @@ US/New York	95547148	60	<50
 US/Florida	14119912	<50	<50
 IT/Lombardy	10430616	<50	<50
 GB/England	80040448	<50	<50
-GitHub	178210136	19140	<50
+GitHub	194465112	19160	<50
 US/Pennsylvania	15673496	<50	<50
 JP/Osaka	29793408	<50	<50
 GCP/us-west1	156734960	<50	<50
 FR/Provence-Alpes-Côte d'Azur	31346992	<50	<50
-CN/Beijing	47020488	<50	<50
+CN/Beijing	62693984	<50	<50
 AWS/ap-southeast-1	21634664	<50	<50
 HK/Hong Kong	31346992	<50	<50
+undetermined	101673184	<50	<50
 US/Georgia	47020488	<50	<50
 RW/Kigali	15673496	<50	<50
 US/Oregon	31346992	<50	<50
@@ -74,3 +75,4 @@ US/Texas	3517312	700	<50
 FR/Île-de-France	1553584	<50	<50
 US/Maryland	1553584	<50	<50
 US/Nevada	1553584	<50	<50
+CH/Vaud	2260296	<50	<50

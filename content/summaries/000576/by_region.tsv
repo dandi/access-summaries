@@ -1,9 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	68206047542	16040	1580
-GitHub	1329086371	7440	100
-VPN	2987703030	180	160
-AWS/ap-southeast-1	209798244	<50	<50
-AWS/us-east-1	1595387524	280	60
+missing	58906434059	12780	1360
+GitHub	2172459371	10120	180
+VPN	3680106071	220	180
+AWS/us-east-1	4089938047	680	60
+AWS/ap-southeast-1	225520164	<50	<50
+undetermined	5232450920	120	100
 US/New York	184423041	240	<50
 US/Massachusetts	2064413565	880	<50
 GCP/us-east1	2191651090	<50	<50
@@ -23,7 +24,7 @@ US/District of Columbia	45464516	100	<50
 CL/Santiago Metropolitan	70354864	<50	<50
 US/Pennsylvania	23052464	440	<50
 SG/Singapore	121166374	<50	<50
-GCP/us-central1	1465894289	420	<50
+GCP/us-central1	1487008240	420	<50
 ES/Catalonia	48591898	440	<50
 US/New Jersey	243949004	80	<50
 US/Virginia	152439343	1940	<50
@@ -31,6 +32,7 @@ JP/Tokyo	7663098	<50	<50
 US/Maryland	4167758	<50	<50
 CH/Vaud	31953874	<50	<50
 TM/Ashgabat	20876721	<50	<50
+bogon	20876721	<50	<50
 NL/North Holland	18800796	<50	<50
 CH/Geneva	83506756	<50	<50
 VN/Ho Chi Minh City (HCMC)	28692504	<50	<50
@@ -52,6 +54,5 @@ TR/Bursa Province	19390368	<50	<50
 HK/Yau Tsim Mong District	8647056	<50	<50
 UA/Ivano-Frankivsk	4258020	<50	<50
 US/Wyoming	5316590	<50	<50
-undetermined	20876593	<50	<50
 FR/Île-de-France	51100506	140	<50
 NL/Gelderland	20876593	<50	<50

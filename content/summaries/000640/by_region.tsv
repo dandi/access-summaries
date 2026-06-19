@@ -1,9 +1,9 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	9922292220	1180	1160
-GitHub	2738611376	9000	1420
-AWS/ap-southeast-1	649761792	300	300
-missing	146541512832	34160	9520
-AWS/us-east-1	19035568148	3520	1020
+VPN	16296391760	1340	1320
+GitHub	4012280288	13460	2120
+AWS/ap-southeast-1	669723796	320	320
+missing	126403675384	29080	8280
+AWS/us-east-1	19115642880	3560	1060
 US/California	45587513252	2780	580
 CN/Shanghai	58449541960	5040	940
 SE/Västra Götaland	226796	<50	<50
@@ -13,6 +13,7 @@ SG/Singapore	128929204	60	60
 PK/Punjab	44865736	<50	<50
 US/Massachusetts	30191410540	860	<50
 GB/England	80035408	<50	<50
+undetermined	12403748688	420	340
 IT/Lombardy	8254008	<50	<50
 GB/Northern Ireland	7533420	<50	<50
 KH/Phnom Penh	13363632	<50	<50
@@ -50,13 +51,13 @@ AE/Sharjah	439476	<50	<50
 AR/Buenos Aires	16800812	<50	<50
 US/Minnesota	208056	<50	<50
 OM/Muscat	18465336	<50	<50
+GCP/us-east1	658632	<50	<50
 IL/Jerusalem	435424	<50	<50
 VN/Da Nang City	7141896	<50	<50
 US/Texas	8348080	<50	<50
 JM/Kingston	4444416	<50	<50
 MA/Casablanca-Settat	667268	<50	<50
 IQ/Baghdad	19231844	<50	<50
-GCP/us-east1	223208	<50	<50
 VN/Dong Thap	223208	<50	<50
 VN/Quang Ngai	223208	<50	<50
 PS/West Bank	9041896	<50	<50
@@ -86,7 +87,6 @@ IE/Leinster	7642604	<50	<50
 VE/Bolívar	15176228	<50	<50
 VE/Falcón	951296	<50	<50
 RU/Ulyanovsk	220816	<50	<50
-undetermined	14151852	<50	<50
 US/South Dakota	220816	<50	<50
 IN/Uttarakhand	235748	<50	<50
 IQ/Basra	15194888	<50	<50

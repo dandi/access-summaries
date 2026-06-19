@@ -1,9 +1,9 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 US/California	36422991	60	60
-GitHub	58303827	220	60
+GitHub	128115993	480	140
 CN/Shanghai	157729094	240	240
-VPN	101566087	160	140
-missing	423501839	1340	460
+VPN	109263210	180	160
+missing	343929848	1080	380
 AWS/ap-southeast-1	31306615	<50	<50
 AWS/us-east-1	52370456	80	80
 US/New York	115343153	340	120
@@ -13,4 +13,4 @@ AWS/us-west-2	5850920	<50	<50
 US/Wyoming	2053658	<50	<50
 US/Virginia	2059308	<50	<50
 CH/Vaud	1711348	<50	<50
-undetermined	704176	<50	<50
+undetermined	2766878	<50	<50

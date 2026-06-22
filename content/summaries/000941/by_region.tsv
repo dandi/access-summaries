@@ -1,16 +1,16 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	734869149	80	<50
+AWS/us-east-1	991527093	120	<50
 CA/Ontario	311792278	<50	<50
-missing	29039775381	4620	1160
+missing	23895761671	4260	1000
 US/California	3148175408	160	120
 CN/Shanghai	3371124318	180	120
 US/New York	826173423	300	<50
-undetermined	4387836539	320	160
+undetermined	9459055725	680	340
 DE/Lower Saxony	935376834	<50	<50
 US/Illinois	410695480	<50	<50
 HK/Hong Kong	1249702824	<50	<50
 US/Washington	1885427460	60	60
-VPN	3780156370	220	100
+VPN	3870937947	260	120
 CN/Beijing	623584556	<50	<50
 US/Georgia	1154608980	<50	<50
 US/Virginia	267849025	140	<50
@@ -22,11 +22,12 @@ IN/Kerala	311792278	<50	<50
 US/Pennsylvania	1558961390	60	60
 CH/Geneva	349721410	<50	<50
 US/Michigan	311792278	<50	<50
-GitHub	375292037	880	120
+GitHub	571372902	1420	180
 AT/State of Vienna	311792278	<50	<50
 JP/Tokyo	309258566	<50	<50
 VN/Ho Chi Minh City (HCMC)	311792278	<50	<50
 IR/Razavi Khorasan	623584556	<50	<50
+GCP/asia-east1	311792278	<50	<50
 AWS/ap-northeast-1	309258566	<50	<50
 FR/Île-de-France	239319403	<50	<50
 US/Tennessee	311792278	<50	<50
@@ -37,7 +38,7 @@ TW/Taiwan	84224827	180	<50
 KR/Seoul	311792278	<50	<50
 MX/Mexico City	55291413	260	<50
 PT/Lisbon	1200940	<50	<50
-GCP/us-central1	222542830	<50	<50
+GCP/us-central1	295620212	<50	<50
 CL/Santiago Metropolitan	5139634	<50	<50
 FR/Provence-Alpes-Côte d'Azur	2605922	<50	<50
 AWS/us-west-2	31173330	120	<50

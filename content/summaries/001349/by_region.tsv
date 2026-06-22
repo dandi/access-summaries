@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	36262430782	2580	2080
+VPN	43082180949	3160	2600
 US/Massachusetts	10354347964	460	<50
-missing	70455198121	47640	6320
+missing	53907625536	43600	5680
 CN/Shanghai	18808847891	2320	<50
+AWS/us-east-1	11981000316	1560	320
 AWS/ap-southeast-1	3518956194	300	300
-undetermined	18248020028	840	740
+undetermined	19773580978	3180	1000
 US/California	5641848022	940	80
 SG/Singapore	2132972708	80	80
-GitHub	3386000262	7540	720
-AWS/us-east-1	2995790942	320	320
+GitHub	4064103282	9880	940
 US/New York	35972541	<50	<50
 IN/Odisha	1	<50	<50
 US/Virginia	15187302	320	<50
@@ -17,7 +17,7 @@ US/Illinois	57803504	140	<50
 MX/Mexico City	94023506	380	60
 ES/Castille-La Mancha	1	<50	<50
 SY/Damascus Governorate	4978608	<50	<50
-US/Wyoming	31536070	60	<50
+US/Wyoming	48104850	140	<50
 GCP/us-east1	28299456	<50	<50
 BR/Minas Gerais	1	<50	<50
 SY/Aleppo	5633688	<50	<50
@@ -26,6 +26,7 @@ AR/Buenos Aires	49043466	<50	<50
 US/Texas	18315564	<50	<50
 IN/Maharashtra	16890320	<50	<50
 US/Pennsylvania	527184468	380	<50
+AWS/us-east-2	212351052	360	<50
 CH/Vaud	5356504	<50	<50
 GB/Scotland	35647348	<50	<50
 HK/Hong Kong	15547782	<50	<50
@@ -36,4 +37,5 @@ CO/Bogota D.C.	12421268	<50	<50
 BR/Santa Catarina	17961992	<50	<50
 BR/Rio Grande do Sul	9841348	<50	<50
 AWS/us-west-2	22467468	<50	<50
+UZ/Tashkent	13298124	<50	<50
 IN/Delhi	34434858	<50	<50

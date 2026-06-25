@@ -1,12 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	28543466	80	60
+VPN	29182247	80	60
 AWS/us-east-1	11177934	<50	<50
-missing	68473306	240	120
+missing	58240096	220	100
 CN/Shanghai	15064566	<50	<50
-GitHub	31570863	180	<50
+GitHub	33848373	180	<50
 AWS/ap-southeast-1	4301932	<50	<50
 GCP/us-east1	4736029	<50	<50
-undetermined	8148118	<50	<50
+undetermined	15038809	<50	<50
 US/California	6636647	<50	<50
 GCP/asia-east1	4305334	<50	<50
 US/Illinois	2151473	<50	<50
@@ -19,5 +19,6 @@ US/Maryland	859072	<50	<50
 US/Massachusetts	4313897	<50	<50
 US/New York	429536	<50	<50
 AWS/us-west-2	4331875	<50	<50
+AWS/us-east-2	426228	<50	<50
 US/New Jersey	852456	<50	<50
 SG/Singapore	862957	<50	<50

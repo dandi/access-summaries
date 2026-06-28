@@ -1,23 +1,24 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	10358262309	20400	1260
-undetermined	1894743577	900	280
-AWS/us-east-1	196325988	<50	<50
-AWS/us-east-2	320594802	4240	<50
+missing	4724916233	13440	760
+VPN	5550748904	4200	480
+undetermined	2390408577	1000	340
+AWS/us-east-1	223745912	<50	<50
+AWS/us-east-2	322353458	4600	<50
 US/California	352662716	2200	<50
 US/Virginia	1363585926	3580	160
 AWS/us-west-2	63130876	<50	<50
 CH/Geneva	94040976	<50	<50
 JP/Tokyo	49001256	<50	<50
 CN/Shanghai	186101959	<50	<50
-GitHub	332920404	31280	80
+GitHub	372047412	33800	100
 TW/Taiwan	94040976	<50	<50
 AWS/ap-southeast-2	15673496	<50	<50
-VPN	411070864	160	40
+GCP/us-west1	236656024	<50	<50
 CN/Zhejiang	111268056	<50	<50
-GCP/us-central1	244423944	<50	<50
+GCP/us-central1	277324520	<50	<50
 IR/Tehran	61183232	<50	<50
 KR/Seoul	29793408	<50	<50
-GCP/asia-east1	141061464	<50	<50
+GCP/asia-east1	156734960	<50	<50
 GCP/us-east1	189635536	<50	<50
 US/North Carolina	56296176	<50	<50
 GCP/europe-west4	156734960	<50	<50
@@ -28,7 +29,6 @@ GB/England	80040448	<50	<50
 US/Pennsylvania	15673496	<50	<50
 AWS/ap-southeast-1	31191080	<50	<50
 JP/Osaka	29793408	<50	<50
-GCP/us-west1	220982528	<50	<50
 FR/Provence-Alpes-Côte d'Azur	31346992	<50	<50
 GCP/asia-southeast1	47020488	<50	<50
 CN/Beijing	62693984	<50	<50
@@ -43,6 +43,7 @@ DE/Saxony	15673496	<50	<50
 US/Michigan	43913320	<50	<50
 CA/British Columbia	15673496	<50	<50
 PT/Lisbon	31346992	<50	<50
+GCP/us-west4	17227080	<50	<50
 IL/Haifa	29793408	<50	<50
 US/Massachusetts	47020488	<50	<50
 BE/Flanders	15673496	<50	<50
@@ -69,7 +70,6 @@ DE/State of Berlin	15673496	<50	<50
 HK/Kwai Tsing District	15673496	<50	<50
 MX/Mexico City	6283880	<50	<50
 US/Arizona	410144	700	<50
-GCP/us-west4	1553584	<50	<50
 NL/North Brabant	1553584	<50	<50
 US/Texas	3517312	700	<50
 FR/Île-de-France	1553584	<50	<50

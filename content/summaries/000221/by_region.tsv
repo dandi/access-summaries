@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	33214895300	6240	1300
-undetermined	87072727528	7560	5020
-GitHub	12855689198	144060	2200
+AWS/us-east-1	33444973528	6260	1320
+undetermined	92477287228	7960	5400
+GitHub	14332469278	150780	2420
 US/Massachusetts	18463542200	1140	540
-VPN	21077393721	2120	1960
-AWS/us-east-2	4815226400	801220	<50
+VPN	25795544541	2420	2240
+AWS/us-east-2	4834495968	801220	<50
 NL/Flevoland	5802740973	360	360
-AWS/ap-southeast-1	5578169188	620	620
-missing	60128108064	54760	4480
+AWS/ap-southeast-1	5651543000	620	620
+missing	48157981820	47280	3560
 GB/England	3439844708	220	220
 US/California	7573281740	7360	360
 US/Virginia	12350914071	14500	840
@@ -27,7 +27,7 @@ MK/Grad Skopje	2307348	<50	<50
 GCP/us-west1	23534852	<50	<50
 VN/Ho Chi Minh City (HCMC)	375344164	<50	<50
 MX/Mexico City	150862652	240	60
-TN/Tunis Governorate	52168572	<50	<50
+TN/Tunis Governorate	53894036	<50	<50
 SG/Singapore	323518268	<50	<50
 ZA/Free State	11414608	<50	<50
 BR/Pernambuco	10230796	<50	<50
@@ -41,7 +41,7 @@ VN/Hanoi	147936508	<50	<50
 BR/Mato Grosso do Sul	16537892	<50	<50
 UZ/Tashkent	108733956	<50	<50
 BO/Santa Cruz Department	18637840	<50	<50
-CL/Santiago Metropolitan	90601112	<50	<50
+CL/Santiago Metropolitan	104404824	<50	<50
 IQ/Karbala	38255076	<50	<50
 US/Iowa	2103992	<50	<50
 US/Texas	96360644	2480	<50
@@ -57,7 +57,7 @@ US/Ohio	28219320	<50	<50
 CN/Guangdong	31497192	<50	<50
 CO/Antioquia	7233676	<50	<50
 IN/Delhi	15494572	<50	<50
-PK/Punjab	138199868	<50	<50
+PK/Punjab	139261692	<50	<50
 BR/Minas Gerais	67477668	<50	<50
 CO/Magdalena Department	9954600	<50	<50
 KE/Nairobi County	88849244	<50	<50
@@ -77,8 +77,8 @@ UY/Montevideo Department	31076164	<50	<50
 CA/Ontario	63130072	<50	<50
 AR/Santa Fe	22099212	<50	<50
 US/Tennessee	25682868	<50	<50
-BR/Bahia	11879156	<50	<50
-EC/Guayas	50901188	<50	<50
+BR/Bahia	13073708	<50	<50
+EC/Guayas	52029376	<50	<50
 DO/La Vega	4201324	<50	<50
 SA/Medina Region	4762412	<50	<50
 RU/Dagestan	9965796	<50	<50
@@ -104,7 +104,7 @@ US/North Carolina	101594480	<50	<50
 PY/Alto Paraná Department	37906012	<50	<50
 CO/Nariño	19643744	<50	<50
 IQ/Muthanna	9490052	<50	<50
-IQ/Duhok	9040792	<50	<50
+IQ/Duhok	18995392	<50	<50
 BD/Rangpur Division	5384552	<50	<50
 IN/Maharashtra	21336156	<50	<50
 IN/Karnataka	20494224	<50	<50
@@ -162,6 +162,7 @@ MX/Coahuila	8295500	<50	<50
 LB/Beirut	11281880	<50	<50
 MX/Zacatecas	13206436	<50	<50
 KW/Hawalli	13073708	<50	<50
+EG/Kafr el-Sheikh	6635628	<50	<50
 US/Georgia	178027920	<50	<50
 HR/Zagreb	11569112	<50	<50
 AR/Cordoba	7565496	<50	<50
@@ -256,6 +257,7 @@ NG/Lagos	4114568	<50	<50
 VN/Khanh Hoa	11613700	<50	<50
 VE/Guárico	6039124	<50	<50
 VE/Carabobo	9556416	<50	<50
+IN/Bihar	1061824	<50	<50
 DZ/El Oued	4114568	<50	<50
 CO/Atlántico	7565496	<50	<50
 EC/Loja	12287256	<50	<50
@@ -292,6 +294,7 @@ UA/Poltava	7910504	<50	<50
 DO/Puerto Plata	17321004	<50	<50
 BR/Amazonas	612600	<50	<50
 ID/North Sumatra	8560956	<50	<50
+VN/Hưng Yên Province	11348244	<50	<50
 ID/Riau	9622780	<50	<50
 RS/Vojvodina	11912468	<50	<50
 AU/New South Wales	24355588	<50	<50

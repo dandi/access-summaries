@@ -1,18 +1,18 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	53217623860	2300	2240
-GitHub	5409264772	18500	3040
-AWS/ap-southeast-1	734970232	340	340
+VPN	53336282376	2360	2300
+GitHub	6316112056	21200	3460
+AWS/ap-southeast-1	776181848	360	360
 GCP/us-west1	469785820	<50	<50
-missing	50385340548	18980	4600
-AWS/us-east-1	25280316808	5000	1440
+missing	48935357524	16060	3960
+AWS/us-east-1	25312032132	5020	1460
 US/California	45587513252	2780	580
 CN/Shanghai	58449541960	5040	940
+undetermined	44511571896	5480	2620
 SE/Västra Götaland	226796	<50	<50
 RU/Tomsk Oblast	226796	<50	<50
 US/Virginia	18740640032	3240	260
 GCP/us-central1	226796	<50	<50
 SG/Singapore	129388052	60	60
-undetermined	44173782744	5360	2500
 PK/Punjab	44865736	<50	<50
 US/Massachusetts	30662993876	860	<50
 GB/England	80035408	<50	<50
@@ -98,7 +98,7 @@ US/Louisiana	33625768	<50	<50
 NZ/Auckland	272348	<50	<50
 AE/Abu Dhabi	7478228	<50	<50
 US/New Jersey	62981124	<50	<50
-ID/East Java	219032	<50	<50
+ID/East Java	437768	<50	<50
 CN/Shanxi	979141916	120	<50
 DE/Hesse	371319356	<50	<50
 VN/Hai Phong	12304628	<50	<50
@@ -160,7 +160,7 @@ IN/Telangana	234320	<50	<50
 BR/Goiás	720084	<50	<50
 US/Delaware	452716	<50	<50
 JP/Kyoto	459575740	<50	<50
-BO/La Paz Department	17032080	<50	<50
+BO/La Paz Department	17255804	<50	<50
 EC/Pichincha	717668	<50	<50
 AR/Buenos Aires F.D.	484316	<50	<50
 VN/Hà Tĩnh Province	260036	<50	<50
@@ -183,7 +183,7 @@ KE/Nyeri County	214520	<50	<50
 IQ/Anbar	465880	<50	<50
 TW/Taiwan	465568	<50	<50
 JP/Tokyo	465568	<50	<50
-AWS/us-east-2	232784	<50	<50
+AWS/us-east-2	465568	<50	<50
 IN/Karnataka	230832	<50	<50
 XK/Pristina	223824	<50	<50
 US/Colorado	223824	<50	<50
@@ -211,6 +211,7 @@ ID/Central Java	222716	<50	<50
 JO/Irbid	222716	<50	<50
 BD/Khulna Division	214704	<50	<50
 VN/Thừa Thiên Huế Province	223344	<50	<50
+AE/Ajman	12839568	<50	<50
 NZ/Canterbury	10612296	<50	<50
 BY/Grodnenskaya	218736	<50	<50
 NZ/Manawatu-Wanganui	221024	<50	<50
@@ -219,6 +220,7 @@ DO/San Pedro de Macorís	218736	<50	<50
 US/Oklahoma	5917932	<50	<50
 DZ/Blida	8057484	<50	<50
 ID/Bali	246320	<50	<50
+LY/Al Marqab	246320	<50	<50
 LB/Nabatieh	6747324	<50	<50
 ZA/Eastern Cape	8778072	<50	<50
 IN/Rajasthan	18473256	<50	<50

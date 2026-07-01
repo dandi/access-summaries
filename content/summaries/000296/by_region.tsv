@@ -2,14 +2,14 @@ region	bytes_sent	number_of_requests	number_of_downloads
 MX/Mexico City	44181800103	46000	3940
 US/California	1048910255685	51980	1420
 CN/Shanxi	91411040450	10980	<50
-undetermined	2037051247083	31860	5080
-missing	500024701418	51740	9280
-VPN	1589674396403	10260	9980
+undetermined	2039263941750	32140	5320
+missing	492927803270	48840	8400
+VPN	1591136302587	10480	10180
 US/Massachusetts	738653493443	15360	<50
-AWS/us-east-1	812912704298	99400	4780
+AWS/us-east-1	813529593134	99460	4840
 US/Minnesota	11592676616	1400	<50
-AWS/ap-southeast-1	14381167764	1260	1260
-GitHub	63143837424	69880	8220
+AWS/ap-southeast-1	14524957824	1280	1280
+GitHub	65725047356	72160	8560
 CN/Shanghai	1201968480136	96400	<50
 NL/Flevoland	508719725584	880	880
 AWS/us-west-2	4456193271	5360	1280
@@ -28,14 +28,14 @@ CA/Quebec	31705872	<50	<50
 UY/Montevideo Department	22076197	<50	<50
 FR/Île-de-France	8254008	<50	<50
 MY/Kuala Lumpur	55616292	<50	<50
-AR/Buenos Aires	33867636	<50	<50
+AR/Buenos Aires	35243304	<50	<50
 CN/Beijing	485676313	<50	<50
 ID/East Java	8057484	<50	<50
 GB/England	873341083	<50	<50
 GCP/us-central1	17360219606	<50	<50
-AWS/us-east-2	153981172	2400	<50
+AWS/us-east-2	170191801	2400	<50
 US/Wyoming	55247586	<50	<50
-BR/São Paulo	133374288	<50	<50
+BR/São Paulo	136322148	<50	<50
 KG/Bishkek	10153740	<50	<50
 BR/Pernambuco	20504004	<50	<50
 RU/Kaluga Oblast	9105612	<50	<50
@@ -58,27 +58,30 @@ AR/Corrientes	30657744	<50	<50
 XK/Pristina	1375668	<50	<50
 CA/Manitoba	13036092	<50	<50
 VN/Quảng Ninh	10874328	<50	<50
-BR/Rio Grande do Sul	17359620	<50	<50
+BR/Rio Grande do Sul	18931812	<50	<50
 IQ/Erbil	1	<50	<50
 US/Mississippi	23713896	<50	<50
 IE/Leinster	47362284	<50	<50
+BD/Rajshahi Division	4127004	<50	<50
 OM/Muscat	10153740	<50	<50
 US/Michigan	38453196	<50	<50
 GB/Scotland	51161748	<50	<50
+NI/Managua Department	1179144	<50	<50
 US/Connecticut	698037668	<50	<50
 NZ/Canterbury	21290100	<50	<50
 IE/Munster	9826200	<50	<50
+EC/Pichincha	27840900	<50	<50
 IN/Punjab	14870316	<50	<50
 US/Georgia	19652400	<50	<50
 US/Pennsylvania	8581548	<50	<50
 VN/Thai Nguyen	5764704	<50	<50
 BY/Brest	16966572	<50	<50
 TR/Hatay	6681816	<50	<50
-BR/Rio de Janeiro	871534260	<50	<50
+BR/Rio de Janeiro	872909928	<50	<50
 RU/Dagestan	8516040	<50	<50
 JO/Amman	42187152	<50	<50
 KE/Nairobi County	22207213	<50	<50
-IQ/Nineveh	33278064	<50	<50
+IQ/Nineveh	36356940	<50	<50
 MA/Casablanca-Settat	57581532	<50	<50
 CL/Santiago Metropolitan	35701860	<50	<50
 BR/Minas Gerais	50637685	<50	<50
@@ -89,8 +92,8 @@ RU/Primorye	28037424	<50	<50
 BD/Dhaka Division	35439828	<50	<50
 AM/Shirak	6878340	<50	<50
 GY/Demerara-Mahaica	13101600	<50	<50
-ZA/Western Cape	11070852	<50	<50
-VN/Hai Phong	9826200	<50	<50
+ZA/Western Cape	12118980	<50	<50
+VN/Hai Phong	19128336	<50	<50
 ML/Bamako	9695184	<50	<50
 NP/Bagmati Province	24499992	<50	<50
 TN/Tunis Governorate	20766036	<50	<50
@@ -106,10 +109,11 @@ US/Iowa	632516026	<50	<50
 BR/Maranhão	11987964	<50	<50
 UZ/Tashkent	24172453	<50	<50
 UA/Kharkiv	1506684	<50	<50
+DO/Santiago Province	10874328	<50	<50
+SY/Damascus Governorate	5895720	<50	<50
 AR/Salta	11201868	<50	<50
 HK/Hong Kong	94069489	<50	<50
 IN/Gujarat	20372988	<50	<50
-EC/Pichincha	23058816	<50	<50
 MA/Marrakesh-Safi	851604	<50	<50
 PT/Beja	1113636	<50	<50
 IN/Delhi	236023756	<50	<50
@@ -125,15 +129,16 @@ CR/Alajuela Province	12512028	<50	<50
 VN/Dong Nai	647477088	<50	<50
 TR/Konya	1	<50	<50
 CH/Zurich	443483591	<50	<50
+VN/Phu Tho	22338228	<50	<50
 BR/Federal District	12249996	<50	<50
 ID/Aceh	4127004	<50	<50
 CG/Pointe-Noire	4127004	<50	<50
 CO/Antioquia	868513865	<50	<50
 JO/Irbid	10415772	<50	<50
+CO/Bogota D.C.	11594916	<50	<50
 TR/Yozgat	4061496	<50	<50
 AU/Western Australia	11398392	<50	<50
 IQ/Babil	8647056	<50	<50
-VN/Phu Tho	11594916	<50	<50
 AR/Formosa	8122992	<50	<50
 MA/Fes-Meknes	25351596	<50	<50
 CO/Santander Department	1	<50	<50
@@ -150,7 +155,6 @@ IR/Tehran	7991976	<50	<50
 EG/Sharqia	12839568	<50	<50
 NZ/Wellington Region	10219248	<50	<50
 VN/Thanh Hóa Province	13887696	<50	<50
-CO/Bogota D.C.	8778072	<50	<50
 IN/Assam	7533420	<50	<50
 AU/Queensland	18145716	<50	<50
 BR/Pará	1	<50	<50
@@ -161,6 +165,7 @@ MA/Rabat-Salé-Kénitra	11529408	<50	<50
 AE/Dubai	9891708	<50	<50
 ID/Jakarta	6747324	<50	<50
 VN/Tuyen Quang	11070852	<50	<50
+LK/Western Province	2030748	<50	<50
 AU/Victoria	18604272	<50	<50
 KZ/Atyrau Oblisi	8122992	<50	<50
 PK/Islamabad	9695184	<50	<50
@@ -180,6 +185,7 @@ SV/La Libertad Department	11594916	<50	<50
 KZ/Kostanay	1	<50	<50
 US/Nevada	1	<50	<50
 BR/Paraná	9236628	<50	<50
+NL/North Holland	1048128	<50	<50
 UA/Vinnytsia	1	<50	<50
 HN/Francisco Morazán Department	13363632	<50	<50
 IN/Uttar Pradesh	1	<50	<50

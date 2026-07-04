@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	94367490	120	80
-missing	4605829249	39680	1900
+VPN	96615836	120	80
+missing	4556647967	33520	1880
 undetermined	834992424	2900	360
-GitHub	405024211	85720	220
+GitHub	427273642	91060	240
 US/Iowa	3823480	<50	<50
 US/Virginia	66316375	7240	<50
-AWS/ap-southeast-1	8446031	<50	<50
+AWS/ap-southeast-1	9570204	<50	<50
 US/California	41495514	3900	<50
 AWS/us-west-2	49269411	220	<50
 US/Texas	4485548	1560	<50
-AWS/us-east-1	103068413	80	<50
+AWS/us-east-1	116833285	100	60
 US/New York	51731569	520	<50
 NL/Flevoland	10003490	<50	<50
 CN/Shanghai	27964354	<50	<50
@@ -17,14 +17,15 @@ CN/Beijing	27529744	<50	<50
 US/New Jersey	31276296	<50	<50
 US/Massachusetts	13737843	<50	<50
 CA/Ontario	23704533	<50	<50
-AWS/us-east-2	32819110	6300	<50
+AWS/us-east-2	33210534	7080	<50
 US/Washington	13764872	<50	<50
 MX/Mexico City	50169548	200	<50
 CH/Vaud	3263024	<50	<50
 CN/Shanxi	1035492	<50	<50
-US/Illinois	2127509	<50	<50
+US/Illinois	4627180	<50	<50
 US/South Carolina	1151202	<50	<50
-GCP/us-central1	24651764	<50	<50
+US/Wisconsin	3257360	<50	<50
+GCP/us-central1	25775937	<50	<50
 GB/England	6215199	<50	<50
 SG/Singapore	1215857	<50	<50
 IN/Maharashtra	7499013	<50	<50
@@ -32,5 +33,7 @@ HU/Csongrád	2499671	<50	<50
 IR/Tehran	2499671	<50	<50
 CH/Zurich	2499671	<50	<50
 DE/Lower Saxony	2499671	<50	<50
+TR/Istanbul	1393644	<50	<50
+UY/Montevideo Department	1128188	<50	<50
 JP/Tokyo	1873276	<50	<50
 US/Arizona	782848	1560	<50

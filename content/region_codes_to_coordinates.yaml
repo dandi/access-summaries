@@ -19,6 +19,21 @@ AE/Sharjah:
 AE/Umm Al Quwain:
   latitude: 25.5144944
   longitude: 55.718292
+AF/Faryab:
+  latitude: 35.6481166
+  longitude: 64.8808667
+AF/Helmand:
+  latitude: 31.0
+  longitude: 64.0
+AF/Kabul:
+  latitude: 34.5269503
+  longitude: 69.1850584
+AF/Kunduz:
+  latitude: 36.8707187
+  longitude: 68.7563528
+AF/Nangarhar:
+  latitude: 34.220389
+  longitude: 70.3800314
 AG/Saint John Parish:
   latitude: 45.2498835
   longitude: -66.0785948
@@ -70,6 +85,9 @@ AM/Ararat:
 AM/Armavir:
   latitude: 40.1556494
   longitude: 44.038797
+AM/Gegharkunik:
+  latitude: 40.3030726
+  longitude: 45.375739
 AM/Kotayk:
   latitude: 40.370707
   longitude: 44.6884739
@@ -307,9 +325,15 @@ AZ/Baki:
 AZ/Barda:
   latitude: 40.3812457
   longitude: 47.1246287
+AZ/Goranboy District:
+  latitude: 40.6035723
+  longitude: 46.7073906
 "AZ/G\u01DDnc\u01DD":
   latitude: 40.6798083
   longitude: 46.3597178
+AZ/Masally:
+  latitude: 39.0322111
+  longitude: 48.6721093
 AZ/Mingacevir City:
   latitude: 40.7698412
   longitude: 47.0554009
@@ -454,6 +478,9 @@ BG/Veliko Tarnovo:
 BG/Vratsa:
   latitude: 43.400307
   longitude: 23.716675
+BG/Yambol:
+  latitude: 42.311889
+  longitude: 26.5636852
 BH/Manama:
   latitude: 26.2235041
   longitude: 50.5822436
@@ -469,6 +496,9 @@ BH/Southern Governorate:
 BI/Bujumbura Mairie:
   latitude: -3.3493959
   longitude: 29.3631843
+BJ/Atlantique:
+  latitude: 6.540829
+  longitude: 2.223095
 BJ/Littoral:
   latitude: 6.3663195
   longitude: 2.4170608
@@ -595,6 +625,9 @@ BR/Tocantins:
 BS/Freeport:
   latitude: 26.535681
   longitude: -78.6953623
+"BS/Moore\u2019s Island":
+  latitude: 26.266031
+  longitude: -77.6183426
 BS/New Providence:
   latitude: 25.1943588
   longitude: -77.2953297
@@ -616,6 +649,9 @@ BT/Punakha:
 BT/Thimphu District:
   latitude: 27.5583211
   longitude: 89.5524789
+BT/Trashi Yangste:
+  latitude: 27.58468
+  longitude: 91.45466
 BW/Central:
   latitude: -21.4790187
   longitude: 26.2154174
@@ -700,6 +736,9 @@ CD/Haut-Katanga:
 CD/Kinshasa:
   latitude: -4.3196982
   longitude: 15.3424196
+CD/North Kivu:
+  latitude: -0.5645647
+  longitude: 28.7061945
 CG/Brazzaville:
   latitude: -4.2694407
   longitude: 15.2712256
@@ -760,6 +799,9 @@ CH/Zug:
 CH/Zurich:
   latitude: 47.3744489
   longitude: 8.5410422
+CI/Bas-Sassandra District:
+  latitude: 4.7447892
+  longitude: -6.6377887
 CI/Lacs District:
   latitude: 7.0523847
   longitude: -4.4419131
@@ -829,9 +871,15 @@ CL/Valparaiso:
 CM/Centre:
   latitude: 4.686267
   longitude: 11.9414512
+CM/East:
+  latitude: 3.9894393
+  longitude: 14.178373
 CM/Littoral:
   latitude: 4.203033
   longitude: 10.0563057
+CM/North:
+  latitude: 8.7712794
+  longitude: 13.7803627
 CM/South-West:
   latitude: 5.3356587
   longitude: 100.2389496
@@ -952,6 +1000,9 @@ CO/Cauca Department:
 CO/Cesar Department:
   latitude: -15.0527816
   longitude: -74.8941218
+"CO/Choc\xF3":
+  latitude: 6.0000085
+  longitude: -77.0000086
 CO/Cundinamarca:
   latitude: 5.1096596
   longitude: -74.0995854
@@ -1012,6 +1063,9 @@ CR/Puntarenas Province:
 CU/Havana:
   latitude: 23.135305
   longitude: -82.3589631
+CV/Praia:
+  latitude: 14.9162811
+  longitude: -23.5095095
 CW/Curacao:
   latitude: 12.2135136
   longitude: -69.040892
@@ -1159,6 +1213,9 @@ DK/South Denmark:
 DK/Zealand:
   latitude: 55.5455979
   longitude: 11.6973741
+DM/Saint Patrick Parish:
+  latitude: 15.2770426
+  longitude: -61.2964775
 "DO/Dajab\xF3n":
   latitude: 19.4366635
   longitude: -71.5703737
@@ -1213,6 +1270,9 @@ DZ/Annaba:
 DZ/Batna:
   latitude: 35.3384291
   longitude: 5.7315453
+DZ/Biskra:
+  latitude: 34.8508816
+  longitude: 5.729074
 DZ/Blida:
   latitude: 36.4705658
   longitude: 2.8274937
@@ -1252,6 +1312,9 @@ DZ/Jijel:
 DZ/Khenchela:
   latitude: 34.9133455
   longitude: 6.9059431
+DZ/Laghouat:
+  latitude: 33.7171891
+  longitude: 2.8568059
 DZ/M'Sila:
   latitude: 35.1300205
   longitude: 4.2003107
@@ -1465,6 +1528,9 @@ ES/La Rioja:
 ES/Madrid:
   latitude: 40.416782
   longitude: -3.703507
+ES/Melilla:
+  latitude: 35.2918698
+  longitude: -2.9409026
 ES/Murcia:
   latitude: 37.9923795
   longitude: -1.1305431
@@ -1480,6 +1546,9 @@ ET/Addis Ababa:
 ET/Amhara:
   latitude: 11.5
   longitude: 38.5
+"ET/B\u012Bnshangul Gumuz":
+  latitude: 11.0
+  longitude: 35.5
 ET/Central Ethiopia Regional State:
   latitude: 7.753
   longitude: 37.7545421
@@ -1501,6 +1570,9 @@ ET/South Ethiopia Regional State:
 ET/Tigray:
   latitude: 13.881273
   longitude: 39.127495
+FI/Central Finland:
+  latitude: 62.6093658
+  longitude: 25.579461
 FI/North Ostrobothnia:
   latitude: 64.9521512
   longitude: 25.6968812
@@ -1585,6 +1657,9 @@ GA/Estuaire:
 "GA/Ogoou\xE9-Maritime":
   latitude: -1.4958157
   longitude: 9.5060896
+GA/Woleu-Ntem:
+  latitude: 1.2950125
+  longitude: 11.8218827
 GB/England:
   latitude: 52.5310214
   longitude: -1.2649062
@@ -1618,6 +1693,9 @@ GCP/australia-southeast1:
 GCP/europe-central2:
   latitude: '52.2298'
   longitude: '21.0118'
+GCP/europe-southwest1:
+  latitude: '40.4165'
+  longitude: '-3.7026'
 GCP/europe-west1:
   latitude: '50.8505'
   longitude: '4.3488'
@@ -1690,21 +1768,33 @@ GE/Mtskheta-Mtianeti:
 GE/Samegrelo and Zemo Svaneti:
   latitude: 42.866527
   longitude: 43.0714493
+GE/Samtskhe-Javakheti:
+  latitude: 41.5337066
+  longitude: 43.3495406
 GE/Shida Kartli:
   latitude: 41.9872948
   longitude: 43.9828995
 GE/Tbilisi:
   latitude: 41.6934591
   longitude: 44.8014495
+GF/Guyane:
+  latitude: 4.0039882
+  longitude: -52.999998
 GH/Ashanti:
   latitude: 6.8003319
   longitude: -1.5188142
 GH/Greater Accra:
   latitude: 5.8101532
   longitude: 0.0995242
+GI/Gibraltar:
+  latitude: 36.140807
+  longitude: -5.3541295
 GM/Western:
   latitude: 13.258513
   longitude: -16.4999051
+GN/Conakry:
+  latitude: 9.5170602
+  longitude: -13.6998434
 GN/Kindia:
   latitude: 10.1154374
   longitude: -13.1916883
@@ -1879,6 +1969,9 @@ HN/Bay Islands:
 "HN/Santa B\xE1rbara Department":
   latitude: 4.8604619
   longitude: -74.2478019
+HN/Valle Department:
+  latitude: -5.689161
+  longitude: -77.5195178
 HR/Brod-Posavina:
   latitude: 45.1581062
   longitude: 18.3958732
@@ -2287,6 +2380,9 @@ IR/East Azerbaijan:
 IR/Fars:
   latitude: 29.2051447
   longitude: 53.4327752
+IR/Gilan Province:
+  latitude: 37.1515627
+  longitude: 49.6389743
 IR/Hamadan Province:
   latitude: 34.9726302
   longitude: 48.6563818
@@ -2317,6 +2413,9 @@ IS/Capital Region:
 IS/Southern Peninsula:
   latitude: 63.9415014
   longitude: -22.2018627
+IT/Abruzzo:
+  latitude: 42.227681
+  longitude: 13.854983
 IT/Apulia:
   latitude: 40.9842539
   longitude: 16.6210027
@@ -2371,6 +2470,9 @@ JE/St Helier:
 JM/Clarendon:
   latitude: 17.9518525
   longitude: -77.2719277
+JM/Hanover:
+  latitude: 18.3850653
+  longitude: -78.130993
 JM/Kingston:
   latitude: 17.9712148
   longitude: -76.7928128
@@ -2599,6 +2701,9 @@ KE/Nairobi County:
 KE/Nakuru County:
   latitude: -0.2954255
   longitude: 36.0791281
+KE/Nandi:
+  latitude: 0.2253933
+  longitude: 35.1244929
 KE/Nyandarua County:
   latitude: -0.2978723
   longitude: 36.3766966
@@ -2611,6 +2716,9 @@ KE/Samburu County:
 KE/Taita Taveta:
   latitude: -3.4178355
   longitude: 38.3670676
+KE/Tana River County:
+  latitude: -1.5365119
+  longitude: 39.5508374
 KE/Tharaka - Nithi:
   latitude: -0.1937081
   longitude: 37.961405
@@ -2644,6 +2752,9 @@ KH/Banteay Meanchey:
 KH/Battambang:
   latitude: 12.9256791
   longitude: 103.2317136
+KH/Kampong Chhnang:
+  latitude: 12.1382025
+  longitude: 104.3354098
 KH/Kampong Thom:
   latitude: 12.6687923
   longitude: 104.8879197
@@ -2656,6 +2767,9 @@ KH/Siem Reap:
 KH/Svay Rieng:
   latitude: 11.1950082
   longitude: 105.7967967
+KH/Takeo:
+  latitude: 10.9358547
+  longitude: 104.7796413
 KN/Saint George Basseterre:
   latitude: 17.2391544
   longitude: -62.6424082
@@ -2890,6 +3004,9 @@ LK/Western Province:
 LR/Bong County:
   latitude: 6.9622195
   longitude: -9.7134459
+LR/Montserrado County:
+  latitude: 6.4095537
+  longitude: -10.6059403
 LS/Maseru District:
   latitude: -29.5816942
   longitude: 27.8243208
@@ -2935,6 +3052,9 @@ LY/Al Jabal al Akhdar:
 "LY/Al Jabal al Akh\u1E11ar":
   latitude: 32.4874119
   longitude: 21.7089729
+LY/Al Jafarah:
+  latitude: 32.6859736
+  longitude: 13.1764996
 "LY/Al Jaf\u0101rah":
   latitude: 32.6859736
   longitude: 13.1764996
@@ -2947,6 +3067,9 @@ LY/Al Marqab:
 "LY/Al W\u0101\u1E29\u0101t":
   latitude: 29.1573123
   longitude: 21.7496392
+LY/An Nuqat al Khams:
+  latitude: 32.7177153
+  longitude: 11.9896415
 LY/Az Zawiyah:
   latitude: 32.3787032
   longitude: 12.5214934
@@ -2974,6 +3097,9 @@ LY/Misratah:
 "LY/N\u0101l\u016Bt":
   latitude: 30.6131484
   longitude: 10.6709595
+LY/Sabha District:
+  latitude: 26.9956212
+  longitude: 15.1065417
 LY/Tripoli:
   latitude: 32.896672
   longitude: 13.1777923
@@ -3001,6 +3127,9 @@ MA/Laayoune-Sakia El Hamra:
 MA/Marrakesh-Safi:
   latitude: 31.6048574
   longitude: -8.3654032
+MA/Morocco:
+  latitude: 32.0
+  longitude: -6.0
 MA/Oriental:
   latitude: 33.3202138
   longitude: -2.4238471
@@ -3052,6 +3181,9 @@ MD/Drochia:
 MD/Gagauzia:
   latitude: 46.2070204
   longitude: 28.7636281
+MD/Glodeni:
+  latitude: 47.7744001
+  longitude: 27.50441
 MD/Orhei:
   latitude: 47.3681328
   longitude: 28.8271393
@@ -3103,6 +3235,9 @@ MG/Atsinanana:
 MG/Upper Matsiatra:
   latitude: -21.37
   longitude: 46.5
+MK/Berovo:
+  latitude: 41.706668
+  longitude: 22.8535559
 MK/Bitola:
   latitude: 41.0316005
   longitude: 21.3302511
@@ -3133,6 +3268,9 @@ MK/Veles:
 ML/Bamako:
   latitude: 12.649319
   longitude: -8.000337
+"ML/S\xE9gou":
+  latitude: 13.441518
+  longitude: -6.268147
 MM/Bago Region:
   latitude: 18.2457067
   longitude: 96.1004931
@@ -3184,6 +3322,9 @@ MT/Birkirkara:
 MT/Il-Fgura:
   latitude: 35.8728325
   longitude: 14.520799
+MT/L-Imsida:
+  latitude: 35.8956943
+  longitude: 14.4891829
 "MT/Saint Paul\u2019s Bay":
   latitude: 35.9480742
   longitude: 14.3973929
@@ -3367,6 +3508,9 @@ MZ/Sofala:
 NA/Khomas Region:
   latitude: -22.9082553
   longitude: 17.09198
+NA/Oshana Region:
+  latitude: -18.4702308
+  longitude: 15.7434419
 NA/Oshikoto Region:
   latitude: -18.5464046
   longitude: 17.1019606
@@ -3400,6 +3544,9 @@ NG/FCT:
 NG/Jigawa State:
   latitude: 12.3252362
   longitude: 9.5103296
+NG/Kano State:
+  latitude: 11.8948389
+  longitude: 8.5364136
 NG/Lagos:
   latitude: 6.4550575
   longitude: 3.3941795
@@ -3511,6 +3658,9 @@ NP/Bagmati Province:
 NP/Gandaki Pradesh:
   latitude: 28.2017155
   longitude: 84.2535946
+NP/Karnali Pradesh:
+  latitude: 29.1839388
+  longitude: 82.3184966
 NP/Koshi:
   latitude: 26.5602871
   longitude: 87.0066582
@@ -3571,6 +3721,9 @@ OM/Al Batinah North:
 OM/Al Batinah South:
   latitude: 23.4996465
   longitude: 57.6132211
+OM/Al Buraimi:
+  latitude: 24.3093078
+  longitude: 56.0020445
 OM/Dhofar:
   latitude: 18.3999896
   longitude: 54.2164111
@@ -3808,6 +3961,9 @@ PR/Cidra:
 PR/Humacao:
   latitude: 18.1380738
   longitude: -65.8196369
+PR/Isabela:
+  latitude: 18.4457016
+  longitude: -67.0053003
 PR/Orocovis:
   latitude: 18.2206007
   longitude: -66.4345612
@@ -4039,6 +4195,9 @@ RO/Teleorman County:
 "RO/Timi\u0219 County":
   latitude: 45.7527773
   longitude: 22.1245766
+RO/Tulcea County:
+  latitude: 45.16667
+  longitude: 28.8
 RO/Vaslui County:
   latitude: 46.6386756
   longitude: 27.7305596
@@ -4054,6 +4213,9 @@ RS/Central Serbia:
 RS/Vojvodina:
   latitude: 45.4831323
   longitude: 19.9918584
+RU/Adygeya Republic:
+  latitude: 45.0131708
+  longitude: 38.9295655
 RU/Altai:
   latitude: 50.7114101
   longitude: 86.8572186
@@ -4099,9 +4261,15 @@ RU/Irkutsk Oblast:
 RU/Ivanovo Oblast:
   latitude: 56.9167446
   longitude: 41.4352137
+RU/Kabardino-Balkariya Republic:
+  latitude: 43.4763175
+  longitude: 43.5827903
 RU/Kaliningrad Oblast:
   latitude: 54.7293041
   longitude: 21.1489473
+RU/Kalmykiya Republic:
+  latitude: 46.2855858
+  longitude: 46.8072798
 RU/Kaluga Oblast:
   latitude: 54.4382773
   longitude: 35.5272854
@@ -4150,6 +4318,9 @@ RU/Leningradskaya Oblast':
 RU/Lipetsk Oblast:
   latitude: 52.6935178
   longitude: 39.1122664
+RU/Magadan Oblast:
+  latitude: 63.5515028
+  longitude: 154.014726
 RU/Mariy-El Republic:
   latitude: 56.6279239
   longitude: 47.9300263
@@ -4261,6 +4432,9 @@ RU/Vologda Oblast:
 RU/Voronezh Oblast:
   latitude: 50.9800393
   longitude: 40.1506507
+RU/Yamalo-Nenets:
+  latitude: 67.1471631
+  longitude: 74.3415488
 RU/Yaroslavl Oblast:
   latitude: 57.7781976
   longitude: 39.0021095
@@ -4291,12 +4465,21 @@ SA/Mecca Region:
 SA/Medina Region:
   latitude: 25.1354363
   longitude: 39.162594
+SA/Najran Region:
+  latitude: 18.0
+  longitude: 45.666667
 SA/Riyadh Region:
   latitude: 23.333333
   longitude: 45.333333
 SA/Tabuk Region:
   latitude: 7.855041
   longitude: 124.9716025
+SC/Glacis:
+  latitude: -4.583654
+  longitude: 55.4345526
+"SC/La Rivi\xE8re Anglaise":
+  latitude: -4.61176
+  longitude: 55.45409
 SD/Al Jazirah:
   latitude: 14.6671537
   longitude: 33.222361
@@ -4366,6 +4549,9 @@ SI/Municipality of Bled:
 "SI/Municipality of La\u0161ko":
   latitude: 46.15463
   longitude: 15.23555
+"SI/Municipality of \u017Dalec":
+  latitude: 46.25151
+  longitude: 15.16482
 SI/Urban Municipality of Koper:
   latitude: 45.54694
   longitude: 13.72944
@@ -4381,6 +4567,9 @@ SI/Urban Municipality of Murska Sobota:
 SI/Urban Municipality of Nova Gorica:
   latitude: 45.95604
   longitude: 13.64837
+SI/Urban Municipality of Slovenj Gradec:
+  latitude: 46.51028
+  longitude: 15.08056
 "SI/\u0160kofja Loka":
   latitude: 46.165274
   longitude: 14.3067474
@@ -4438,9 +4627,18 @@ SN/Thies:
 SO/Banaadir:
   latitude: 2.0783351
   longitude: 45.2805421
+SO/Lower Shabeelle:
+  latitude: 1.6512444
+  longitude: 44.3036152
 SO/Nugaal:
   latitude: 8.16698
   longitude: 48.9978971
+SO/Woqooyi Galbeed:
+  latitude: 9.5051825
+  longitude: 44.0731432
+SR/Commewijne District:
+  latitude: 5.8886395
+  longitude: -55.092331
 SR/Marowijne District:
   latitude: 5.5003198
   longitude: -54.0543999
@@ -4462,6 +4660,9 @@ SV/Ahuachapan:
 SV/La Libertad Department:
   latitude: -27.33333
   longitude: -59.33333
+SV/La Paz Department:
+  latitude: -33.66667
+  longitude: -67.25
 SV/San Miguel Department:
   latitude: -27.91667
   longitude: -57.5
@@ -4672,6 +4873,9 @@ TN/Ben Arous Governorate:
 TN/Bizerte Governorate:
   latitude: 37.0354339
   longitude: 9.6393259
+"TN/Gab\xE8s Governorate":
+  latitude: 33.7765032
+  longitude: 9.793063
 TN/Gafsa:
   latitude: 34.4224374
   longitude: 8.7843862
@@ -4693,6 +4897,9 @@ TN/Nabeul Governorate:
 TN/Sfax Governorate:
   latitude: 34.7232387
   longitude: 10.3358474
+TN/Sidi Bouzid Governorate:
+  latitude: 34.881181
+  longitude: 9.5263598
 TN/Sousse Governorate:
   latitude: 35.8939852
   longitude: 10.3977704
@@ -4759,6 +4966,9 @@ TR/Edirne:
 "TR/Elaz\u0131\u011F":
   latitude: 38.5824771
   longitude: 39.396179
+TR/Erzincan:
+  latitude: 39.6073429
+  longitude: 39.2013209
 TR/Erzurum:
   latitude: 39.90632
   longitude: 41.2727715
@@ -4834,6 +5044,9 @@ TR/Mersin:
 "TR/Mu\u011Fla":
   latitude: 37.1642053
   longitude: 28.2624288
+"TR/Mu\u015F":
+  latitude: 38.9740786
+  longitude: 41.9590433
 TR/Ordu:
   latitude: 40.8292569
   longitude: 37.4082764
@@ -4876,6 +5089,9 @@ TR/Yalova:
 TR/Yozgat:
   latitude: 39.7152422
   longitude: 35.170998
+"TR/\xC7ank\u0131r\u0131":
+  latitude: 40.6667691
+  longitude: 33.4526069
 "TR/\xC7orum":
   latitude: 40.5698389
   longitude: 34.7269292
@@ -4942,6 +5158,21 @@ TW/Takao:
 TZ/Dar es Salaam Region:
   latitude: -6.7620079
   longitude: 39.2677372
+TZ/Dodoma:
+  latitude: -6.1791181
+  longitude: 35.7468174
+TZ/Geita:
+  latitude: -3.1865265
+  longitude: 32.0855702
+TZ/Iringa:
+  latitude: -7.7742718
+  longitude: 35.4826339
+TZ/Kigoma:
+  latitude: -4.5126571
+  longitude: 30.0050533
+TZ/Mwanza:
+  latitude: -2.5196915
+  longitude: 32.9014417
 TZ/Zanzibar Urban/West:
   latitude: -6.1653854
   longitude: 39.2386951
@@ -5278,6 +5509,9 @@ VE/Carabobo:
 VE/Cojedes:
   latitude: 9.3336638
   longitude: -68.3503676
+VE/Delta Amacuro:
+  latitude: 8.7939846
+  longitude: -61.3232805
 VE/Distrito Federal:
   latitude: 10.4658389
   longitude: -66.9949964
@@ -5323,6 +5557,9 @@ VE/Yaracuy:
 VE/Zulia:
   latitude: 9.8910697
   longitude: -72.087479
+VG/British Virgin Islands:
+  latitude: 18.4768029
+  longitude: -64.5708573
 VI/Saint Thomas Island:
   latitude: 18.3180435
   longitude: -64.9539234
@@ -5503,6 +5740,9 @@ ZM/Eastern Province:
 ZM/Lusaka Province:
   latitude: -15.357609
   longitude: 29.1653092
+ZM/Southern Province:
+  latitude: -16.5381715
+  longitude: 26.7374997
 ZW/Bulawayo:
   latitude: -20.1053948
   longitude: 28.5426856

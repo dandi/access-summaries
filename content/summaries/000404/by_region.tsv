@@ -1,32 +1,35 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	26707204180	9060	2940
+VPN	26975547224	9140	2960
 undetermined	12292649144	1440	240
-GitHub	1927467124	41860	360
+GitHub	2589167112	44520	460
 AWS/us-east-1	3744578544	580	60
-missing	11328128464	13640	640
+missing	7845806576	11140	560
 CN/Shanghai	2198994084	200	<50
 CN/Guangdong	815369192	<50	<50
-AWS/ap-southeast-1	123089532	<50	<50
+AWS/ap-southeast-1	136911720	<50	<50
 US/California	3660601912	1560	<50
 GCP/us-east1	1145892200	<50	<50
 US/Virginia	759012248	3060	<50
-GCP/us-central1	3870611080	60	60
+GCP/us-central1	4342975216	60	60
+IL/Central District	1080515032	<50	<50
 GCP/us-west1	1145892200	<50	<50
 HK/Hong Kong	201620224	<50	<50
 AWS/us-west-2	86802244	200	<50
 US/Tennessee	1046740856	<50	<50
-US/Massachusetts	2336167276	<50	<50
+US/Massachusetts	3382908132	60	<50
 PT/Lisbon	1985650728	60	<50
 IR/Tehran	855179740	<50	<50
-US/Washington	1419625744	<50	<50
+US/Washington	2438705972	<50	<50
 US/Michigan	160699020	<50	<50
 US/Illinois	75240420	<50	<50
 MX/Mexico City	38518820	140	<50
+DE/North Rhine-Westphalia	18028864	<50	<50
 KE/Nairobi County	1048128	<50	<50
+VN/Thanh Hóa Province	851604	<50	<50
 UZ/Tashkent	10415772	<50	<50
 US/Florida	196275620	<50	<50
 CH/Geneva	47605112	<50	<50
-BR/São Paulo	14673792	<50	<50
+BR/São Paulo	24893040	<50	<50
 CA/Quebec	537630868	<50	<50
 DE/State of Berlin	47605112	<50	<50
 US/South Carolina	148700072	<50	<50
@@ -36,16 +39,17 @@ VN/Da Nang City	9891708	<50	<50
 CN/Shanxi	16887088	<50	<50
 CH/Bern	131496824	<50	<50
 CH/Vaud	4226316	<50	<50
+US/Ohio	2489368	<50	<50
 SG/Singapore	89451876	<50	<50
 RU/Moscow	15328872	<50	<50
 AR/Santiago del Estero	6288768	<50	<50
 CL/Santiago Metropolitan	13756680	<50	<50
+AWS/us-east-2	971006376	3020	<50
 US/Arizona	92162016	720	<50
 CR/San José	14804808	<50	<50
 MA/Casablanca-Settat	10153740	<50	<50
 ZA/Gauteng	13625664	<50	<50
 PK/Khyber Pakhtunkhwa	12315504	<50	<50
-AWS/us-east-2	677364808	3020	<50
 US/Texas	684176	720	<50
 US/New Jersey	923567976	260	<50
 JP/Tokyo	7873252	<50	<50
@@ -55,7 +59,9 @@ US/Pennsylvania	8254008	<50	<50
 US/New York	36881004	<50	<50
 PK/Punjab	11463900	<50	<50
 IQ/Nineveh	9891708	<50	<50
+JO/Zarqa	9105612	<50	<50
 CA/Ontario	14280744	<50	<50
+NP/Bagmati Province	1048128	<50	<50
 VN/Ho Chi Minh City (HCMC)	8319516	<50	<50
 BR/Minas Gerais	14935824	<50	<50
 ZA/Western Cape	7991976	<50	<50

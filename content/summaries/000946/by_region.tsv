@@ -1,16 +1,16 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 US/Massachusetts	69423378304	2420	<50
-AWS/us-east-1	66574618520	10560	5220
+AWS/us-east-1	66617404796	10580	5240
 HK/Hong Kong	13365231736	1700	120
-US/California	28674799124	4800	620
+US/California	28694910080	4800	620
 CN/Shanghai	104204370744	9920	1740
-GitHub	23470460456	32660	7360
-VPN	205278104348	16980	16680
-SG/Singapore	3991490504	520	520
+GitHub	24126639284	33580	7580
+VPN	205542093000	17020	16700
+SG/Singapore	4001967424	520	520
 AWS/ap-southeast-1	4820163492	860	860
-undetermined	169824962645	9460	6300
+undetermined	170717618421	9720	6480
 US/Virginia	67019934240	2400	2300
-missing	180562962052	17840	9460
+missing	178619278820	16560	9000
 GCP/us-east4	79773359368	3560	3560
 GCP/us-west1	1095203864	<50	<50
 GCP/us-central1	65197459496	1920	1920
@@ -18,19 +18,20 @@ AWS/us-east-2	62788242572	1160	1160
 US/Illinois	9476726176	1160	940
 BR/Minas Gerais	32246164	<50	<50
 US/New York	2989175930	980	800
-VN/Ho Chi Minh City (HCMC)	70132020	<50	<50
+VN/Ho Chi Minh City (HCMC)	72453500	<50	<50
 IQ/Erbil	2747872	<50	<50
+IQ/Baghdad	19071044	<50	<50
 AO/Luanda	9435748	<50	<50
 VN/Bac Ninh	13781048	<50	<50
 VN/Hanoi	44731496	<50	<50
-BR/São Paulo	40889376	<50	<50
+BR/Rio de Janeiro	8474080	<50	<50
+BR/São Paulo	48241024	<50	<50
 UZ/Tashkent	21620624	<50	<50
 AZ/Goranboy District	994320	<50	<50
 MY/Selangor	9893764	<50	<50
 US/Wyoming	47974684	100	<50
-BD/Dhaka Division	39380660	<50	<50
+BD/Dhaka Division	50391428	<50	<50
 AE/Dubai	14718608	<50	<50
-BR/Rio de Janeiro	7126680	<50	<50
 CH/Vaud	36282756	<50	<50
 BD/Rajshahi Division	13192668	<50	<50
 EC/Pichincha	12893928	<50	<50
@@ -61,13 +62,13 @@ VE/Distrito Federal	4061496	<50	<50
 AE/Fujairah	2129336	<50	<50
 MY/Sarawak	917112	<50	<50
 IT/Campania	5387028	<50	<50
-IQ/Baghdad	18176044	<50	<50
 AR/Neuquen	851604	<50	<50
 VN/Ca Mau	1937456	<50	<50
 MY/Johor	1113636	<50	<50
 JO/Amman	16331840	<50	<50
 DZ/Sétif	2605040	<50	<50
 MX/México	3076736	<50	<50
+VE/Guárico	3167736	<50	<50
 VE/Zulia	3799464	<50	<50
 US/Iowa	65373584	120	<50
 EG/Giza	1195504	<50	<50
@@ -93,7 +94,7 @@ VN/An Giang	5573584	<50	<50
 BR/Pernambuco	8385024	<50	<50
 AR/Buenos Aires	46976664	<50	<50
 PK/Punjab	32156476	<50	<50
-GB/England	27906236	<50	<50
+GB/England	31943468	<50	<50
 AL/Gjirokastër County	2646760	<50	<50
 BR/Paraná	7098728	<50	<50
 AZ/Baki	5767392	<50	<50
@@ -123,7 +124,6 @@ SA/Mecca Region	2646760	<50	<50
 ID/West Java	2646760	<50	<50
 BD/Khulna Division	252136	<50	<50
 CO/Atlántico	6540260	<50	<50
-VE/Guárico	740168	<50	<50
 DZ/Ouargla	1441176	<50	<50
 FR/Normandy	11081280	<50	<50
 VN/Ninh Binh	6344732	<50	<50
@@ -136,12 +136,14 @@ KW/Al Farwaniyah	3093088	<50	<50
 BR/Bahia	3435368	<50	<50
 US/North Carolina	2644316	<50	<50
 RU/Krasnodar Krai	3340908	<50	<50
+VE/Lara	2423796	<50	<50
 MA/Rabat-Salé-Kénitra	3292484	<50	<50
 UA/Dnipropetrovsk	344624	<50	<50
 ES/Andalusia	1452192	<50	<50
 VE/Delta Amacuro	762272	<50	<50
 JO/Zarqa	762272	<50	<50
 DK/Capital Region	1832056	<50	<50
+US/Ohio	2933728	<50	<50
 AWS/us-west-2	27918572	<50	<50
 VN/Phu Tho	9529580	<50	<50
 SN/Dakar	22185656	<50	<50
@@ -152,12 +154,14 @@ VN/Thanh Hóa Province	4009152	<50	<50
 IQ/Basra	5699196	<50	<50
 QA/Baladiyat ar Rayyan	650176	<50	<50
 IR/Tehran	3733956	<50	<50
+DZ/Algiers	2816844	<50	<50
 UA/Kyiv City	3400560	<50	<50
 VN/Tay Ninh	1969912	<50	<50
 IE/Leinster	6432088	<50	<50
 PR/Bayamón	1401744	<50	<50
 BG/Burgas	1113636	<50	<50
 PK/Islamabad	4782084	<50	<50
+BR/Espírito Santo	3518112	<50	<50
 CO/Quindío Department	5756256	<50	<50
 AR/Chaco	917112	<50	<50
 PH/Western Visayas	5844432	<50	<50
@@ -169,7 +173,7 @@ IQ/Wasit	2030748	<50	<50
 TN/Tunis Governorate	6370208	<50	<50
 UA/Lviv	567832	<50	<50
 KG/Bishkek	2853504	<50	<50
-ZA/Western Cape	6476224	<50	<50
+ZA/Western Cape	15909376	<50	<50
 VN/Lam Dong	9577840	<50	<50
 NP/Madhesh	917112	<50	<50
 ZA/Limpopo	851604	<50	<50
@@ -206,6 +210,7 @@ NP/Bagmati Province	5815608	<50	<50
 BE/Flanders	2147160	<50	<50
 IN/Gujarat	2033272	<50	<50
 KE/Nakuru County	886808	<50	<50
+IN/Punjab	4743344	<50	<50
 IQ/Sulaymaniyah	6330192	<50	<50
 ID/Lampung	12668788	<50	<50
 CN/Beijing	2954072	<50	<50
@@ -224,6 +229,7 @@ US/Georgia	5853792	<50	<50
 MY/Perak	1145816	<50	<50
 NG/Plateau State	915752	<50	<50
 ML/Bamako	2882712	<50	<50
+IQ/Anbar	2225752	<50	<50
 VN/Hà Tĩnh Province	2181696	<50	<50
 UA/Odesa	6164528	<50	<50
 MX/Baja California	871008	<50	<50

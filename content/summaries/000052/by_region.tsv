@@ -1,19 +1,19 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 US/Massachusetts	236308462	280	<50
-undetermined	1123465850	2040	1940
+undetermined	1123650095	2080	1960
 CN/Shanghai	481230779	720	720
 GCP/us-central1	343325	<50	<50
 VPN	971807171	2000	2000
-AWS/us-east-1	669712555	1260	1260
+AWS/us-east-1	670766868	1260	1260
 CN/Shanxi	29112741	<50	<50
 US/New York	226804820	520	520
-AWS/ap-southeast-1	269702533	440	440
+AWS/ap-southeast-1	269885399	440	440
 US/Minnesota	1555199	<50	<50
 HK/Hong Kong	34751252	<50	<50
 GCP/us-west1	383248	<50	<50
-NL/Flevoland	146911255	180	180
+NL/Flevoland	153900630	180	180
 US/California	129052968	220	220
-missing	258479294	680	680
+missing	248907272	640	640
 US/Illinois	76426767	100	100
 SG/Singapore	7904693	<50	<50
 US/Virginia	17497585	<50	<50
@@ -92,6 +92,7 @@ AR/Cordoba	578	<50	<50
 AR/Buenos Aires F.D.	2023	<50	<50
 VN/Tuyen Quang	1445	<50	<50
 BR/Rondônia	867	<50	<50
+BR/Mato Grosso	1156	<50	<50
 UY/Maldonado	289	<50	<50
 CO/Bogota D.C.	578	<50	<50
 CO/Bolívar	578	<50	<50
@@ -101,7 +102,6 @@ VN/Gia Lai	289	<50	<50
 PE/Lima Province	1445	<50	<50
 EC/Guayas	578	<50	<50
 XK/Pec	289	<50	<50
-BR/Mato Grosso	867	<50	<50
 VN/Quang Tri	289	<50	<50
 RU/Nizhny Novgorod Oblast	289	<50	<50
 BR/Amazonas	289	<50	<50
@@ -127,7 +127,7 @@ BR/Mato Grosso do Sul	1156	<50	<50
 VN/Lam Dong	867	<50	<50
 LT/Vilnius	289	<50	<50
 HN/Cortés Department	289	<50	<50
-VN/Dong Thap	289	<50	<50
+VN/Dong Thap	578	<50	<50
 MX/Puebla	289	<50	<50
 VN/Thừa Thiên Huế Province	289	<50	<50
 BD/Chittagong	578	<50	<50
@@ -154,6 +154,7 @@ PT/Lisbon	289	<50	<50
 TH/Bangkok	170744	<50	<50
 US/Kansas	1876471	<50	<50
 MX/Querétaro	1008288	<50	<50
+DE/North Rhine-Westphalia	1160645	<50	<50
 ES/Extremadura	1128188	<50	<50
 IN/Maharashtra	7080	<50	<50
 CO/Putumayo Department	1128188	<50	<50

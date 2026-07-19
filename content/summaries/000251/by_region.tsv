@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	222178079480	353120	59700
+missing	221182546732	351700	59680
 CN/Shanghai	3539661096	880	840
-US/Virginia	3709075064	4940	400
-VPN	18589000180	5260	4680
-undetermined	32292250484	18900	7260
+US/Virginia	3710057684	4940	400
+VPN	18787562540	5320	4720
+undetermined	32453259784	18980	7340
 MX/Mexico City	1603173352	2800	580
-AWS/ap-southeast-1	1979098324	500	500
-GitHub	25004474324	74800	6740
-AWS/us-east-1	20260984768	5900	1540
+GitHub	26419953312	77240	7160
+AWS/ap-southeast-1	1983522100	500	500
+AWS/us-east-1	20290916752	5900	1560
 CN/Shanxi	225283824	60	40
-GCP/us-central1	168500800	<50	<50
+GCP/us-central1	203267040	<50	<50
 US/Minnesota	5419272	<50	<50
 US/California	3533004719	2520	820
 US/Massachusetts	4299350176	1000	520
@@ -29,12 +29,13 @@ PS/West Bank	1375668	<50	<50
 RU/Krasnodar Krai	2292780	<50	<50
 VN/Dong Thap	1048128	<50	<50
 PE/Lima Province	2292780	<50	<50
-SG/Singapore	107331708	<50	<50
+SG/Singapore	109739492	<50	<50
 VN/Hai Phong	4369640	<50	<50
 AR/Santiago del Estero	2404400	<50	<50
+US/Iowa	25072840	100	<50
 PH/National Capital Region	2816844	<50	<50
 US/Georgia	15350464	<50	<50
-US/Iowa	14351480	60	<50
+US/Arizona	8370520	620	<50
 CO/Valle del Cauca Department	1113636	<50	<50
 BR/Paraná	7581588	<50	<50
 BR/São Paulo	8974596	<50	<50
@@ -96,7 +97,6 @@ GB/England	4398528	<50	<50
 RU/Stavropol Kray	2210808	<50	<50
 JP/Tokyo	8297328	<50	<50
 US/New Jersey	22287900	<50	<50
-US/Arizona	338128	580	<50
 US/Mississippi	1703208	<50	<50
 ZA/Gauteng	11031628	<50	<50
 MY/Johor	917112	<50	<50
@@ -145,8 +145,8 @@ KZ/Astana	3199424	<50	<50
 UA/Kyiv City	1113636	<50	<50
 AR/Formosa	1048128	<50	<50
 CY/Nicosia	3017136	<50	<50
+IN/Telangana	3209892	<50	<50
 CA/Ontario	2072936	<50	<50
-IN/Telangana	982620	<50	<50
 IT/Campania	1048128	<50	<50
 BD/Barisal Division	1113636	<50	<50
 MA/Tanger-Tetouan-Al Hoceima	917112	<50	<50
@@ -159,6 +159,7 @@ OM/Muscat	3114744	<50	<50
 AR/Rio Negro	917112	<50	<50
 IQ/Sulaymaniyah	2096256	<50	<50
 ES/Catalonia	1310160	<50	<50
+CO/Huila Department	1113636	<50	<50
 SY/Damascus Governorate	1113636	<50	<50
 IN/Delhi	1113636	<50	<50
 NZ/Otago	7541352	<50	<50

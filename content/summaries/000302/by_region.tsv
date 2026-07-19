@@ -1,11 +1,11 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	7724286515	1100	380
+undetermined	7788805561	1260	400
 HK/Hong Kong	209602840	<50	<50
 US/New York	1188306944	480	<50
-GitHub	5023398148	51740	560
+GitHub	5071386552	51780	560
 AWS/us-east-1	6184673024	1100	140
-VPN	4239792612	460	180
-missing	14896808028	7280	540
+VPN	4553140116	460	200
+missing	11532972696	6520	440
 CN/Shanxi	112100448	<50	<50
 US/California	1819671588	1840	60
 US/Virginia	2411377808	3920	<50
@@ -21,9 +21,13 @@ US/Oregon	1133269996	<50	<50
 US/Illinois	264843260	<50	<50
 SG/Singapore	20110956	<50	<50
 VE/Distrito Federal	23713896	<50	<50
+GCP/europe-west1	1106948232	360	<50
+GCP/europe-west4	1304283768	120	<50
+GCP/us-central1	1386862752	380	<50
 VE/Zulia	14608284	<50	<50
 BD/Dhaka Division	35101408	<50	<50
 VN/Ninh Binh	7926468	<50	<50
+US/Iowa	178124972	60	<50
 UA/Rivne Oblast	10219248	<50	<50
 DZ/Oran	8909088	<50	<50
 NG/FCT	1703208	<50	<50
@@ -41,7 +45,6 @@ CL/Santiago Metropolitan	61690504	<50	<50
 SY/Rif-dimashq	6878340	<50	<50
 US/Texas	7599556	820	<50
 AWS/us-east-2	144792720	3660	<50
-GCP/us-central1	281093664	<50	<50
 US/New Jersey	17556852	<50	<50
 US/Arizona	435984	800	<50
 JP/Tokyo	4843804	<50	<50
@@ -59,7 +62,6 @@ IT/Lazio	2947860	<50	<50
 JO/Amman	9564168	<50	<50
 SY/Damascus Governorate	9564168	<50	<50
 CA/Newfoundland and Labrador	9040104	<50	<50
-US/Iowa	53449276	<50	<50
 BR/Roraima	13363632	<50	<50
 IQ/Sulaymaniyah	15455916	<50	<50
 BR/Minas Gerais	10350264	<50	<50

@@ -1,12 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 NL/North Holland	174006248	220	220
 CN/Shanghai	274166104	360	360
-GitHub	2257844028	37280	1840
+GitHub	2333380924	37880	1900
 US/Massachusetts	97243840	120	<50
-AWS/us-east-1	664196848	740	620
-undetermined	534054270	760	540
+AWS/us-east-1	667547072	740	620
+undetermined	541499896	840	540
 US/California	177399412	1540	200
-VPN	395668084	520	480
+VPN	399445900	520	480
 NL/South Holland	200939914	260	220
 GCP/us-central1	29230864	<50	<50
 IT/Lombardy	128402400	160	160
@@ -15,7 +15,7 @@ CN/Shanxi	15223776	<50	<50
 US/Virginia	121380472	2040	120
 GCP/us-west1	546264	<50	<50
 MX/Mexico City	64697048	260	60
-missing	212121008	2960	260
+missing	297555508	2800	360
 US/Illinois	64609016	160	60
 US/Florida	11302200	<50	<50
 ES/Basque Country	1983352	<50	<50
@@ -39,11 +39,12 @@ ID/East Java	664840	<50	<50
 ZA/Gauteng	1563408	<50	<50
 GH/Greater Accra	716048	<50	<50
 BR/Minas Gerais	716048	<50	<50
+US/Iowa	13797960	<50	<50
 GB/Scotland	638016	<50	<50
+US/Arizona	3788980	640	<50
 RU/St.-Petersburg	949784	<50	<50
 IL/Southern District	949784	<50	<50
 GB/England	926896	<50	<50
-US/Iowa	10423272	<50	<50
 FR/Île-de-France	2096512	<50	<50
 VN/Ho Chi Minh City (HCMC)	917112	<50	<50
 BR/Bahia	1331624	<50	<50
@@ -56,7 +57,6 @@ IN/Uttar Pradesh	696056	<50	<50
 ID/Jakarta	696056	<50	<50
 JP/Tokyo	1102984	<50	<50
 US/New Jersey	2384440	<50	<50
-US/Arizona	304864	640	<50
 US/Missouri	640728	<50	<50
 US/New York	1281456	<50	<50
 BD/Mymensingh Division	640728	<50	<50

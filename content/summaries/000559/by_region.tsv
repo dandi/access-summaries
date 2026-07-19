@@ -1,17 +1,17 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	18252636880897	47260	35360
-missing	4731094980169	8512240	278060
+VPN	19335483083247	47940	36040
+missing	3658672314473	8505760	280060
 HK/Hong Kong	73770409141	8960	<50
-undetermined	20544010383887	984680	24800
+undetermined	20640038911000	985380	25280
 US/California	6939453534577	933140	2080
-GitHub	195958912351	564880	13660
-AWS/us-east-1	7018601023367	830680	25120
+GitHub	203754627003	590300	14400
+AWS/us-east-1	7020189068303	830860	25300
 US/Massachusetts	14921757759427	287420	80
 GB/England	13310001822	23820	2580
 US/Georgia	11413855576382	3660	3600
-US/Virginia	8122881970692	935560	1800
+US/Virginia	8210414530884	935580	1820
 CN/Shanghai	17756161444470	1833280	80
-AWS/ap-southeast-1	52913282576	4560	4540
+AWS/ap-southeast-1	53182061900	4580	4580
 US/Illinois	1916474582543	6680	1820
 GCP/us-west1	25666057325	<50	<50
 BD/Dhaka Division	119093544	<50	<50
@@ -21,6 +21,7 @@ MX/Mexico City	528463970421	59520	160
 TH/Nakhon Pathom	917112	<50	<50
 OM/Muscat	38649720	<50	<50
 US/South Carolina	12581070820	140	140
+US/Iowa	330358456	2020	60
 US/New York	4920365965	260	100
 SG/Singapore	10864093603	640	640
 GCP/us-east1	390231156	<50	<50
@@ -28,7 +29,7 @@ BR/Alagoas	7467912	<50	<50
 US/Kansas	11660424	<50	<50
 BR/São Paulo	160691126	<50	<50
 IN/Gujarat	20438496	<50	<50
-US/Texas	277004613804	120	120
+US/Texas	310669079726	140	140
 MY/Johor	23320848	<50	<50
 TT/San Fernando	20176464	<50	<50
 AT/Styria	4258020	<50	<50
@@ -42,10 +43,10 @@ IN/Kerala	5175132	<50	<50
 ZA/Gauteng	16901065	<50	<50
 SA/Mecca Region	39763356	<50	<50
 DE/Thuringia	14477268	<50	<50
+US/Arizona	99325974	520	<50
 CN/Beijing	20477951673	80	80
 BR/Federal District	3275400	<50	<50
-IN/Uttar Pradesh	10284756	<50	<50
-US/Iowa	222066636	1340	<50
+IN/Uttar Pradesh	11398392	<50	<50
 AWS/us-west-2	228901155	800	<50
 VN/Thừa Thiên Huế Province	25286088	<50	<50
 SA/Al-Qassim Region	1965240	<50	<50
@@ -112,13 +113,13 @@ TR/Erzurum	851604	<50	<50
 ZA/KwaZulu-Natal	1179144	<50	<50
 CO/Antioquia	7991976	<50	<50
 MY/Kuala Lumpur	6157752	<50	<50
-BR/Rio Grande do Sul	121255308	<50	<50
+BR/Rio Grande do Sul	126233916	<50	<50
 RU/Rostov	2685828	<50	<50
 CR/Puntarenas Province	10481280	<50	<50
 CO/Bogota D.C.	31705872	<50	<50
 AZ/Baki	13887697	<50	<50
 UY/Montevideo Department	25679136	<50	<50
-CA/Ontario	448260288	<50	<50
+CA/Ontario	449635956	<50	<50
 IL/Jerusalem	23320848	<50	<50
 NZ/Canterbury	25744644	<50	<50
 MA/Casablanca-Settat	25482612	<50	<50
@@ -129,13 +130,14 @@ UA/Kyiv City	10088232	<50	<50
 RU/Novosibirsk Oblast	1965240	<50	<50
 CO/Santander Department	2751336	<50	<50
 CA/Newfoundland and Labrador	9826200	<50	<50
+VE/Mérida	10808820	<50	<50
 ID/West Java	2161764	<50	<50
 IL/Central District	9040104	<50	<50
 NZ/Wellington Region	8647056	<50	<50
 IN/Tamil Nadu	250392084	<50	<50
 EC/Pichincha	15852936	<50	<50
 TR/İzmir Province	2227272	<50	<50
-UZ/Tashkent	94921093	<50	<50
+UZ/Tashkent	95969221	<50	<50
 IN/Rajasthan	2030748	<50	<50
 DZ/Algiers	3275400	<50	<50
 RU/Sverdlovsk Oblast	7140372	<50	<50
@@ -212,6 +214,7 @@ VE/Táchira	1113637	<50	<50
 VE/Falcón	4651068	<50	<50
 VN/An Giang	11922456	<50	<50
 FJ/Central	1113636	<50	<50
+BD/Rangpur Division	1113636	<50	<50
 BR/Tocantins	11267376	<50	<50
 JO/Irbid	73303452	<50	<50
 FR/Provence-Alpes-Côte d'Azur	1179144	<50	<50
@@ -333,12 +336,11 @@ US/District of Columbia	19324860	<50	<50
 PH/Cagayan Valley	917112	<50	<50
 EG/Giza	2751336	<50	<50
 MA/Marrakesh-Safi	2751336	<50	<50
-VE/Anzoátegui	5306148	<50	<50
+VE/Anzoátegui	7074864	<50	<50
 MD/Chișinău Municipality	2161764	<50	<50
 KW/Al Farwaniyah	4323528	<50	<50
 NP/Madhesh	28889028	<50	<50
 AR/Entre Rios	7009356	<50	<50
-US/Arizona	19455876	<50	<50
 MA/Souss-Massa	5044116	<50	<50
 ID/Central Kalimantan	10546788	<50	<50
 ET/Tigray	8057484	<50	<50
@@ -388,6 +390,7 @@ DE/Baden-Wurttemberg	10481280	<50	<50
 TH/Kanchanaburi	11856948	<50	<50
 FR/Pays de la Loire	2358288	<50	<50
 LY/Al Marqab	851604	<50	<50
+LK/Western Province	2227272	<50	<50
 ES/Castille and León	2358288	<50	<50
 US/Utah	5568180	<50	<50
 AF/Kunduz	1113636	<50	<50
@@ -428,14 +431,12 @@ FR/Centre-Val de Loire	10481280	<50	<50
 EC/El Oro	43955868	<50	<50
 DO/Nacional	2358288	<50	<50
 TH/Bangkok	1310160	<50	<50
-VE/Mérida	8319516	<50	<50
 IE/Connacht	3209892	<50	<50
 DE/Rheinland-Pfalz	1048128	<50	<50
 DO/Santo Domingo Province	8319516	<50	<50
 DE/Hamburg	14411760	<50	<50
 US/Arkansas	3799464	<50	<50
 UA/Lviv	4192512	<50	<50
-LK/Western Province	1113636	<50	<50
 ID/Maluku	2423796	<50	<50
 CO/Tolima Department	1375668	<50	<50
 IN/Odisha	917112	<50	<50

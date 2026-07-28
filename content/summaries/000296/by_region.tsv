@@ -2,13 +2,13 @@ region	bytes_sent	number_of_requests	number_of_downloads
 MX/Mexico City	44232175755	46020	3940
 US/California	1048935279741	51980	1420
 CN/Shanxi	91411040450	10980	<50
-undetermined	2048170127472	33260	6320
-GitHub	86981082482	90560	12360
+undetermined	2048179888164	33280	6320
+GitHub	87357396899	91880	12680
 HK/Hong Kong	132477416672	15900	<50
-VPN	1618405592244	11500	11160
+VPN	1618408474597	11520	11180
 US/Massachusetts	742752014737	15460	<50
-missing	97666913304	12000	4160
-AWS/us-east-1	815464650846	99680	5020
+missing	99439714143	12920	4760
+AWS/us-east-1	815465502450	99680	5020
 US/Minnesota	11592676616	1400	<50
 AWS/ap-southeast-1	15230413476	1360	1360
 CN/Shanghai	1201985053662	96400	<50
@@ -18,8 +18,8 @@ NL/Flevoland	549825922006	940	940
 AWS/us-west-2	4456193271	5360	1280
 US/New Mexico	177633262325	300	300
 GCP/us-east1	62625648	<50	<50
-US/Virginia	11060378516	6360	1500
-US/Illinois	14733433241	840	560
+US/Virginia	11068304984	6360	1500
+US/Illinois	14749201603	900	580
 SG/Singapore	1877680638	280	280
 LA/Vientiane Prefecture	917112	<50	<50
 RS/Central Serbia	12118980	<50	<50
@@ -28,7 +28,7 @@ BR/Rio Grande do Norte	1	<50	<50
 TR/Ankara	25351596	<50	<50
 MA/Casablanca-Settat	59612280	<50	<50
 GCP/us-west1	1474066640	<50	<50
-VN/Ho Chi Minh City (HCMC)	199537369	<50	<50
+VN/Ho Chi Minh City (HCMC)	201240577	<50	<50
 SY/Damascus Governorate	7926468	<50	<50
 GN/Conakry	1375668	<50	<50
 US/New York	151565677	240	<50
@@ -143,7 +143,7 @@ NG/Anambra	1113636	<50	<50
 US/Georgia	21093576	<50	<50
 AU/New South Wales	61380996	<50	<50
 MX/Jalisco	9302136	<50	<50
-ZA/Gauteng	28102932	<50	<50
+ZA/Gauteng	28954536	<50	<50
 DE/State of Berlin	1637700	<50	<50
 VN/Vinh Long	1048128	<50	<50
 VN/Điện Biên Province	1048128	<50	<50
@@ -211,7 +211,8 @@ VE/Falcón	11594916	<50	<50
 US/Nebraska	618947817	<50	<50
 NZ/Auckland	43955868	<50	<50
 CO/Boyacá	7271388	<50	<50
-VN/Bac Ninh	6616308	<50	<50
+IQ/Diyala	851604	<50	<50
+VN/Bac Ninh	7467912	<50	<50
 IN/Madhya Pradesh	1965240	<50	<50
 IN/Karnataka	5961229	<50	<50
 UY/Lavalleja	917112	<50	<50
@@ -283,6 +284,7 @@ AZ/Sumqayit	12381012	<50	<50
 IL/Central District	19259352	<50	<50
 PK/Khyber Pakhtunkhwa	1113636	<50	<50
 PT/Coimbra	1048128	<50	<50
+MX/Chiapas	2227272	<50	<50
 PY/Asuncion	12708552	<50	<50
 UA/Poltava	14018712	<50	<50
 VN/Nghệ An Province	1048128	<50	<50
@@ -323,6 +325,8 @@ TH/Bangkok	1048128	<50	<50
 BG/Varna	1113636	<50	<50
 EG/Sharqia	12839568	<50	<50
 ID/South Sulawesi	1048128	<50	<50
+ZA/Eastern Cape	2227272	<50	<50
+JO/Zarqa	12446520	<50	<50
 NZ/Wellington Region	10219248	<50	<50
 VN/Thanh Hóa Province	14935824	<50	<50
 UA/Cherkasy	1113636	<50	<50
@@ -341,7 +345,6 @@ VE/Portuguesa	1310160	<50	<50
 FR/Brittany	1113636	<50	<50
 CO/Nariño	2161764	<50	<50
 US/Alabama	11070852	<50	<50
-ZA/Eastern Cape	1113636	<50	<50
 BY/Minsk	1375668	<50	<50
 TR/Kahramanmaraş	2096256	<50	<50
 IT/Sicily	1113636	<50	<50
@@ -369,7 +372,6 @@ AZ/Yevlax City	6747324	<50	<50
 CL/O'Higgins Region	1048128	<50	<50
 DE/Saxony-Anhalt	1048128	<50	<50
 GT/Sacatepéquez	6681816	<50	<50
-JO/Zarqa	11398392	<50	<50
 CR/Guanacaste Province	5633688	<50	<50
 PE/Lima region	1375668	<50	<50
 RU/Saratov Oblast	4651068	<50	<50
@@ -391,7 +393,6 @@ RU/Krasnodar Krai	3537432	<50	<50
 MN/Ulaanbaatar	917112	<50	<50
 BD/Mymensingh Division	917112	<50	<50
 PH/Central Visayas	851604	<50	<50
-MX/Chiapas	1113636	<50	<50
 KW/Mubārak al Kabīr	7729944	<50	<50
 PL/Lublin	9367644	<50	<50
 US/Nevada	1	<50	<50

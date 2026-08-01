@@ -2,14 +2,14 @@ region	bytes_sent	number_of_requests	number_of_downloads
 undetermined	17685189310	15000	10280
 AWS/us-east-2	143854016	219780	<50
 VPN	10462108573	7980	7920
-US/California	2886226814	2920	1740
+US/California	2886608814	2920	1740
 AWS/us-west-2	885768492	3520	1120
 HK/Hong Kong	297955388	80	<50
 GitHub	10896113084	55440	11140
-AWS/us-east-1	7399442732	5860	5600
+AWS/us-east-1	7401595720	5860	5600
 AWS/ap-southeast-1	1859755688	1620	1620
 NL/Flevoland	2072877680	920	920
-missing	11655809094	57760	20560
+missing	11649942110	57760	20540
 CN/Shanghai	3687801159	4120	3600
 US/Massachusetts	2422410912	1160	<50
 US/Minnesota	36811948	<50	<50
@@ -22,6 +22,7 @@ US/Illinois	610092592	640	460
 GCP/us-west1	2233008	<50	<50
 KE/Nairobi County	2347568	<50	<50
 SG/Singapore	203373349	200	200
+DZ/Oran	190568	<50	<50
 GCP/us-east1	7129576	<50	<50
 SA/Riyadh Region	187248	<50	<50
 PK/Sindh	740396	<50	<50
@@ -68,6 +69,7 @@ US/Texas	3946008	400	<50
 BR/Ceará	20108292	<50	<50
 IQ/Kirkuk	8750744	<50	<50
 AE/Dubai	3905908	<50	<50
+TR/Adana	189632	<50	<50
 MX/San Luis Potosí	190100	<50	<50
 MA/Tanger-Tetouan-Al Hoceima	378780	<50	<50
 VN/Phu Tho	8295500	<50	<50
@@ -85,6 +87,8 @@ SA/Medina Region	4711844	<50	<50
 BD/Chittagong	1851496	<50	<50
 AU/Australian Capital Territory	182576	<50	<50
 BR/São Paulo	2251292	<50	<50
+TR/Istanbul	1649604	<50	<50
+ZA/KwaZulu-Natal	190208	<50	<50
 ID/Lampung	190208	<50	<50
 BR/Piauí	192396	<50	<50
 VN/Ninh Binh	380312	<50	<50
@@ -92,6 +96,7 @@ HU/Csongrád	181384	<50	<50
 AR/Chaco	185776	<50	<50
 PK/Islamabad	185776	<50	<50
 AU/Victoria	190244	<50	<50
+GB/Scotland	187528	<50	<50
 GH/Ashanti	182608	<50	<50
 DE/Bavaria	187536	<50	<50
 BR/Paraná	375448	<50	<50
@@ -104,8 +109,9 @@ US/Alabama	377436	<50	<50
 IQ/Baghdad	750208	<50	<50
 VN/Hanoi	12089684	<50	<50
 ES/Madrid	376344	<50	<50
+AE/Sharjah	554432	<50	<50
 US/Mississippi	372720	<50	<50
-AE/Sharjah	371920	<50	<50
+PG/National Capital	181352	<50	<50
 IL/Tel Aviv	375240	<50	<50
 US/Oregon	741732	<50	<50
 AO/Luanda	188776	<50	<50
@@ -156,7 +162,6 @@ PE/Lambayeque	187536	<50	<50
 IT/Tuscany	189560	<50	<50
 AR/Cordoba	2515860	<50	<50
 IR/Tehran	193120	<50	<50
-TR/Istanbul	189596	<50	<50
 BR/Minas Gerais	565960	<50	<50
 DE/Baden-Wurttemberg	189920	<50	<50
 RU/Ryazan Oblast	189920	<50	<50
@@ -167,11 +172,12 @@ US/Georgia	183344	<50	<50
 BW/Gaborone	189416	<50	<50
 FR/New Aquitaine	189704	<50	<50
 BR/Pernambuco	184780	<50	<50
-VN/Hưng Yên Province	190424	<50	<50
+VN/Hưng Yên Province	377960	<50	<50
 UZ/Tashkent	193120	<50	<50
-EC/Pichincha	862732	<50	<50
+EC/Pichincha	1045148	<50	<50
 MY/Selangor	380492	<50	<50
 TR/Gaziantep	380848	<50	<50
+TR/Kocaeli	190568	<50	<50
 PA/Colón	178408	<50	<50
 IL/Haifa	995460	<50	<50
 IN/Maharashtra	367952	<50	<50
@@ -189,6 +195,7 @@ CN/Beijing	378104	<50	<50
 SY/Rif-dimashq	1061824	<50	<50
 PT/Porto	1327280	<50	<50
 TR/Diyarbakır Province	1393644	<50	<50
+CM/Littoral	189668	<50	<50
 KH/Phnom Penh	190100	<50	<50
 IN/Madhya Pradesh	189848	<50	<50
 IN/Kerala	182464	<50	<50

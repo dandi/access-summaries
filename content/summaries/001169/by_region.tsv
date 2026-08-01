@@ -1,5 +1,5 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-VPN	102658499462	88520	85920
+VPN	102664856630	88520	85940
 CN/Shanghai	58890085927	51980	51980
 undetermined	47581655638	49480	28840
 US/Wyoming	1297885745	6300	640
@@ -9,7 +9,7 @@ AWS/us-east-1	32388040328	27080	27080
 US/Massachusetts	26582015106	22220	<50
 GCP/us-west1	113700742	100	100
 GitHub	215183014764	1056700	106360
-missing	183451673115	650940	97240
+missing	183433919511	650920	97220
 US/New York	968264222	800	800
 NG/FCT	2605958	<50	<50
 SG/Singapore	755177359	640	640
@@ -38,7 +38,7 @@ IT/Lazio	2545238	<50	<50
 VN/Dak Lak	4855749	<50	<50
 VN/Hanoi	81526168	60	60
 VN/Da Nang City	14361335	<50	<50
-VN/Nghệ An Province	7890356	<50	<50
+VN/Nghệ An Province	9262451	<50	<50
 IT/Lombardy	1685356	<50	<50
 IQ/Erbil	7218101	<50	<50
 BD/Chittagong	19431255	<50	<50
@@ -62,7 +62,7 @@ PK/Sindh	16158581	<50	<50
 MX/Tamaulipas	2729493	<50	<50
 LB/Beirut	3483348	<50	<50
 VN/Thừa Thiên Huế Province	2251114	<50	<50
-PK/Punjab	48187189	<50	<50
+PK/Punjab	49256131	<50	<50
 DZ/Sétif	1328949	<50	<50
 SA/Riyadh Region	1328949	<50	<50
 VN/Lam Dong	15369270	<50	<50
@@ -73,7 +73,7 @@ ZA/Gauteng	22122331	<50	<50
 CO/Bogota D.C.	21016591	<50	<50
 AR/Buenos Aires	26616825	<50	<50
 CO/Antioquia	7540907	<50	<50
-KE/Nairobi County	32553694	<50	<50
+KE/Nairobi County	33296648	<50	<50
 ES/Madrid	3699395	<50	<50
 SY/Damascus Governorate	9010859	<50	<50
 KZ/Zhetysu Region	1032108	<50	<50
@@ -134,6 +134,7 @@ IQ/Sulaymaniyah	2032455	<50	<50
 VN/Hưng Yên Province	8186114	<50	<50
 NL/Flevoland	1090888	<50	<50
 IQ/Basra	4770467	<50	<50
+HN/Cortés Department	3851893	<50	<50
 PA/Chiriquí Province	1405757	<50	<50
 VE/Miranda	3592361	<50	<50
 GT/Guatemala	1145275	<50	<50
@@ -176,6 +177,7 @@ KE/Kiambu County	1082761	<50	<50
 DZ/Constantine	1082761	<50	<50
 VN/Lai Châu Province	3592649	<50	<50
 VE/Distrito Federal	15590791	<50	<50
+ZA/KwaZulu-Natal	2910109	<50	<50
 CA/Ontario	5337599	<50	<50
 MA/Fes-Meknes	917112	<50	<50
 PS/West Bank	2690371	<50	<50
@@ -204,7 +206,6 @@ VN/Hà Tĩnh Province	3810140	<50	<50
 GB/Wales	2577376	<50	<50
 GE/Samegrelo and Zemo Svaneti	1010476	<50	<50
 VN/Bac Ninh	11778071	<50	<50
-HN/Cortés Department	2446136	<50	<50
 PA/Panamá	5345917	<50	<50
 MX/Jalisco	5906975	<50	<50
 PH/Central Luzon	3722052	<50	<50
@@ -216,6 +217,7 @@ TR/Istanbul	2429592	<50	<50
 IQ/Kirkuk	1409123	<50	<50
 CL/Maule Region	1040815	<50	<50
 IQ/Al-Qadisiyah	2525140	<50	<50
+ID/Aceh	1113636	<50	<50
 IN/Madhya Pradesh	5106915	<50	<50
 ID/Lampung	887875	<50	<50
 CO/Boyacá	4227265	<50	<50
@@ -234,7 +236,7 @@ VN/Lao Cai	3605837	<50	<50
 CR/Puntarenas Province	1599918	<50	<50
 TH/Sakon Nakhon	1288632	<50	<50
 US/Ohio	2453119	<50	<50
-VN/Tuyen Quang	3023249	<50	<50
+VN/Tuyen Quang	4157431	<50	<50
 VN/Sơn La Province	3305269	<50	<50
 CL/O'Higgins Region	949796	<50	<50
 TN/Ben Arous Governorate	2001450	<50	<50
@@ -253,11 +255,11 @@ DZ/Annaba	1972276	<50	<50
 JM/Saint Mary Parish	1033351	<50	<50
 AM/Yerevan	2102604	<50	<50
 PE/Lima Province	2583316	<50	<50
+BD/Sylhet Division	4350260	<50	<50
 BO/La Paz Department	1372000	<50	<50
 AR/Entre Rios	1372000	<50	<50
 ML/Bamako	2730704	<50	<50
 VE/Lara	4573244	<50	<50
-ZA/KwaZulu-Natal	1841476	<50	<50
 MA/Souss-Massa	3068679	<50	<50
 LB/Mount Lebanon	11577954	<50	<50
 TG/Maritime	1263395	<50	<50
@@ -282,7 +284,7 @@ UA/Sumy	1616041	<50	<50
 MX/Baja California	1806086	<50	<50
 CL/Biobio	3371186	<50	<50
 OM/Al Batinah North	799903	<50	<50
-GY/Demerara-Mahaica	2182936	<50	<50
+GY/Demerara-Mahaica	3296572	<50	<50
 VE/Anzoátegui	1449151	<50	<50
 VE/Mérida	1433903	<50	<50
 MX/Puebla	2587392	<50	<50
@@ -317,7 +319,6 @@ AR/Mendoza	1056578	<50	<50
 VN/Thai Nguyen	4779307	<50	<50
 AZ/Gǝncǝ	2683445	<50	<50
 EG/Sharqia	1050161	<50	<50
-BD/Sylhet Division	3264458	<50	<50
 US/Michigan	2746469	<50	<50
 MY/Pahang	917112	<50	<50
 AR/La Rioja	881110	<50	<50
@@ -325,6 +326,7 @@ IN/Haryana	1118799	<50	<50
 AL/Elbasan County	1333023	<50	<50
 TR/Konya	2306156	<50	<50
 GE/Tbilisi	2040327	<50	<50
+PY/Canindeyú	1290799	<50	<50
 TR/Niğde Province	1583717	<50	<50
 IN/Kerala	2198670	<50	<50
 TH/Bangkok	1473740	<50	<50

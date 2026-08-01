@@ -2,18 +2,18 @@ region	bytes_sent	number_of_requests	number_of_downloads
 undetermined	178159615893	18300	10440
 US/Massachusetts	13514540250	2800	<50
 CN/Shanxi	1558470537	260	60
-US/California	29286737486	6100	1980
-AWS/us-east-1	52357292134	11560	3680
+US/California	29287123102	6100	1980
+AWS/us-east-1	52366450366	11560	3680
 US/District of Columbia	11769901909	760	760
 GitHub	130546867217	415000	9000
 VPN	29585801212	3960	3520
-US/New York	36436657960	44020	2280
+US/New York	36437071060	44020	2280
 HK/Hong Kong	13647084859	1020	760
 NL/Flevoland	8495620532	580	580
 US/New Mexico	11769901909	760	760
 AWS/us-west-2	12746558281	55920	760
 CN/Shanghai	21503089683	3960	2000
-missing	27021782952	57940	3900
+missing	27006436798	57920	3880
 US/Minnesota	318045536	<50	<50
 AWS/ap-southeast-1	2689129400	960	960
 GCP/us-east4	11769901909	760	760
@@ -22,8 +22,8 @@ GCP/us-west3	11769901909	760	760
 GCP/us-west1	71099483	<50	<50
 ES/Andalusia	5499834278	300	300
 OM/Al Batinah North	4306952	<50	<50
-SA/Riyadh Region	5465992	<50	<50
-JP/Tokyo	1666094803	100	100
+SA/Riyadh Region	5846312	<50	<50
+JP/Tokyo	1666479587	100	100
 GCP/us-central1	265946912	<50	<50
 GCP/us-east1	24582688	<50	<50
 MX/Mexico City	72039181	300	60
@@ -35,7 +35,7 @@ IN/Madhya Pradesh	1591804	<50	<50
 CL/Santiago Metropolitan	43745494	<50	<50
 BR/Rio Grande do Norte	5381821	<50	<50
 ID/Jakarta	5381821	<50	<50
-NL/North Holland	1432244562	80	80
+NL/North Holland	1434294288	80	80
 US/Arizona	340407652	1800	<50
 AE/Sharjah	826176	<50	<50
 ZA/Gauteng	741996	<50	<50
@@ -91,6 +91,7 @@ IE/Munster	428576	<50	<50
 VN/Thanh Hóa Province	12277340	<50	<50
 AR/Buenos Aires	3543180	<50	<50
 US/South Carolina	73392997	<50	<50
+DE/Baden-Wurttemberg	333848	<50	<50
 PK/Sindh	8737150	<50	<50
 MX/México	929096	<50	<50
 FR/Île-de-France	3620944	<50	<50
@@ -136,6 +137,7 @@ PT/Porto	318504	<50	<50
 US/Tennessee	395134	<50	<50
 BF/Centre	382408	<50	<50
 IN/Mizoram	354620	<50	<50
+PY/Central Department	354620	<50	<50
 IN/Maharashtra	316704	<50	<50
 DE/Hesse	382192	<50	<50
 ID/Central Java	382192	<50	<50
@@ -144,6 +146,7 @@ VN/Tuyen Quang	642892	<50	<50
 US/Utah	354216	<50	<50
 NG/Rivers State	394840	<50	<50
 NI/Managua Department	19975564	<50	<50
+IN/Delhi	2213100	<50	<50
 US/Indiana	366516	<50	<50
 EC/Guayas	34161360	<50	<50
 CG/Pointe-Noire	272614	<50	<50
@@ -158,13 +161,13 @@ TZ/Zanzibar Urban/West	333432	<50	<50
 VN/Can Tho City	1395256	<50	<50
 DZ/Algiers	862732	<50	<50
 RU/Altai Krai	1791828	<50	<50
-IN/Delhi	1084912	<50	<50
 DE/North Rhine-Westphalia	1836420	<50	<50
 BR/Mato Grosso	359304	<50	<50
 BR/Pernambuco	9954600	<50	<50
 TR/Istanbul	389800	<50	<50
 SA/Eastern Province	398384	<50	<50
 AE/Abu Dhabi	796368	<50	<50
+CO/Antioquia	1021910	<50	<50
 BR/Bahia	714314	<50	<50
 IQ/Najaf	353934	<50	<50
 SA/Mecca Region	1089938	<50	<50
@@ -206,15 +209,14 @@ LB/Mount Lebanon	1526372	<50	<50
 NP/Bagmati Province	291688	<50	<50
 EC/Tungurahua Province	347544	<50	<50
 PH/National Capital Region	379670	<50	<50
-CO/Antioquia	641878	<50	<50
 BO/Cochabamba	381200	<50	<50
 PY/Caaguazú Department	388736	<50	<50
 MY/Perak	353492	<50	<50
 ID/Riau	929096	<50	<50
 AR/Santa Cruz	1393644	<50	<50
 CO/Risaralda Department	1725464	<50	<50
+BR/Goiás	729626	<50	<50
 TR/Eskişehir	377688	<50	<50
-BR/Goiás	351938	<50	<50
 VN/Dong Thap	929096	<50	<50
 VN/Lam Dong	11878328	<50	<50
 VN/Khanh Hoa	378068	<50	<50

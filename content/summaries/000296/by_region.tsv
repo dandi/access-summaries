@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 MX/Mexico City	44232175755	46020	3940
-US/California	1048935279741	51980	1420
+US/California	1048937244981	51980	1420
 CN/Shanxi	91411040450	10980	<50
 undetermined	2048179888164	33280	6320
 GitHub	87357396899	91880	12680
 HK/Hong Kong	132477416672	15900	<50
-VPN	1618408474597	11520	11180
+VPN	1618663162662	11520	11180
 US/Massachusetts	742752014737	15460	<50
-missing	99439714143	12920	4760
-AWS/us-east-1	815465502450	99680	5020
+missing	99042284146	12900	4740
+AWS/us-east-1	815492098698	99700	5040
 US/Minnesota	11592676616	1400	<50
 AWS/ap-southeast-1	15230413476	1360	1360
 CN/Shanghai	1201985053662	96400	<50
@@ -18,7 +18,7 @@ NL/Flevoland	549825922006	940	940
 AWS/us-west-2	4456193271	5360	1280
 US/New Mexico	177633262325	300	300
 GCP/us-east1	62625648	<50	<50
-US/Virginia	11068304984	6360	1500
+US/Virginia	11165911904	6360	1500
 US/Illinois	14749201603	900	580
 SG/Singapore	1877680638	280	280
 LA/Vientiane Prefecture	917112	<50	<50
@@ -26,9 +26,9 @@ RS/Central Serbia	12118980	<50	<50
 PT/Porto	1768717	<50	<50
 BR/Rio Grande do Norte	1	<50	<50
 TR/Ankara	25351596	<50	<50
-MA/Casablanca-Settat	59612280	<50	<50
+MA/Casablanca-Settat	60987948	<50	<50
 GCP/us-west1	1474066640	<50	<50
-VN/Ho Chi Minh City (HCMC)	201240577	<50	<50
+VN/Ho Chi Minh City (HCMC)	202157689	<50	<50
 SY/Damascus Governorate	7926468	<50	<50
 GN/Conakry	1375668	<50	<50
 US/New York	151565677	240	<50
@@ -45,7 +45,7 @@ VN/Dak Lak	10284756	<50	<50
 DE/North Rhine-Westphalia	6233198	<50	<50
 FR/Île-de-France	58564152	<50	<50
 MY/Kuala Lumpur	70159068	<50	<50
-AR/Buenos Aires	97279380	<50	<50
+AR/Buenos Aires	98589540	<50	<50
 TN/Tunis Governorate	32557476	<50	<50
 AE/Dubai	43235280	<50	<50
 BD/Dhaka Division	85160400	<50	<50
@@ -112,7 +112,7 @@ VN/Quảng Ninh	10874328	<50	<50
 BR/Rio Grande do Sul	38715228	<50	<50
 IQ/Erbil	10808821	<50	<50
 US/Mississippi	23713896	<50	<50
-ID/Central Java	26072184	<50	<50
+ID/Central Java	27054804	<50	<50
 VN/Da Nang City	29871648	<50	<50
 IL/Jerusalem	13298124	<50	<50
 IE/Leinster	47362284	<50	<50
@@ -128,7 +128,7 @@ US/Connecticut	718672688	<50	<50
 NZ/Canterbury	21290100	<50	<50
 DE/Saxony	917112	<50	<50
 IN/Punjab	19717908	<50	<50
-VE/Zulia	18669780	<50	<50
+VE/Zulia	21748656	<50	<50
 IN/Delhi	239037124	<50	<50
 TR/Mardin	1113636	<50	<50
 IE/Munster	9826200	<50	<50
@@ -159,7 +159,7 @@ VN/Thai Nguyen	6616308	<50	<50
 ET/Addis Ababa	14477269	<50	<50
 BY/Brest	16966572	<50	<50
 TR/Hatay	6681816	<50	<50
-BR/Rio de Janeiro	879460728	<50	<50
+BR/Rio de Janeiro	881163936	<50	<50
 PT/Santarém	1441176	<50	<50
 CZ/South Bohemian Region	1375668	<50	<50
 AL/Tirana	19193844	<50	<50
@@ -182,6 +182,7 @@ LU/Esch-sur-Alzette	1375668	<50	<50
 JE/Jersey	2423796	<50	<50
 MA/Rabat-Salé-Kénitra	29675124	<50	<50
 AM/Shirak	6878340	<50	<50
+RU/Astrakhan Oblast	982620	<50	<50
 BH/Northern	1375668	<50	<50
 VE/Yaracuy	12118980	<50	<50
 IN/Chhattisgarh	5830212	<50	<50
@@ -248,6 +249,7 @@ HN/Yoro Department	1113636	<50	<50
 IQ/Kirkuk	2685828	<50	<50
 PT/Beja	1113636	<50	<50
 PK/Sindh	10939837	<50	<50
+US/North Carolina	21683148	<50	<50
 SK/Prešov Region	1899732	<50	<50
 CA/Alberta	60791424	<50	<50
 DE/Hesse	1768716	<50	<50
@@ -283,6 +285,7 @@ JO/Irbid	10415772	<50	<50
 AZ/Sumqayit	12381012	<50	<50
 IL/Central District	19259352	<50	<50
 PK/Khyber Pakhtunkhwa	1113636	<50	<50
+RU/Rostov	1572192	<50	<50
 PT/Coimbra	1048128	<50	<50
 MX/Chiapas	2227272	<50	<50
 PY/Asuncion	12708552	<50	<50
@@ -408,8 +411,9 @@ CD/Kinshasa	917112	<50	<50
 NG/Kano State	1703208	<50	<50
 VN/Cao Bằng Province	11070852	<50	<50
 VE/Sucre	13167108	<50	<50
+AR/San Juan	1113636	<50	<50
 KE/Uasin Gishu County	1	<50	<50
 SK/Nitra Region	9760692	<50	<50
-US/North Carolina	19521384	<50	<50
 RU/Novosibirsk Oblast	20110956	<50	<50
+AR/Santiago del Estero	1375668	<50	<50
 LV/Riga	12381012	<50	<50

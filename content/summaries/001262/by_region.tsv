@@ -1,29 +1,31 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	5088689419052	15915920	160280
+missing	5038579856897	15918680	159740
 CN/Shanghai	85174646765	9080	360
 US/Massachusetts	52827633852	1920	<50
 US/New York	50601874296	5420	1180
 US/California	23742117705	6000	260
-GitHub	137629398172	432840	4360
-VPN	177154163185	9540	9020
+GitHub	140436032752	441840	4480
+VPN	182586059392	10640	9300
 AWS/us-east-1	57441111768	6760	340
-undetermined	166831442419	199620	4700
+US/Pennsylvania	50080973392	1160	1160
+undetermined	166918138947	199620	4700
 GCP/us-west1	358737584	<50	<50
 AWS/ap-southeast-1	8299308216	800	800
 CH/Vaud	131208408	440	100
 US/Illinois	1981026760	6680	60
-SG/Singapore	6692282004	280	260
+SG/Singapore	6844073072	280	280
 MX/Mexico City	228503213	540	60
 AR/Mendoza	5328536	<50	<50
 IN/Madhya Pradesh	1768716	<50	<50
 PK/Punjab	10677804	<50	<50
-BR/São Paulo	69234954	<50	<50
+BR/São Paulo	73755006	<50	<50
 GCP/us-east1	141697992	<50	<50
-HK/Yau Tsim Mong District	15459888	<50	<50
+HK/Yau Tsim Mong District	30395712	<50	<50
 BR/Bahia	12964300	<50	<50
 UA/Kyiv City	917112	<50	<50
 GB/England	35823741	<50	<50
 VN/Dak Lak	4716576	<50	<50
+US/Virginia	2356234580	5560	80
 US/Iowa	1083263028	4560	<50
 IN/Tamil Nadu	23558736	<50	<50
 BR/Alagoas	1768716	<50	<50
@@ -37,9 +39,9 @@ GCP/us-central1	508648000	<50	<50
 BD/Chittagong	13822188	<50	<50
 BH/Manama	1244652	<50	<50
 BD/Dhaka Division	92927051	<50	<50
+BR/Paraná	8122992	<50	<50
 BF/Centre	11332884	<50	<50
 VN/Ho Chi Minh City (HCMC)	82049916	<50	<50
-US/Virginia	2102890524	4360	60
 US/Wyoming	141099644	380	<50
 UY/Tacuarembó Department	16173960	<50	<50
 SA/Riyadh Region	22008752	<50	<50
@@ -53,6 +55,7 @@ BO/Cochabamba	3471924	<50	<50
 AWS/us-west-2	584485952	2580	<50
 AZ/Baki	1375668	<50	<50
 KE/Nairobi County	9040104	<50	<50
+UZ/Tashkent	39828864	<50	<50
 HK/Hong Kong	83706217	<50	<50
 CO/Antioquia	6092244	<50	<50
 IN/Maharashtra	21799664	<50	<50
@@ -67,9 +70,10 @@ CN/Beijing	101685862	<50	<50
 MY/Selangor	12315740	<50	<50
 TR/Zonguldak Province	1	<50	<50
 CA/Ontario	40230900	<50	<50
+ID/Yogyakarta	7729944	<50	<50
 ET/Addis Ababa	7598928	<50	<50
 BR/Rio de Janeiro	18749920	<50	<50
-BR/Ceará	15656412	<50	<50
+BR/Ceará	27644376	<50	<50
 US/Arizona	264924048	580	<50
 VN/Thanh Hóa Province	51767028	<50	<50
 BD/Sylhet Division	11567736	<50	<50
@@ -82,7 +86,6 @@ CG/Brazzaville	2030748	<50	<50
 MX/Jalisco	12699344	<50	<50
 CO/Bogota D.C.	11436464	<50	<50
 BR/Minas Gerais	47965906	<50	<50
-UZ/Tashkent	37863624	<50	<50
 VN/Thai Nguyen	4460992	<50	<50
 BG/Lovech	4716576	<50	<50
 PE/Lima region	14804808	<50	<50
@@ -90,9 +93,11 @@ XK/Pristina	14411760	<50	<50
 AR/San Luis	2685828	<50	<50
 US/North Carolina	9913712	<50	<50
 TR/Tokat Province	10933256	<50	<50
+AT/Lower Austria	12643044	<50	<50
 SV/San Salvador Department	9353632	<50	<50
 PH/Central Luzon	11812544	<50	<50
 AR/Buenos Aires	8319516	<50	<50
+IT/Campania	7467912	<50	<50
 ID/Jakarta	33474324	<50	<50
 VN/Hưng Yên Province	66685300	<50	<50
 ID/West Sumatra	1244652	<50	<50
@@ -108,8 +113,8 @@ TR/Kilis	4323528	<50	<50
 OM/Muscat	9536688	<50	<50
 TN/Ben Arous Governorate	9536688	<50	<50
 TR/Konya	3933800	<50	<50
-CL/Santiago Metropolitan	7664436	<50	<50
-PK/Sindh	15656412	<50	<50
+CL/Santiago Metropolitan	16901064	<50	<50
+PK/Sindh	16573524	<50	<50
 ET/Sidama Region	2358288	<50	<50
 US/Florida	7795452	<50	<50
 UY/Montevideo Department	3406416	<50	<50
@@ -121,6 +126,7 @@ KZ/Almaty	7598928	<50	<50
 HN/Valle Department	22403736	<50	<50
 ZA/Eastern Cape	8188500	<50	<50
 NL/Groningen	13036092	<50	<50
+KE/Mombasa County	3406416	<50	<50
 AE/Sharjah	11944054	<50	<50
 BR/Piauí	12667936	<50	<50
 SY/Damascus Governorate	1375668	<50	<50
@@ -138,6 +144,7 @@ CA/British Columbia	4805520	<50	<50
 CN/Henan	18546176	<50	<50
 AT/Upper Austria	10594824	<50	<50
 FR/Occitanie	26403696	<50	<50
+US/Colorado	22121432	<50	<50
 BR/Pará	3340908	<50	<50
 IQ/Najaf	9367644	<50	<50
 PH/Central Visayas	2705856	<50	<50
@@ -151,8 +158,10 @@ BR/Maranhão	4323528	<50	<50
 PY/Asuncion	15488008	<50	<50
 IN/Punjab	49065492	<50	<50
 IN/Delhi	4978608	<50	<50
+CL/Region of Magallanes	10088232	<50	<50
 IQ/Salah ad Din	1	<50	<50
 VN/Phu Tho	7729944	<50	<50
+EG/Cairo	4978608	<50	<50
 CN/Jiangsu	8647056	<50	<50
 IQ/Duhok	36566120	<50	<50
 BR/Goiás	6379776	<50	<50

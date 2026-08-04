@@ -1,17 +1,17 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-US/California	1062402494899	53480	160
-undetermined	838259558628	26300	400
-CN/Shanxi	81630218921	9740	<50
-GitHub	16726687233	94460	1980
+US/California	1062405508267	53480	160
+undetermined	838260672264	26300	400
+CN/Shanxi	106534765664	12720	<50
+GitHub	18032192107	101380	2020
 US/Massachusetts	2080456369718	15960	260
-missing	356213674619	40300	500
+missing	72227717945	6300	520
 CN/Shanghai	854620905207	81500	<50
-US/Virginia	3677253258	4140	<50
+US/Virginia	3687336374	4180	<50
 IT/Apulia	864005064	1140	120
-VPN	643625837760	1180	1060
+AWS/us-east-1	706477973236	84580	640
+VPN	643750040928	1180	1080
 US/Illinois	1730832476	220	80
-AWS/ap-southeast-1	1669340364	140	140
-AWS/us-east-1	446830104739	53600	640
+AWS/ap-southeast-1	1677201324	140	140
 TW/Taiwan	702311633073	160	120
 US/Georgia	1686859300	380	<50
 MX/Campeche	1703208	<50	<50
@@ -25,7 +25,9 @@ SG/Singapore	166455828	<50	<50
 MX/Chiapas	4127004	<50	<50
 AWS/us-east-2	7726323767	4060	<50
 US/Ohio	13036092	<50	<50
+VN/Ho Chi Minh City (HCMC)	1768716	<50	<50
 AR/Buenos Aires	3602940	<50	<50
+VN/Bac Ninh	851604	<50	<50
 AWS/us-west-2	26717376	40	<50
 US/New Jersey	388688314	100	<50
 US/Texas	1547028	860	<50
@@ -36,21 +38,25 @@ IQ/Maysan	1113636	<50	<50
 VN/Nghệ An Province	1048128	<50	<50
 VN/Da Nang City	851604	<50	<50
 IN/Maharashtra	9957216	<50	<50
-VN/Ho Chi Minh City (HCMC)	851604	<50	<50
 BR/Minas Gerais	8909088	<50	<50
+BD/Dhaka Division	14542776	<50	<50
 PH/National Capital Region	1113636	<50	<50
 IQ/Duhok	851604	<50	<50
+ET/Addis Ababa	2161764	<50	<50
 VN/Hanoi	1899732	<50	<50
-BD/Dhaka Division	12446520	<50	<50
-ET/Addis Ababa	1113636	<50	<50
 AL/Korçë County	1441176	<50	<50
-BR/São Paulo	1768716	<50	<50
+BR/São Paulo	2882352	<50	<50
+IN/Gujarat	851604	<50	<50
 MX/Aguascalientes	30133680	<50	<50
 HK/Yau Tsim Mong District	7598928	<50	<50
 US/Maryland	7009923604	<50	<50
 TR/Istanbul	1113636	<50	<50
 ID/Bali	2030748	<50	<50
 RU/Volgograd Oblast	2030748	<50	<50
+HK/Hong Kong	1048128	<50	<50
+TN/Ariana Governorate	1375668	<50	<50
+LT/Kaunas	45659076	<50	<50
+RW/Kigali	1179144	<50	<50
 VE/Aragua	2554812	<50	<50
 NP/Madhesh	11398392	<50	<50
 US/South Carolina	99207784	<50	<50
@@ -58,6 +64,9 @@ US/Pennsylvania	402631397	440	<50
 NP/Bagmati Province	1113636	<50	<50
 AL/Berat County	1048128	<50	<50
 MY/Johor	1965240	<50	<50
+BR/Sergipe	2030748	<50	<50
+ES/Andalusia	4323528	<50	<50
+SL/Western Area	1113636	<50	<50
 CG/Brazzaville	1113636	<50	<50
 CI/Abidjan Autonomous District	917112	<50	<50
 US/Iowa	8701538	60	<50
@@ -70,14 +79,19 @@ IN/Haryana	14542776	<50	<50
 IQ/Diyala	2423796	<50	<50
 ID/North Sumatra	917112	<50	<50
 ES/Castille-La Mancha	1113636	<50	<50
+BR/Amazonas	1179144	<50	<50
 LU/Esch-sur-Alzette	1310160	<50	<50
 ZW/Harare	1375668	<50	<50
+VE/Carabobo	3078876	<50	<50
 GR/Attica	1048128	<50	<50
+CA/Quebec	78632815	140	<50
 US/Michigan	165497666	60	<50
 VN/Thanh Hóa Province	10284756	<50	<50
 BR/Paraíba	2554812	<50	<50
 BG/Pazardzhik	917112	<50	<50
 AU/Victoria	1048128	<50	<50
+LB/North Lebanon	1310160	<50	<50
+SN/Dakar	1113636	<50	<50
 VE/Zulia	3668448	<50	<50
 TG/Maritime	5502672	<50	<50
 VN/An Giang	917112	<50	<50
@@ -86,3 +100,4 @@ IN/West Bengal	1244652	<50	<50
 IE/Leinster	10677804	<50	<50
 SA/Eastern Province	1113636	<50	<50
 MX/Tamaulipas	2423796	<50	<50
+ET/Oromiya	1113636	<50	<50

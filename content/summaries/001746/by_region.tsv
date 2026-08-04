@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	99889098264	367640	27980
+GitHub	105085712748	389480	30400
 undetermined	51876052723	7680	1440
 AWS/us-east-1	17426199836	2140	160
 AWS/ap-southeast-1	3346118168	300	300
 VPN	8861535808	11180	820
-missing	37856475450	70580	5000
+missing	38851207878	75480	5920
 US/Washington	1657131104	2180	460
-CN/Hebei	3895203120	1640	120
-US/Virginia	2220252652	8240	520
+CN/Hebei	4185415952	1760	120
+US/Virginia	2423655192	9460	540
 US/California	800679548	2840	480
 US/Wyoming	347047912	1740	<50
 US/Iowa	327409300	1700	<50
@@ -17,10 +17,12 @@ VN/Ho Chi Minh City (HCMC)	62036076	<50	<50
 VN/Thừa Thiên Huế Province	16624120	<50	<50
 PH/Calabarzon	14915992	<50	<50
 BD/Chittagong	12315504	<50	<50
+CA/Quebec	4323528	<50	<50
+BR/São Paulo	19463056	<50	<50
 BR/Minas Gerais	9891708	<50	<50
 AL/Tirana	5306148	<50	<50
 UA/Vinnytsia	18538764	<50	<50
-MX/Mexico City	161325732	660	60
+MX/Mexico City	166304340	680	60
 ZA/Gauteng	10874328	<50	<50
 IQ/Baghdad	24237960	<50	<50
 GCP/us-central1	480717608	<50	<50
@@ -35,14 +37,13 @@ EC/Pichincha	3733956	<50	<50
 MY/Kuala Lumpur	917112	<50	<50
 CN/Guangdong	7533420	<50	<50
 KE/Nairobi County	2096256	<50	<50
-ZA/Western Cape	7533420	<50	<50
+ZA/Western Cape	10153740	<50	<50
 UY/Montevideo Department	4913100	<50	<50
 AR/Mendoza	5764704	<50	<50
 LB/Mount Lebanon	16442508	<50	<50
 PK/Sindh	11463900	<50	<50
 VN/Hanoi	30925872	<50	<50
 NP/Gandaki Pradesh	16925712	<50	<50
-BR/São Paulo	14353432	<50	<50
 UZ/Tashkent	24572848	<50	<50
 BR/Goiás	19259352	<50	<50
 ID/Aceh	917112	<50	<50
@@ -65,12 +66,13 @@ NP/Bagmati Province	9531712	<50	<50
 PS/West Bank	9531712	<50	<50
 CO/Bogota D.C.	6026736	<50	<50
 TR/Istanbul	4651068	<50	<50
+VE/Zulia	4323528	<50	<50
 AR/Tucuman	6686016	<50	<50
 RU/Krasnodar Krai	2030748	<50	<50
 US/Connecticut	13822188	<50	<50
-CL/Santiago Metropolitan	10153740	<50	<50
+CL/Santiago Metropolitan	22862292	<50	<50
 BR/Rio Grande do Sul	14061368	<50	<50
-VE/Zulia	655080	<50	<50
 ID/Jakarta	16049460	<50	<50
+ID/Yogyakarta	6092244	<50	<50
 CL/Biobio	18604272	<50	<50
 NP/Koshi	6943848	<50	<50

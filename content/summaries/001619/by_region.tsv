@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 US/California	201214422537	10320	400
-missing	348044764739	742280	43780
-VPN	128093283990	6880	1860
-US/Virginia	106918237637	13940	<50
+missing	347647286890	742000	43760
+VPN	128123810718	6880	1860
+US/Virginia	107064377745	14100	<50
 undetermined	267130952032	4440	1020
 CN/Shanghai	216146739570	16120	<50
 AWS/ap-southeast-1	3206420076	260	260
-GitHub	50199769646	65220	1240
+GitHub	53245715089	69180	1280
 AWS/us-east-1	29696474806	3740	680
-US/Massachusetts	141476033648	10100	360
+US/Massachusetts	141785686512	10320	380
 CH/Vaud	4745609104	3320	240
 MX/Mexico City	137783308	600	80
 VN/Ho Chi Minh City (HCMC)	67669764	<50	<50
@@ -30,6 +30,7 @@ VN/Hưng Yên Province	20766036	<50	<50
 ID/Jakarta	8647056	<50	<50
 JO/Amman	12839568	<50	<50
 AE/Dubai	14870316	<50	<50
+IN/Uttar Pradesh	1179145	<50	<50
 IQ/Karbala	1113636	<50	<50
 RU/Stavropol Kray	917112	<50	<50
 IL/Northern District	1506684	<50	<50
@@ -39,16 +40,18 @@ PK/Sindh	8516040	<50	<50
 SE/Stockholm	2227	<50	<50
 AWS/us-west-2	23464486	80	<50
 HK/Hong Kong	7598928	<50	<50
+US/Michigan	851604	<50	<50
 AU/Queensland	1113636	<50	<50
 JO/Balqa	7336896	<50	<50
 BY/Minsk City	14739300	<50	<50
-ID/Riau	917112	<50	<50
+ID/Riau	24106944	<50	<50
 US/Washington	1	<50	<50
 BR/Minas Gerais	4520052	<50	<50
 VN/Hà Tĩnh Province	5044116	<50	<50
 AZ/Gǝncǝ	2030748	<50	<50
 CL/Santiago Metropolitan	12381012	<50	<50
 VE/Lara	1375668	<50	<50
+VN/Phu Tho	15066840	<50	<50
 VN/Cao Bằng Province	11332884	<50	<50
 UZ/Tashkent	9171120	<50	<50
 BD/Dhaka Division	1113636	<50	<50
@@ -60,11 +63,13 @@ VN/Thanh Hóa Province	2292780	<50	<50
 IN/Maharashtra	5502673	<50	<50
 CH/Zurich	364147796	<50	<50
 US/North Carolina	1086374126	<50	<50
+AM/Yerevan	10088232	<50	<50
 BR/Paraíba	11856948	<50	<50
 AZ/Yevlax City	15001332	<50	<50
 AZ/Baki	5371656	<50	<50
 MY/Penang	1048128	<50	<50
 IQ/Nineveh	851604	<50	<50
+BE/Wallonia	7926468	<50	<50
 BR/Pernambuco	5175132	<50	<50
 CO/Antioquia	2358288	<50	<50
 GB/England	69805550	<50	<50
@@ -75,6 +80,7 @@ AL/Elbasan County	7009356	<50	<50
 BB/Saint Michael	20045448	<50	<50
 ID/North Sumatra	917112	<50	<50
 LB/Mount Lebanon	17425128	<50	<50
+MX/Querétaro	3013368	<50	<50
 BD/Chittagong	3078876	<50	<50
 BR/Maranhão	3340908	<50	<50
 JO/Irbid	13232616	<50	<50
@@ -84,7 +90,6 @@ EG/Alexandria	851604	<50	<50
 ID/West Java	2489304	<50	<50
 PS/West Bank	10022724	<50	<50
 GE/Samegrelo and Zemo Svaneti	37732608	<50	<50
-VN/Phu Tho	13756680	<50	<50
 IN/Haryana	12118980	<50	<50
 MA/Marrakesh-Safi	851604	<50	<50
 UA/Dnipropetrovsk	7336896	<50	<50
@@ -93,5 +98,4 @@ AE/Abu Dhabi	6288768	<50	<50
 KE/Nairobi County	18604272	<50	<50
 BO/Cochabamba	1113636	<50	<50
 MA/Fes-Meknes	4323528	<50	<50
-IN/Uttar Pradesh	1	<50	<50
 GR/West Greece	3668448	<50	<50

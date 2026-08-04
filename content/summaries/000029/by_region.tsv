@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	378599682	160	80
+AWS/us-east-1	378599722	160	80
 undetermined	1028495271	800	200
 SG/Singapore	18297766	<50	<50
-VPN	444942423	240	160
+VPN	444942432	240	160
 US/Connecticut	322091934	100	<50
-missing	1713983742	8620	300
+missing	1709395737	7900	300
 CN/Shanghai	51343645	<50	<50
 US/Virginia	103434665	6280	<50
 US/New Hampshire	54887438	<50	<50
@@ -23,8 +23,10 @@ US/New Jersey	805944668	280	<50
 JP/Aichi	4	<50	<50
 IT/Lazio	18295760	<50	<50
 MA/Fes-Meknes	4	<50	<50
+CZ/Prague	4	<50	<50
+VN/Ho Chi Minh City (HCMC)	30	<50	<50
 AWS/us-east-2	775774368	7780	<50
-GitHub	423301372	82080	100
+GitHub	439153056	82820	100
 JP/Tokyo	19758456	<50	<50
 AWS/us-west-2	19781840	<50	<50
 IT/Lombardy	164661768	<50	<50
@@ -38,6 +40,7 @@ US/Georgia	18295758	<50	<50
 TR/Istanbul	27794412	<50	<50
 DE/North Rhine-Westphalia	2931264	<50	<50
 CH/Vaud	6286536	<50	<50
+DO/Espaillat Province	2030748	<50	<50
 DE/Baden-Wurttemberg	12	<50	<50
 US/Pennsylvania	12	<50	<50
 NL/Flevoland	94	<50	<50

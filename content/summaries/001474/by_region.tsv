@@ -1,12 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	6450528916	16720	2100
+GitHub	6546896704	17060	2140
 undetermined	7171105053	3960	560
 US/California	1549549888	340	100
 AWS/us-east-1	6367046632	1240	840
 CN/Shanghai	5442467442	1000	280
 AWS/ap-southeast-1	1922589924	240	240
-VPN	21073313562	3400	2640
-missing	3123717544	2420	880
+VPN	21201828046	3420	2640
+missing	2843423864	2060	800
 US/New York	3302602376	360	360
 IT/Emilia-Romagna	7947312	<50	<50
 MX/Mexico City	65617348	180	<50
@@ -21,8 +21,9 @@ US/Illinois	64143236	180	<50
 SG/Singapore	447306648	60	60
 BR/Roraima	8843580	<50	<50
 BR/São Paulo	33155428	<50	<50
-PK/Sindh	3799464	<50	<50
+PK/Sindh	14927464	<50	<50
 US/Wyoming	23800920	80	<50
+BR/Minas Gerais	11101943	<50	<50
 US/Iowa	20424804	100	<50
 DZ/Tlemcen	3406416	<50	<50
 VN/Bac Ninh	11125120	<50	<50
@@ -62,7 +63,7 @@ US/Connecticut	6142024	<50	<50
 TT/Borough of Arima	6142024	<50	<50
 IN/Punjab	3013368	<50	<50
 CN/Beijing	24660257	<50	<50
-HK/Yau Tsim Mong District	8516040	<50	<50
+HK/Yau Tsim Mong District	19455876	<50	<50
 BR/Rondônia	3995988	<50	<50
 BR/Santa Catarina	7533577	<50	<50
 VN/Hà Tĩnh Province	6141312	<50	<50
@@ -73,7 +74,6 @@ PA/Colón	7664976	<50	<50
 KH/Siem Reap	7664976	<50	<50
 US/Massachusetts	413477520	60	<50
 VN/Thanh Hóa Province	1375668	<50	<50
-BR/Minas Gerais	5206223	<50	<50
 BR/Rio de Janeiro	7542648	<50	<50
 UA/Kirovohrad	11142792	<50	<50
 NL/North Holland	7567448	<50	<50
@@ -83,16 +83,19 @@ CY/Nicosia	11160192	<50	<50
 AZ/Baki	7009356	<50	<50
 IQ/Erbil	10743312	<50	<50
 NP/Bagmati Province	11128272	<50	<50
+MX/Puebla	1113636	<50	<50
 VN/Nghệ An Province	9564168	<50	<50
 BR/Maranhão	11240840	<50	<50
 SY/Damascus Governorate	2096256	<50	<50
 BH/Manama	2751336	<50	<50
+VE/Distrito Federal	7140372	<50	<50
 ID/Yogyakarta	5175132	<50	<50
 IQ/Baghdad	1113636	<50	<50
 CL/Santiago Metropolitan	11131392	<50	<50
 JM/Kingston	2423796	<50	<50
 CH/Vaud	2587916	<50	<50
 CL/O'Higgins Region	7537416	<50	<50
+VN/Hai Phong	8974596	<50	<50
 US/Texas	11133760	<50	<50
 IN/Delhi	11133760	<50	<50
 IQ/Nineveh	11133760	<50	<50
@@ -100,4 +103,5 @@ CR/San José	7542288	<50	<50
 CN/Shandong	7538976	<50	<50
 TR/Sakarya	7616432	<50	<50
 AR/Santa Fe	7525696	<50	<50
+VN/Lam Dong	10219248	<50	<50
 PY/Alto Paraná Department	6419784	<50	<50

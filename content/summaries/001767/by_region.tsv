@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads
 AWS/ap-southeast-1	1356399214	240	240
-GitHub	13272328000	52200	2180
-VPN	4247008021	2820	780
+GitHub	13519151530	53400	2220
+VPN	4266534189	2820	780
 AWS/us-east-1	4023008024	940	940
 GB/England	2236219926	440	380
 US/Massachusetts	1270471176	220	<50
 US/New York	3661762324	760	760
 AR/La Rioja	5262608	<50	<50
-missing	6876154091	7500	1760
+missing	6561340709	6280	1700
 undetermined	4484332687	2640	760
 FR/Île-de-France	32216008	<50	<50
 MX/Jalisco	4841008	<50	<50
@@ -21,19 +21,21 @@ US/Iowa	87436124	420	<50
 BO/La Paz Department	6007344	<50	<50
 US/Illinois	147572026	680	<50
 BD/Barisal Division	7442808	<50	<50
-BR/São Paulo	27606796	<50	<50
+BR/São Paulo	32126848	<50	<50
 ET/Addis Ababa	2882352	<50	<50
 UZ/Tashkent	18880088	<50	<50
 MX/Mexico City	88735242	340	<50
 MX/San Luis Potosí	3882232	<50	<50
 GY/Demerara-Mahaica	917112	<50	<50
-VN/Ho Chi Minh City (HCMC)	34076816	<50	<50
+VN/Ho Chi Minh City (HCMC)	38051224	<50	<50
+ZA/Western Cape	6485292	<50	<50
 ZA/Gauteng	1441176	<50	<50
 CH/Vaud	170281632	760	60
 EG/Damietta	4183352	<50	<50
 IQ/Najaf	4183352	<50	<50
 SA/Mecca Region	4183352	<50	<50
 US/North Carolina	9839762	<50	<50
+KG/Bishkek	6172696	<50	<50
 TH/Nonthaburi	6172696	<50	<50
 DE/North Rhine-Westphalia	3224344	<50	<50
 UA/Dnipropetrovsk	7068369	<50	<50
@@ -41,8 +43,7 @@ US/California	14651462	<50	<50
 VN/Hanoi	20611608	<50	<50
 NG/Lagos	1113636	<50	<50
 KE/Nairobi County	8742008	<50	<50
-ZA/Western Cape	1048128	<50	<50
-BD/Dhaka Division	18830548	<50	<50
+BD/Dhaka Division	19682152	<50	<50
 US/Wyoming	42820012	220	<50
 AE/Dubai	11949704	<50	<50
 VE/Carabobo	5623408	<50	<50
@@ -51,9 +52,10 @@ IN/Telangana	2483848	<50	<50
 VN/Vinh Long	2483848	<50	<50
 BR/Rio Grande do Sul	12102920	<50	<50
 AR/La Pampa	1768716	<50	<50
+FR/Rhône-Alpes	6550800	<50	<50
 AR/Buenos Aires	7612904	<50	<50
 VN/Phu Tho	2554812	<50	<50
-HK/Yau Tsim Mong District	18808020	<50	<50
+HK/Yau Tsim Mong District	32690116	<50	<50
 IQ/Baghdad	10638496	<50	<50
 SY/Aleppo	4782084	<50	<50
 EC/Azuay	5684880	<50	<50
@@ -78,6 +80,7 @@ AL/Vlorë County	5358600	<50	<50
 EC/Pichincha	2423796	<50	<50
 IL/Jerusalem	3974408	<50	<50
 UY/Cerro Largo	7982800	<50	<50
+ID/West Kalimantan	1113636	<50	<50
 MA/Casablanca-Settat	5671856	<50	<50
 VN/Tuyen Quang	3668448	<50	<50
 KZ/Pavlodar Region	5671856	<50	<50
@@ -93,6 +96,7 @@ SV/San Salvador Department	6224440	<50	<50
 SY/Damascus Governorate	1048128	<50	<50
 ES/Madrid	15040197	<50	<50
 BR/Rio de Janeiro	10249741	<50	<50
+MY/Melaka	1048128	<50	<50
 PH/National Capital Region	5956232	<50	<50
 ES/Navarre	6177712	<50	<50
 PA/Panamá	4373928	<50	<50
@@ -106,3 +110,4 @@ CO/Valle del Cauca Department	4716576	<50	<50
 VN/Cao Bằng Province	5625216	<50	<50
 BG/Plovdiv	6925096	<50	<50
 MX/Nuevo León	3972008	<50	<50
+AM/Yerevan	4913100	<50	<50

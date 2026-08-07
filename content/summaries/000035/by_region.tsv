@@ -1,12 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-missing	309941358855	1222620	24080
+missing	307320003773	1211160	23600
 US/Texas	1683202543	6420	200
-GitHub	36535323710	513340	2860
-AWS/us-east-2	2351064588	931960	180
+GitHub	36934089970	520580	2880
+AWS/us-east-2	2352397772	935080	180
 undetermined	46818101242	52060	4720
 US/Oklahoma	4968499962	560	560
 DE/North Rhine-Westphalia	1685790238	340	180
-AWS/us-east-1	14023628741	2740	560
+AWS/us-east-1	14029866957	2760	560
 GCP/us-central1	2983574356	340	340
 CN/Guangdong	8275915324	920	920
 CN/Tianjin	1410403937	160	160
@@ -16,13 +16,13 @@ CN/Shanghai	6278809337	700	700
 HK/Kwai Tsing District	1656166654	180	180
 CN/Fujian	3312333308	360	360
 DE/Baden-Wurttemberg	3331250064	380	380
-US/California	2389602236	19400	280
+US/California	2412611359	19400	280
 US/Massachusetts	1878585535	220	<50
 AWS/us-west-2	2432580428	11200	200
 US/Minnesota	52359126	<50	<50
-VPN	20048775810	2580	2400
+VPN	20140453592	2580	2420
 IT/Lombardy	1515754382	340	<50
-US/Virginia	9063771643	47440	760
+US/Virginia	9082585863	47440	760
 AWS/ap-northeast-1	3472440519	400	380
 HK/Hong Kong	312516532	60	<50
 GCP/us-west1	4974193258	560	560
@@ -30,30 +30,34 @@ US/Iowa	38795417	120	<50
 US/New York	1696017722	200	200
 US/Wisconsin	3448392892	380	380
 JP/Aichi	1674698608	180	180
-AWS/ap-southeast-1	2013682301	260	260
-CN/Beijing	3574735956	400	400
+AWS/ap-southeast-1	2025561457	260	260
+CN/Beijing	3813480045	1220	580
 CH/Geneva	4968499962	560	560
 US/New Mexico	1656166654	180	180
 CN/Shanxi	296843942	60	<50
 IN/Punjab	15537705	<50	<50
 GCP/us-east1	1674549458	180	180
+PK/Sindh	5441848	<50	<50
 PK/Islamabad	6622392	<50	<50
+CN/Hubei	1657892118	180	180
 DE/Bavaria	28470084	<50	<50
 CN/Hunan	1027140667	120	120
 AR/Corrientes	6570036	<50	<50
-CN/Hebei	516077737	200	60
+CN/Hebei	571189940	200	60
 US/Illinois	771114020	940	80
-UZ/Tashkent	26200545	<50	<50
+UZ/Tashkent	35645448	<50	<50
 KZ/Karaganda	1990092	<50	<50
+VN/Lam Dong	862732	<50	<50
 MX/Jalisco	18531954	<50	<50
-SG/Singapore	512031077	60	60
+SG/Singapore	512960173	60	60
 US/New Jersey	56089760	120	<50
 GB/England	44742496	<50	<50
 IN/Delhi	18699991	<50	<50
 KR/Seoul	18764746	<50	<50
-MX/Mexico City	52828367	200	<50
+MX/Mexico City	53757463	200	<50
+CA/Ontario	47397607	<50	<50
 US/Arizona	45203726	6480	<50
-BR/São Paulo	25054629	<50	<50
+BR/São Paulo	28306465	<50	<50
 IN/Maharashtra	2190012	<50	<50
 GR/Attica	9383530	<50	<50
 ID/Jakarta	23293764	<50	<50
@@ -63,19 +67,23 @@ IL/Central District	8494592	<50	<50
 TN/Monastir Governorate	1990920	<50	<50
 NZ/Auckland	8428228	<50	<50
 VN/Thanh Hóa Province	9881229	<50	<50
+EG/Sharqia	9264106	<50	<50
+UA/Zhytomyr Oblast	1194552	<50	<50
 JO/Amman	5242756	<50	<50
 US/Pennsylvania	1791828	<50	<50
 US/Florida	2588196	<50	<50
-CA/Ontario	45141231	<50	<50
+PH/Davao Region	1061824	<50	<50
+CL/Maule Region	3981840	<50	<50
 NG/Rivers State	1061824	<50	<50
 BR/Rio de Janeiro	16467423	<50	<50
 KE/Nairobi County	11480972	<50	<50
 BD/Dhaka Division	38018149	<50	<50
-PK/Punjab	10295982	<50	<50
-VN/Ho Chi Minh City (HCMC)	18882418	<50	<50
+PK/Punjab	11158714	<50	<50
+VN/Ho Chi Minh City (HCMC)	19811514	<50	<50
 MA/Casablanca-Settat	11544753	<50	<50
 VN/Bac Ninh	15263720	<50	<50
 SA/Mecca Region	10431210	<50	<50
+IN/Haryana	929096	<50	<50
 FR/Île-de-France	1924556	<50	<50
 EC/Guayas	6835492	<50	<50
 VE/Zulia	2521832	<50	<50
@@ -83,11 +91,14 @@ ES/Asturias	1327280	<50	<50
 OM/Al Batinah North	1061824	<50	<50
 UY/Montevideo Department	7034584	<50	<50
 MA/Marrakesh-Safi	4645480	<50	<50
-AR/Buenos Aires	9555927	<50	<50
+AR/Buenos Aires	13736859	<50	<50
 ID/East Java	1128188	<50	<50
 US/South Carolina	89550392	<50	<50
 IN/Uttarakhand	9158232	<50	<50
 BR/Espírito Santo	9636262	<50	<50
+ZA/Eastern Cape	8999080	<50	<50
+MY/Perak	2322740	<50	<50
+CA/Alberta	1659100	<50	<50
 NG/Enugu State	6039124	<50	<50
 QA/Baladiyat ar Rayyan	1128188	<50	<50
 ES/Valencia	1393644	<50	<50
@@ -100,29 +111,41 @@ MY/Penang	1061824	<50	<50
 US/Nebraska	730004	<50	<50
 KZ/Shymkent	3716384	<50	<50
 US/Wyoming	58155216	300	<50
+TR/Edirne	1327280	<50	<50
 IN/Uttar Pradesh	1061824	<50	<50
-ES/Andalusia	1128188	<50	<50
+ES/Andalusia	2588196	<50	<50
 VN/Hai Phong	10153692	<50	<50
 DO/La Altagracia Province	5176392	<50	<50
 SA/'Asir Region	1327280	<50	<50
-PE/Lima Province	13073708	<50	<50
+BR/Pernambuco	1061824	<50	<50
+PE/Lima Province	15860996	<50	<50
 AE/Abu Dhabi	1128188	<50	<50
+NL/South Holland	1393644	<50	<50
 VN/Phu Tho	1061824	<50	<50
+CO/Antioquia	14799172	<50	<50
+BR/Rio Grande do Sul	3782748	<50	<50
+AR/San Luis	1061824	<50	<50
 AU/Victoria	1128188	<50	<50
+PH/Calabarzon	2057284	<50	<50
 JP/Tokyo	29054610	120	<50
 CA/Quebec	9278841	<50	<50
+VN/Khanh Hoa	8915313	<50	<50
 PK/Khyber Pakhtunkhwa	2322740	<50	<50
 ZA/Gauteng	5309120	<50	<50
+VN/Dong Thap	862732	<50	<50
 BY/Vitebsk	7233676	<50	<50
 RU/Moscow Oblast	4180932	<50	<50
 IE/Leinster	9114097	<50	<50
 NZ/Waikato Region	9067399	<50	<50
 NO/Oslo	23406480	<50	<50
 CO/Boyacá	6370944	<50	<50
-CL/Maule Region	2322740	<50	<50
 MX/Hidalgo	9504552	<50	<50
 IQ/Erbil	1791828	<50	<50
+KE/Migori County	3251836	<50	<50
 CO/Cundinamarca	929096	<50	<50
+LT/Vilnius	9432445	<50	<50
+VN/Dong Nai	862732	<50	<50
+PY/Caaguazú Department	9514272	<50	<50
 BR/Sergipe	2322740	<50	<50
 IN/Telangana	1061824	<50	<50
 IQ/Kirkuk	929096	<50	<50
@@ -132,19 +155,19 @@ VN/Lai Châu Province	1061824	<50	<50
 AT/Styria	10325543	<50	<50
 BD/Khulna Division	862732	<50	<50
 DE/Rheinland-Pfalz	1327280	<50	<50
+ES/Castille and León	1194552	<50	<50
 PH/Central Luzon	6105488	<50	<50
-MY/Perak	1393644	<50	<50
+VN/An Giang	796368	<50	<50
 MX/Zacatecas	1128188	<50	<50
-CO/Antioquia	7830952	<50	<50
 PE/Cuzco Department	2256376	<50	<50
 BR/Paraná	8830282	<50	<50
 ID/Central Java	8830282	<50	<50
 PH/National Capital Region	8959140	<50	<50
 NZ/Wellington Region	6814468	<50	<50
 XK/Pristina	6814468	<50	<50
-BR/Rio Grande do Sul	1393644	<50	<50
+TH/Bangkok	9227412	<50	<50
 SV/La Libertad Department	9475993	<50	<50
 ZA/Western Cape	2920016	<50	<50
-PK/Sindh	2588196	<50	<50
 CL/Valparaiso	9760941	<50	<50
 SY/Rif-dimashq	1061824	<50	<50
+TR/Istanbul	1128188	<50	<50

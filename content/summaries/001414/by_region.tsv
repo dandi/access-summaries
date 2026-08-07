@@ -2,14 +2,14 @@ region	bytes_sent	number_of_requests	number_of_downloads
 US/California	174361232599	24720	80
 US/Massachusetts	341883674266	7120	<50
 AWS/us-east-1	353341143562	42720	640
-VPN	343074615023	3420	3080
+VPN	343875891929	3440	3100
 AWS/ap-southeast-1	4381362528	360	360
-GitHub	8352820023	16420	2880
+GitHub	8556210370	16900	2980
 US/New York	351158469979	520	500
 undetermined	145287377964	3860	1020
 CN/Shanghai	571042442060	43780	60
-missing	41706184709	5000	1280
-US/Virginia	1345074317	400	280
+missing	40605548236	4480	1160
+US/Virginia	1396498097	400	280
 GCP/us-west1	3680310270	<50	<50
 SG/Singapore	2222092772	60	<50
 US/Illinois	81679280	200	<50
@@ -20,7 +20,7 @@ US/Florida	13363633	<50	<50
 US/Georgia	16993404	<50	<50
 US/Arizona	24281096	100	<50
 HK/Yau Tsim Mong District	9498660	<50	<50
-PK/Punjab	4913100	<50	<50
+PK/Punjab	6026736	<50	<50
 US/Wyoming	27450444	40	<50
 MX/Mexico City	2167528492	300	60
 BD/Dhaka Division	4520052	<50	<50
@@ -48,6 +48,7 @@ ID/South Kalimantan	917112	<50	<50
 IN/Punjab	18473256	<50	<50
 BD/Chittagong	7009357	<50	<50
 CH/Vaud	1620667	<50	<50
+NI/North Caribbean Coast	13167108	<50	<50
 GB/England	5568181	<50	<50
 US/Kentucky	15459888	<50	<50
 US/North Carolina	3602941	<50	<50
@@ -55,6 +56,7 @@ VN/Bac Ninh	10677804	<50	<50
 VN/Khanh Hoa	3733956	<50	<50
 RU/Volgograd Oblast	2358288	<50	<50
 NP/Koshi	1	<50	<50
+NP/Bagmati Province	917112	<50	<50
 IN/Maharashtra	1	<50	<50
 UA/Zakarpattia	14870316	<50	<50
 ZA/Gauteng	917112	<50	<50
@@ -64,7 +66,7 @@ VN/Ho Chi Minh City (HCMC)	30330204	<50	<50
 PE/Lima region	8712564	<50	<50
 VN/Thanh Hóa Province	917112	<50	<50
 ZA/Mpumalanga	9564168	<50	<50
-BR/Pernambuco	11070852	<50	<50
+BR/Pernambuco	24106944	<50	<50
 AWS/us-west-2	24390198	<50	<50
 VN/Ninh Binh	13298124	<50	<50
 CA/Saskatchewan	1	<50	<50
@@ -73,10 +75,12 @@ BR/Ceará	7533420	<50	<50
 IQ/Babil	2292780	<50	<50
 UA/Ternopil	6681816	<50	<50
 AR/Misiones	17818176	<50	<50
+IQ/Baghdad	6812832	<50	<50
 VN/Vinh Long	8581548	<50	<50
 BR/Minas Gerais	6157752	<50	<50
 BD/Rajshahi Division	9760692	<50	<50
 VN/Nghệ An Province	10481280	<50	<50
+VN/Phu Tho	3733956	<50	<50
 BE/Flanders	7467912	<50	<50
 BG/Varna	9891708	<50	<50
 BR/Bahia	4520052	<50	<50
@@ -92,6 +96,7 @@ US/Nevada	1	<50	<50
 MX/Tamaulipas	7271388	<50	<50
 HN/Cortés Department	1	<50	<50
 VE/Barinas	1113636	<50	<50
+BR/Maranhão	5764704	<50	<50
 AE/Sharjah	3668448	<50	<50
 TR/Manisa	7664436	<50	<50
 JO/Amman	7271388	<50	<50

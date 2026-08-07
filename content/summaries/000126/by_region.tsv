@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	35375333652	6269020	23960
+GitHub	35790275596	6346980	24160
 undetermined	8663266004	801700	1040
-missing	19534466968	498180	2260
+missing	19091182524	417980	2020
 US/Georgia	568351232	648680	<50
 US/New York	349145756	35500	<50
-VPN	1762039200	84680	880
-AWS/us-east-1	428807908	58340	80
+VPN	1772735336	85840	880
+AWS/us-east-1	429001136	58760	80
 AWS/us-west-2	929411479	29140	<50
 US/Texas	392159444	86860	<50
-US/Virginia	792506176	170260	580
+US/Virginia	804186240	170260	580
 GB/England	277899200	65500	<50
 US/Wyoming	16802880	120	<50
 CA/Quebec	61320408	7940	<50
@@ -17,13 +17,13 @@ US/Washington	25099644	22860	<50
 US/California	663607120	173060	680
 US/Illinois	684576824	5840	340
 GCP/us-east5	65820672	380	180
-AWS/us-east-2	77816756	101000	<50
+AWS/us-east-2	77956444	101160	<50
 US/Arizona	96119352	10360	100
-BR/São Paulo	14398272	80	80
+BR/São Paulo	14569680	80	80
 VN/Phu Tho	2056896	<50	<50
-bogon	75585640	640	220
-SG/Singapore	174683908	1240	400
-VN/Ho Chi Minh City (HCMC)	23997120	140	140
+bogon	76123412	1120	220
+SG/Singapore	175198132	1240	400
+VN/Ho Chi Minh City (HCMC)	24854160	140	140
 GCP/us-west1	11221168	1280	<50
 VN/Hanoi	7545576	2480	<50
 SE/Stockholm	2572480	<50	<50
@@ -34,14 +34,14 @@ US/District of Columbia	165552	360	<50
 VN/Thanh Hóa Province	1542672	<50	<50
 HK/Tsuen Wan	10804688	80	<50
 US/Oregon	37409664	3100	<50
-VN/Hai Phong	2056896	<50	<50
+VN/Hai Phong	2228304	<50	<50
 GCP/asia-southeast1	685632	<50	<50
 BR/Sergipe	514224	<50	<50
 HK/Hong Kong	10616528	1220	<50
-BR/Santa Catarina	1885488	<50	<50
+BR/Santa Catarina	2056896	<50	<50
 US/New Mexico	21597952	120	<50
 VN/Dong Nai	1885488	<50	<50
-BR/Minas Gerais	7370544	<50	<50
+BR/Minas Gerais	7541952	<50	<50
 CN/Shanghai	280818468	<50	<50
 IN/Maharashtra	514224	<50	<50
 BR/Ceará	2742528	<50	<50
@@ -51,15 +51,16 @@ VN/Can Tho City	342816	<50	<50
 US/New Jersey	1028448	<50	<50
 CN/Guangdong	502816	460	<50
 BR/Alagoas	685632	<50	<50
+ZA/Gauteng	342816	<50	<50
 EC/Santa Elena	171408	<50	<50
 US/Massachusetts	268633568	140	<50
-GCP/us-central1	2571120	<50	<50
+GCP/us-central1	2913936	<50	<50
 BR/Rio de Janeiro	5485056	<50	<50
 VN/Da Nang City	1542672	<50	<50
 VN/Bac Ninh	1714080	<50	<50
 BR/Rio Grande do Sul	5142240	<50	<50
 NZ/Canterbury	2058528	<50	<50
-MX/Mexico City	22719032	120	<50
+MX/Mexico City	22890440	120	<50
 BR/Bahia	2742528	<50	<50
 EC/Tungurahua Province	171408	<50	<50
 BR/Goiás	1714080	<50	<50
@@ -71,16 +72,17 @@ BR/Paraíba	342816	<50	<50
 BR/Rondônia	342816	<50	<50
 MA/Rabat-Salé-Kénitra	171408	<50	<50
 BR/Federal District	1199856	<50	<50
+MX/México	514224	<50	<50
 HU/Budapest	55208	120	<50
 HK/Islands	1372080	<50	<50
-BR/Paraná	2571120	<50	<50
+BR/Paraná	2742528	<50	<50
 ZA/Western Cape	514224	<50	<50
 AWS/eu-north-1	685632	<50	<50
 US/Maryland	685632	<50	<50
 PY/Central Department	514224	<50	<50
 KE/Uasin Gishu County	171408	<50	<50
 BD/Dhaka Division	342816	<50	<50
-VN/Tuyen Quang	514224	<50	<50
+VN/Tuyen Quang	685632	<50	<50
 JP/Tokyo	342816	<50	<50
 CH/Zurich	171408	<50	<50
 AR/Chaco	514224	<50	<50
@@ -100,7 +102,6 @@ BR/Espírito Santo	857040	<50	<50
 BR/Mato Grosso	685632	<50	<50
 US/Connecticut	171408	<50	<50
 CN/Jiangsu	1598672	140	<50
-MX/México	342816	<50	<50
 VN/Lạng Sơn Province	514224	<50	<50
 LV/Riga	171408	<50	<50
 AWS/eu-central-1	342816	<50	<50
@@ -113,7 +114,7 @@ CA/Ontario	171408	<50	<50
 MX/Querétaro	171408	<50	<50
 BR/Amapá	171408	<50	<50
 AWS/sa-east-1	342816	<50	<50
-UZ/Tashkent	171408	<50	<50
+UZ/Tashkent	1565052	<50	<50
 NI/Managua Department	171408	<50	<50
 IR/Razavi Khorasan	171408	<50	<50
 UY/Montevideo Department	342816	<50	<50
@@ -161,11 +162,11 @@ VN/Thai Nguyen	171408	<50	<50
 VN/Cao Bằng Province	171408	<50	<50
 VN/Lam Dong	171408	<50	<50
 UY/Maldonado	171408	<50	<50
+EC/Manabí	171408	<50	<50
 BD/Khulna Division	171408	<50	<50
 CO/Cauca Department	171408	<50	<50
 DK/Capital Region	171408	<50	<50
 EG/Giza	171408	<50	<50
-ZA/Gauteng	171408	<50	<50
 GA/Estuaire	171408	<50	<50
 CO/Norte de Santander Department	171408	<50	<50
 GCP/us-east4	685632	<50	<50
@@ -173,4 +174,4 @@ FR/Île-de-France	171408	<50	<50
 US/Tennessee	343088	<50	<50
 CH/Vaud	547616	<50	<50
 KR/Seoul	1714080	<50	<50
-CN/Beijing	1199856	<50	<50
+CN/Beijing	1473664	<50	<50

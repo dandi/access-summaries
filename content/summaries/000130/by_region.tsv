@@ -1,92 +1,94 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	2797303025	3560	480
-VPN	5808991177	4240	520
-undetermined	3221404742	1260	460
-AWS/us-east-1	266120672	60	<50
-AWS/us-east-2	329183010	5660	<50
-US/California	416910284	2200	60
-US/Virginia	1677499906	3680	200
-AWS/us-west-2	86723642	80	<50
-CH/Geneva	94040976	<50	<50
-JP/Tokyo	80348248	<50	<50
-CN/Shanghai	201775455	<50	<50
-GitHub	681664868	42520	180
-TW/Taiwan	94040976	<50	<50
-GCP/us-central1	387038992	60	60
-AWS/ap-southeast-2	15673496	<50	<50
-GCP/us-east1	268003016	<50	<50
-GCP/us-west1	252329520	<50	<50
-CN/Zhejiang	111268056	<50	<50
-GCP/europe-west4	341629912	60	<50
-IR/Tehran	61183232	<50	<50
-KR/Seoul	29793408	<50	<50
-GCP/asia-east1	203755448	<50	<50
-US/Illinois	48574072	<50	<50
-US/North Carolina	56296176	<50	<50
-US/New York	109667060	60	<50
-US/Florida	29793408	<50	<50
-IT/Lombardy	10430616	<50	<50
-GB/England	80040448	<50	<50
-US/Michigan	59586816	<50	<50
-US/Georgia	123439291	<50	<50
-US/Pennsylvania	31346992	<50	<50
-AWS/ap-southeast-1	40044704	<50	<50
-JP/Osaka	29793408	<50	<50
-FR/Provence-Alpes-Côte d'Azur	31346992	<50	<50
-GCP/asia-southeast1	61140400	<50	<50
-CN/Beijing	79501376	<50	<50
-US/Massachusetts	57626788	<50	<50
-HK/Hong Kong	78367480	<50	<50
-RW/Kigali	15673496	<50	<50
-US/Oregon	31346992	<50	<50
-US/Washington	45466904	<50	<50
-GCP/us-east4	111268056	<50	<50
-CN/Hubei	15673496	<50	<50
-DE/Saxony	15673496	<50	<50
-CA/British Columbia	15673496	<50	<50
-PT/Lisbon	31346992	<50	<50
-GCP/us-west4	32900576	<50	<50
-HU/Budapest	15673496	<50	<50
-IL/Haifa	45466904	<50	<50
-BE/Flanders	15673496	<50	<50
-HK/Islands	29793409	<50	<50
-NL/Flevoland	14119912	<50	<50
-US/Tennessee	15673496	<50	<50
-IN/West Bengal	15673496	<50	<50
-US/Iowa	31346992	<50	<50
-US/New Mexico	15673496	<50	<50
-US/New Jersey	38415696	<50	<50
-VN/Ho Chi Minh City (HCMC)	15673496	<50	<50
-TR/Ankara	15673496	<50	<50
-IT/Trentino-Alto Adige	15673496	<50	<50
-AT/State of Vienna	15246312	<50	<50
-SG/Singapore	15673496	<50	<50
-NL/North Holland	15673496	<50	<50
-JP/Kanagawa	15673496	<50	<50
-CA/Quebec	31346992	<50	<50
-US/Nevada	17227080	<50	<50
-US/Indiana	31346992	<50	<50
-US/Maryland	17227080	<50	<50
-FR/Rhône-Alpes	15673496	<50	<50
-CN/Guangdong	48574072	<50	<50
-CN/Ningxia	15673496	<50	<50
-CL/Santiago Metropolitan	15673496	<50	<50
-DE/Baden-Wurttemberg	15673496	<50	<50
-DE/State of Berlin	15673496	<50	<50
-HK/Kwai Tsing District	15673496	<50	<50
-MX/Mexico City	6283880	<50	<50
-GCP/me-west1	15673496	<50	<50
-NL/South Holland	15673496	<50	<50
-AWS/eu-central-1	15673496	<50	<50
-NL/Gelderland	15673496	<50	<50
-IN/Maharashtra	62693984	<50	<50
-DE/Bavaria	15673496	<50	<50
-CH/Vaud	17933792	<50	<50
-US/District of Columbia	24723812	<50	<50
-US/Utah	3356828	<50	<50
-NL/North Brabant	17227080	<50	<50
-AWS/us-west-1	15673496	<50	<50
-KR/Daejeon	14119912	<50	<50
-US/Arizona	410144	700	<50
-US/Texas	3517312	700	<50
-FR/Île-de-France	1553584	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	2405345045	3451	447	234
+VPN	5824664673	4239	516	10
+undetermined	3252751734	1269	462	66
+AWS/us-east-1	266120672	57	16	21
+AWS/us-east-2	329183010	5660	27	24
+US/California	448257276	2206	61	11
+US/Virginia	1685397222	3679	211	44
+AWS/us-west-2	86723642	79	14	6
+CH/Geneva	94040976	12	12	0
+JP/Tokyo	83627296	17	13	1
+CN/Shanghai	233122447	50	23	4
+GitHub	685220788	42523	189	225
+TW/Taiwan	94040976	12	12	0
+GCP/us-central1	387038992	55	55	0
+AWS/ap-southeast-2	15673496	2	2	0
+GCP/us-east1	283676512	37	37	0
+GCP/us-west1	252329520	33	33	0
+CN/Zhejiang	111268056	15	15	0
+GCP/europe-west4	341629912	52	39	1
+IR/Tehran	61183232	8	8	0
+KR/Seoul	29793408	3	3	0
+GCP/asia-east1	203755448	26	26	0
+US/Illinois	48574072	7	7	0
+US/North Carolina	56296176	36	3	1
+US/New York	109667060	66	13	4
+US/Florida	29793408	3	3	0
+IT/Lombardy	10430616	3	0	2
+GB/England	80040448	21	11	1
+US/Michigan	59586816	6	6	0
+US/Georgia	123439291	17	13	1
+US/Pennsylvania	31346992	4	4	0
+AWS/ap-southeast-1	40044704	7	7	0
+JP/Osaka	29793408	3	3	0
+FR/Provence-Alpes-Côte d'Azur	31346992	4	4	0
+GCP/asia-southeast1	61140400	7	7	0
+CN/Beijing	79501376	13	11	1
+US/Massachusetts	57626788	9	7	2
+HK/Hong Kong	78367480	10	10	0
+RW/Kigali	15673496	2	2	0
+US/Oregon	31346992	4	4	0
+US/Washington	45466904	5	5	0
+GCP/us-east4	443709088	127	19	2
+CN/Hubei	15673496	2	2	0
+DE/Saxony	15673496	2	2	0
+CA/British Columbia	15673496	2	2	0
+PT/Lisbon	31346992	4	4	0
+GCP/us-west4	32900576	5	5	0
+HU/Budapest	15673496	2	2	0
+IL/Haifa	45466904	5	5	0
+BE/Flanders	15673496	2	2	0
+HK/Islands	29793409	4	2	1
+NL/Flevoland	14119912	1	1	0
+US/Tennessee	15673496	2	2	0
+IN/West Bengal	15673496	2	2	0
+US/Iowa	31346992	4	4	0
+US/New Mexico	15673496	2	2	0
+US/New Jersey	38415696	16	6	4
+VN/Ho Chi Minh City (HCMC)	15673496	2	2	0
+TR/Ankara	15673496	2	2	0
+IT/Trentino-Alto Adige	15673496	2	2	0
+AT/State of Vienna	15246312	43	1	1
+SG/Singapore	15673496	2	2	0
+NL/North Holland	15673496	2	2	0
+JP/Kanagawa	15673496	2	2	0
+CA/Quebec	31346992	4	4	0
+US/Nevada	17227080	3	3	0
+US/Indiana	31346992	4	4	0
+US/Maryland	17227080	3	2	1
+FR/Rhône-Alpes	15673496	2	2	0
+CN/Guangdong	48574072	7	7	0
+CN/Ningxia	15673496	2	2	0
+CL/Santiago Metropolitan	15673496	2	2	0
+DE/Baden-Wurttemberg	15673496	2	2	0
+DE/State of Berlin	15673496	2	2	0
+HK/Kwai Tsing District	15673496	2	2	0
+MX/Mexico City	6283880	22	6	4
+GCP/me-west1	15673496	2	2	0
+NL/South Holland	15673496	2	2	0
+AWS/eu-central-1	15673496	2	2	0
+NL/Gelderland	15673496	2	2	0
+IN/Maharashtra	62693984	8	8	0
+DE/Bavaria	15673496	2	2	0
+CH/Vaud	17933792	9	3	1
+US/District of Columbia	24723812	25	6	3
+US/Utah	3356828	7	2	3
+KZ/Almaty Region	13962452	19	10	2
+NL/North Brabant	17227080	3	3	0
+AWS/us-west-1	15673496	2	2	0
+KR/Daejeon	14119912	1	1	0
+US/Ohio	1230716	6	1	1
+US/Arizona	410144	706	0	2
+US/Texas	3517312	708	2	2
+FR/Île-de-France	1553584	1	1	0

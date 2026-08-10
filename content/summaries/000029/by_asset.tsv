@@ -1,9 +1,9 @@
-asset_path	bytes_sent	number_of_requests	number_of_downloads
-test1234	1360	160	160
-bar-renamed-3334	424	100	100
-baz	308	80	80
-sub-private/sub-private_stain-DAPI_chunk-01_SPIM.ome.zarr	155036	100	80
-123.dat	744	60	60
-sub-monk-g/sub-monk-g.nwb	7113437034	113340	580
-sample.txt	476	<50	<50
-sample.json	2080	60	40
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+test1234	1378	154	152	2
+bar-renamed-3334	424	106	104	2
+baz	312	78	76	2
+sub-private/sub-private_stain-DAPI_chunk-01_SPIM.ome.zarr	155036	96	79	2
+123.dat	750	69	67	2
+sub-monk-g/sub-monk-g.nwb	7211985258	113360	586	420
+sample.txt	488	41	38	3
+sample.json	2120	53	51	2

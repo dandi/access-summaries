@@ -1,50 +1,52 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	378599762	160	80
-undetermined	1028495271	800	200
-SG/Singapore	18297766	<50	<50
-VPN	444942444	240	180
-US/Connecticut	322091934	100	<50
-US/New Hampshire	128070550	<50	<50
-CN/Shanghai	51343645	<50	<50
-US/Virginia	103434665	6280	<50
-US/Illinois	458211	700	<50
-missing	1631084251	5780	280
-AWS/ap-southeast-1	12905295	<50	<50
-US/California	185032445	3520	<50
-US/New York	283574876	260	<50
-US/Massachusetts	36591624	<50	<50
-US/Minnesota	9	<50	<50
-CN/Shanxi	9	<50	<50
-IL/Northern District	27	<50	<50
-AR/Buenos Aires	9	<50	<50
-PH/Soccsksargen	9	<50	<50
-GCP/us-central1	94343824	<50	<50
-US/New Jersey	805944668	280	<50
-JP/Aichi	4	<50	<50
-IT/Lazio	18295760	<50	<50
-BR/Rio de Janeiro	4	<50	<50
-MA/Fes-Meknes	4	<50	<50
-US/District of Columbia	16	<50	<50
-CZ/Prague	4	<50	<50
-VN/Ho Chi Minh City (HCMC)	30	<50	<50
-AWS/us-east-2	776231848	8480	<50
-GitHub	442326204	84200	100
-JP/Tokyo	19758456	<50	<50
-AWS/us-west-2	19781840	<50	<50
-IT/Lombardy	164661768	<50	<50
-KR/Seoul	18295752	<50	<50
-US/Arizona	914960	1380	<50
-US/Texas	914960	1380	<50
-GCP/us-west1	18295752	<50	<50
-FR/Rhône-Alpes	18295752	<50	<50
-MX/Mexico City	31776548	60	<50
-US/Georgia	18295758	<50	<50
-TR/Istanbul	27794412	<50	<50
-DE/North Rhine-Westphalia	2931264	<50	<50
-CH/Vaud	6286536	<50	<50
-CN/Beijing	1497664	<50	<50
-DO/Espaillat Province	2030748	<50	<50
-DE/Baden-Wurttemberg	12	<50	<50
-US/Pennsylvania	12	<50	<50
-NL/Flevoland	94	<50	<50
-TR/Hatay	6	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	378599854	164	93	12
+undetermined	1036421739	802	193	37
+SG/Singapore	36593518	6	6	0
+VPN	444942453	246	172	8
+US/Connecticut	322091934	100	48	2
+US/New Hampshire	128070550	39	39	0
+CN/Shanghai	51343645	33	28	2
+US/Virginia	103434665	6273	12	14
+US/Illinois	458211	692	3	1
+missing	1681694402	5785	270	118
+AWS/ap-southeast-1	12905321	30	30	0
+US/California	185032445	3526	25	11
+US/New York	283574876	269	42	4
+US/Massachusetts	36591624	9	2	7
+US/Minnesota	9	1	1	0
+CN/Shanxi	9	1	1	0
+IL/Northern District	27	3	3	0
+AR/Buenos Aires	9	1	1	0
+PH/Soccsksargen	9	1	1	0
+AWS/us-east-2	776231857	8471	5	17
+BR/Goiás	9	1	1	0
+GCP/us-central1	94343824	11	8	1
+US/New Jersey	805944668	271	3	4
+JP/Aichi	4	1	1	0
+IT/Lazio	18295760	3	3	0
+BR/Rio de Janeiro	4	1	1	0
+MA/Fes-Meknes	4	1	1	0
+US/District of Columbia	16	4	2	2
+CZ/Prague	4	1	1	0
+VN/Ho Chi Minh City (HCMC)	30	1	1	0
+GitHub	445746240	84212	112	179
+JP/Tokyo	19758456	39	3	1
+AWS/us-west-2	19781840	40	4	2
+IT/Lombardy	164661768	36	0	2
+KR/Seoul	18295752	1	1	0
+US/Arizona	914960	1378	0	2
+US/Texas	914960	1378	0	2
+GCP/us-west1	18295752	1	1	0
+FR/Rhône-Alpes	18295752	1	1	0
+MX/Mexico City	31776548	69	9	3
+US/Georgia	18295758	2	2	0
+TR/Istanbul	27794412	2	2	0
+TR/İzmir Province	18295752	1	1	0
+DE/North Rhine-Westphalia	2931264	12	1	1
+CH/Vaud	6286536	19	4	2
+CN/Beijing	1497664	5	1	1
+DO/Espaillat Province	2030748	1	1	0
+DE/Baden-Wurttemberg	12	1	1	0
+US/Pennsylvania	12	1	1	0
+NL/Flevoland	94	10	10	0
+TR/Hatay	6	1	1	0

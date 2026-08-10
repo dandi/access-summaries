@@ -1,36 +1,39 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	33419385168	1040	920
-US/Massachusetts	4310966324	140	<50
-US/California	7686208213	560	100
-CN/Shanghai	7766109227	700	<50
-GitHub	2999249167	11120	480
-AWS/us-east-1	5461539012	600	<50
-AWS/ap-southeast-1	933292476	80	80
-missing	5132844316	1900	280
-US/New York	601363440	80	80
-SG/Singapore	1833527803	<50	<50
-HK/Hong Kong	55196118	<50	<50
-GCP/us-west1	112086477	<50	<50
-MX/Mexico City	93165192	420	60
-undetermined	2261185168	220	<50
-US/Illinois	15388647	<50	<50
-VN/Hà Tĩnh Province	2030748	<50	<50
-BD/Chittagong	6485292	<50	<50
-BR/Bahia	10874328	<50	<50
-US/Iowa	14909406	80	<50
-AWS/us-east-2	24841312	<50	<50
-GCP/us-central1	358246213	<50	<50
-US/Virginia	24308061	60	<50
-US/Washington	7340032	<50	<50
-US/Pennsylvania	1048576	<50	<50
-IT/Apulia	3627340	220	<50
-CA/Quebec	3145728	<50	<50
-IE/Leinster	17032080	<50	<50
-DE/North Rhine-Westphalia	5298311	<50	<50
-TR/Adana	56387740	<50	<50
-CN/Beijing	48344905	<50	<50
-JO/Amman	8778072	<50	<50
-AWS/us-west-2	25171840	60	<50
-BR/São Paulo	2161764	<50	<50
-AR/Mendoza	2685828	<50	<50
-CH/Vaud	1736312	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	33711903071	1060	931	32
+US/Massachusetts	4310966324	143	0	79
+US/California	7686208213	555	105	43
+CN/Shanghai	7766109227	692	5	79
+GitHub	3273851882	12413	519	392
+AWS/us-east-1	5461539012	604	17	82
+AWS/ap-southeast-1	1050289764	149	149	0
+missing	3911335950	2399	191	61
+US/New York	601363440	82	82	0
+SG/Singapore	1833527803	35	35	0
+AWS/us-east-2	939102438	53	19	1
+HK/Hong Kong	55196118	1	1	0
+GCP/us-west1	112086477	2	2	0
+MX/Mexico City	93165192	411	61	41
+undetermined	2261185168	211	49	47
+US/Illinois	15388647	43	4	3
+VN/Hà Tĩnh Province	2030748	1	1	0
+BD/Chittagong	6485292	1	1	0
+SN/Dakar	11398392	1	1	0
+BR/Bahia	10874328	1	1	0
+US/Virginia	36683348	133	5	6
+US/Iowa	14909406	74	6	3
+GCP/us-central1	358246213	5	5	0
+US/Washington	7340032	7	0	2
+US/Pennsylvania	1048576	1	0	1
+IT/Apulia	3627340	215	0	1
+CA/Quebec	3145728	3	0	1
+IE/Leinster	17032080	1	1	0
+DE/North Rhine-Westphalia	5298311	27	3	3
+TR/Adana	56387740	1	1	0
+CN/Beijing	48344905	4	3	1
+JO/Amman	8778072	1	1	0
+AWS/us-west-2	25171840	58	6	2
+VN/Hanoi	8647056	1	1	0
+BR/São Paulo	2161764	1	1	0
+SY/Damascus Governorate	1113636	1	1	0
+AR/Mendoza	2685828	1	1	0
+CH/Vaud	1736312	9	1	1

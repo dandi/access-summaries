@@ -1,37 +1,40 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	36565704134	2620	2080
-AWS/us-east-1	32351862986	4100	840
-CN/Shanghai	39036126584	3800	120
-AWS/ap-southeast-1	2734670248	260	260
-US/California	12526087576	2120	60
-GitHub	3397260372	5920	1180
-undetermined	14054884770	1200	380
-US/New York	2332230164	340	340
-US/Massachusetts	26988520472	840	<50
-missing	9064751936	1240	760
-US/Virginia	15146056	<50	<50
-MX/Mexico City	2815443888	760	<50
-SG/Singapore	469821230	<50	<50
-BR/Rio de Janeiro	6117552	<50	<50
-KE/Nairobi County	25507872	<50	<50
-US/Iowa	9544364	<50	<50
-US/Arizona	3149792	<50	<50
-US/Wyoming	17570308	<50	<50
-IN/Delhi	2096256	<50	<50
-BR/Ceará	8385024	<50	<50
-CH/Vaud	2354500	<50	<50
-GCP/us-central1	128277088	<50	<50
-US/Illinois	29944944	60	<50
-BD/Rangpur Division	9826200	<50	<50
-US/Pennsylvania	52406416	<50	<50
-MX/Baja California	14149728	<50	<50
-IN/Madhya Pradesh	2358288	<50	<50
-UA/Odesa	3078876	<50	<50
-VN/Thanh Hóa Province	6083448	<50	<50
-NP/Bagmati Province	6083448	<50	<50
-VN/Ho Chi Minh City (HCMC)	14608284	<50	<50
-AM/Yerevan	12643044	<50	<50
-GCP/us-west2	16257496	<50	<50
-BR/Minas Gerais	2751336	<50	<50
-SN/Thies	6943848	<50	<50
-MX/Tamaulipas	8057484	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	36711449170	2633	2092	122
+AWS/us-east-1	32351862986	4100	848	279
+CN/Shanghai	39036126584	3794	123	252
+AWS/ap-southeast-1	3127128676	507	507	0
+US/California	12526087576	2118	67	107
+GitHub	3467473544	6184	1226	1048
+undetermined	14054884770	1207	383	172
+US/New York	2332230164	345	345	0
+US/Massachusetts	26988520472	848	0	346
+AWS/us-east-2	4171486296	54	54	0
+missing	4080555016	1026	465	118
+US/Virginia	15146056	39	7	5
+MX/Mexico City	2815443888	751	43	160
+SG/Singapore	469821230	44	44	0
+BR/Rio de Janeiro	6117552	1	1	0
+KE/Nairobi County	25507872	2	2	0
+US/Iowa	9544364	34	8	4
+US/Arizona	3149792	12	2	2
+US/Wyoming	17570308	25	5	4
+IN/Delhi	2096256	1	1	0
+BR/Ceará	8385024	1	1	0
+CH/Vaud	2354500	9	2	2
+GCP/us-central1	128277088	9	9	0
+US/Illinois	31199948	73	14	11
+FR/Île-de-France	13691172	1	1	0
+BD/Rangpur Division	9826200	1	1	0
+US/Pennsylvania	52406416	3	1	1
+US/South Carolina	286803780	1	1	0
+MX/Baja California	14149728	1	1	0
+IN/Madhya Pradesh	2358288	1	1	0
+UA/Odesa	3078876	1	1	0
+VN/Thanh Hóa Province	6083448	1	1	0
+NP/Bagmati Province	6083448	1	1	0
+VN/Ho Chi Minh City (HCMC)	14608284	1	1	0
+AM/Yerevan	12643044	1	1	0
+GCP/us-west2	16257496	1	1	0
+BR/Minas Gerais	2751336	1	1	0
+SN/Thies	6943848	1	1	0
+MX/Tamaulipas	8057484	1	1	0

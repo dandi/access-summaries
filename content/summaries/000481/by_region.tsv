@@ -1,35 +1,38 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	1484381164	3080	320
-GitHub	129273396	37780	<50
-US/California	15415364	1240	<50
-US/Virginia	4556108	2460	<50
-RS/Central Serbia	6457880	<50	<50
-undetermined	549460709	800	100
-US/Texas	331792	620	<50
-US/New York	33218724	260	<50
-AWS/us-east-1	51690452	<50	<50
-US/Connecticut	25831520	<50	<50
-AWS/us-east-2	52990208	2480	<50
-VPN	66682032	<50	<50
-IN/Maharashtra	37041380	<50	<50
-IR/Tehran	12915760	<50	<50
-US/New Jersey	10260628	<50	<50
-US/Arizona	6623776	320	<50
-GCP/us-central1	25831520	<50	<50
-US/Massachusetts	40180880	<50	<50
-MX/Mexico City	8345044	<50	<50
-US/District of Columbia	22045108	<50	<50
-AWS/ap-southeast-1	3228940	<50	<50
-AWS/us-west-2	18900024	<50	<50
-GCP/us-east1	6457880	<50	<50
-JP/Tokyo	4717080	<50	<50
-CN/Shanghai	12915760	<50	<50
-FR/Île-de-France	12915760	<50	<50
-US/Illinois	4211560	<50	<50
-CH/Vaud	3775336	<50	<50
-CN/Beijing	1158804	<50	<50
-PY/Itapúa	1179144	<50	<50
-US/Minnesota	3228940	<50	<50
-US/Tennessee	3228940	<50	<50
-US/North Carolina	3228940	<50	<50
-BR/Rio Grande do Norte	2227272	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	1487904846	3116	325	217
+GitHub	129273396	37780	35	150
+US/California	15415364	1246	5	7
+US/Virginia	4556108	2465	1	8
+RS/Central Serbia	6457880	2	2	0
+undetermined	549460709	791	105	33
+US/Texas	331792	616	0	2
+US/New York	33218724	256	8	4
+AWS/us-east-1	51690452	17	8	8
+US/Connecticut	25831520	8	8	0
+AWS/us-east-2	52990208	2480	0	16
+VPN	66682032	48	19	7
+IN/Maharashtra	37041380	29	11	2
+IR/Tehran	12915760	4	4	0
+US/New Jersey	10260628	13	1	4
+US/Arizona	6623776	310	2	1
+GCP/us-central1	25831520	8	8	0
+US/Massachusetts	40180880	22	7	7
+MX/Mexico City	8345044	29	7	5
+US/District of Columbia	22045108	34	9	3
+AWS/ap-southeast-1	3228940	1	1	0
+AWS/us-west-2	18900024	34	6	2
+GCP/us-east1	6457880	2	2	0
+JP/Tokyo	4717080	6	1	1
+CN/Shanghai	12915760	4	4	0
+FR/Île-de-France	12915760	4	4	0
+US/Illinois	4211560	2	2	0
+CH/Vaud	3775336	13	3	3
+CN/Beijing	1158804	4	1	1
+PY/Itapúa	1179144	1	1	0
+US/Ohio	1466004	5	1	1
+US/Minnesota	3228940	1	1	0
+CA/Ontario	12915760	4	4	0
+AU/New South Wales	3228940	1	1	0
+US/Tennessee	3228940	1	1	0
+US/North Carolina	3228940	1	1	0
+BR/Rio Grande do Norte	2227272	1	1	0

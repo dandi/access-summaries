@@ -1,34 +1,35 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	4763450442	1140	320
-US/Illinois	71284209	<50	<50
-VPN	4114156502	1100	200
-AWS/ap-southeast-1	97903502	<50	<50
-HK/Hong Kong	519429123	140	<50
-US/Virginia	256806144	60	<50
-CN/Shanghai	669018248	60	<50
-US/New York	655329762	420	60
-AWS/us-east-1	325808942	80	<50
-US/California	707312586	80	<50
-CA/Quebec	245738847	<50	<50
-PT/Lisbon	961916	<50	<50
-US/Georgia	233554359	<50	<50
-missing	3684063717	760	200
-US/Massachusetts	421294312	<50	<50
-CL/Santiago Metropolitan	3079749	<50	<50
-IN/Kerala	281047659	<50	<50
-US/Tennessee	233554359	<50	<50
-GitHub	887446939	2860	500
-GB/England	251154155	<50	<50
-MX/Mexico City	40043639	160	<50
-GCP/us-central1	224779674	<50	<50
-US/Utah	13149163	60	<50
-JP/Kyoto	233554359	<50	<50
-SG/Singapore	224298716	<50	<50
-US/Wyoming	2185506	<50	<50
-CH/Vaud	758274	<50	<50
-US/Ohio	902148	<50	<50
-DE/Hesse	7336896	<50	<50
-AWS/us-west-2	59352818	<50	<50
-FR/Île-de-France	59352818	<50	<50
-DE/Bavaria	3084736	140	<50
-IN/Delhi	11267376	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	5115605336	1152	328	63
+US/Illinois	71284209	36	9	2
+VPN	5554041787	1168	272	37
+AWS/ap-southeast-1	113473702	22	22	0
+HK/Hong Kong	519429123	140	31	3
+US/Virginia	256806144	62	24	12
+CN/Shanghai	669018248	66	48	2
+US/New York	770283586	430	58	15
+AWS/us-east-1	325808942	74	45	4
+US/California	756538360	121	39	9
+CA/Quebec	245738847	13	13	0
+PT/Lisbon	961916	5	1	1
+US/Georgia	233554359	12	12	0
+missing	4101901882	784	233	86
+US/Massachusetts	421294312	31	13	15
+CL/Santiago Metropolitan	3079749	5	5	0
+IN/Kerala	281047659	16	16	0
+US/Tennessee	233554359	12	12	0
+GitHub	1367223862	2927	540	509
+GB/England	251154155	28	28	0
+MX/Mexico City	40043639	157	36	24
+GCP/us-central1	224779674	5	5	0
+US/Utah	13149163	51	12	13
+AWS/us-east-2	480958	1	1	0
+JP/Kyoto	233554359	12	12	0
+US/Ohio	13990012	95	5	4
+SG/Singapore	224298716	4	4	0
+US/Wyoming	2185506	10	1	1
+CH/Vaud	758274	3	1	1
+DE/Hesse	7336896	1	1	0
+AWS/us-west-2	59352818	1	1	0
+FR/Île-de-France	59352818	1	1	0
+DE/Bavaria	3084736	135	0	1
+IN/Delhi	11267376	1	1	0

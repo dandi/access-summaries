@@ -1,37 +1,37 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/New Jersey	971079232	260	<50
-GitHub	4399540093	119080	100
-US/Virginia	105281428	7840	<50
-undetermined	4018030669	540	100
-AWS/us-east-2	1061547358	15480	<50
-US/California	167039520	5020	<50
-VPN	603024084	100	<50
-AWS/us-east-1	81900530	<50	<50
-GCP/us-central1	432243262	<50	<50
-US/Texas	85262620	1960	<50
-missing	837442527	3940	<50
-CN/Shanghai	39294842	<50	<50
-DE/Hesse	39294842	<50	<50
-NL/North Holland	235769052	<50	<50
-US/Arizona	6672936	1960	<50
-DE/Saxony	746196460	<50	<50
-PL/Lesser Poland	235769052	<50	<50
-JP/Tokyo	19356482	80	<50
-CH/Zurich	39294842	<50	<50
-US/Massachusetts	78589684	<50	<50
-US/New Mexico	39294842	<50	<50
-US/Iowa	78589684	<50	<50
-US/Washington	392948420	<50	<50
-US/New York	78589684	<50	<50
-IN/Maharashtra	6570036	<50	<50
-NL/Flevoland	39294842	<50	<50
-VE/Lara	8030044	<50	<50
-ES/Valencia	39294842	<50	<50
-GCP/us-east4	39294842	<50	<50
-FR/Grand Est	6769128	<50	<50
-IQ/Basra	4114568	<50	<50
-US/Maryland	39294842	<50	<50
-MX/Mexico City	766040	<50	<50
-CH/Vaud	1996628	<50	<50
-PK/Punjab	1128188	<50	<50
-SG/Singapore	39294842	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/New Jersey	971079232	264	2	4
+GitHub	4438834935	119072	110	136
+US/Virginia	105281428	7834	2	8
+undetermined	4018030669	535	97	12
+AWS/us-east-2	1061547358	15483	1	19
+US/California	167039520	5026	9	9
+VPN	603024084	102	23	2
+AWS/us-east-1	81900530	9	4	1
+GCP/us-central1	432243262	11	11	0
+US/Texas	85262620	1960	2	2
+missing	812731667	4038	24	8
+CN/Shanghai	39294842	8	0	1
+DE/Hesse	39294842	1	1	0
+NL/North Holland	235769052	6	6	0
+US/Arizona	6672936	1958	0	2
+DE/Saxony	746196460	19	19	0
+PL/Lesser Poland	235769052	6	6	0
+JP/Tokyo	19356482	88	1	1
+CH/Zurich	39294842	1	1	0
+US/Massachusetts	78589684	2	0	2
+US/New Mexico	39294842	1	1	0
+US/Iowa	78589684	2	2	0
+US/Washington	392948420	10	10	0
+US/New York	78589684	2	2	0
+IN/Maharashtra	6570036	1	1	0
+NL/Flevoland	39294842	1	1	0
+VE/Lara	8030044	1	1	0
+ES/Valencia	39294842	1	1	0
+GCP/us-east4	39294842	1	1	0
+FR/Grand Est	6769128	1	1	0
+IQ/Basra	4114568	1	1	0
+US/Maryland	39294842	1	1	0
+MX/Mexico City	766040	2	1	1
+CH/Vaud	1996628	4	2	1
+PK/Punjab	1128188	1	1	0
+SG/Singapore	39294842	1	1	0

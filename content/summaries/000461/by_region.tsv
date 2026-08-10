@@ -1,36 +1,36 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	191275457	120	80
-GitHub	449148986	31840	220
-undetermined	184128884	180	60
-US/Illinois	18525069	<50	<50
-AWS/ap-southeast-1	23992991	<50	<50
-US/Michigan	5927959	<50	<50
-US/Massachusetts	19783404	<50	<50
-VPN	163816711	140	100
-US/New York	42806052	100	<50
-CN/Shanxi	2481369	<50	<50
-US/California	72159219	1120	<50
-CN/Shanghai	40782416	<50	<50
-AWS/us-east-2	19616387	2080	<50
-HK/Hong Kong	7045271	<50	<50
-IT/Apulia	28101412	60	<50
-MX/Mexico City	48608968	180	<50
-missing	131376078	1140	60
-GCP/us-central1	8797679	<50	<50
-CL/Los Ríos Region	1113636	<50	<50
-VN/Hanoi	851604	<50	<50
-US/Virginia	3666226	2300	<50
-US/New Jersey	2371888	<50	<50
-US/Texas	1404420	520	<50
-US/Arizona	290784	520	<50
-JP/Tokyo	1032344	<50	<50
-CH/Vaud	1859888	<50	<50
-US/District of Columbia	4108572	<50	<50
-VN/Hai Phong	1972721	<50	<50
-BR/Minas Gerais	1048128	<50	<50
-SG/Singapore	2658445	<50	<50
-BR/Santa Catarina	1375668	<50	<50
-AR/Buenos Aires	1822535	<50	<50
-RU/Krasnodar Krai	1310160	<50	<50
-YE/Aden	1113636	<50	<50
-DO/Santo Domingo Province	1113636	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	191275457	114	88	26
+GitHub	453494935	31852	230	337
+undetermined	188147516	194	70	52
+US/Illinois	18525069	11	11	0
+AWS/ap-southeast-1	37804537	26	26	0
+US/Michigan	5927959	4	0	3
+US/Massachusetts	19783404	14	4	10
+VPN	163816711	136	101	11
+US/New York	42806052	101	14	14
+CN/Shanxi	2481369	2	2	0
+US/California	72159219	1123	41	22
+CN/Shanghai	40782416	25	25	0
+AWS/us-east-2	27331430	2078	9	17
+HK/Hong Kong	7045271	4	4	0
+IT/Apulia	28101412	63	14	14
+MX/Mexico City	48608968	171	43	28
+GCP/us-central1	8797679	7	7	0
+missing	111649472	1121	55	25
+CL/Los Ríos Region	1113636	1	1	0
+VN/Hanoi	851604	1	1	0
+US/Virginia	3666226	2301	2	10
+US/New Jersey	2371888	7	1	3
+US/Texas	1404420	511	1	2
+US/Arizona	290784	510	0	2
+JP/Tokyo	1032344	5	1	1
+CH/Vaud	1859888	8	2	1
+US/District of Columbia	4108572	18	4	2
+SG/Singapore	3997989	4	4	0
+VN/Hai Phong	1972721	1	1	0
+BR/Minas Gerais	1048128	1	1	0
+BR/Santa Catarina	1375668	1	1	0
+AR/Buenos Aires	1822535	1	1	0
+RU/Krasnodar Krai	1310160	1	1	0
+YE/Aden	1113636	1	1	0
+DO/Santo Domingo Province	1113636	1	1	0

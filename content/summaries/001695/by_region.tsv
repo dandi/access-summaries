@@ -1,56 +1,58 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/New York	3457337970	<50	<50
-VPN	15971699614	500	140
-CN/Shanghai	6693614606	660	<50
-undetermined	50382248248	4660	520
-missing	27575820061	9840	180
-GitHub	6634864656	2080	140
-GB/Scotland	13244301354	320	<50
-AWS/ap-southeast-1	121320816	<50	<50
-AWS/us-east-1	3487832246	420	<50
-US/Massachusetts	5290867407	140	<50
-US/District of Columbia	57319500	<50	<50
-US/Illinois	3159026638	<50	<50
-MX/Mexico City	102355346	420	60
-US/Michigan	6197545436	<50	<50
-CH/Vaud	34898718	160	<50
-KR/Seoul	252773520	60	<50
-US/Virginia	193943628	600	<50
-DK/Capital Region	1170881140	<50	<50
-GCP/us-central1	1725741534	660	<50
-CH/Zurich	61753498	80	<50
-AWS/ap-northeast-1	1475817388	<50	<50
-RU/Voronezh Oblast	7205880	<50	<50
-CN/Gansu	594244834	<50	<50
-US/New Mexico	269147686	60	<50
-US/California	108627508	<50	<50
-GCP/asia-south1	5909804	<50	<50
-CN/Hubei	8974596	<50	<50
-GCP/asia-east1	1673422812	1040	<50
-UY/Montevideo Department	63477252	<50	<50
-GCP/us-west1	387178248	320	<50
-GCP/europe-west4	1119640380	880	<50
-GCP/us-west4	100223346	80	<50
-JP/Chiba	100288854	80	<50
-GCP/asia-southeast1	100288854	80	<50
-AWS/ap-northeast-3	347045544	<50	<50
-AWS/us-west-2	47948204	100	<50
-TR/Elazığ	74024040	<50	<50
-GB/England	42825498	<50	<50
-DE/Free Hanseatic City of Bremen	18014700	<50	<50
-BB/Saint Michael	20855728	<50	<50
-FR/Rhône-Alpes	1801176	<50	<50
-QA/Baladiyat ad Dawhah	37339560	<50	<50
-IT/Liguria	258071338	<50	<50
-TN/Gabès Governorate	8516040	<50	<50
-ZA/Mpumalanga	2030748	<50	<50
-DE/Baden-Wurttemberg	87889340	<50	<50
-CN/Beijing	34376576	520	<50
-ES/Valencia	192767152	<50	<50
-JP/Tokyo	1	<50	<50
-ZA/Gauteng	8974596	<50	<50
-VN/Ho Chi Minh City (HCMC)	11594916	<50	<50
-ZA/KwaZulu-Natal	5961228	<50	<50
-SY/Idlib	1113636	<50	<50
-US/Wyoming	166562612	<50	<50
-CA/Ontario	135331364	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/New York	6545643744	70	47	1
+VPN	15980838330	511	150	53
+CN/Shanghai	6693614606	651	2	30
+undetermined	50382248248	4656	521	131
+missing	30911462785	9893	185	79
+GitHub	6666259910	2145	153	109
+GB/Scotland	13244301354	323	4	34
+AWS/ap-southeast-1	138025356	24	24	0
+AWS/us-east-1	3487832246	424	45	22
+US/Massachusetts	5290867407	148	37	15
+US/District of Columbia	57319500	20	20	0
+US/Illinois	3159026638	23	23	0
+MX/Mexico City	102355346	418	64	44
+US/Michigan	6197545436	46	44	2
+CH/Vaud	34898718	167	22	22
+AWS/us-east-2	229336688	1	1	0
+KR/Seoul	252773520	58	1	15
+US/Virginia	193943628	602	33	23
+DK/Capital Region	1170881140	12	12	0
+GCP/us-central1	1725741534	667	24	4
+CH/Zurich	61753498	71	13	13
+AWS/ap-northeast-1	1475817388	23	18	3
+RU/Voronezh Oblast	7205880	1	1	0
+CN/Gansu	594244834	43	2	5
+US/New Mexico	269147686	60	11	8
+US/California	108627508	27	5	4
+GCP/asia-south1	5909804	20	2	2
+CN/Hubei	8974596	1	1	0
+GCP/asia-east1	1673422812	1038	15	5
+UY/Montevideo Department	63477252	5	5	0
+GCP/us-west1	387178248	319	4	3
+GCP/europe-west4	1119640380	886	12	2
+GCP/us-west4	100223346	79	1	1
+JP/Chiba	100288854	79	1	1
+GCP/asia-southeast1	100288854	79	1	1
+AWS/ap-northeast-3	347045544	3	3	0
+AWS/us-west-2	47948204	95	12	4
+US/Ohio	3276100	18	2	1
+TR/Elazığ	74024040	2	2	0
+GB/England	42825498	14	2	1
+DE/Free Hanseatic City of Bremen	18014700	1	1	0
+BB/Saint Michael	20855728	9	2	1
+FR/Rhône-Alpes	1801176	8	1	1
+QA/Baladiyat ad Dawhah	37339560	2	2	0
+IT/Liguria	258071338	2	2	0
+TN/Gabès Governorate	8516040	1	1	0
+ZA/Mpumalanga	2030748	1	1	0
+DE/Baden-Wurttemberg	87889340	2	2	0
+CN/Beijing	34376576	527	0	1
+ES/Valencia	192767152	15	2	1
+JP/Tokyo	1	1	0	1
+ZA/Gauteng	8974596	1	1	0
+VN/Ho Chi Minh City (HCMC)	11594916	1	1	0
+ZA/KwaZulu-Natal	5961228	1	1	0
+SY/Idlib	1113636	1	1	0
+US/Wyoming	166562612	43	3	1
+CA/Ontario	135331364	1	1	0

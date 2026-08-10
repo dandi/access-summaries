@@ -1,66 +1,70 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	408373219694	55540	<50
-undetermined	754159680530	15280	460
-CN/Shanghai	960415993454	88280	<50
-GitHub	2936311457	6360	1180
-VPN	599555363511	1020	780
-AWS/us-east-1	745126911247	89080	320
-AWS/ap-southeast-1	1656893844	120	120
-AWS/us-west-2	1683868560	1800	480
-SG/Singapore	52013352	<50	<50
-IQ/Karbala	8778072	<50	<50
-missing	61062961872	1100	420
-MX/Mexico City	84645568	260	80
-AR/Buenos Aires F.D.	3013368	<50	<50
-ES/Catalonia	13691172	<50	<50
-US/North Carolina	7991976	<50	<50
-VN/Hai Phong	2161764	<50	<50
-CN/Beijing	101107516	<50	<50
-US/Iowa	10764252	<50	<50
-US/Virginia	7755957580	980	<50
-US/Arizona	6925528	<50	<50
-MA/Casablanca-Settat	12053472	<50	<50
-TN/Tunis Governorate	2685828	<50	<50
-BD/Dhaka Division	35112288	<50	<50
-BG/Plovdiv	11267376	<50	<50
-CH/Vaud	102467004	220	100
-VN/An Giang	9760692	<50	<50
-US/District of Columbia	76578852	<50	<50
-BR/Rio Grande do Sul	18735288	<50	<50
-BD/Rajshahi Division	10546788	<50	<50
-US/Wyoming	9881053	<50	<50
-US/Illinois	25309477	60	<50
-VN/Ho Chi Minh City (HCMC)	23910420	<50	<50
-ID/Jakarta	2685828	<50	<50
-DE/North Rhine-Westphalia	3300228	<50	<50
-NO/Oslo	46183140	<50	<50
-IQ/Baghdad	10284756	<50	<50
-EC/Pichincha	5306148	<50	<50
-TR/Denizli	2030748	<50	<50
-VN/Hanoi	3995988	<50	<50
-TH/Bangkok	917112	<50	<50
-MA/Rabat-Salé-Kénitra	1113636	<50	<50
-PS/West Bank	3340908	<50	<50
-NI/Managua Department	5306148	<50	<50
-SE/Stockholm	851604	<50	<50
-ZA/KwaZulu-Natal	1113636	<50	<50
-DE/Baden-Wurttemberg	9367644	<50	<50
-VN/Bac Ninh	6943848	<50	<50
-RU/Rostov	4978608	<50	<50
-VN/Tuyen Quang	4978608	<50	<50
-UZ/Tashkent	1703208	<50	<50
-VN/Phu Tho	9957216	<50	<50
-DZ/Blida	5699196	<50	<50
-US/Massachusetts	36358710776	920	<50
-AF/Faryab	1375668	<50	<50
-PH/National Capital Region	14542776	<50	<50
-KZ/Astana	3340908	<50	<50
-JO/Amman	8319516	<50	<50
-VN/Hà Tĩnh Province	1637700	<50	<50
-AR/Misiones	2358288	<50	<50
-PK/Punjab	1244652	<50	<50
-CO/Antioquia	7926468	<50	<50
-NL/South Holland	15394380	<50	<50
-GCP/asia-south1	9618561	<50	<50
-OM/Muscat	11660424	<50	<50
-CO/Bolívar	1441176	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	408377608730	55549	29	67
+undetermined	754159680530	15282	451	340
+CN/Shanghai	960415993454	88271	5	155
+GitHub	3030261010	6725	1249	752
+VPN	599577607953	1031	774	87
+AWS/us-east-1	745126911247	89073	313	157
+AWS/ap-southeast-1	1851256080	242	242	0
+AWS/us-west-2	1683868560	1810	477	159
+SG/Singapore	52013352	8	8	0
+IQ/Karbala	8778072	1	1	0
+missing	60859667109	1157	313	77
+MX/Mexico City	84645568	264	80	40
+AR/Buenos Aires F.D.	3013368	1	1	0
+ES/Catalonia	13691172	1	1	0
+US/North Carolina	7991976	1	1	0
+VN/Hai Phong	2161764	2	2	0
+CN/Beijing	101107516	3	3	0
+US/Iowa	10764252	36	9	3
+US/Virginia	7758497747	982	15	11
+US/Arizona	6925528	25	6	2
+MA/Casablanca-Settat	12053472	1	1	0
+TN/Tunis Governorate	2685828	1	1	0
+BD/Dhaka Division	35112288	3	3	0
+BG/Plovdiv	11267376	1	1	0
+IN/Madhya Pradesh	4454544	1	1	0
+CH/Vaud	102467004	228	98	36
+VN/An Giang	9760692	1	1	0
+US/District of Columbia	76578852	20	20	0
+BR/Rio Grande do Sul	18735288	1	1	0
+BD/Rajshahi Division	10546788	1	1	0
+US/Wyoming	9881053	34	9	3
+US/Illinois	27360295	60	15	8
+VN/Ho Chi Minh City (HCMC)	23910420	2	2	0
+ID/Jakarta	2685828	2	2	0
+DE/North Rhine-Westphalia	3300228	9	3	3
+NO/Oslo	46183140	1	1	0
+IQ/Baghdad	10284756	2	2	0
+EC/Pichincha	5306148	1	1	0
+TR/Denizli	2030748	1	1	0
+VN/Hanoi	3995988	1	1	0
+IL/Jerusalem	13625664	1	1	0
+TH/Bangkok	917112	1	1	0
+MA/Rabat-Salé-Kénitra	1113636	1	1	0
+PS/West Bank	3340908	1	1	0
+NI/Managua Department	5306148	1	1	0
+SE/Stockholm	851604	1	1	0
+ZA/KwaZulu-Natal	1113636	1	1	0
+DE/Baden-Wurttemberg	9367644	1	1	0
+VN/Bac Ninh	6943848	1	1	0
+RU/Rostov	4978608	1	1	0
+VN/Tuyen Quang	4978608	1	1	0
+UZ/Tashkent	1703208	1	1	0
+VN/Phu Tho	9957216	1	1	0
+DZ/Blida	5699196	1	1	0
+US/Massachusetts	36358710776	924	0	14
+AF/Faryab	1375668	1	1	0
+PH/National Capital Region	14542776	1	1	0
+KZ/Astana	3340908	1	1	0
+JO/Amman	8319516	1	1	0
+VN/Hà Tĩnh Province	1637700	1	1	0
+AR/Misiones	2358288	1	1	0
+PK/Punjab	4716576	2	2	0
+CO/Antioquia	7926468	1	1	0
+NL/South Holland	15394380	1	1	0
+JP/Kyoto	2944767	13	2	1
+GCP/asia-south1	9618561	45	4	2
+OM/Muscat	11660424	1	1	0
+US/Ohio	1719760	6	2	1
+CO/Bolívar	1441176	1	1	0

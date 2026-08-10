@@ -1,43 +1,45 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	14561378924	1780	440
-missing	4819737470	740	120
-US/Massachusetts	4061171385	440	60
-US/California	2743015732	760	<50
-GitHub	1256689900	900	200
-MX/Mexico City	36756576	80	<50
-US/Georgia	508733444	120	<50
-VPN	4273112062	180	140
-AWS/us-east-1	747225704	100	<50
-DE/Baden-Wurttemberg	478075700	<50	<50
-AWS/us-east-2	56400944	<50	<50
-JP/Tokyo	484384508	<50	<50
-FR/Île-de-France	164491812	<50	<50
-JP/Hyōgo	478075700	<50	<50
-CN/Shanghai	760235661	60	<50
-US/New York	1136115068	220	<50
-RU/Mordoviya Republic	478075700	<50	<50
-AWS/ap-southeast-1	208975204	<50	<50
-SG/Singapore	167478820	<50	<50
-GCP/us-west4	43599828	<50	<50
-US/Florida	531796944	<50	<50
-US/Illinois	128426128	<50	<50
-GB/England	478075700	<50	<50
-US/Virginia	2750973316	160	60
-GCP/us-central1	542819480	<50	<50
-US/District of Columbia	26481326	<50	<50
-DE/Saxony-Anhalt	1703208	<50	<50
-CN/Beijing	1056404	<50	<50
-AWS/us-west-2	104297592	<50	<50
-MY/Selangor	917112	<50	<50
-HK/Sha Tin	53721244	<50	<50
-US/New Hampshire	53721244	<50	<50
-IQ/Basra	13036092	<50	<50
-UA/Volyn	1703208	<50	<50
-ET/Sidama Region	917112	<50	<50
-QA/Baladiyat ar Rayyan	1703208	<50	<50
-CH/Vaud	1224312	<50	<50
-ID/Jakarta	7336896	<50	<50
-CO/Santander Department	4454544	<50	<50
-AR/Buenos Aires	6288768	<50	<50
-AR/Buenos Aires F.D.	1179144	<50	<50
-XK/Pristina	14673792	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	14561378924	1773	443	129
+US/California	4372653196	1133	71	54
+US/Massachusetts	4115586165	433	64	39
+GitHub	1257877276	907	206	161
+MX/Mexico City	36756576	86	29	19
+missing	3444702010	354	85	33
+US/Georgia	508733444	126	9	9
+VPN	4427628202	185	152	14
+AWS/us-east-1	747225704	100	38	9
+DE/Baden-Wurttemberg	478075700	9	9	0
+AWS/us-east-2	110815724	4	2	1
+JP/Tokyo	484384508	13	10	1
+FR/Île-de-France	164491812	3	3	0
+JP/Hyōgo	478075700	9	9	0
+CN/Shanghai	760235661	61	6	7
+US/New York	1136115068	218	37	27
+RU/Mordoviya Republic	478075700	9	9	0
+AWS/ap-southeast-1	219784024	19	19	0
+SG/Singapore	167478820	6	6	0
+GCP/us-west4	43599828	41	9	9
+US/Florida	531796944	10	10	0
+US/Illinois	128426128	4	4	0
+GB/England	478075700	9	9	0
+US/Virginia	2750973316	159	64	10
+GCP/us-central1	542819480	10	10	0
+US/District of Columbia	26481326	33	4	3
+DE/Saxony-Anhalt	1703208	1	1	0
+CN/Beijing	1056404	3	1	1
+AWS/us-west-2	104297592	29	6	3
+MY/Selangor	917112	1	1	0
+PL/Lower Silesia	7140372	1	1	0
+HK/Sha Tin	53721244	1	1	0
+US/New Hampshire	53721244	1	1	0
+IQ/Basra	13036092	1	1	0
+UA/Volyn	1703208	1	1	0
+ET/Sidama Region	917112	1	1	0
+QA/Baladiyat ar Rayyan	1703208	1	1	0
+CH/Vaud	1224312	4	1	1
+ID/Jakarta	7336896	1	1	0
+CO/Santander Department	4454544	1	1	0
+BD/Chittagong	1179144	1	1	0
+AR/Buenos Aires	6288768	1	1	0
+AR/Buenos Aires F.D.	1179144	1	1	0
+XK/Pristina	14673792	1	1	0

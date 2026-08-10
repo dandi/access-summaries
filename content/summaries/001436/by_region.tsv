@@ -1,67 +1,71 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	11105969661	6800	6540
-missing	4204916188	3040	3040
-VPN	8320679380	5000	5000
-US/Massachusetts	1131449804	680	<50
-CN/Shanghai	2030920392	2000	2000
-US/California	505659589	420	420
-FR/Île-de-France	1042212406	660	660
-AWS/ap-southeast-1	641692248	400	400
-HK/Hong Kong	1623941098	960	960
-DE/Lower Saxony	961578342	300	300
-AWS/us-east-1	1242458885	780	780
-CA/Quebec	1042212639	660	660
-GCP/us-west1	6454755	<50	<50
-US/Virginia	454951583	160	160
-SG/Singapore	127872712	60	60
-PA/Panamá	6197631	<50	<50
-AR/Buenos Aires	15640569	<50	<50
-IN/Uttar Pradesh	2423796	<50	<50
-BR/Goiás	3799464	<50	<50
-UA/Dnipropetrovsk	6310128	<50	<50
-TN/Ariana Governorate	6223260	<50	<50
-BR/Rio de Janeiro	5437164	<50	<50
-GCP/us-east1	114131	<50	<50
-IQ/Babil	1113636	<50	<50
-BR/São Paulo	13691678	<50	<50
-IQ/Erbil	6255093	<50	<50
-AE/Abu Dhabi	4192512	<50	<50
-AR/Buenos Aires F.D.	6521271	<50	<50
-TR/Ankara	3995988	<50	<50
-ES/Catalonia	6338433	<50	<50
-MX/Nayarit	6385100	<50	<50
-ID/Yogyakarta	6295286	<50	<50
-ID/East Java	851604	<50	<50
-CO/Antioquia	4061496	<50	<50
-AE/Dubai	1048128	<50	<50
-KW/Al Aḩmadī	6294947	<50	<50
-PY/Amambay Department	6294947	<50	<50
-VN/Hưng Yên Province	5764704	<50	<50
-NP/Koshi	5699196	<50	<50
-AZ/Gǝncǝ	6127503	<50	<50
-BD/Dhaka Division	3668448	<50	<50
-CO/Atlántico	3668448	<50	<50
-SY/Damascus Governorate	2685828	<50	<50
-SN/Dakar	6146938	<50	<50
-MX/Mexico City	1113636	<50	<50
-BD/Chittagong	1113636	<50	<50
-US/Maryland	6419227	<50	<50
-US/Illinois	699	<50	<50
-CN/Shandong	233	<50	<50
-US/Ohio	233	<50	<50
-GB/England	233	<50	<50
-US/Texas	233	<50	<50
-UZ/Tashkent	251	<50	<50
-PK/Sindh	251	<50	<50
-VN/Dak Lak	251	<50	<50
-VN/Tuyen Quang	251	<50	<50
-US/Kentucky	1069	<50	<50
-IQ/Anbar	6536036	<50	<50
-VN/Ho Chi Minh City (HCMC)	12772775	<50	<50
-CR/San José	4782084	<50	<50
-CG/Pointe-Noire	3930480	<50	<50
-EC/Pichincha	6424100	<50	<50
-AL/Tirana	6255320	<50	<50
-BO/La Paz Department	3668448	<50	<50
-AR/Santa Fe	6577082	<50	<50
-KE/Kisumu County	2292780	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	11105969661	6810	6549	261
+missing	2540647867	1821	1821	0
+VPN	8365866060	5016	5014	2
+US/Massachusetts	1131449804	671	0	670
+CN/Shanghai	2030920392	2001	1999	2
+US/California	505659589	411	411	0
+FR/Île-de-France	1042212406	662	662	0
+AWS/ap-southeast-1	844826244	784	784	0
+HK/Hong Kong	1623941098	962	962	0
+DE/Lower Saxony	961578342	306	306	0
+AWS/us-east-1	1242458885	779	779	0
+CA/Quebec	2084424579	1323	1323	0
+GCP/us-west1	6454755	3	3	0
+US/Virginia	622513921	206	206	0
+AWS/us-east-2	198558954	112	112	0
+SG/Singapore	127872712	64	64	0
+AR/Tucuman	6566285	1	1	0
+PA/Panamá	6197631	1	1	0
+AR/Buenos Aires	15640569	3	3	0
+IN/Uttar Pradesh	2423796	1	1	0
+BR/Goiás	3799464	2	2	0
+UA/Dnipropetrovsk	6310128	1	1	0
+TN/Ariana Governorate	6223260	1	1	0
+BR/Rio de Janeiro	5437164	1	1	0
+GCP/us-east1	114131	1	1	0
+IQ/Babil	1113636	1	1	0
+BR/São Paulo	13691678	3	3	0
+IQ/Erbil	6255093	1	1	0
+AE/Abu Dhabi	4192512	1	1	0
+AR/Buenos Aires F.D.	6521271	2	2	0
+TR/Ankara	3995988	1	1	0
+ES/Catalonia	6338433	1	1	0
+CN/Beijing	1048128	1	1	0
+MX/Nayarit	6385100	1	1	0
+ID/Yogyakarta	6295286	1	1	0
+ID/East Java	851604	1	1	0
+CO/Antioquia	4061496	1	1	0
+AE/Dubai	1048128	1	1	0
+KW/Al Aḩmadī	6294947	1	1	0
+PY/Amambay Department	6294947	1	1	0
+VN/Hưng Yên Province	5764704	1	1	0
+NP/Koshi	5699196	2	2	0
+AZ/Gǝncǝ	6127503	1	1	0
+BD/Dhaka Division	3668448	3	3	0
+CO/Atlántico	3668448	1	1	0
+SY/Damascus Governorate	2685828	1	1	0
+SN/Dakar	6146938	1	1	0
+MX/Mexico City	1113636	1	1	0
+BD/Chittagong	1113636	1	1	0
+US/Maryland	6419227	1	1	0
+KE/Mombasa County	1048128	1	1	0
+US/Illinois	699	3	3	0
+CN/Shandong	233	1	1	0
+US/Ohio	233	1	1	0
+GB/England	233	1	1	0
+US/Texas	233	1	1	0
+UZ/Tashkent	251	1	1	0
+PK/Sindh	251	1	1	0
+VN/Dak Lak	251	1	1	0
+VN/Tuyen Quang	251	1	1	0
+US/Kentucky	1069	1	1	0
+IQ/Anbar	6536036	1	1	0
+VN/Ho Chi Minh City (HCMC)	12772775	2	2	0
+CR/San José	4782084	1	1	0
+CG/Pointe-Noire	3930480	1	1	0
+EC/Pichincha	6424100	1	1	0
+AL/Tirana	6255320	1	1	0
+BO/La Paz Department	3668448	1	1	0
+AR/Santa Fe	6577082	1	1	0
+KE/Kisumu County	2292780	1	1	0

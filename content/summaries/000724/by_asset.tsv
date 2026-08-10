@@ -1,12 +1,12 @@
-asset_path	bytes_sent	number_of_requests	number_of_downloads
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.nii.gz	57936902472	900	80
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-rms_dwi.nii.zarr	1148048144	4420	4320
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-rms_dwi.nii.gz	9242947339	700	440
-derivatives/dwi/sub-I58/sub-I58_dwi_from-HIPCT-to-DWI_xfm.lta	138952	80	80
-derivatives/dataset_description.json	26668	60	60
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.nii.zarr	15824773273	43540	38380
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.bvals	27040	60	60
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.bvecs	129580	<50	<50
-dataset_description.json	26892	80	80
-derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_model-CSD_tractography.trk	145375833149	24620	460
-README	26220	100	100
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.nii.gz	57940701936	901	83	17
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-rms_dwi.nii.zarr	1148048144	4417	4312	4
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-rms_dwi.nii.gz	9242947339	697	440	22
+derivatives/dwi/sub-I58/sub-I58_dwi_from-HIPCT-to-DWI_xfm.lta	140531	89	88	1
+derivatives/dataset_description.json	27572	61	60	1
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.nii.zarr	15827576631	43548	38388	10
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.bvals	27040	65	64	1
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_desc-preproc_dwi.bvecs	132525	45	44	1
+dataset_description.json	27556	83	81	2
+derivatives/dwi/sub-I58/sub-I58_dwi_space-dwi_model-CSD_tractography.trk	145575199925	24623	459	131
+README	26772	97	95	2

@@ -1,12 +1,13 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	3608555327	28240	28240
-undetermined	11396995235	89440	56240
-US/Oregon	3606164177	28080	28080
-missing	559919	<50	<50
-SG/Singapore	1465	<50	<50
-AWS/us-east-1	2148	<50	<50
-US/Massachusetts	436756794	3140	<50
-US/New York	331830	<50	<50
-GCP/us-central1	571890263	5120	5120
-PT/Lisbon	358	<50	<50
-PT/Porto	895	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	3609832816	28255	28255	0
+undetermined	11396995235	89447	56242	9
+US/Oregon	3606164177	28078	28078	0
+missing	10715978	176	176	0
+SG/Singapore	1465	8	8	0
+AWS/us-east-1	2148	12	0	8
+US/Massachusetts	436756794	3133	0	1
+US/New York	331830	1	1	0
+US/California	918	5	5	0
+GCP/us-central1	571890263	5120	5120	0
+PT/Lisbon	358	2	2	0
+PT/Porto	895	5	5	0

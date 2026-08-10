@@ -1,38 +1,44 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	4775036320	500	80
-VPN	22342161732	940	640
-GitHub	830158808	1600	320
-undetermined	2285633599	120	60
-US/California	2121050116	340	<50
-AWS/ap-southeast-1	607390176	<50	<50
-CN/Shanghai	7200017987	540	<50
-US/New York	368089452	40	40
-GCP/us-west1	76495280	<50	<50
-MX/Mexico City	78620400	240	60
-missing	3286502726	360	180
-SG/Singapore	1024032956	<50	<50
-US/Massachusetts	2457762152	80	<50
-DE/North Rhine-Westphalia	3958040	<50	<50
-GCP/us-central1	295723120	<50	<50
-CH/Vaud	2448624	<50	<50
-US/Texas	56244656	<50	<50
-AWS/us-west-2	27702952	<50	<50
-CA/Ontario	1	<50	<50
-US/Iowa	4985216	<50	<50
-US/Wyoming	11609716	<50	<50
-VN/Ho Chi Minh City (HCMC)	24631008	<50	<50
-VN/Hanoi	21159084	<50	<50
-US/Arizona	2392340	<50	<50
-UZ/Tashkent	10612296	<50	<50
-US/Illinois	2908212	<50	<50
-KR/Gyeongsangbuk-do	58038704	<50	<50
-US/District of Columbia	81026120	<50	<50
-BD/Chittagong	3668448	<50	<50
-TR/Ankara	851604	<50	<50
-IQ/Baghdad	2685828	<50	<50
-CN/Hebei	56121776	<50	<50
-RU/Karelia	1	<50	<50
-TR/Amasya	45135012	<50	<50
-CN/Liaoning	56121776	<50	<50
-SA/Eastern Province	56121776	<50	<50
-BD/Rajshahi Division	13625664	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	4775036320	509	72	50
+VPN	22556238734	958	655	104
+GitHub	844391332	1664	330	253
+undetermined	2285633599	127	53	33
+US/California	2121050116	335	12	27
+AWS/ap-southeast-1	706372764	90	90	0
+CN/Shanghai	7200017987	531	6	56
+US/New York	368089452	50	50	0
+GCP/us-west1	76495280	1	1	0
+MX/Mexico City	78620400	250	61	40
+AWS/us-east-2	1116894384	17	17	0
+missing	1835518856	326	108	38
+SG/Singapore	1024032956	20	20	0
+US/Massachusetts	2457762152	81	0	36
+DE/North Rhine-Westphalia	3958040	13	3	3
+ID/Aceh	12905076	1	1	0
+BD/Mymensingh Division	8385024	1	1	0
+PY/Alto Paraná Department	4651068	1	1	0
+GCP/us-central1	295723120	5	5	0
+CH/Vaud	2448624	8	2	1
+CO/Valle del Cauca Department	3013368	1	1	0
+US/Texas	56244656	1	1	0
+AWS/us-west-2	27702952	27	6	2
+CA/Ontario	1	1	0	1
+US/Iowa	4985216	20	4	2
+US/Wyoming	11609716	22	4	3
+VN/Ho Chi Minh City (HCMC)	24631008	2	2	0
+VN/Hanoi	32557476	2	2	0
+US/Arizona	2392340	10	2	1
+UZ/Tashkent	10612296	1	1	0
+US/Illinois	2908212	10	2	2
+KR/Gyeongsangbuk-do	58038704	1	1	0
+US/District of Columbia	81026120	30	0	1
+US/Virginia	1312892	5	1	1
+BD/Chittagong	3668448	1	1	0
+TR/Ankara	851604	1	1	0
+IQ/Baghdad	2685828	1	1	0
+CN/Hebei	56121776	1	1	0
+RU/Karelia	1	1	0	1
+TR/Amasya	45135012	1	1	0
+CN/Liaoning	56121776	1	1	0
+SA/Eastern Province	56121776	1	1	0
+BD/Rajshahi Division	13625664	1	1	0

@@ -1,56 +1,56 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-CN/Shanghai	482289204	700	700
-US/Massachusetts	131883265	180	<50
-AWS/us-east-1	420311699	600	600
-VPN	1043889362	1520	1500
-AWS/ap-southeast-1	94706648	140	140
-GitHub	1635441707	6580	1580
-missing	336267326	720	440
-undetermined	765569974	1820	880
-US/California	92192503	140	120
-US/Virginia	24589126	60	<50
-SG/Singapore	28542858	<50	<50
-US/Illinois	60196225	120	80
-GCP/us-east1	4837925	<50	<50
-GCP/us-west1	702839	<50	<50
-JO/Amman	702839	<50	<50
-DE/Hamburg	702839	<50	<50
-MX/Mexico City	35783205	120	<50
-AWS/us-west-2	5924963	<50	<50
-CL/Santiago Metropolitan	1394578	<50	<50
-AE/Dubai	684596	<50	<50
-HK/Yau Tsim Mong District	1369192	<50	<50
-BD/Dhaka Division	684596	<50	<50
-US/Iowa	14104888	60	<50
-US/South Carolina	702411	<50	<50
-GCP/us-central1	3521719	<50	<50
-VN/Ho Chi Minh City (HCMC)	1344734	<50	<50
-IN/Maharashtra	663029	<50	<50
-ID/Yogyakarta	703132	<50	<50
-BD/Chittagong	703132	<50	<50
-RU/Volgograd Oblast	709982	<50	<50
-US/Texas	698233	<50	<50
-UA/Kyiv City	698233	<50	<50
-RU/Sverdlovsk Oblast	714536	<50	<50
-PE/Ancash	714536	<50	<50
-VN/Hưng Yên Province	714536	<50	<50
-KZ/Aktobe	714536	<50	<50
-AR/Misiones	703373	<50	<50
-VN/Thanh Hóa Province	713164	<50	<50
-MX/Guerrero	713164	<50	<50
-AWS/us-east-2	704067	<50	<50
-US/New York	1359427	<50	<50
-CO/Bogota D.C.	681503	<50	<50
-DO/Santo Domingo Province	680016	<50	<50
-ET/Amhara	680016	<50	<50
-PK/Islamabad	680016	<50	<50
-BD/Khulna Division	703200	<50	<50
-VN/Dak Lak	704584	<50	<50
-DZ/Tizi Ouzou	676054	<50	<50
-JO/Balqa	700184	<50	<50
-PK/Punjab	700184	<50	<50
-CH/Vaud	2005584	<50	<50
-NP/Bagmati Province	700862	<50	<50
-TR/Bursa Province	703399	<50	<50
-ID/Jakarta	663812	<50	<50
-OM/Al Batinah South	701604	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+CN/Shanghai	482289204	691	691	0
+US/Massachusetts	131883265	189	4	185
+AWS/us-east-1	421716803	605	605	0
+VPN	1048023256	1531	1497	14
+AWS/ap-southeast-1	179770462	258	258	0
+GitHub	1847447971	7308	1804	1485
+missing	237447979	626	285	82
+undetermined	765569974	1821	881	501
+US/California	92192503	145	130	6
+AWS/us-east-2	23684033	34	33	1
+US/Virginia	26575562	59	35	6
+SG/Singapore	28542858	41	41	0
+US/Illinois	60196225	111	82	6
+GCP/us-east1	4837925	7	7	0
+GCP/us-west1	702839	1	1	0
+JO/Amman	702839	1	1	0
+DE/Hamburg	702839	1	1	0
+MX/Mexico City	35783205	120	40	40
+AWS/us-west-2	5924963	22	6	2
+VN/Ho Chi Minh City (HCMC)	2024610	3	3	0
+CL/Santiago Metropolitan	1394578	2	2	0
+AE/Dubai	684596	1	1	0
+HK/Yau Tsim Mong District	1369192	2	2	0
+BD/Dhaka Division	684596	1	1	0
+BD/Chittagong	1404868	2	2	0
+US/Iowa	14104888	56	14	7
+US/South Carolina	702411	1	1	0
+GCP/us-central1	3521719	5	5	0
+IN/Maharashtra	663029	1	1	0
+ID/Yogyakarta	703132	1	1	0
+RU/Volgograd Oblast	709982	1	1	0
+US/Texas	698233	1	1	0
+UA/Kyiv City	698233	1	1	0
+RU/Sverdlovsk Oblast	714536	1	1	0
+PE/Ancash	714536	1	1	0
+VN/Hưng Yên Province	714536	1	1	0
+KZ/Aktobe	714536	1	1	0
+AR/Misiones	703373	1	1	0
+VN/Thanh Hóa Province	713164	1	1	0
+MX/Guerrero	713164	1	1	0
+US/New York	1359427	5	1	1
+CO/Bogota D.C.	681503	1	1	0
+DO/Santo Domingo Province	680016	1	1	0
+ET/Amhara	680016	1	1	0
+PK/Islamabad	680016	1	1	0
+BD/Khulna Division	703200	1	1	0
+VN/Dak Lak	704584	1	1	0
+DZ/Tizi Ouzou	676054	1	1	0
+JO/Balqa	700184	1	1	0
+PK/Punjab	700184	1	1	0
+CH/Vaud	2005584	8	2	1
+NP/Bagmati Province	700862	1	1	0
+TR/Bursa Province	703399	1	1	0
+ID/Jakarta	663812	1	1	0
+OM/Al Batinah South	701604	1	1	0

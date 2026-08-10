@@ -1,23 +1,23 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	28358721148	3620	<50
-US/Massachusetts	48015644640	920	<50
-AWS/us-east-1	56765044104	6780	<50
-undetermined	28655870004	480	<50
-VPN	38322670572	80	60
-MX/Mexico City	34193124	80	<50
-US/New York	116170165692	340	<50
-CN/Shanghai	67233248540	7220	<50
-GitHub	84348548	140	<50
-AWS/ap-southeast-1	65311476	<50	<50
-IT/Liguria	18446336	<50	<50
-IT/Apulia	57200152	<50	<50
-KE/Nairobi County	32818740	<50	<50
-KR/Daejeon	67818015156	<50	<50
-CH/Vaud	2270432	<50	<50
-missing	10060323499	160	<50
-AWS/us-west-2	39335020	<50	<50
-US/Illinois	1102376	<50	<50
-US/District of Columbia	61798808	<50	<50
-CA/Quebec	7044428	<50	<50
-SG/Singapore	1048128	<50	<50
-US/Maryland	2751659948	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	28358721148	3621	5	6
+US/Massachusetts	48015644640	920	0	5
+AWS/us-east-1	56765044104	6776	17	6
+undetermined	28655870004	480	41	30
+VPN	38322888676	73	53	8
+MX/Mexico City	34193124	82	22	15
+US/New York	116170165692	336	6	6
+CN/Shanghai	67233248540	7228	0	7
+GitHub	84348548	149	42	29
+AWS/ap-southeast-1	70945164	8	8	0
+IT/Liguria	18446336	1	0	1
+IT/Apulia	57200152	3	1	1
+KE/Nairobi County	32818740	13	4	1
+KR/Daejeon	67818015156	15	8	7
+CH/Vaud	2270432	8	2	1
+missing	10054471707	154	10	12
+AWS/us-west-2	39335020	40	12	4
+US/Illinois	1102376	3	1	1
+US/District of Columbia	61798808	6	2	1
+CA/Quebec	7044428	4	1	1
+SG/Singapore	1048128	1	1	0
+US/Maryland	2751659948	1	1	0

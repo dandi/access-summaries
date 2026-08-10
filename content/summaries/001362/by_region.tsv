@@ -1,55 +1,57 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-CN/Shanghai	625062799473	65160	1120
-US/Massachusetts	449167883694	9300	<50
-AWS/us-east-1	481026040549	57880	580
-VPN	397282430313	2580	2560
-undetermined	209265858112	4820	840
-US/California	216481907853	28420	300
-AWS/ap-southeast-1	4144756690	560	560
-missing	58943643607	1260	1240
-US/Maryland	56013588907	80	60
-US/District of Columbia	42966521336	<50	<50
-US/Illinois	10119594576	<50	<50
-GCP/us-west1	58709	<50	<50
-US/Virginia	6911274556	<50	<50
-AWS/us-east-2	103719311979	7760	60
-BR/Santa Catarina	8057484	<50	<50
-JO/Irbid	7048	<50	<50
-IQ/Najaf	7048	<50	<50
-CN/Beijing	9801	<50	<50
-NO/Oslo	17097588	<50	<50
-CA/Ontario	1399365764	<50	<50
-US/Washington	78376240	<50	<50
-VN/Ho Chi Minh City (HCMC)	6944955	<50	<50
-JO/Zarqa	294	<50	<50
-VN/Da Nang City	459	<50	<50
-KG/Osh Region	294	<50	<50
-VN/Phu Tho	294	<50	<50
-VN/Bac Ninh	294	<50	<50
-SG/Singapore	30005826	<50	<50
-UY/Montevideo Department	6878340	<50	<50
-UZ/Tashkent	7205880	<50	<50
-CR/Guanacaste Province	1195	<50	<50
-GCP/us-central1	6687172779	<50	<50
-VN/Hanoi	1579	<50	<50
-TR/Aydın	1195	<50	<50
-BD/Khulna Division	3013368	<50	<50
-GB/England	484	<50	<50
-VE/Zulia	484	<50	<50
-VE/Falcón	484	<50	<50
-BD/Dhaka Division	484	<50	<50
-DO/Santo Domingo Province	484	<50	<50
-HU/Borsod-Abaúj-Zemplén	384	<50	<50
-CO/Risaralda Department	384	<50	<50
-TW/Takao	384	<50	<50
-NG/Lagos	1113636	<50	<50
-BR/Goiás	13101600	<50	<50
-US/New York	942	<50	<50
-VN/Hai Phong	942	<50	<50
-IT/Liguria	942	<50	<50
-VN/Quảng Ninh	942	<50	<50
-MA/Marrakesh-Safi	942	<50	<50
-ID/Riau	165	<50	<50
-ID/Yogyakarta	165	<50	<50
-EG/Asyut	1222	<50	<50
-VN/Dong Nai	1222	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+CN/Shanghai	625062799473	65170	1127	369
+US/Massachusetts	449167883694	9303	0	767
+AWS/us-east-1	481026040549	57878	574	453
+VPN	397282431508	2573	2554	19
+undetermined	209265858112	4821	831	287
+US/California	216481907853	28424	300	144
+AWS/ap-southeast-1	4754766649	1071	1071	0
+AWS/us-east-2	105174033687	7888	185	12
+missing	56858561519	628	619	7
+US/Maryland	56013588907	70	69	1
+US/District of Columbia	42966521336	36	35	1
+US/Illinois	10119594576	4	4	0
+GCP/us-west1	58709	1	1	0
+US/Virginia	6911274556	29	26	3
+GCP/us-east1	17949192	2	2	0
+BR/Santa Catarina	8057484	1	1	0
+JO/Irbid	7048	1	1	0
+IQ/Najaf	7048	1	1	0
+CN/Beijing	9801	7	7	0
+NO/Oslo	17097588	1	1	0
+CA/Ontario	1399365764	1	1	0
+US/Washington	78376240	1	1	0
+VN/Ho Chi Minh City (HCMC)	6944955	3	3	0
+JO/Zarqa	294	1	1	0
+VN/Da Nang City	459	2	2	0
+KG/Osh Region	294	1	1	0
+VN/Phu Tho	294	1	1	0
+VN/Bac Ninh	294	1	1	0
+SG/Singapore	30005826	10	10	0
+UY/Montevideo Department	6878340	1	1	0
+UZ/Tashkent	7205880	1	1	0
+CR/Guanacaste Province	1195	1	1	0
+GCP/us-central1	6687172779	2	1	1
+VN/Hanoi	1579	2	2	0
+TR/Aydın	1195	1	1	0
+BD/Khulna Division	3013368	1	1	0
+GB/England	484	1	1	0
+VE/Zulia	484	1	1	0
+VE/Falcón	484	1	1	0
+BD/Dhaka Division	484	1	1	0
+DO/Santo Domingo Province	484	1	1	0
+HU/Borsod-Abaúj-Zemplén	384	1	1	0
+CO/Risaralda Department	384	1	1	0
+TW/Takao	384	1	1	0
+NG/Lagos	1113636	1	1	0
+BR/Goiás	13101600	1	1	0
+US/New York	942	1	1	0
+VN/Hai Phong	942	1	1	0
+IT/Liguria	942	1	1	0
+VN/Quảng Ninh	942	1	1	0
+MA/Marrakesh-Safi	942	1	1	0
+ID/Riau	165	1	1	0
+ID/Yogyakarta	165	1	1	0
+DZ/Tlemcen	2423796	1	1	0
+EG/Asyut	1222	1	1	0
+VN/Dong Nai	1222	1	1	0

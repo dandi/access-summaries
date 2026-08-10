@@ -1,38 +1,40 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	3100035391	9700	340
-AWS/us-west-2	23826884	<50	<50
-undetermined	15306079913	1280	100
-US/Massachusetts	16602860303	320	<50
-US/California	29722904026	1480	<50
-VPN	34189921891	140	100
-AWS/us-east-1	18888035908	2260	60
-AWS/ap-southeast-1	206939772	<50	<50
-missing	19629544440	4180	320
-CN/Shanghai	22106516379	2160	<50
-MX/Mexico City	42209304	160	<50
-DE/North Rhine-Westphalia	4766232	<50	<50
-IN/Uttar Pradesh	1113636	<50	<50
-CA/Ontario	1441176	<50	<50
-CN/Beijing	6818020	<50	<50
-HK/Hong Kong	1045946044	120	<50
-US/Illinois	136715196	<50	<50
-IN/Punjab	3144384	<50	<50
-US/Virginia	75665240	280	<50
-CN/Shanxi	1050224264	120	<50
-IQ/Baghdad	16245984	<50	<50
-MA/Casablanca-Settat	1113636	<50	<50
-JO/Amman	2751336	<50	<50
-SG/Singapore	306954160	<50	<50
-SA/Mecca Region	1113636	<50	<50
-DE/Hesse	15263364	<50	<50
-US/New Jersey	543930296	200	<50
-AWS/us-east-2	101842176	<50	<50
-JP/Tokyo	10019028	<50	<50
-BD/Dhaka Division	7598928	<50	<50
-BR/Paraná	2227272	<50	<50
-GB/Scotland	1045946044	<50	<50
-VN/Ho Chi Minh City (HCMC)	14346252	<50	<50
-CH/Vaud	2718932	<50	<50
-PK/Punjab	1113636	<50	<50
-IQ/Basra	1441176	<50	<50
-PY/Asuncion	1113636	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	3157287023	10010	344	317
+AWS/us-west-2	23826884	26	6	2
+undetermined	15306079913	1286	106	56
+US/Massachusetts	16602860303	322	0	15
+US/California	29726375950	1479	37	22
+VPN	34297383683	137	106	11
+AWS/us-east-1	18888035908	2260	61	15
+AWS/ap-southeast-1	222465168	26	26	0
+missing	19631882042	4786	326	238
+CN/Shanghai	22106516379	2159	0	12
+MX/Mexico City	42209304	163	31	30
+DE/North Rhine-Westphalia	4766232	16	4	4
+IN/Uttar Pradesh	1113636	1	1	0
+CA/Ontario	1441176	1	1	0
+CN/Beijing	6818020	30	5	5
+HK/Hong Kong	1045946044	125	0	1
+US/Illinois	136715196	6	6	0
+IN/Punjab	3144384	1	1	0
+US/Virginia	75665240	285	3	1
+CN/Shanxi	1050224264	126	0	1
+BR/Ceará	1113636	1	1	0
+IQ/Baghdad	16245984	1	1	0
+MX/Baja California Sur	851604	1	1	0
+MA/Casablanca-Settat	1113636	1	1	0
+JO/Amman	2751336	1	1	0
+SG/Singapore	306954160	2	2	0
+SA/Mecca Region	1113636	1	1	0
+DE/Hesse	15263364	1	1	0
+US/New Jersey	543930296	203	1	3
+AWS/us-east-2	101842176	20	0	2
+JP/Tokyo	10019028	12	1	1
+BD/Dhaka Division	7598928	1	1	0
+BR/Paraná	2227272	1	1	0
+GB/Scotland	1045946044	1	1	0
+VN/Ho Chi Minh City (HCMC)	14346252	3	3	0
+CH/Vaud	2718932	10	2	1
+PK/Punjab	1113636	1	1	0
+IQ/Basra	1441176	1	1	0
+PY/Asuncion	1113636	1	1	0

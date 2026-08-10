@@ -340,6 +340,9 @@ AX/Mariehamns stad:
 AZ/Baki:
   latitude: 40.3755885
   longitude: 49.8328009
+AZ/Balakan District:
+  latitude: 41.731937
+  longitude: 46.4001881
 AZ/Barda:
   latitude: 40.3812457
   longitude: 47.1246287
@@ -1123,6 +1126,9 @@ CV/Praia:
 CW/Curacao:
   latitude: 12.2135136
   longitude: -69.040892
+CY/Ammochostos:
+  latitude: 35.1205261
+  longitude: 33.9387919
 CY/Limassol:
   latitude: 34.6852901
   longitude: 33.0332657
@@ -1879,6 +1885,9 @@ GM/Western:
 GN/Conakry:
   latitude: 9.5170602
   longitude: -13.6998434
+GN/Kankan Region:
+  latitude: 10.6248355
+  longitude: -9.3175166
 GN/Kindia:
   latitude: 10.1154374
   longitude: -13.1916883
@@ -2515,6 +2524,9 @@ IR/Tehran:
 IS/Capital Region:
   latitude: 64.1727138
   longitude: -21.5667575
+IS/South:
+  latitude: 9.9319325
+  longitude: 76.2821667
 IS/Southern Peninsula:
   latitude: 63.9415014
   longitude: -22.2018627
@@ -2641,6 +2653,9 @@ JO/Jerash:
 JO/Karak:
   latitude: 31.1404983
   longitude: 35.8147238
+JO/Madaba:
+  latitude: 31.7165941
+  longitude: 35.7943856
 JO/Mafraq:
   latitude: 32.1934466
   longitude: 37.4472962
@@ -3388,6 +3403,9 @@ MG/Sava:
 MG/Upper Matsiatra:
   latitude: -21.37
   longitude: 46.5
+MK/Arachinovo:
+  latitude: 42.0252965
+  longitude: 21.5577659
 MK/Berovo:
   latitude: 41.706668
   longitude: 22.8535559
@@ -3457,6 +3475,9 @@ MN/East Aimak:
 MN/Hovd:
   latitude: 46.8997977
   longitude: 92.2959651
+MN/Orhon:
+  latitude: 49.0243744
+  longitude: 104.2998863
 MN/Ulaanbaatar:
   latitude: 47.9184676
   longitude: 106.9177016
@@ -3475,12 +3496,18 @@ MR/Dakhlet Nouadhibou:
 MR/Mauritania:
   latitude: 20.2540382
   longitude: -9.2399263
+MS/Saint Peter:
+  latitude: 16.7765724
+  longitude: -62.2000778
 MT/Birkirkara:
   latitude: 35.8994577
   longitude: 14.4649552
 MT/Il-Fgura:
   latitude: 35.8728325
   longitude: 14.520799
+"MT/Il-\u0126amrun":
+  latitude: 35.8867896
+  longitude: 14.4854096
 MT/L-Imsida:
   latitude: 35.8956943
   longitude: 14.4891829
@@ -3712,6 +3739,9 @@ NG/Delta:
 NG/Edo State:
   latitude: 6.6076575
   longitude: 5.9722713
+NG/Ekiti State:
+  latitude: 7.736891
+  longitude: 5.2738326
 NG/Enugu State:
   latitude: 6.5536094
   longitude: 7.4143061
@@ -3820,6 +3850,9 @@ NO/Oslo:
 NO/Rogaland:
   latitude: 58.9363138
   longitude: 5.8058786
+NO/Telemark:
+  latitude: 59.3962677
+  longitude: 8.66266
 NO/Troms:
   latitude: 69.5311072
   longitude: 19.5296839
@@ -3853,6 +3886,9 @@ NP/Madhesh:
 NP/Sudurpashchim Pradesh:
   latitude: 29.4333933
   longitude: 81.0139775
+NR/Yaren District:
+  latitude: -0.5471064
+  longitude: 166.9163479
 NZ/Auckland:
   latitude: -36.852095
   longitude: 174.7631803
@@ -4264,6 +4300,9 @@ PY/Cordillera Department:
 "PY/Paraguar\xED":
   latitude: -26.0
   longitude: -57.166667
+PY/Presidente Hayes:
+  latitude: -23.5
+  longitude: -58.833333
 PY/San Pedro Department:
   latitude: -26.66667
   longitude: -54.0
@@ -4999,6 +5038,9 @@ TH/Nakhon Sawan:
 TH/Nakhon Si Thammarat:
   latitude: 8.6772337
   longitude: 99.7309635
+TH/Nong Khai:
+  latitude: 17.9301421
+  longitude: 102.4649809
 TH/Nonthaburi:
   latitude: 13.8610918
   longitude: 100.3456772
@@ -5044,6 +5086,9 @@ TH/Samut Prakan:
 TH/Samut Sakhon:
   latitude: 13.5708192
   longitude: 100.2585874
+TH/Si Sa Ket:
+  latitude: 14.9222
+  longitude: 104.4439596
 TH/Songkhla:
   latitude: 6.8790221
   longitude: 100.5498542
@@ -5404,6 +5449,12 @@ TZ/Mbeya:
 TZ/Mwanza:
   latitude: -2.5196915
   longitude: 32.9014417
+TZ/Rukwa:
+  latitude: -7.7511321
+  longitude: 30.9487902
+TZ/Tabora:
+  latitude: -5.1913822
+  longitude: 32.5080629
 TZ/Zanzibar Urban/West:
   latitude: -6.1653854
   longitude: 39.2386951
@@ -5662,6 +5713,9 @@ US/Wisconsin:
 US/Wyoming:
   latitude: 43.1700264
   longitude: -107.568534
+UY/Artigas:
+  latitude: -30.6170756
+  longitude: -56.9373451
 UY/Canelones:
   latitude: -34.6222482
   longitude: -55.9903797
@@ -5692,6 +5746,9 @@ UZ/Andijan Region:
 UZ/Karakalpakstan:
   latitude: 43.7738841
   longitude: 57.6234617
+UZ/Namangan:
+  latitude: 40.9996482
+  longitude: 71.6726238
 UZ/Qashqadaryo:
   latitude: 38.7382667
   longitude: 66.1442685
@@ -5989,6 +6046,9 @@ ZW/Harare:
 ZW/Masvingo Province:
   latitude: -20.7453957
   longitude: 31.334138
+ZW/Midlands Province:
+  latitude: -19.2785043
+  longitude: 29.8790852
 bogon:
   latitude: null
   longitude: null

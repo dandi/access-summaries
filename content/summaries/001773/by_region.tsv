@@ -1,32 +1,37 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/ap-southeast-1	3445062	<50	<50
-AWS/us-east-1	5273244	140	140
-US/Massachusetts	429346	<50	<50
-VPN	4595433	<50	<50
-CH/Bern	3222762	60	60
-missing	43108844	700	660
-undetermined	59025914	880	860
-EC/Pichincha	9337	<50	<50
-CO/Tolima Department	15709	<50	<50
-MA/Souss-Massa	18397	<50	<50
-CY/Nicosia	54354	<50	<50
-BA/Federation of B&H	95733	<50	<50
-VN/Phu Tho	6636	<50	<50
-VN/Thanh Hóa Province	114146	<50	<50
-TR/Antalya	114146	<50	<50
-SG/Singapore	35943	<50	<50
-BD/Dhaka Division	16517	<50	<50
-BR/Rio de Janeiro	3464	<50	<50
-HK/Yau Tsim Mong District	7610	<50	<50
-UY/Colonia	16348	<50	<50
-PK/Punjab	12439	<50	<50
-VN/Ho Chi Minh City (HCMC)	3272	<50	<50
-BR/Ceará	11197	<50	<50
-CO/Boyacá	11197	<50	<50
-FR/Île-de-France	686	<50	<50
-ES/Catalonia	686	<50	<50
-BR/Minas Gerais	5633	<50	<50
-IQ/Baghdad	1105682	<50	<50
-KE/Nairobi County	9147	<50	<50
-IN/Tripura	10899	<50	<50
-IE/Connacht	10899	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/ap-southeast-1	6889087	67	67	0
+AWS/us-east-1	5273244	131	131	0
+US/Massachusetts	429346	35	0	35
+VPN	7826531	97	97	0
+CH/Bern	3222762	54	54	0
+missing	39504392	660	606	52
+undetermined	59025914	871	851	20
+EC/Pichincha	9337	1	1	0
+AWS/us-east-2	127974	8	8	0
+US/New York	3197077	52	52	0
+CO/Tolima Department	15709	1	1	0
+MA/Souss-Massa	18397	2	2	0
+CY/Nicosia	54354	7	7	0
+BA/Federation of B&H	95733	1	1	0
+VN/Phu Tho	6636	1	1	0
+VN/Thanh Hóa Province	114146	1	1	0
+TR/Antalya	114146	1	1	0
+SG/Singapore	35943	3	3	0
+BD/Dhaka Division	16517	1	1	0
+BR/Rio de Janeiro	3464	1	1	0
+IQ/Baghdad	1118569	2	2	0
+HK/Yau Tsim Mong District	7610	1	1	0
+KE/Nairobi County	16757	2	2	0
+US/Texas	834	1	1	0
+UY/Colonia	16348	1	1	0
+PK/Punjab	12439	1	1	0
+VN/Ho Chi Minh City (HCMC)	3272	1	1	0
+BR/Ceará	11197	1	1	0
+CO/Boyacá	11197	1	1	0
+FR/Île-de-France	686	1	1	0
+ES/Catalonia	686	1	1	0
+BR/Minas Gerais	5633	1	1	0
+BO/La Paz Department	5633	1	1	0
+DZ/Algiers	6323	1	1	0
+IN/Tripura	10899	1	1	0
+IE/Connacht	10899	1	1	0

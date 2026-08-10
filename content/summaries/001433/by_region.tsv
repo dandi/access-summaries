@@ -1,43 +1,44 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	31776820608	3020	<50
-missing	39230226720	4400	60
-GitHub	505808876	1500	200
-US/Massachusetts	48526994868	1040	<50
-CN/Shanghai	68807584856	5000	<50
-VPN	23648879656	1040	200
-AWS/ap-southeast-1	214407684	<50	<50
-AWS/us-east-1	8385483768	1040	60
-undetermined	22367906812	2700	140
-MX/Mexico City	186802424	300	60
-US/District of Columbia	41484201856	<50	<50
-AWS/us-west-2	22091060	<50	<50
-JP/Chiba	277529088	<50	<50
-US/Washington	603427040	<50	<50
-PS/West Bank	10481280	<50	<50
-SN/Dakar	11070852	<50	<50
-BR/São Paulo	14477268	<50	<50
-CH/Zurich	14215236	<50	<50
-US/Pennsylvania	550930688	380	<50
-AWS/us-east-2	99347024	260	<50
-US/Virginia	49252636	<50	<50
-US/Illinois	9446888	<50	<50
-IQ/Baghdad	10022724	<50	<50
-BD/Dhaka Division	17752668	<50	<50
-TR/Istanbul	5163536	<50	<50
-GCP/us-central1	9167539536	460	<50
-US/New York	37007384	<50	<50
-GCP/us-east1	1516166656	80	<50
-CL/Maule Region	231506944	<50	<50
-GCP/us-west4	429041664	<50	<50
-US/Vermont	268494288	<50	<50
-GCP/us-west1	167260416	<50	<50
-US/Tennessee	277416188	<50	<50
-US/New Hampshire	160352	<50	<50
-CA/Ontario	25512992	<50	<50
-CL/Santiago Metropolitan	137232816	<50	<50
-CH/Vaud	2653424	<50	<50
-GCP/asia-south1	1224312	<50	<50
-US/Iowa	4297084	<50	<50
-ID/Yogyakarta	7402404	<50	<50
-BR/Paraná	2030748	<50	<50
-SG/Singapore	1048128	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	31776820608	3014	13	17
+AWS/us-east-1	41652426400	5005	54	27
+GitHub	530967160	1621	227	138
+US/Massachusetts	48526994868	1039	0	31
+CN/Shanghai	68807584856	5005	2	27
+VPN	23648879656	1043	204	81
+AWS/ap-southeast-1	238252596	32	32	0
+undetermined	22367906812	2704	141	44
+MX/Mexico City	186802424	296	69	42
+US/District of Columbia	41484201856	47	47	0
+missing	5439730392	466	58	41
+AWS/us-east-2	609733952	265	25	12
+AWS/us-west-2	22091060	38	6	2
+JP/Chiba	277529088	9	2	2
+US/Washington	603427040	1	1	0
+MX/México	917112	1	1	0
+PS/West Bank	10481280	1	1	0
+SN/Dakar	11070852	1	1	0
+BR/São Paulo	14477268	2	2	0
+CH/Zurich	14215236	1	1	0
+US/Pennsylvania	550930688	371	38	16
+US/Virginia	49252636	34	4	3
+US/Illinois	9446888	27	4	2
+IQ/Baghdad	10022724	1	1	0
+BD/Dhaka Division	17752668	1	1	0
+TR/Istanbul	5163536	22	3	3
+GCP/us-central1	9167539536	466	1	5
+US/New York	37007384	25	3	1
+GCP/us-east1	1516166656	86	0	2
+CL/Maule Region	231506944	12	0	1
+GCP/us-west4	429041664	24	0	1
+US/Vermont	268494288	8	1	1
+GCP/us-west1	167260416	9	0	1
+US/Tennessee	277416188	10	2	1
+US/New Hampshire	160352	7	0	1
+CA/Ontario	25512992	38	1	1
+CL/Santiago Metropolitan	137232816	1	1	0
+CH/Vaud	2653424	10	2	1
+GCP/asia-south1	1224312	4	1	1
+US/Iowa	4297084	23	3	1
+ID/Yogyakarta	7402404	1	1	0
+BR/Paraná	2030748	1	1	0
+SG/Singapore	1048128	1	1	0

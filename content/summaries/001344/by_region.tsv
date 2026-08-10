@@ -1,32 +1,33 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	1959511009	320	320
-CN/Shanghai	1580150337	220	80
-US/Arizona	881186000	60	60
-AWS/ap-southeast-1	191955110	<50	<50
-undetermined	1375697234	160	140
-AWS/us-east-1	908774793	140	<50
-US/California	487617730	100	<50
-US/Massachusetts	1011816950	60	<50
-VE/Distrito Federal	288742	<50	<50
-missing	210398071	100	100
-ID/Yogyakarta	288742	<50	<50
-VE/Bolívar	288742	<50	<50
-MY/Selangor	288742	<50	<50
-US/Georgia	667	<50	<50
-VN/Phu Tho	250	<50	<50
-AR/Buenos Aires F.D.	250	<50	<50
-LK/Western Province	250	<50	<50
-SG/Singapore	494432	<50	<50
-KE/Nakuru County	288742	<50	<50
-JO/Amman	288742	<50	<50
-AZ/Baki	289075	<50	<50
-HK/Hong Kong	5837	<50	<50
-VN/Hanoi	333	<50	<50
-BR/Ceará	333	<50	<50
-KZ/Kostanay	333	<50	<50
-UZ/Tashkent	333	<50	<50
-VN/Ho Chi Minh City (HCMC)	333	<50	<50
-BR/Rio Grande do Sul	288742	<50	<50
-CO/Valle del Cauca Department	288742	<50	<50
-FR/Île-de-France	614	<50	<50
-BR/Goiás	614	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	1959511009	327	325	2
+CN/Shanghai	1580150337	226	85	19
+US/Arizona	881186000	69	69	0
+AWS/ap-southeast-1	217597496	74	74	0
+undetermined	1375697234	166	148	18
+AWS/us-east-1	908774793	147	31	21
+US/California	487617730	103	33	7
+US/Massachusetts	1011816950	51	1	45
+VE/Distrito Federal	288742	1	1	0
+missing	157158816	59	58	1
+ID/Yogyakarta	288742	1	1	0
+VE/Bolívar	288742	1	1	0
+MY/Selangor	288742	1	1	0
+AWS/us-east-2	27596869	8	8	0
+US/Georgia	667	3	3	0
+VN/Phu Tho	250	1	1	0
+AR/Buenos Aires F.D.	250	1	1	0
+LK/Western Province	250	1	1	0
+SG/Singapore	494432	4	4	0
+KE/Nakuru County	288742	1	1	0
+JO/Amman	288742	1	1	0
+AZ/Baki	289075	2	2	0
+HK/Hong Kong	5837	1	1	0
+VN/Hanoi	333	1	1	0
+BR/Ceará	333	1	1	0
+KZ/Kostanay	333	1	1	0
+UZ/Tashkent	333	1	1	0
+VN/Ho Chi Minh City (HCMC)	333	1	1	0
+BR/Rio Grande do Sul	288742	1	1	0
+CO/Valle del Cauca Department	288742	1	1	0
+FR/Île-de-France	614	1	1	0
+BR/Goiás	614	1	1	0

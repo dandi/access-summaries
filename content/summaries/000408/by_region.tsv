@@ -1,36 +1,38 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	15173582568	117600	38960
-undetermined	1587841282	11780	4400
-VPN	216425556	1120	1100
-CN/Shanghai	159654712	820	820
-GitHub	897387000	37800	2260
-US/Massachusetts	45084628	240	<50
-AWS/ap-southeast-1	31031700	160	160
-US/California	43701812	1560	200
-AWS/us-east-1	168802108	860	860
-US/Illinois	20493276	120	80
-US/Wyoming	5856136	<50	<50
-GCP/us-east1	390424	<50	<50
-US/Virginia	9560416	2160	<50
-MX/Mexico City	34469232	220	120
-AWS/us-east-2	25544712	2240	120
-CN/Shanxi	390008	<50	<50
-US/Florida	11310232	60	60
-US/Arizona	4024288	300	<50
-US/Iowa	7804960	60	<50
-GB/England	3120064	<50	<50
-GCP/us-central1	2340048	<50	<50
-SG/Singapore	585220	<50	<50
-VN/Ho Chi Minh City (HCMC)	390008	<50	<50
-US/South Carolina	585396	<50	<50
-JP/Tokyo	780016	<50	<50
-CH/Vaud	1189616	<50	<50
-US/District of Columbia	1560032	<50	<50
-US/Texas	1024144	520	<50
-US/New York	975404	<50	<50
-TZ/Dar es Salaam Region	195004	<50	<50
-US/New Jersey	780016	<50	<50
-BR/Pernambuco	195004	<50	<50
-IT/Emilia-Romagna	390008	<50	<50
-SA/Najran Region	195004	<50	<50
-AE/Dubai	195004	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	15144788180	117456	38790	23359
+undetermined	1587841282	11788	4395	1088
+VPN	216527956	1126	1092	27
+CN/Shanghai	159654712	818	818	0
+GitHub	996231184	38489	2579	2270
+US/Massachusetts	45084628	231	3	228
+AWS/ap-southeast-1	57576708	295	295	0
+US/California	43896816	1560	199	29
+AWS/us-east-1	168997320	866	866	0
+US/Illinois	20883700	123	91	12
+AWS/us-east-2	33742752	2272	152	16
+US/Wyoming	5856136	45	15	10
+GCP/us-east1	390424	2	2	0
+US/Virginia	10146004	2160	38	14
+MX/Mexico City	34469232	228	120	72
+CN/Shanxi	390008	2	2	0
+US/Florida	11310232	58	58	0
+US/Arizona	4024288	293	10	6
+US/Iowa	7804960	60	20	10
+GB/England	3120064	16	16	0
+GCP/us-central1	2340048	12	12	0
+SG/Singapore	585220	3	3	0
+VN/Ho Chi Minh City (HCMC)	390008	2	2	0
+US/South Carolina	585396	3	3	0
+PK/Punjab	195004	1	1	0
+JP/Tokyo	780016	6	2	2
+CH/Vaud	1189616	8	4	2
+US/District of Columbia	1560032	12	4	2
+US/Texas	1024144	530	4	2
+US/New York	975404	5	4	1
+TZ/Dar es Salaam Region	195004	1	1	0
+US/New Jersey	780016	5	1	3
+BR/Pernambuco	195004	1	1	0
+IQ/Erbil	195004	1	1	0
+IT/Emilia-Romagna	390008	2	2	0
+SA/Najran Region	195004	1	1	0
+AE/Dubai	195004	1	1	0

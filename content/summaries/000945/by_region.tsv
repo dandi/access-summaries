@@ -1,67 +1,69 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	3754172256	3820	920
-US/Virginia	603783908	120	80
-VPN	3328756208	660	600
-undetermined	7334805311	1760	960
-TW/Taiwan	1286559880	180	160
-US/California	306962396	<50	<50
-GCP/us-east1	590215808	80	80
-US/Massachusetts	595978152	80	<50
-US/Arizona	533883864	80	80
-HK/Hong Kong	39777384	<50	<50
-CN/Shanghai	1290538784	240	200
-US/Florida	561017256	100	80
-US/New York	4912565076	700	100
-AWS/us-east-1	2032219856	360	280
-AWS/ap-southeast-1	144661620	<50	<50
-missing	920048378	720	260
-BD/Rangpur Division	7336896	<50	<50
-bogon	524086736	80	80
-US/Wyoming	22995564	<50	<50
-SG/Singapore	174258632	<50	<50
-US/Illinois	219219788	80	<50
-GCP/us-central1	228209272	<50	<50
-GCP/us-west1	11445120	<50	<50
-GCP/asia-east1	36018416	<50	<50
-GCP/us-west4	37132000	<50	<50
-BD/Dhaka Division	15852936	<50	<50
-US/New Jersey	39750048	<50	<50
-MX/Mexico City	86259232	240	80
-AWS/us-east-2	11323726212	2400	60
-ET/Oromiya	4293592	<50	<50
-CI/Abidjan Autonomous District	1637700	<50	<50
-BR/São Paulo	9861772	<50	<50
-UA/Kyiv Oblast	21893960	<50	<50
-CL/Biobio	3340696	<50	<50
-MM/Yangon	3340696	<50	<50
-AR/Buenos Aires	3340696	<50	<50
-CL/Santiago Metropolitan	3147544	<50	<50
-AE/Abu Dhabi	907864	<50	<50
-US/Pennsylvania	6086104432	780	<50
-CH/Zurich	6967552	120	<50
-IR/Tehran	83018623	<50	<50
-JO/Amman	1768716	<50	<50
-PK/Islamabad	1674720	<50	<50
-AWS/us-west-2	26998272	<50	<50
-BR/Paraná	1637700	<50	<50
-KE/Nairobi County	3340908	<50	<50
-VN/Ho Chi Minh City (HCMC)	6736848	<50	<50
-PK/Punjab	6582168	<50	<50
-PT/Porto	7425776	<50	<50
-US/Iowa	14230656	<50	<50
-EC/Pichincha	570136	<50	<50
-IN/Maharashtra	1072840	<50	<50
-IT/Liguria	34691192	<50	<50
-UZ/Tashkent	15471680	<50	<50
-IN/Andhra Pradesh	2685828	<50	<50
-HK/Yau Tsim Mong District	3537432	<50	<50
-BR/Minas Gerais	5961228	<50	<50
-ZA/KwaZulu-Natal	6579480	<50	<50
-BR/Rio Grande do Sul	7009356	<50	<50
-KG/Bishkek	2030748	<50	<50
-UZ/Samarqand Region	5044116	<50	<50
-TR/Istanbul	2358288	<50	<50
-AE/Sharjah	4651068	<50	<50
-CH/Vaud	876864	<50	<50
-GCP/asia-south1	745632	<50	<50
-VE/Mérida	766112	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	3946688696	4201	1029	900
+US/Virginia	603783908	110	90	2
+VPN	3371184808	664	611	24
+undetermined	7334805311	1769	965	297
+TW/Taiwan	1286559880	184	163	7
+US/California	306962396	45	31	5
+GCP/us-east1	590215808	85	79	3
+US/Massachusetts	595978152	80	0	80
+US/Arizona	533883864	76	76	0
+HK/Hong Kong	39777384	7	5	1
+CN/Shanghai	1290538784	242	193	13
+US/Florida	561017256	94	79	1
+US/New York	5436651812	775	180	23
+AWS/us-east-1	2032219856	369	271	74
+AWS/ap-southeast-1	187883908	52	52	0
+missing	1304149070	724	300	130
+BD/Rangpur Division	7336896	1	1	0
+VN/Vinh Long	8195784	1	1	0
+bogon	524086736	75	75	0
+AWS/us-east-2	11370011740	2397	65	22
+US/Wyoming	22995564	35	7	4
+SG/Singapore	174258632	20	20	0
+US/Illinois	220239012	75	40	5
+GCP/us-central1	239654392	35	22	6
+GCP/us-west1	11445120	2	0	1
+GCP/asia-east1	36018416	6	1	3
+GCP/us-west4	37132000	6	2	2
+BD/Dhaka Division	15852936	2	2	0
+US/New Jersey	39750048	5	5	0
+MX/Mexico City	86259232	239	80	40
+ET/Oromiya	4293592	1	1	0
+CI/Abidjan Autonomous District	1637700	1	1	0
+BR/São Paulo	9861772	2	2	0
+UA/Kyiv Oblast	21893960	4	4	0
+CL/Biobio	3340696	1	1	0
+MM/Yangon	3340696	1	1	0
+AR/Buenos Aires	3340696	1	1	0
+CL/Santiago Metropolitan	6187536	6	6	0
+AE/Abu Dhabi	907864	1	1	0
+US/Pennsylvania	6086104432	789	3	10
+CH/Zurich	6967552	128	0	1
+IR/Tehran	83018623	29	4	2
+JO/Amman	1768716	1	1	0
+PK/Islamabad	1674720	1	1	0
+AWS/us-west-2	26998272	18	6	2
+BR/Paraná	1637700	1	1	0
+KE/Nairobi County	3340908	1	1	0
+VN/Ho Chi Minh City (HCMC)	6736848	1	1	0
+AR/Buenos Aires F.D.	6736848	1	1	0
+PK/Punjab	6582168	2	2	0
+PT/Porto	7425776	1	1	0
+US/Iowa	14230656	22	4	2
+EC/Pichincha	570136	1	1	0
+IN/Maharashtra	1072840	1	1	0
+IT/Liguria	34691192	18	1	3
+UZ/Tashkent	15471680	2	2	0
+IN/Andhra Pradesh	2685828	1	1	0
+HK/Yau Tsim Mong District	3537432	1	1	0
+BR/Minas Gerais	5961228	1	1	0
+ZA/KwaZulu-Natal	6579480	1	1	0
+BR/Rio Grande do Sul	7009356	1	1	0
+KG/Bishkek	2030748	1	1	0
+UZ/Samarqand Region	5044116	1	1	0
+TR/Istanbul	2358288	1	1	0
+AE/Sharjah	4651068	1	1	0
+CH/Vaud	876864	4	1	1
+GCP/asia-south1	745632	3	1	1
+VE/Mérida	766112	1	1	0

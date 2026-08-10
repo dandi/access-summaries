@@ -1,18 +1,19 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	9824354278	860	860
-US/North Carolina	5964078252	240	240
-undetermined	2475814453	320	260
-US/Massachusetts	6282099004	240	<50
-CN/Shanghai	10466591686	1100	160
-AWS/ap-southeast-1	704033782	120	120
-US/California	3204070256	460	80
-US/Arizona	5964078275	240	240
-missing	8211906035	1120	380
-US/Maryland	1198	<50	<50
-US/New York	5964077882	240	240
-AWS/us-east-1	1058545678	<50	<50
-SG/Singapore	90406572	<50	<50
-JM/Kingston	459	<50	<50
-US/Texas	48924358	<50	<50
-BR/Rio de Janeiro	1641935	<50	<50
-US/Virginia	5175132	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	9827639519	867	858	9
+US/North Carolina	5964078252	241	241	0
+undetermined	2475814453	328	264	47
+US/Massachusetts	6282099004	244	0	167
+CN/Shanghai	10466591686	1102	164	79
+AWS/ap-southeast-1	872895117	231	231	0
+US/California	3204070256	457	82	27
+US/Arizona	5964078275	240	240	0
+missing	6981214182	965	224	80
+US/Maryland	1198	3	3	0
+US/New York	5964077882	239	239	0
+AWS/us-east-1	1058545678	35	35	0
+AWS/us-east-2	1058545678	35	35	0
+SG/Singapore	90406572	11	11	0
+JM/Kingston	459	1	1	0
+US/Texas	48924358	8	8	0
+BR/Rio de Janeiro	1641935	1	1	0
+US/Virginia	5175132	1	1	0

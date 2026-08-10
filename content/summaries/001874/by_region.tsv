@@ -1,9 +1,12 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	55683342478	6640	<50
-VPN	84368254	300	<50
-missing	4585134678	600	<50
-GitHub	247199186	980	120
-US/Virginia	13240900	60	<50
-undetermined	27225260	80	<50
-US/Illinois	12264156	60	<50
-US/Tennessee	3585188	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	55683342478	6650	0	35
+VPN	84368254	305	35	35
+missing	4575140804	557	41	30
+GitHub	269332040	1072	131	70
+JP/Kyoto	104107746	206	0	35
+US/Virginia	13240900	53	6	2
+undetermined	27225260	87	10	10
+US/Illinois	12264156	51	6	2
+US/Tennessee	3585188	17	2	2
+US/California	920563612	1	1	0
+US/Ohio	3839076	16	2	2

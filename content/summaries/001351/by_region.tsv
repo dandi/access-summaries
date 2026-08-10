@@ -1,38 +1,41 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	11111597658	1320	280
-CN/Shanghai	8133827154	660	<50
-VPN	15959438256	720	480
-US/Massachusetts	3883392175	100	<50
-GitHub	12029000673	37220	340
-US/California	1114059929	300	<50
-AWS/us-east-1	3949882715	520	120
-SG/Singapore	269549898	<50	<50
-CA/Quebec	3164202068	60	60
-AWS/ap-southeast-1	320465136	<50	<50
-missing	4610317480	10200	160
-US/Virginia	3206219844	180	60
-CN/Hebei	990396618	200	<50
-GCP/us-central1	466871552	<50	<50
-MX/Mexico City	206205980	1060	80
-US/Arizona	64025536	160	<50
-AR/Buenos Aires F.D.	3013368	<50	<50
-HK/Hong Kong	32299373	<50	<50
-US/Illinois	350754578	1520	<50
-CN/Beijing	16508017	<50	<50
-DE/North Rhine-Westphalia	52661161	180	<50
-US/Pennsylvania	232601	<50	<50
-DE/Saxony	9498660	<50	<50
-US/Connecticut	87608007	<50	<50
-PS/West Bank	1113636	<50	<50
-LV/Riga	24237960	<50	<50
-ES/Valencia	8581548	<50	<50
-RE/Reunion	2423796	<50	<50
-AWS/us-west-2	176312232	560	<50
-US/Florida	15197856	<50	<50
-GR/Attica	9498660	<50	<50
-PR/San Juan	27284111	<50	<50
-CH/Vaud	7594538	<50	<50
-US/District of Columbia	70251757	<50	<50
-TR/Afyonkarahisar Province	1	<50	<50
-UA/Khmelnytskyi	4389036	<50	<50
-US/Wyoming	77299608	280	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	11111597658	1312	274	451
+CN/Shanghai	8133827154	660	46	68
+VPN	16029408130	780	490	31
+US/Massachusetts	3883392175	100	0	68
+GitHub	12313121504	38539	360	264
+US/California	1114059929	307	11	18
+AWS/us-east-1	3949882715	523	115	56
+SG/Singapore	269549898	8	8	0
+CA/Quebec	3164202068	56	56	0
+AWS/ap-southeast-1	357149616	52	52	0
+missing	4454582492	11637	144	115
+US/Virginia	3206219844	174	58	1
+CN/Hebei	1042055347	212	16	180
+AWS/us-east-2	372259659	7	7	0
+GCP/us-central1	466871552	10	10	0
+MX/Mexico City	206205980	1052	82	44
+US/Arizona	64025536	167	2	1
+AR/Buenos Aires F.D.	3013368	1	1	0
+HK/Hong Kong	32299373	1	1	0
+US/Illinois	372189465	1618	14	14
+CN/Beijing	16508017	4	3	1
+DE/North Rhine-Westphalia	52661161	181	3	3
+US/Pennsylvania	232601	20	0	1
+DE/Saxony	9498660	1	1	0
+US/Connecticut	87608007	2	2	0
+PS/West Bank	1113636	1	1	0
+LV/Riga	24237960	1	1	0
+ES/Valencia	8581548	1	1	0
+RE/Reunion	2423796	1	1	0
+AWS/us-west-2	176312232	566	6	2
+US/Florida	15197856	1	1	0
+GR/Attica	9498660	1	1	0
+PR/San Juan	27284111	1	1	0
+CH/Vaud	7594538	46	2	1
+US/District of Columbia	70251757	18	0	1
+VN/Ho Chi Minh City (HCMC)	1113636	1	1	0
+TR/Afyonkarahisar Province	1	1	0	1
+UA/Khmelnytskyi	4389036	1	1	0
+US/Wyoming	77299608	270	2	1
+KZ/Aqmola	1048128	1	1	0

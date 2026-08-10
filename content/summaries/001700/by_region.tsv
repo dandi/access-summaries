@@ -1,42 +1,44 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	277613743703	33780	1580
-CN/Shanghai	291060347864	55720	<50
-undetermined	198044162366	5280	120
-MX/Mexico City	7717374434	1440	<50
-VPN	5945254519	2540	760
-AWS/ap-southeast-1	3698909220	300	300
-missing	20727595051	2960	660
-GitHub	9413034953	35900	840
-KE/Nairobi County	4585560	<50	<50
-US/Virginia	23637831673	7600	<50
-NP/Bagmati Province	11725932	<50	<50
-US/Iowa	18208252	80	<50
-US/Massachusetts	130265014855	2660	<50
-US/Illinois	36405994	120	<50
-PK/Sindh	13232616	<50	<50
-SG/Singapore	8319516	<50	<50
-US/California	34398565	80	<50
-UZ/Tashkent	9433152	<50	<50
-BD/Dhaka Division	1179144	<50	<50
-AR/Buenos Aires	11070852	<50	<50
-CL/Coquimbo Region	9826200	<50	<50
-US/Vermont	494572346	<50	<50
-DE/North Rhine-Westphalia	6679428	<50	<50
-CH/Vaud	4701424	<50	<50
-VN/Ho Chi Minh City (HCMC)	20635020	<50	<50
-EC/Pichincha	6812832	<50	<50
-BR/São Paulo	12643044	<50	<50
-JO/Amman	5633688	<50	<50
-AE/Dubai	4454544	<50	<50
-BR/Bahia	9564168	<50	<50
-VN/Hanoi	6354276	<50	<50
-GCP/us-central1	389033588	<50	<50
-US/Utah	1635819480	<50	<50
-UY/Montevideo Department	3930480	<50	<50
-MY/Johor	1113636	<50	<50
-KZ/East Kazakhstan	1375668	<50	<50
-SN/Dakar	7140372	<50	<50
-US/Wyoming	14172725	<50	<50
-ZA/Western Cape	4651068	<50	<50
-BD/Chittagong	3406416	<50	<50
-US/Arizona	2939049	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	289797233387	35267	1587	413
+CN/Shanghai	291060347864	55719	0	411
+undetermined	198044162366	5276	117	486
+MX/Mexico City	7717374434	1433	43	253
+VPN	5953365447	2552	762	114
+AWS/ap-southeast-1	4163688480	567	567	0
+AWS/us-east-2	13222405379	42	42	0
+missing	56466770325	5878	563	114
+GitHub	9462580604	36141	857	864
+KE/Nairobi County	4585560	1	1	0
+US/Virginia	23640333793	7618	37	118
+NP/Bagmati Province	11725932	1	1	0
+US/Iowa	18208252	87	6	6
+US/Massachusetts	130265014855	2657	0	192
+US/Illinois	36405994	118	8	8
+PK/Sindh	13232616	2	2	0
+SG/Singapore	8319516	1	1	0
+US/California	34398565	73	7	7
+UZ/Tashkent	9433152	2	2	0
+BD/Dhaka Division	1179144	1	1	0
+AR/Buenos Aires	11070852	2	2	0
+CL/Coquimbo Region	9826200	1	1	0
+US/Vermont	494572346	1	1	0
+DE/North Rhine-Westphalia	6679428	42	3	3
+CH/Vaud	4701424	30	2	1
+VN/Ho Chi Minh City (HCMC)	21683148	4	4	0
+EC/Pichincha	6812832	1	1	0
+BR/São Paulo	12643044	1	1	0
+JO/Amman	5633688	1	1	0
+AE/Dubai	4454544	1	1	0
+BR/Bahia	9564168	1	1	0
+VN/Hanoi	6354276	1	1	0
+GCP/us-central1	389033588	3	3	0
+US/Utah	1635819480	33	6	2
+UY/Montevideo Department	3930480	1	1	0
+MY/Johor	1113636	1	1	0
+KZ/East Kazakhstan	1375668	1	1	0
+SN/Dakar	7140372	1	1	0
+BR/Sergipe	7074864	1	1	0
+US/Wyoming	14172725	29	2	2
+ZA/Western Cape	4651068	1	1	0
+BD/Chittagong	3406416	1	1	0
+US/Arizona	2939049	14	1	1

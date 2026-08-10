@@ -1,111 +1,113 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	5420021110	2480	1720
-GitHub	11024918474	102000	1960
-US/Massachusetts	630529885	240	200
-AWS/ap-southeast-1	137989719	60	60
-MX/Mexico City	331719597	320	160
-AWS/us-east-2	1389134706	26880	460
-RO/Timiș County	50344811	<50	<50
-US/Texas	133903339	1680	<50
-AWS/us-east-1	857493334	340	140
-KR/Seoul	251724055	100	100
-CA/Ontario	193274946	80	80
-US/California	782849050	4180	240
-NL/Flevoland	31519642	<50	<50
-missing	8224076713	13440	2760
-KR/Gyeonggi-do	50344811	<50	<50
-HK/Hong Kong	12192711	<50	<50
-VPN	752921868	700	280
-CN/Shanghai	183823958	80	80
-IE/Leinster	1354356	<50	<50
-US/New York	549243666	560	80
-US/Virginia	450089314	7180	80
-IR/Tehran	52414984	<50	<50
-US/South Carolina	50344811	<50	<50
-US/Arizona	59371087	1580	<50
-PT/Lisbon	104789967	<50	<50
-US/Rhode Island	50344843	<50	<50
-JP/Tokyo	59428659	<50	<50
-GCP/us-east4	55490627	<50	<50
-TW/Taiwan	50344811	<50	<50
-VN/Ho Chi Minh City (HCMC)	2217088	<50	<50
-US/Iowa	26208928	<50	<50
-US/Illinois	119704301	<50	<50
-US/New Mexico	50344811	<50	<50
-GCP/us-central1	188135194	60	60
-IL/Southern District	60588566	<50	<50
-CN/Shanxi	19140746	<50	<50
-BR/Bahia	2635448	<50	<50
-IL/Tel Aviv	63766905	<50	<50
-AR/Buenos Aires	1460008	<50	<50
-CA/Quebec	38239704	<50	<50
-AR/Misiones	2070173	<50	<50
-SE/Stockholm	4140346	<50	<50
-VN/Nghệ An Province	929096	<50	<50
-UA/Mykolaiv	2070173	<50	<50
-AZ/Baki	1990920	<50	<50
-AE/Sharjah	1061824	<50	<50
-MX/Jalisco	1207442544	460	460
-GB/England	111131052	<50	<50
-FI/Uusimaa	50310106	<50	<50
-US/New Jersey	41834955	220	<50
-AWS/us-west-2	71320267	100	<50
-CN/Beijing	100620212	<50	<50
-US/Minnesota	50310138	<50	<50
-CH/Geneva	62815809	<50	<50
-ES/Catalonia	60609930	<50	<50
-CL/Santiago Metropolitan	7731414	<50	<50
-US/Utah	74384358	100	<50
-US/Pennsylvania	50310106	<50	<50
-VN/Hanoi	851604	<50	<50
-US/Georgia	395839658	80	80
-UA/Kyiv City	5154008	<50	<50
-ES/Balearic Islands	5154008	<50	<50
-NZ/Northland	10308016	<50	<50
-US/Washington	66778264	60	<50
-US/Ohio	7344020	<50	<50
-HK/Islands	5154008	<50	<50
-SG/Singapore	21584180	<50	<50
-GCP/us-east1	28598680	<50	<50
-NG/Rivers State	1113636	<50	<50
-KE/Nairobi County	1388774	<50	<50
-PK/Islamabad	917112	<50	<50
-AE/Abu Dhabi	2399212	<50	<50
-RU/Khanty-Mansia	1388774	<50	<50
-FR/Occitanie	1310160	<50	<50
-US/District of Columbia	16976704	<50	<50
-BR/São Paulo	1388774	<50	<50
-ID/Bali	1391118	<50	<50
-BR/Espírito Santo	1391118	<50	<50
-DE/North Rhine-Westphalia	4287336	<50	<50
-CH/Vaud	2268196	<50	<50
-VN/Bac Ninh	2109952	<50	<50
-US/Wyoming	4212546	<50	<50
-ZA/Western Cape	917112	<50	<50
-RU/Vladimir Oblast	851604	<50	<50
-PE/Lima region	4927264	<50	<50
-MA/Marrakesh-Safi	1375668	<50	<50
-AR/San Luis	1113636	<50	<50
-US/Louisiana	332871525	160	<50
-GR/Attica	31012875	<50	<50
-US/Maryland	12359157	<50	<50
-bogon	2067525	<50	<50
-CN/Guangdong	6202575	<50	<50
-FR/Normandy	4135050	<50	<50
-NL/North Holland	2067525	<50	<50
-PK/Punjab	2308188	<50	<50
-US/Tennessee	1441176	<50	<50
-IQ/Anbar	1725464	<50	<50
-EC/Loja	2006023	<50	<50
-IN/Jammu and Kashmir	2006023	<50	<50
-PY/Asuncion	2006023	<50	<50
-AR/Buenos Aires F.D.	2938344	<50	<50
-KZ/Turkistan	2938344	<50	<50
-TJ/Sughd	851604	<50	<50
-IN/Maharashtra	6193944	<50	<50
-HU/Budapest	1048128	<50	<50
-AE/Ajman	1179144	<50	<50
-GCP/us-west3	25729080	<50	<50
-CR/San José	1061824	<50	<50
-RU/Moscow	1194552	<50	<50
-IN/Assam	1061824	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	5421134746	2482	1731	197
+GitHub	11119889287	102039	1978	1500
+US/Massachusetts	630529885	235	195	38
+AWS/ap-southeast-1	176770231	84	84	0
+MX/Mexico City	331719597	323	152	38
+AWS/us-east-2	1403109152	26887	475	36
+RO/Timiș County	50344811	19	19	0
+US/Texas	133903339	1689	40	3
+AWS/us-east-1	857493334	335	145	171
+KR/Seoul	251724055	95	95	0
+CA/Ontario	193274946	72	72	0
+US/California	782849050	4172	234	29
+NL/Flevoland	31519642	12	12	0
+missing	8784071738	13802	2942	2099
+KR/Gyeonggi-do	50344811	19	19	0
+HK/Hong Kong	12192711	6	6	0
+VPN	937056401	778	361	53
+CN/Shanghai	183823958	70	70	0
+IE/Leinster	1354356	1	1	0
+US/New York	599553772	585	109	57
+US/Virginia	450089314	7178	82	73
+IR/Tehran	52414984	20	20	0
+US/South Carolina	50344811	19	19	0
+US/Arizona	59371087	1573	19	6
+PT/Lisbon	104789967	40	38	1
+US/Rhode Island	50344843	23	19	1
+JP/Tokyo	59428659	28	22	2
+US/Maryland	62703968	22	21	1
+GCP/us-east4	55490627	20	19	1
+TW/Taiwan	50344811	19	19	0
+VN/Ho Chi Minh City (HCMC)	2217088	2	2	0
+US/Iowa	26208928	8	8	0
+US/Illinois	119704301	48	36	12
+US/New Mexico	50344811	19	19	0
+GCP/us-central1	188135194	56	54	2
+IL/Southern District	60588566	44	17	4
+CN/Shanxi	19140746	7	7	0
+BR/Bahia	2635448	2	2	0
+IL/Tel Aviv	65834430	35	2	3
+AR/Buenos Aires	2573644	2	2	0
+CA/Quebec	38239704	17	1	10
+AR/Misiones	2070173	1	1	0
+SE/Stockholm	4140346	2	0	1
+VN/Nghệ An Province	929096	1	1	0
+UA/Mykolaiv	2070173	1	1	0
+AZ/Baki	1990920	1	1	0
+AE/Sharjah	1061824	1	1	0
+MX/Jalisco	1207442544	456	456	0
+GB/England	111131052	32	30	1
+FI/Uusimaa	50310106	19	19	0
+US/New Jersey	41834955	229	3	13
+AWS/us-west-2	71320267	108	25	21
+CN/Beijing	100620212	38	38	0
+US/Minnesota	50310138	23	19	1
+CH/Geneva	62815809	24	24	0
+ES/Catalonia	60609930	21	21	0
+CL/Santiago Metropolitan	7731414	5	5	0
+US/Utah	74384358	95	38	19
+US/Pennsylvania	50310106	19	19	0
+VN/Hanoi	851604	1	1	0
+US/Georgia	395839658	78	76	2
+UA/Kyiv City	5154008	1	1	0
+ES/Balearic Islands	5154008	1	1	0
+NZ/Northland	10308016	2	2	0
+US/Washington	66778264	66	4	2
+US/Ohio	7344020	2	2	0
+HK/Islands	5154008	1	1	0
+SG/Singapore	21584180	7	7	0
+GCP/us-east1	28598680	6	0	5
+VN/Dong Thap	1834224	1	1	0
+NG/Rivers State	1113636	1	1	0
+KE/Nairobi County	1388774	1	1	0
+PK/Islamabad	917112	1	1	0
+AE/Abu Dhabi	2399212	2	2	0
+RU/Khanty-Mansia	1388774	1	1	0
+FR/Occitanie	1310160	1	1	0
+US/District of Columbia	16976704	21	6	3
+BR/São Paulo	1388774	1	1	0
+ID/Bali	1391118	1	1	0
+BR/Espírito Santo	1391118	1	1	0
+DE/North Rhine-Westphalia	4287336	12	3	3
+CH/Vaud	2268196	7	1	1
+VN/Bac Ninh	2109952	2	2	0
+US/Wyoming	4212546	11	2	1
+ZA/Western Cape	917112	1	1	0
+RU/Vladimir Oblast	851604	1	1	0
+NG/Lagos	1048128	1	1	0
+PE/Lima region	4927264	1	1	0
+MA/Marrakesh-Safi	1375668	1	1	0
+AR/San Luis	1113636	1	1	0
+US/Louisiana	332871525	161	0	44
+GR/Attica	31012875	15	0	5
+bogon	2067525	1	0	1
+CN/Guangdong	6202575	3	0	3
+FR/Normandy	4135050	2	0	1
+NL/North Holland	2067525	1	0	1
+PK/Punjab	2308188	2	2	0
+US/Tennessee	1441176	1	1	0
+IQ/Anbar	1725464	1	1	0
+EC/Loja	2006023	1	1	0
+IN/Jammu and Kashmir	2006023	1	1	0
+PY/Asuncion	2006023	1	1	0
+AR/Buenos Aires F.D.	2938344	1	1	0
+KZ/Turkistan	2938344	1	1	0
+TJ/Sughd	851604	1	1	0
+IN/Maharashtra	6193944	2	2	0
+HU/Budapest	1048128	1	1	0
+AE/Ajman	1179144	1	1	0
+GCP/us-west3	25729080	5	0	3
+CR/San José	1061824	1	1	0
+RU/Moscow	1194552	1	1	0
+IN/Assam	1061824	1	1	0

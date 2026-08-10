@@ -1,12 +1,14 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	3231347491	480	60
-US/Massachusetts	2377250757	180	<50
-missing	1823550095	2900	500
-GitHub	4141460950	19460	840
-IT/Lombardy	3231347491	240	240
-VPN	575878286	2520	100
-US/Illinois	39069818	180	<50
-undetermined	735325644	200	<50
-GCP/us-central1	43170268	<50	<50
-US/Wyoming	600000	<50	<50
-US/Virginia	7371880	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	3231347491	489	55	190
+US/Massachusetts	2377250757	178	0	178
+AWS/ap-southeast-1	304570837	177	177	0
+AWS/us-east-2	678037695	51	51	0
+missing	949401460	3266	294	103
+GitHub	4515768487	21290	920	660
+IT/Lombardy	3231347491	245	245	0
+VPN	575878286	2510	101	101
+US/Illinois	43042183	199	11	6
+undetermined	735325644	197	12	58
+GCP/us-central1	43170268	5	5	0
+US/Virginia	21566928	101	5	4
+US/Wyoming	600000	5	0	5

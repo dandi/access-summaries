@@ -1,31 +1,33 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	40991248955	30020	5460
-US/Massachusetts	480939926003	9220	<50
-AWS/us-east-1	447847671666	53460	100
-US/California	172306573477	27980	<50
-CN/Shanghai	490669943914	57500	<50
-AWS/us-west-2	18046453	<50	<50
-VPN	410791098574	480	400
-undetermined	149790849795	4300	360
-GitHub	1013796965	2300	340
-GCP/us-west1	21951442640	<50	<50
-AWS/ap-southeast-1	409818048	<50	<50
-MX/Mexico City	53319242	200	<50
-US/Arizona	17073076	<50	<50
-SG/Singapore	79592220	<50	<50
-GCP/us-east1	7926468	<50	<50
-US/Wyoming	5234022	<50	<50
-US/Pennsylvania	6026736	<50	<50
-US/Illinois	7921342	<50	<50
-KE/Nairobi County	1048128	<50	<50
-NP/Bagmati Province	917112	<50	<50
-US/New York	1439657977	<50	<50
-CH/Vaud	8325802	<50	<50
-VE/Distrito Federal	1113636	<50	<50
-TN/Tunis Governorate	3668448	<50	<50
-CO/Risaralda Department	1703208	<50	<50
-VN/Ho Chi Minh City (HCMC)	8778072	<50	<50
-HK/Hong Kong	1375668	<50	<50
-US/Iowa	3273718	<50	<50
-US/Virginia	3161326	<50	<50
-HU/Pest County	4454544	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	39892366243	30108	5438	4885
+US/Massachusetts	480939926003	9221	0	55
+AWS/us-east-1	447847671666	53465	103	50
+US/California	172306573477	27989	9	20
+CN/Shanghai	490669943914	57509	0	51
+AWS/us-west-2	18046453	32	6	2
+VPN	410881958170	483	414	25
+undetermined	149790849795	4297	358	266
+GitHub	1143388836	2804	426	351
+GCP/us-west1	21951442640	1	1	0
+AWS/ap-southeast-1	468709740	66	66	0
+MX/Mexico City	53319242	198	40	40
+US/Arizona	17073076	13	3	1
+SG/Singapore	79592220	15	15	0
+AWS/us-east-2	974396039	2	2	0
+GCP/us-east1	7926468	1	1	0
+US/Wyoming	5234022	6	1	1
+US/Pennsylvania	6026736	1	1	0
+US/Illinois	15471787	63	8	5
+KE/Nairobi County	1048128	1	1	0
+NP/Bagmati Province	917112	1	1	0
+US/Virginia	5583036	20	4	3
+US/New York	1439657977	30	4	2
+CH/Vaud	8325802	8	2	1
+VE/Distrito Federal	1113636	1	1	0
+TN/Tunis Governorate	3668448	1	1	0
+CO/Risaralda Department	1703208	1	1	0
+VN/Ho Chi Minh City (HCMC)	8778072	1	1	0
+HK/Hong Kong	1375668	1	1	0
+US/Iowa	3273718	12	2	1
+HU/Pest County	4454544	1	1	0
+BR/Rio de Janeiro	5109624	1	1	0

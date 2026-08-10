@@ -1,23 +1,23 @@
-asset_path	bytes_sent	number_of_requests	number_of_downloads
-participants.tsv	1778	<50	<50
-sub-03dpffish11/ses-03/sub-03dpffish11_ses-03_task-uvstim_FLUO.nwb	231840097	320	<50
-sub-03dpffish11/ses-04/sub-03dpffish11_ses-04_task-uvstim_FLUO.nwb	194746637	360	<50
-sub-03dpffish11/ses-02/sub-03dpffish11_ses-02_task-uvstim_FLUO.avi	1138449368	80	<50
-sub-03dpffish11/ses-03/sub-03dpffish11_ses-03_task-uvstim_FLUO.avi	1246999648	100	<50
-sub-03dpffish12/ses-01/sub-03dpffish12_ses-01_task-uvstim_FLUO.nwb	159281888	320	<50
-sub-03dpffish12/ses-03/sub-03dpffish12_ses-03_task-uvstim_FLUO.avi	1692999380	120	<50
-sub-03dpffish11/ses-04/sub-03dpffish11_ses-04_task-uvstim_FLUO.avi	1471099872	100	<50
-sub-03dpffish12/ses-04/sub-03dpffish12_ses-04_task-uvstim_FLUO.nwb	153753644	360	<50
-README	4450	<50	<50
-sub-03dpffish11/ses-05/sub-03dpffish11_ses-05_task-uvstim_FLUO.nwb	188437672	400	<50
-sub-03dpffish11/ses-01/sub-03dpffish11_ses-01_task-uvstim_FLUO.nwb	184679157	320	<50
-sub-03dpffish12/ses-02/sub-03dpffish12_ses-02_task-uvstim_FLUO.nwb	141438140	360	<50
-sub-03dpffish11/ses-02/sub-03dpffish11_ses-02_task-uvstim_FLUO.nwb	254447769	460	<50
-.bidsignore	804	<50	<50
-sub-03dpffish12/ses-05/sub-03dpffish12_ses-05_task-uvstim_FLUO.nwb	173944472	460	<50
-sub-03dpffish11/ses-01/sub-03dpffish11_ses-01_task-uvstim_FLUO.avi	2759738362	80	<50
-sub-03dpffish12/ses-02/sub-03dpffish12_ses-02_task-uvstim_FLUO.avi	1563296528	120	<50
-sub-03dpffish12/ses-04/sub-03dpffish12_ses-04_task-uvstim_FLUO.avi	2241747858	120	<50
-sub-03dpffish12/ses-01/sub-03dpffish12_ses-01_task-uvstim_FLUO.avi	1602868324	120	<50
-sub-03dpffish12/ses-03/sub-03dpffish12_ses-03_task-uvstim_FLUO.nwb	141725744	320	<50
-sub-03dpffish11/ses-05/sub-03dpffish11_ses-05_task-uvstim_FLUO.avi	1455263632	100	<50
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+participants.tsv	1778	14	13	1
+sub-03dpffish11/ses-03/sub-03dpffish11_ses-03_task-uvstim_FLUO.nwb	231840097	323	19	12
+sub-03dpffish11/ses-04/sub-03dpffish11_ses-04_task-uvstim_FLUO.nwb	194746637	369	18	13
+sub-03dpffish11/ses-02/sub-03dpffish11_ses-02_task-uvstim_FLUO.avi	1138449368	86	8	2
+sub-03dpffish11/ses-03/sub-03dpffish11_ses-03_task-uvstim_FLUO.avi	1246999648	93	8	2
+sub-03dpffish12/ses-01/sub-03dpffish12_ses-01_task-uvstim_FLUO.nwb	159281888	317	16	11
+sub-03dpffish12/ses-03/sub-03dpffish12_ses-03_task-uvstim_FLUO.avi	1692999380	124	8	2
+sub-03dpffish11/ses-04/sub-03dpffish11_ses-04_task-uvstim_FLUO.avi	1471099872	104	2	2
+sub-03dpffish12/ses-04/sub-03dpffish12_ses-04_task-uvstim_FLUO.nwb	153753644	359	11	12
+README	4450	5	4	1
+sub-03dpffish11/ses-05/sub-03dpffish11_ses-05_task-uvstim_FLUO.nwb	188437672	407	11	14
+sub-03dpffish11/ses-01/sub-03dpffish11_ses-01_task-uvstim_FLUO.nwb	184679157	316	12	12
+sub-03dpffish12/ses-02/sub-03dpffish12_ses-02_task-uvstim_FLUO.nwb	141438140	359	11	12
+sub-03dpffish11/ses-02/sub-03dpffish11_ses-02_task-uvstim_FLUO.nwb	254447769	466	15	16
+.bidsignore	804	6	5	1
+sub-03dpffish12/ses-05/sub-03dpffish12_ses-05_task-uvstim_FLUO.nwb	173944472	455	13	14
+sub-03dpffish11/ses-01/sub-03dpffish11_ses-01_task-uvstim_FLUO.avi	2759738362	88	5	5
+sub-03dpffish12/ses-02/sub-03dpffish12_ses-02_task-uvstim_FLUO.avi	1563296528	111	2	2
+sub-03dpffish12/ses-04/sub-03dpffish12_ses-04_task-uvstim_FLUO.avi	2241747858	120	0	3
+sub-03dpffish12/ses-01/sub-03dpffish12_ses-01_task-uvstim_FLUO.avi	1602868324	114	2	2
+sub-03dpffish12/ses-03/sub-03dpffish12_ses-03_task-uvstim_FLUO.nwb	141725744	311	10	11
+sub-03dpffish11/ses-05/sub-03dpffish11_ses-05_task-uvstim_FLUO.avi	1455263632	103	2	2

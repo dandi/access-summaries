@@ -1,32 +1,33 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	176326593985	160	140
-HK/Hong Kong	39993606	<50	<50
-MX/Mexico City	356557704	200	<50
-US/California	142269552847	21620	<50
-AWS/us-east-1	220416420389	26300	<50
-CN/Shanghai	127876389819	20460	<50
-undetermined	267497498360	5700	120
-AWS/ap-southeast-1	197768652	<50	<50
-GCP/us-east1	20962560	<50	<50
-US/New York	237812090011	400	<50
-missing	38265028286	2300	<50
-US/Massachusetts	196064730375	3740	<50
-SG/Singapore	20372988	<50	<50
-GitHub	111284932	240	<50
-IN/Punjab	1	<50	<50
-US/Virginia	213509645480	<50	<50
-AWS/us-west-2	22834244	<50	<50
-US/Washington	7271388	<50	<50
-KZ/Turkistan	10088232	<50	<50
-KE/Nakuru County	4716576	<50	<50
-AZ/Baki	7860960	<50	<50
-US/North Carolina	65626979	<50	<50
-VN/Bac Ninh	1179144	<50	<50
-GCP/asia-east1	1766474056	340	<50
-GCP/us-west1	1829012112	340	<50
-US/Maryland	111167076	<50	<50
-GCP/us-east4	15352136	<50	<50
-US/Illinois	4807512	<50	<50
-EC/Guayas	1	<50	<50
-ZA/Western Cape	5175132	<50	<50
-CH/Vaud	1429112	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	176336289169	169	134	15
+HK/Hong Kong	39993606	5	0	1
+MX/Mexico City	356557704	198	27	33
+US/California	142269552847	21613	7	13
+AWS/us-east-1	220416420389	26293	33	16
+CN/Shanghai	127876389819	20456	2	14
+undetermined	267497498360	5701	110	73
+AWS/ap-southeast-1	216569448	28	28	0
+GCP/us-east1	20962560	2	2	0
+US/New York	237812090011	406	36	16
+AWS/us-east-2	39993606	1	1	0
+missing	38198387184	2292	19	16
+US/Massachusetts	196064730375	3749	0	15
+SG/Singapore	20372988	4	4	0
+GitHub	113005104	252	34	34
+IN/Punjab	1	1	0	1
+US/Virginia	213509645480	16	10	1
+AWS/us-west-2	22834244	37	6	2
+US/Washington	7271388	1	0	1
+KZ/Turkistan	10088232	1	1	0
+KE/Nakuru County	4716576	1	1	0
+AZ/Baki	7860960	1	1	0
+US/North Carolina	65626979	6	2	1
+VN/Bac Ninh	1179144	1	1	0
+GCP/asia-east1	1766474056	337	0	1
+GCP/us-west1	1829012112	349	0	1
+US/Maryland	111167076	3	3	0
+GCP/us-east4	15352136	3	0	1
+US/Illinois	4807512	7	1	1
+EC/Guayas	1	1	0	1
+ZA/Western Cape	5175132	1	1	0
+CH/Vaud	1429112	6	1	1

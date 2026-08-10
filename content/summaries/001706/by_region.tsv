@@ -1,12 +1,12 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	951400	<50	<50
-VPN	1931840	<50	<50
-US/California	585360	<50	<50
-undetermined	2619600	<50	<50
-US/Illinois	1902800	<50	<50
-GitHub	1522240	<50	<50
-CN/Shanghai	190280	<50	<50
-MX/Mexico City	965920	<50	<50
-CH/Vaud	585360	<50	<50
-GCP/us-central1	380560	<50	<50
-missing	2283364	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	951400	5	5	0
+VPN	1931840	14	6	5
+US/California	585360	4	2	1
+undetermined	2619600	17	9	4
+US/Illinois	1902800	11	9	1
+GitHub	1522240	12	4	3
+CN/Shanghai	190280	1	1	0
+MX/Mexico City	965920	6	4	2
+CH/Vaud	585360	4	2	1
+GCP/us-central1	380560	2	2	0
+missing	2283364	18	2	3

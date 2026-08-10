@@ -1,12 +1,12 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/Massachusetts	7902790127	960	100
-undetermined	331031403472	40880	2040
-US/New York	9985098300	880	860
-US/California	41712389	<50	<50
-US/Virginia	3277431002	220	180
-AWS/us-east-1	1790	<50	<50
-GCP/us-central1	537930985	60	60
-missing	172789617	<50	<50
-US/Illinois	147107	80	80
-VPN	358	<50	<50
-SG/Singapore	39778	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/Massachusetts	7902790127	960	99	2
+undetermined	331031403472	40887	2049	8
+US/New York	9985098300	880	851	1
+US/California	41712389	8	8	0
+US/Virginia	3277431002	219	176	1
+AWS/us-east-1	1790	10	0	5
+GCP/us-central1	537930985	62	62	0
+missing	172789617	21	21	0
+US/Illinois	147107	82	82	0
+VPN	40064	4	4	0
+SG/Singapore	39778	1	1	0

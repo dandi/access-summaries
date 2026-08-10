@@ -1,36 +1,39 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	280911678	280	80
-US/Massachusetts	32448840	<50	<50
-AWS/us-west-2	36767888	80	<50
-AWS/ap-southeast-1	13539904	<50	<50
-US/Connecticut	38600561	<50	<50
-AWS/us-east-1	108402112	60	<50
-GitHub	332521992	1000	160
-undetermined	585559902	740	140
-MX/Mexico City	47216192	140	<50
-CN/Shanghai	43428056	<50	<50
-US/New York	35185480	<50	<50
-US/Illinois	6908172	<50	<50
-US/Virginia	219769444	320	<50
-missing	236537384	340	60
-US/Michigan	32448840	<50	<50
-ES/Andalusia	14927024	<50	<50
-CH/Bern	2451768	<50	<50
-GB/England	14927024	<50	<50
-US/Minnesota	2451768	<50	<50
-US/California	158835124	200	<50
-CH/Vaud	3778480	<50	<50
-GCP/us-central1	42390436	<50	<50
-US/District of Columbia	13045840	60	<50
-US/Texas	2451768	<50	<50
-GCP/asia-south1	14257708	60	<50
-CH/Geneva	7634296	<50	<50
-CL/Santiago Metropolitan	10819283	<50	<50
-US/New Jersey	1375668	<50	<50
-HU/Budapest	7267128	<50	<50
-DE/Baden-Wurttemberg	3241576	<50	<50
-CL/Coquimbo Region	3455960	<50	<50
-IQ/Nineveh	917112	<50	<50
-NP/Lumbini Province	3455960	<50	<50
-NL/North Holland	8880640	<50	<50
-GCP/us-east4	9211968	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	282090822	278	88	34
+US/Massachusetts	32448840	8	0	8
+AWS/us-west-2	36767888	72	12	4
+AWS/ap-southeast-1	18977068	8	8	0
+US/Connecticut	38600561	36	7	4
+AWS/us-east-1	108402112	54	28	4
+GitHub	345420460	1059	179	179
+undetermined	585559902	741	146	53
+MX/Mexico City	47216192	147	28	20
+CN/Shanghai	43428056	12	12	0
+US/New York	67634320	32	16	1
+US/Illinois	6908172	15	2	2
+US/Virginia	219769444	325	26	11
+missing	351141056	477	72	44
+AWS/us-east-2	4318184	1	1	0
+US/Michigan	32448840	8	8	0
+ES/Andalusia	14927024	3	3	0
+CH/Bern	2451768	1	1	0
+GB/England	14927024	3	3	0
+US/Minnesota	2451768	1	1	0
+DE/Hesse	2451768	1	1	0
+US/California	158835124	209	21	6
+CH/Vaud	3778480	6	2	1
+GCP/us-central1	42390436	32	7	1
+US/District of Columbia	13045840	53	8	5
+US/Texas	2451768	1	1	0
+GCP/asia-south1	14257708	58	7	2
+CH/Geneva	7634296	2	2	0
+CL/Santiago Metropolitan	10819283	12	2	1
+US/New Jersey	1375668	1	1	0
+CN/Guangdong	5774552	4	2	2
+HU/Budapest	7267128	10	2	1
+DE/Baden-Wurttemberg	3241576	1	1	0
+CL/Coquimbo Region	3455960	1	1	0
+IQ/Nineveh	917112	1	1	0
+NP/Lumbini Province	3455960	1	1	0
+NL/North Holland	8880640	1	1	0
+GCP/us-east4	9211968	17	1	1

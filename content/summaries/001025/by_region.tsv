@@ -1,25 +1,25 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-HK/Hong Kong	400229537	<50	<50
-undetermined	14784360229	600	80
-US/California	3198738623	420	<50
-US/Massachusetts	9066117439	180	<50
-VPN	22005452414	180	140
-AWS/us-east-1	11044484364	1320	<50
-AWS/ap-southeast-1	90794088	<50	<50
-GitHub	828959033	1980	180
-CN/Shanghai	19142959795	1700	<50
-SG/Singapore	6026736	<50	<50
-MX/Mexico City	54984564	240	<50
-missing	10352699218	2520	<50
-AWS/us-west-2	17435970	<50	<50
-US/Illinois	126174974	<50	<50
-CH/Vaud	2587916	<50	<50
-US/Virginia	1027436057	<50	<50
-GCP/us-central1	344518916	<50	<50
-ID/Riau	4061496	<50	<50
-AZ/Yevlax City	5699196	<50	<50
-MY/Kuala Lumpur	982620	<50	<50
-VN/Hanoi	12249996	<50	<50
-US/Iowa	3521642	<50	<50
-US/South Carolina	292055172	<50	<50
-AWS/us-east-2	36926402	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+HK/Hong Kong	400229537	48	0	1
+undetermined	14784360229	592	85	51
+US/California	3198738623	411	6	7
+US/Massachusetts	9066117439	184	0	18
+VPN	22005452414	187	148	12
+AWS/us-east-1	11044484364	1325	40	21
+AWS/ap-southeast-1	103502640	16	16	0
+GitHub	895827181	2307	183	146
+CN/Shanghai	19142959795	1702	0	25
+SG/Singapore	6026736	3	3	0
+MX/Mexico City	54984564	241	40	40
+AWS/us-east-2	437155939	9	1	1
+missing	9970397535	2650	23	32
+AWS/us-west-2	17435970	26	6	2
+US/Illinois	126174974	15	4	1
+CH/Vaud	2587916	10	2	1
+US/Virginia	1027436057	36	6	1
+GCP/us-central1	344518916	1	1	0
+ID/Riau	4061496	1	1	0
+AZ/Yevlax City	5699196	1	1	0
+MY/Kuala Lumpur	982620	1	1	0
+VN/Hanoi	12249996	1	1	0
+US/Iowa	3521642	15	2	1
+US/South Carolina	292055172	3	3	0

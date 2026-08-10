@@ -1,64 +1,65 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-CN/Shanghai	64440958691	5780	<50
-AWS/us-east-1	43187902872	5200	<50
-US/New York	539088481	600	100
-undetermined	18148237860	860	220
-AWS/ap-southeast-1	843077806	60	60
-US/Massachusetts	43249624622	980	<50
-missing	18731380267	3040	360
-US/California	19577100025	2680	<50
-GCP/us-west1	442666764	<50	<50
-VPN	46853393478	1960	780
-GitHub	2066485049	5620	600
-US/District of Columbia	43187902872	100	100
-GCP/us-east1	23517372	<50	<50
-US/Illinois	8364768	<50	<50
-US/Arizona	2672630	<50	<50
-AWS/us-east-2	12737954402	16100	100
-US/Iowa	2728648	<50	<50
-MX/Mexico City	76228354	200	<50
-US/Virginia	1441500140	1760	<50
-HK/Hong Kong	94659060	<50	<50
-CH/Vaud	2448624	<50	<50
-GCP/us-central1	710876109	<50	<50
-AWS/us-west-2	20699636	<50	<50
-US/Wyoming	15688290	<50	<50
-IQ/Sulaymaniyah	8254008	<50	<50
-CA/British Columbia	10677804	<50	<50
-NP/Koshi	8188500	<50	<50
-VN/Da Nang City	6812832	<50	<50
-PH/National Capital Region	9564168	<50	<50
-CL/Los Lagos Region	3406416	<50	<50
-US/Pennsylvania	496090954	560	<50
-US/Washington	545564434	700	<50
-VN/Hai Phong	13429140	<50	<50
-VN/Vinh Long	10481280	<50	<50
-AU/Western Australia	1048128	<50	<50
-MX/Nuevo León	139851416	<50	<50
-SG/Singapore	15459888	<50	<50
-VN/Sơn La Province	3144384	<50	<50
-VN/Ho Chi Minh City (HCMC)	33409080	<50	<50
-ID/West Java	7271388	<50	<50
-BR/Mato Grosso do Sul	1048128	<50	<50
-TR/Bilecik	11463900	<50	<50
-MA/Fes-Meknes	8647056	<50	<50
-VN/Hanoi	1768716	<50	<50
-ID/Jakarta	1048128	<50	<50
-MA/Rabat-Salé-Kénitra	4716576	<50	<50
-ZA/Gauteng	12381012	<50	<50
-TR/Ankara	2751336	<50	<50
-BY/Vitebsk	1113636	<50	<50
-CI/Abidjan Autonomous District	2751336	<50	<50
-AZ/Baki	4061496	<50	<50
-BD/Dhaka Division	35701860	<50	<50
-ES/Catalonia	11070852	<50	<50
-BR/Rio Grande do Sul	11201868	<50	<50
-IT/Apulia	14346252	<50	<50
-VN/Quảng Ninh	1048128	<50	<50
-VN/Dong Nai	12446520	<50	<50
-XK/Pristina	2358288	<50	<50
-GB/England	1	<50	<50
-CO/Antioquia	2685828	<50	<50
-AR/Neuquen	3078876	<50	<50
-MY/Melaka	1048128	<50	<50
-IQ/Wasit	9367644	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+CN/Shanghai	64440958691	5782	9	113
+AWS/us-east-1	43187902872	5202	0	108
+US/New York	539088481	605	100	100
+undetermined	18149154972	869	230	71
+AWS/ap-southeast-1	959026966	134	134	0
+US/Massachusetts	43249624622	983	2	108
+missing	11716875170	4371	284	171
+US/California	19577100025	2676	20	40
+GCP/us-west1	442666764	1	1	0
+VPN	46859420217	1958	790	146
+GitHub	2338613190	6979	639	446
+US/District of Columbia	43187902872	108	108	0
+AWS/us-east-2	19881711504	16120	121	27
+GCP/us-east1	23517372	3	3	0
+US/Illinois	8364768	34	6	4
+US/Arizona	2672630	11	2	1
+US/Iowa	2728648	11	2	1
+MX/Mexico City	76228354	203	42	40
+US/Virginia	1442848622	1765	16	9
+HK/Hong Kong	94659060	7	7	0
+CH/Vaud	2448624	8	2	2
+GCP/us-central1	710876109	3	3	0
+AWS/us-west-2	20699636	26	6	2
+US/Wyoming	15688290	34	6	4
+IQ/Sulaymaniyah	8254008	1	1	0
+CA/British Columbia	10677804	1	1	0
+NP/Koshi	8188500	1	1	0
+VN/Da Nang City	6812832	1	1	0
+PH/National Capital Region	9564168	1	1	0
+CL/Los Lagos Region	3406416	1	1	0
+US/Pennsylvania	496090954	552	4	1
+US/Washington	545564434	704	7	2
+VN/Hai Phong	13429140	1	1	0
+VN/Vinh Long	10481280	1	1	0
+AU/Western Australia	1048128	1	1	0
+MX/Nuevo León	139851416	1	1	0
+SG/Singapore	15459888	2	2	0
+VN/Sơn La Province	3144384	1	1	0
+VN/Ho Chi Minh City (HCMC)	33409080	2	2	0
+ID/West Java	7271388	1	1	0
+BR/Mato Grosso do Sul	1048128	1	1	0
+TR/Bilecik	11463900	1	1	0
+MA/Fes-Meknes	8647056	1	1	0
+VN/Hanoi	1768716	1	1	0
+ID/Jakarta	1048128	1	1	0
+MA/Rabat-Salé-Kénitra	4716576	1	1	0
+ZA/Gauteng	12381012	1	1	0
+TR/Ankara	2751336	1	1	0
+BY/Vitebsk	1113636	1	1	0
+CI/Abidjan Autonomous District	2751336	1	1	0
+AZ/Baki	4061496	1	1	0
+BD/Dhaka Division	46903728	4	4	0
+ES/Catalonia	11070852	1	1	0
+BR/Rio Grande do Sul	11201868	1	1	0
+IT/Apulia	14346252	1	1	0
+VN/Quảng Ninh	1048128	1	1	0
+VN/Dong Nai	12446520	1	1	0
+XK/Pristina	2358288	1	1	0
+GB/England	1	1	0	1
+CO/Antioquia	2685828	1	1	0
+AR/Neuquen	3078876	1	1	0
+IQ/Baghdad	4978608	1	1	0
+MY/Melaka	1048128	1	1	0
+IQ/Wasit	9367644	1	1	0

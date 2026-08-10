@@ -1,16 +1,16 @@
-asset_path	bytes_sent	number_of_requests	number_of_downloads
-derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvecs	512295	<50	<50
-derivatives/micr/sub-MR243/sub-MR243_sample-brain_stain-FS_space-dwi_desc-injection.nii.gz	465756	100	100
-derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell.bvecs	195048	60	60
-derivatives/micr/sub-MR256/sub-MR256_sample-brain_stain-LY_space-dwi_desc-injection.nii.gz	151416	<50	<50
-derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	3324576138	140	<50
-samples.tsv	4947	60	40
-derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI_desc-DWImasked.nii.gz	10119242074	140	<50
-derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell.bvals	43860	<50	<50
-derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvecs	177324	<50	<50
-derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	2740664392	60	<50
-participants.tsv	4042	<50	<50
-derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvals	286968	<50	<50
-derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvals	208704	<50	<50
-derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI_desc-DWImasked.nii.gz	29920642888	1020	280
-dataset_description.json	7605	<50	<50
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvecs	512295	35	34	1
+derivatives/micr/sub-MR243/sub-MR243_sample-brain_stain-FS_space-dwi_desc-injection.nii.gz	465756	109	107	2
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell.bvecs	195048	54	53	1
+derivatives/micr/sub-MR256/sub-MR256_sample-brain_stain-LY_space-dwi_desc-injection.nii.gz	151416	36	35	1
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	3324576138	142	39	9
+samples.tsv	4947	51	50	1
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI_desc-DWImasked.nii.gz	10119242074	147	31	5
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-MulShell.bvals	43860	43	42	1
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvecs	177324	28	27	1
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-MulShell_desc-DWImasked.nii.gz	2740664392	61	19	3
+participants.tsv	4042	43	42	1
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI.bvals	286968	33	32	1
+derivatives/dwi/sub-MR256/sub-MR256_sample-brain_acq-DSI.bvals	208704	24	23	1
+derivatives/dwi/sub-MR243/sub-MR243_sample-brain_acq-DSI_desc-DWImasked.nii.gz	29920642888	1028	279	33
+dataset_description.json	7605	45	43	2

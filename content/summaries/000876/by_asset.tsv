@@ -1,22 +1,22 @@
-asset_path	bytes_sent	number_of_requests	number_of_downloads
-code/requirements.txt	5375	<50	<50
-sub-M481/sessions.tsv	2760	<50	<50
-code/Containerfile	91908	<50	<50
-code/reposit_bep032.py	130116	<50	<50
-sub-M388/sessions.json	786	400	400
-sub-M481/ses-20240115165152/ephys/probes.tsv	11520	<50	<50
-code/requred_metadata.txt	6290	<50	<50
-sub-M483/ses-20240122121030/ephys/contacts.tsv	202500	<50	<50
-code/read_metadata.py	8480	<50	<50
-sub-M388/ses-20231120114021/ephys/probes.tsv	5290	<50	<50
-code/dependencies_reposit.txt	380	<50	<50
-participants.tsv	7585	<50	<50
-sub-M388/ses-20231120114021/ephys/contacts.tsv	301254	<50	<50
-code/reposit.py	182250	<50	<50
-sub-M388/sub-M388_ecephys.nwb	181345307935	10840	440
-participants.json	14157	<50	<50
-sub-M483/ses-20240122121030/ephys/channels.tsv	253200	<50	<50
-sub-M388/sessions.tsv	2208	<50	<50
-sub-M483/sessions.tsv	1518	<50	<50
-sub-M388/ses-20231120114021/ephys/channels.tsv	477210	<50	<50
-code/Makefile	52848	<50	<50
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+code/requirements.txt	5500	44	43	1
+sub-M481/sessions.tsv	2829	41	40	1
+code/Containerfile	94392	38	37	1
+code/reposit_bep032.py	130116	28	27	1
+sub-M388/sessions.json	786	393	392	1
+sub-M481/ses-20240115165152/ephys/probes.tsv	12000	50	49	1
+code/requred_metadata.txt	6460	38	37	1
+sub-M483/ses-20240122121030/ephys/contacts.tsv	202500	25	24	1
+code/read_metadata.py	8904	21	20	1
+sub-M388/ses-20231120114021/ephys/probes.tsv	5520	24	23	1
+code/dependencies_reposit.txt	380	19	17	2
+participants.tsv	7995	39	37	2
+sub-M388/ses-20231120114021/ephys/contacts.tsv	301254	37	34	3
+code/reposit.py	189000	28	26	2
+sub-M388/sub-M388_ecephys.nwb	181410804541	10863	444	115
+participants.json	14883	41	39	2
+sub-M483/ses-20240122121030/ephys/channels.tsv	253200	16	14	2
+sub-M388/sessions.tsv	2277	33	31	2
+sub-M483/sessions.tsv	1587	23	21	2
+sub-M388/ses-20231120114021/ephys/channels.tsv	477210	30	29	1
+code/Makefile	55050	25	23	2

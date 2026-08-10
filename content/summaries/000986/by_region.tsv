@@ -1,40 +1,43 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	6393106716	240	<50
-undetermined	33078852263	1300	260
-missing	28342089502	4020	720
-GitHub	6787586144	1220	120
-VPN	54555728155	3880	500
-CN/Shanghai	8722493952	600	<50
-AWS/us-east-1	604589160	<50	<50
-AWS/ap-southeast-1	95379648	<50	<50
-FR/Provence-Alpes-Côte d'Azur	4002170665	<50	<50
-US/New York	4298992306	160	<50
-MX/Mexico City	88266040	380	60
-CH/Vaud	450193756	200	<50
-US/District of Columbia	3934384704	<50	<50
-GCP/us-central1	4733329408	<50	<50
-IT/Lombardy	3934384704	<50	<50
-US/Virginia	272216540	<50	<50
-UZ/Tashkent	11791440	<50	<50
-US/Oregon	1103986240	<50	<50
-AWS/us-west-2	30865028	<50	<50
-CN/Beijing	425360832	<50	<50
-GCP/us-east1	376429408	<50	<50
-GCP/asia-east1	481287008	<50	<50
-CA/Ontario	81213184	<50	<50
-GCP/us-west4	1328517664	60	<50
-US/Pennsylvania	195948408	<50	<50
-US/New Hampshire	97259568	<50	<50
-GCP/us-west1	261086048	<50	<50
-CH/Zurich	20766036	<50	<50
-GCP/asia-south1	9444632	<50	<50
-CO/Norte de Santander Department	6878340	<50	<50
-CN/Hubei	14215236	<50	<50
-CO/Antioquia	2358288	<50	<50
-SG/Singapore	21093576	<50	<50
-CO/Valle del Cauca Department	5437164	<50	<50
-US/Iowa	20191760	<50	<50
-US/Texas	2751336	<50	<50
-GCP/us-west2	202314336	<50	<50
-US/Massachusetts	269673944	<50	<50
-VN/Ho Chi Minh City (HCMC)	3995988	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	6393106716	243	27	7
+undetermined	33088678463	1301	260	63
+missing	36540903034	6739	1089	176
+GitHub	6833595168	1241	116	87
+VPN	56770794651	4143	557	140
+CN/Shanghai	8722493952	601	2	18
+AWS/us-east-1	604589160	30	30	0
+AWS/ap-southeast-1	113721888	16	16	0
+FR/Provence-Alpes-Côte d'Azur	4002170665	21	16	2
+US/New York	4298992306	155	27	2
+MX/Mexico City	88266040	373	63	33
+CH/Vaud	450193756	205	15	15
+US/District of Columbia	3934384704	15	15	0
+AWS/us-east-2	753967432	3	3	0
+GCP/us-central1	4733329408	18	18	0
+IT/Lombardy	3934384704	15	15	0
+JP/Kyoto	33239144	154	17	15
+US/Virginia	319185776	7	7	0
+UZ/Tashkent	11791440	1	1	0
+US/Oregon	1103986240	4	4	0
+AWS/us-west-2	30865028	48	6	2
+CN/Beijing	425360832	9	3	1
+GCP/us-east1	376429408	18	0	1
+GCP/asia-east1	481287008	20	0	2
+CA/Ontario	81213184	12	0	2
+GCP/us-west4	1328517664	58	0	1
+US/Pennsylvania	195948408	24	2	2
+US/New Hampshire	97259568	7	0	1
+GCP/us-west1	261086048	16	0	2
+CH/Zurich	20766036	1	1	0
+GCP/asia-south1	9444632	44	5	3
+CO/Norte de Santander Department	6878340	1	1	0
+CN/Hubei	14215236	2	2	0
+CO/Antioquia	2358288	1	1	0
+SG/Singapore	21093576	4	4	0
+CO/Valle del Cauca Department	5437164	1	1	0
+US/Iowa	20191760	26	2	1
+US/Texas	2751336	2	2	0
+GCP/us-west2	202314336	1	1	0
+US/Massachusetts	269673944	6	0	1
+US/Ohio	1232588	6	1	1
+VN/Ho Chi Minh City (HCMC)	3995988	1	1	0

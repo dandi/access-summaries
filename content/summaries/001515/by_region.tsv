@@ -1,44 +1,46 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	29618451964	2160	1840
-AWS/us-east-1	9679389644	1420	280
-CN/Shanghai	12824322433	1580	<50
-US/California	3756649660	640	60
-GitHub	4932734947	12440	1720
-AWS/ap-southeast-1	2519568696	200	200
-missing	4789669040	2940	740
-US/Massachusetts	7167193695	320	<50
-US/New York	2015222604	300	300
-undetermined	4465508843	300	120
-BD/Dhaka Division	13036092	<50	<50
-SG/Singapore	944597828	<50	<50
-US/Iowa	8081226	<50	<50
-US/Wyoming	9185721	<50	<50
-US/Arizona	11378630	40	<50
-US/Illinois	29427318	80	<50
-MX/Mexico City	72381120	180	<50
-GCP/us-central1	183528017	<50	<50
-GCP/us-east1	8319516	<50	<50
-UA/Kharkiv	2358288	<50	<50
-VN/Ho Chi Minh City (HCMC)	38780736	<50	<50
-ID/Jakarta	15787428	<50	<50
-VN/Thanh Hóa Province	10415772	<50	<50
-US/Virginia	78509772	860	<50
-OM/Muscat	5699196	<50	<50
-VN/Hanoi	20045448	<50	<50
-LB/Mount Lebanon	14280744	<50	<50
-IQ/Anbar	11922456	<50	<50
-DO/Espaillat Province	6354276	<50	<50
-IQ/Basra	5764704	<50	<50
-HK/Yau Tsim Mong District	7860960	<50	<50
-VN/Khanh Hoa	11529408	<50	<50
-FR/Occitanie	7991976	<50	<50
-MX/Baja California	6223260	<50	<50
-CH/Vaud	2448624	<50	<50
-IQ/Maysan	6485292	<50	<50
-IQ/Karbala	1113636	<50	<50
-VN/Ninh Binh	8516040	<50	<50
-UZ/Tashkent	5437164	<50	<50
-MA/Fes-Meknes	2685828	<50	<50
-US/Texas	9695184	<50	<50
-CL/Santiago Metropolitan	9433152	<50	<50
-PY/Amambay Department	5306148	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	29883773343	2171	1856	87
+AWS/us-east-1	9679389644	1411	270	292
+CN/Shanghai	12824322433	1584	0	290
+US/California	3756649660	640	57	119
+GitHub	5100426019	13289	1811	1353
+AWS/ap-southeast-1	2888182212	399	399	0
+missing	2857008936	3167	514	217
+US/Massachusetts	7167193695	325	0	275
+US/New York	2015222604	292	292	0
+undetermined	4465508843	300	111	148
+BD/Dhaka Division	13036092	1	1	0
+AWS/us-east-2	1383091453	54	54	0
+SG/Singapore	944597828	44	44	0
+US/Iowa	8081226	30	6	3
+US/Wyoming	9185721	25	5	3
+US/Arizona	11378630	50	10	5
+US/Illinois	32131503	108	18	13
+MX/Mexico City	72381120	173	41	40
+GCP/us-central1	183528017	7	7	0
+GCP/us-east1	8319516	1	1	0
+UA/Kharkiv	2358288	1	1	0
+VN/Ho Chi Minh City (HCMC)	38780736	4	4	0
+ID/Jakarta	15787428	3	3	0
+VN/Thanh Hóa Province	10415772	1	1	0
+US/Virginia	81537766	879	18	12
+OM/Muscat	5699196	2	2	0
+VN/Hanoi	20045448	2	2	0
+LB/Mount Lebanon	14280744	1	1	0
+IQ/Anbar	11922456	1	1	0
+DO/Espaillat Province	6354276	1	1	0
+IQ/Basra	5764704	1	1	0
+HK/Yau Tsim Mong District	7860960	2	2	0
+VN/Khanh Hoa	11529408	1	1	0
+FR/Occitanie	7991976	1	1	0
+MX/Baja California	6223260	1	1	0
+CH/Vaud	2448624	8	2	2
+IQ/Maysan	6485292	1	1	0
+IQ/Karbala	1113636	1	1	0
+MA/Souss-Massa	1768716	1	1	0
+VN/Ninh Binh	8516040	1	1	0
+UZ/Tashkent	5437164	1	1	0
+MA/Fes-Meknes	2685828	1	1	0
+US/Texas	9695184	1	1	0
+CL/Santiago Metropolitan	9433152	1	1	0
+PY/Amambay Department	5306148	1	1	0

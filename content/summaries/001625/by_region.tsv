@@ -1,42 +1,45 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	30894663765	1820	620
-missing	8979833549	4020	200
-VPN	27714412758	11000	880
-AWS/ap-southeast-1	658879464	60	60
-US/California	2381754423	400	<50
-GitHub	14757274919	54400	520
-GCP/us-central1	4853239286	100	100
-CN/Shanghai	7043068167	760	<50
-AWS/us-east-1	1107252611	160	140
-CN/Hebei	1399872412	340	<50
-US/Florida	53804886	<50	<50
-IN/Jammu and Kashmir	6878340	<50	<50
-MX/Veracruz	52602924	<50	<50
-MX/Mexico City	177740009	760	60
-SG/Singapore	130363572	<50	<50
-AWS/us-west-2	127111422	400	<50
-HU/Baranya	534101	200	<50
-US/Iowa	71745906	300	<50
-CH/Vaud	8387824	40	<50
-BR/Rio de Janeiro	23740083	<50	<50
-BR/São Paulo	19521384	<50	<50
-BR/Paraná	18080208	<50	<50
-US/Virginia	79788684	200	<50
-BR/Minas Gerais	42724014	<50	<50
-HK/Hong Kong	92967154	<50	<50
-US/Illinois	77325364	340	<50
-US/Massachusetts	452676858	<50	<50
-CA/Ontario	25813400	100	<50
-IQ/Nineveh	15328872	<50	<50
-BR/Mato Grosso	6354276	<50	<50
-MX/Chiapas	13036092	<50	<50
-US/Arizona	49960534	100	<50
-US/North Carolina	14032	80	<50
-US/Wyoming	43	<50	<50
-ID/East Java	1	<50	<50
-US/South Carolina	29544108	<50	<50
-BR/Rio Grande do Sul	17425128	<50	<50
-VN/Bac Ninh	6354276	<50	<50
-MX/Guanajuato	2030748	<50	<50
-AR/Buenos Aires	10481280	<50	<50
-US/Texas	14346252	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	30894663765	1815	625	773
+missing	7864012213	5808	169	221
+VPN	28134979578	11018	903	113
+AWS/ap-southeast-1	746267136	102	102	0
+US/California	2381754423	394	23	31
+GitHub	15097984569	55551	543	445
+GCP/us-central1	4853239286	96	96	0
+CN/Shanghai	7043068167	761	3	85
+AWS/us-east-1	1107252611	153	146	1
+CN/Hebei	1466576360	368	22	316
+AWS/us-east-2	532314153	10	10	0
+US/Florida	53804886	1	0	1
+IN/Jammu and Kashmir	6878340	1	1	0
+MX/Veracruz	52602924	1	1	0
+MX/Mexico City	177740009	758	66	44
+SG/Singapore	130363572	11	11	0
+AWS/us-west-2	127111422	406	6	2
+FR/Bourgogne	594277755	8	8	0
+HU/Baranya	534101	207	0	2
+BR/São Paulo	27971916	2	2	0
+US/Iowa	71745906	305	4	2
+CH/Vaud	8387824	50	2	1
+BR/Rio de Janeiro	23740083	1	0	1
+BR/Paraná	18080208	1	1	0
+US/Virginia	79788684	203	2	1
+BR/Minas Gerais	42724014	1	1	0
+HK/Hong Kong	92967154	2	2	0
+US/Illinois	77325364	343	3	3
+US/Massachusetts	452676858	32	0	8
+CA/Ontario	25813400	99	2	1
+IQ/Nineveh	15328872	1	1	0
+BR/Mato Grosso	6354276	1	1	0
+MX/Chiapas	13036092	1	1	0
+US/Arizona	49960534	107	3	1
+US/North Carolina	14032	82	0	1
+US/Wyoming	43	1	0	1
+US/New Jersey	39562089	1	0	1
+ID/East Java	1	1	0	1
+US/South Carolina	29544108	1	1	0
+BR/Rio Grande do Sul	17425128	1	1	0
+VN/Bac Ninh	6354276	2	2	0
+MX/Guanajuato	2030748	1	1	0
+AR/Buenos Aires	10481280	1	1	0
+US/Texas	14346252	1	1	0

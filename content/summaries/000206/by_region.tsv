@@ -1,40 +1,41 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	9910827532	45500	100
-US/Massachusetts	118359600	<50	<50
-CN/Shanghai	236719200	<50	<50
-US/Arizona	354704	720	<50
-undetermined	3354653778	140	<50
-VPN	946953686	60	<50
-AWS/us-east-2	203595348	4740	<50
-US/Virginia	145263828	2900	<50
-MX/Mexico City	15620900	<50	<50
-AWS/us-east-1	237849184	<50	<50
-missing	2866079870	1840	<50
-US/Georgia	120545932	<50	<50
-US/Texas	355433504	720	<50
-US/California	149784543	2180	<50
-GCP/us-central1	591798000	<50	<50
-IT/Lombardy	118359600	<50	<50
-AWS/us-west-2	9024980	<50	<50
-ES/Andalusia	40813860	<50	<50
-US/Missouri	118359600	<50	<50
-US/New Jersey	169129444	60	<50
-IN/Telangana	118359600	<50	<50
-US/Iowa	236719200	<50	<50
-JP/Tokyo	4985332	<50	<50
-CA/Ontario	236719200	<50	<50
-US/Wisconsin	118359600	<50	<50
-US/Indiana	118359600	<50	<50
-CL/Santiago Metropolitan	118359600	<50	<50
-JP/Yamaguchi	118359600	<50	<50
-US/Maryland	118359600	<50	<50
-US/New York	44773540	100	<50
-SE/Stockholm	8259120	<50	<50
-KR/Seoul	118359600	<50	<50
-DE/Rheinland-Pfalz	118359600	<50	<50
-NL/Flevoland	118359600	<50	<50
-IN/Kerala	9622780	<50	<50
-FR/Provence-Alpes-Côte d'Azur	118359600	<50	<50
-GCP/us-west1	118359600	<50	<50
-CH/Vaud	3400628	<50	<50
-CN/Beijing	1323896	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	10029187132	45497	95	137
+US/Massachusetts	118359600	3	0	1
+CN/Shanghai	236719200	24	1	1
+US/Arizona	354704	720	0	2
+undetermined	3354653778	147	37	16
+VPN	946953686	65	14	6
+AWS/us-east-2	203595348	4748	0	18
+US/Virginia	145263828	2891	3	11
+MX/Mexico City	15620900	28	6	3
+AWS/us-east-1	237849184	39	4	10
+missing	2629360670	1837	22	8
+US/Georgia	120545932	11	2	1
+US/Texas	355433504	723	3	2
+US/California	149784543	2180	6	10
+GCP/us-central1	591798000	5	5	0
+IT/Lombardy	118359600	1	1	0
+AWS/us-west-2	9024980	18	4	2
+ES/Andalusia	40813860	3	3	0
+US/Missouri	118359600	1	1	0
+US/New Jersey	169129444	59	3	4
+IN/Telangana	118359600	1	1	0
+US/Iowa	236719200	2	2	0
+AU/New South Wales	118359600	1	1	0
+JP/Tokyo	4985332	5	1	1
+CA/Ontario	236719200	2	2	0
+US/Wisconsin	118359600	1	1	0
+US/Indiana	118359600	1	1	0
+CL/Santiago Metropolitan	118359600	1	1	0
+JP/Yamaguchi	118359600	1	1	0
+US/Maryland	118359600	1	1	0
+US/New York	44773540	93	2	2
+SE/Stockholm	8259120	2	0	1
+KR/Seoul	118359600	1	1	0
+DE/Rheinland-Pfalz	118359600	1	1	0
+NL/Flevoland	118359600	1	1	0
+IN/Kerala	9622780	1	1	0
+FR/Provence-Alpes-Côte d'Azur	118359600	1	1	0
+GCP/us-west1	118359600	1	1	0
+CH/Vaud	3400628	10	2	1
+CN/Beijing	1323896	4	1	1

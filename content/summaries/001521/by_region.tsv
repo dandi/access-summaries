@@ -1,36 +1,40 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	2206278165	380	<50
-CN/Shanghai	7833715171	700	<50
-GitHub	1433682762	4040	440
-missing	9476751444	1300	200
-VPN	22469798492	1000	660
-GCP/us-west1	133958718	<50	<50
-US/New York	573588048	80	80
-AWS/us-east-1	1313732675	160	160
-US/Massachusetts	3681242249	120	<50
-AWS/ap-southeast-1	703948968	60	60
-MX/Mexico City	44395196	160	<50
-US/Arizona	9866744	<50	<50
-undetermined	3282264532	140	60
-SG/Singapore	1609239611	<50	<50
-US/Virginia	3473260	<50	<50
-GCP/us-central1	153328081	<50	<50
-BR/Paraná	9629676	<50	<50
-UY/Montevideo Department	10022724	<50	<50
-US/Illinois	16925185	<50	<50
-VN/Hanoi	41872503	<50	<50
-BR/Federal District	3078876	<50	<50
-PK/Punjab	10088232	<50	<50
-VN/Ho Chi Minh City (HCMC)	10153740	<50	<50
-VN/Hưng Yên Province	11463900	<50	<50
-CH/Vaud	2849948	<50	<50
-US/Wyoming	4901091	<50	<50
-XK/Gjakova	12774060	<50	<50
-DO/Santiago Province	12315504	<50	<50
-BD/Chittagong	851604	<50	<50
-ML/Bamako	4389036	<50	<50
-US/Iowa	5593502	<50	<50
-ZA/Gauteng	1965240	<50	<50
-AL/Fier County	33278064	<50	<50
-TN/Tunis Governorate	2685828	<50	<50
-IL/Central District	3144384	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	2206278165	372	15	34
+CN/Shanghai	7833715171	707	0	72
+GitHub	1510310046	4453	462	352
+missing	8006043068	1374	129	112
+VPN	22945090175	1002	657	94
+GCP/us-west1	133958718	2	2	0
+US/New York	573588048	73	73	0
+AWS/us-east-1	1313732675	152	152	0
+US/Massachusetts	3681242249	118	0	60
+AWS/ap-southeast-1	830903472	109	109	0
+MX/Mexico City	44395196	162	40	40
+AWS/us-east-2	891859936	15	15	0
+US/Arizona	9866744	40	8	4
+undetermined	3282264532	141	51	49
+SG/Singapore	1609239611	26	26	0
+US/Virginia	3473260	15	3	2
+CN/Beijing	29708661	1	1	0
+GCP/us-central1	153328081	5	5	0
+BR/Paraná	9629676	1	1	0
+UY/Montevideo Department	10022724	1	1	0
+US/Illinois	30996036	121	10	8
+VN/Hanoi	41872503	2	2	0
+BR/Federal District	3078876	1	1	0
+PK/Punjab	10088232	1	1	0
+VN/Ho Chi Minh City (HCMC)	10153740	1	1	0
+VN/Hưng Yên Province	11463900	1	1	0
+CH/Vaud	2849948	10	2	1
+US/Wyoming	4901091	5	1	1
+XK/Gjakova	12774060	1	1	0
+DO/Santiago Province	12315504	1	1	0
+BD/Chittagong	851604	1	1	0
+ML/Bamako	4389036	1	1	0
+US/Iowa	5593502	20	4	2
+IN/Uttar Pradesh	1113636	1	1	0
+ZA/Gauteng	1965240	1	1	0
+AL/Fier County	33278064	1	1	0
+ID/East Kalimantan	5961228	1	1	0
+TN/Tunis Governorate	2685828	1	1	0
+IL/Central District	3144384	1	1	0

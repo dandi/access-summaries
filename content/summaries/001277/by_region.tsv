@@ -1,40 +1,41 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	24447572826	920	760
-US/Massachusetts	21353670139	440	<50
-AWS/us-east-1	23328057684	2820	<50
-US/California	11127999517	1100	<50
-US/New York	271910748	300	<50
-missing	8841607246	1620	180
-GitHub	661604747	1760	260
-CN/Shanghai	39639031769	3520	<50
-undetermined	13722729796	1240	120
-AWS/ap-southeast-1	342213792	<50	<50
-OM/Muscat	2685828	<50	<50
-MX/Mexico City	49582528	200	<50
-BR/Paraná	6681817	<50	<50
-CH/Vaud	2383116	<50	<50
-DE/North Rhine-Westphalia	8778072	<50	<50
-US/Iowa	2875290	<50	<50
-SG/Singapore	51554797	<50	<50
-EG/Cairo	10088232	<50	<50
-US/Illinois	3772419	<50	<50
-VE/Lara	4782084	<50	<50
-IQ/Sulaymaniyah	7533420	<50	<50
-ID/East Java	1048128	<50	<50
-US/Virginia	723180322	900	<50
-GCP/us-central1	680259760	<50	<50
-PE/Ancash	8516040	<50	<50
-BR/São Paulo	15066840	<50	<50
-BD/Chittagong	1	<50	<50
-DZ/Oran	3864972	<50	<50
-AWS/us-west-2	16704014	<50	<50
-BR/Rio de Janeiro	12446520	<50	<50
-KR/Incheon	758819753	<50	<50
-CN/Beijing	11201870	<50	<50
-HK/Hong Kong	29282077	<50	<50
-US/Arizona	2723170	<50	<50
-US/Missouri	917112	<50	<50
-CA/Nova Scotia	8647056	<50	<50
-MA/Casablanca-Settat	2685828	<50	<50
-BR/Federal District	1	<50	<50
-ET/Addis Ababa	1	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	24480728150	938	756	150
+US/Massachusetts	21353670139	449	0	45
+AWS/us-east-1	23328057684	2818	26	49
+US/California	11127999517	1091	15	19
+US/New York	271910748	299	49	49
+missing	5477635438	2502	150	115
+GitHub	834889672	2658	269	189
+CN/Shanghai	39639031769	3514	13	63
+undetermined	13722729796	1244	113	47
+AWS/ap-southeast-1	405822060	55	55	0
+OM/Muscat	2685828	1	1	0
+AWS/us-east-2	3434985571	9	9	0
+MX/Mexico City	49582528	204	40	40
+BR/Paraná	6681817	2	1	1
+CH/Vaud	2383116	8	2	1
+DE/North Rhine-Westphalia	8778072	1	1	0
+US/Iowa	2875290	11	2	1
+SG/Singapore	58629661	11	10	1
+EG/Cairo	10088232	1	1	0
+US/Illinois	3772419	17	3	2
+VE/Lara	4782084	1	1	0
+IQ/Sulaymaniyah	7533420	1	1	0
+ID/East Java	1048128	1	1	0
+US/Virginia	723180322	899	2	1
+GCP/us-central1	680259760	2	2	0
+PE/Ancash	8516040	1	1	0
+BR/São Paulo	15066840	1	1	0
+BD/Chittagong	1	1	0	1
+DZ/Oran	3864972	1	1	0
+AWS/us-west-2	16704014	26	6	2
+BR/Rio de Janeiro	12446520	1	1	0
+KR/Incheon	758819753	1	1	0
+CN/Beijing	11201870	4	2	2
+HK/Hong Kong	29282077	4	3	1
+US/Arizona	2723170	11	2	1
+US/Missouri	917112	1	1	0
+CA/Nova Scotia	8647056	1	1	0
+MA/Casablanca-Settat	2685828	1	1	0
+BR/Federal District	1	1	0	1
+ET/Addis Ababa	1	1	0	1

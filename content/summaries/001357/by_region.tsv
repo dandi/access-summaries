@@ -1,31 +1,33 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	39024831538	122840	18480
-VPN	1570164856	1080	1020
-undetermined	2986393924	4160	1660
-AWS/ap-southeast-1	138499504	100	100
-CN/Shanghai	490521032	420	420
-AWS/us-east-1	965970140	680	680
-US/Massachusetts	243667872	160	<50
-GitHub	8434471824	25980	7160
-US/New York	243709880	160	160
-US/California	126972828	100	100
-US/Washington	226723408	520	160
-US/Virginia	150050464	500	160
-AWS/us-west-1	241533432	160	160
-GCP/us-west1	1405648	<50	<50
-SG/Singapore	50645992	<50	<50
-MX/Mexico City	73995080	280	60
-US/Iowa	19228396	80	<50
-CL/Santiago Metropolitan	2174096	<50	<50
-GCP/us-central1	19888880	<50	<50
-CH/Vaud	71138836	160	<50
-GCP/asia-south1	823248	<50	<50
-US/Wyoming	15553708	60	<50
-DO/Nacional	1635928	<50	<50
-JP/Kyoto	3471288	<50	<50
-US/Arizona	3617068	<50	<50
-CA/Quebec	510056	<50	<50
-US/Illinois	3633968	<50	<50
-US/Pennsylvania	4249451	<50	<50
-DE/Hesse	3390160	<50	<50
-US/District of Columbia	1695080	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	39101902910	122979	18464	16002
+VPN	1578126472	1087	1029	22
+undetermined	2986393924	4156	1667	448
+AWS/ap-southeast-1	237555992	191	191	0
+CN/Shanghai	490521032	411	411	0
+AWS/us-east-1	965970140	679	679	0
+US/Massachusetts	243667872	167	0	167
+GitHub	8668583844	26817	7369	7237
+US/New York	243709880	160	160	0
+US/California	126972828	109	93	4
+US/Washington	226723408	515	166	162
+US/Virginia	150050464	507	161	167
+AWS/us-east-2	36550112	28	28	0
+AWS/us-west-1	241533432	159	159	0
+GCP/us-west1	1405648	1	1	0
+SG/Singapore	50645992	39	39	0
+MX/Mexico City	73995080	276	60	40
+US/Iowa	19228396	75	12	6
+CL/Santiago Metropolitan	2174096	5	5	0
+GCP/us-central1	19888880	12	8	1
+CH/Vaud	71138836	151	33	6
+GCP/asia-south1	823248	5	1	1
+US/Wyoming	15553708	52	8	5
+DO/Nacional	1635928	1	1	0
+US/Ohio	2931088	10	2	2
+US/Illinois	4867360	25	4	6
+JP/Kyoto	3471288	1	1	0
+US/Arizona	3617068	16	2	1
+CA/Quebec	510056	15	0	1
+US/Pennsylvania	4249451	12	1	1
+DE/Hesse	3390160	2	2	0
+US/District of Columbia	1695080	1	1	0

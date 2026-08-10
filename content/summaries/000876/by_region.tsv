@@ -1,33 +1,37 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	32492645930	1840	300
-VPN	19000682136	200	180
-US/California	5286030	<50	<50
-AWS/us-east-1	18676446523	2380	160
-US/Massachusetts	18609014677	520	140
-AWS/ap-southeast-1	7827126	<50	<50
-CN/Shanghai	18609176304	3620	80
-missing	2350308789	380	100
-US/Virginia	18690060415	60	<50
-US/Illinois	81658313	<50	<50
-GCP/asia-south1	47746884	240	60
-US/Connecticut	3435	<50	<50
-US/Vermont	72	<50	<50
-IT/Liguria	2	<50	<50
-DE/Bavaria	6	<50	<50
-US/District of Columbia	18608927819	<50	<50
-BY/Minsk City	8	<50	<50
-GCP/us-east1	6	<50	<50
-GCP/us-central1	12	<50	<50
-US/New York	1746328442	280	<50
-IN/Maharashtra	4	<50	<50
-US/Maryland	365	<50	<50
-SG/Singapore	20	<50	<50
-MX/Puebla	205	<50	<50
-GitHub	3593302887	2040	220
-US/New Hampshire	18653609706	<50	<50
-CA/Quebec	84702507	<50	<50
-AWS/us-east-2	7189571	<50	<50
-FR/Île-de-France	10051532956	<50	<50
-MX/Mexico City	3668213	<50	<50
-CH/Vaud	5445205	<50	<50
-IT/Lombardy	21501002	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	32492645930	1850	293	37
+VPN	19000690278	200	185	4
+US/California	5286030	18	15	1
+AWS/us-east-1	18676460635	2398	177	2
+US/Massachusetts	18609014677	514	143	17
+AWS/ap-southeast-1	7858800	33	33	0
+CN/Shanghai	18609176304	3627	77	1
+missing	1381657933	363	66	4
+US/Virginia	18690060983	60	25	1
+US/Illinois	81658313	46	11	1
+GCP/asia-south1	47746884	240	52	3
+AWS/us-east-2	7189765	4	2	1
+US/Connecticut	3435	5	5	0
+US/Vermont	72	36	36	0
+IT/Liguria	2	1	1	0
+DE/Bavaria	6	3	3	0
+US/District of Columbia	18608927819	5	5	0
+BY/Minsk City	8	4	4	0
+GCP/us-east1	6	3	3	0
+GCP/us-central1	12	6	6	0
+US/New York	1746328442	275	19	6
+IN/Maharashtra	4	2	2	0
+US/Maryland	365	2	2	0
+SG/Singapore	20	1	1	0
+MX/Puebla	205	1	1	0
+GitHub	3593302887	2045	214	59
+US/New Hampshire	18653609706	10	5	1
+CA/Quebec	84702507	19	4	1
+FR/Île-de-France	10051532956	2	2	0
+NG/Ekiti State	967561883	2	2	0
+MX/Mexico City	3668213	13	3	2
+CH/Vaud	5445205	15	4	2
+VN/Cao Bằng Province	1048128	1	1	0
+IT/Lombardy	21501002	22	2	1
+US/Pennsylvania	65496606	29	2	1
+DE/Thuringia	363	1	1	0

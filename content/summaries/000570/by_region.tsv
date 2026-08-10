@@ -1,256 +1,271 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	821586055122	3609280	36940
-undetermined	183764058795	131660	6740
-HK/Hong Kong	4448581718	220	120
-CA/Ontario	8957074352	300	300
-AWS/ap-southeast-1	2685194132	260	240
-AWS/us-east-1	26165438662	3940	1220
-SG/Singapore	1820039232	80	80
-CN/Shanxi	707034892	100	<50
-CA/Quebec	9439569903	320	320
-GitHub	97930717807	593200	3760
-VPN	49977396035	2820	2280
-US/California	16578216973	2480	520
-US/Virginia	14108400554	48780	680
-GCP/us-central1	9320059290	320	320
-GCP/us-west1	4316362810	140	140
-US/New York	7916339939	3600	260
-US/Massachusetts	4996114689	200	<50
-DE/State of Berlin	3791906602	120	120
-GCP/us-east4	7583813204	240	240
-CN/Shanghai	8216819416	1020	<50
-NL/North Holland	3703649168	120	120
-GCP/us-east1	48803460	<50	<50
-CN/Hebei	2933914514	1180	100
-US/Michigan	7587416144	260	260
-CH/Vaud	837480558	3020	440
-GCP/asia-east1	3794138284	740	120
-US/New Jersey	9097791144	2260	<50
-US/Florida	135371604	<50	<50
-BR/Pernambuco	15066840	<50	<50
-PH/Northern Mindanao	1113636	<50	<50
-GB/England	186623598	<50	<50
-VN/Ho Chi Minh City (HCMC)	88173768	<50	<50
-KH/Phnom Penh	7074864	<50	<50
-IN/West Bengal	1113636	<50	<50
-US/Illinois	2248617418	4720	100
-BR/Rio de Janeiro	11922456	<50	<50
-MA/Fes-Meknes	12381012	<50	<50
-ZA/Gauteng	64721904	<50	<50
-IQ/Erbil	9826200	<50	<50
-VN/Hanoi	60398376	<50	<50
-HU/Baranya	82383041	200	<50
-US/Washington	232913654	<50	<50
-CH/Zurich	15852936	<50	<50
-BR/Mato Grosso do Sul	4782084	<50	<50
-PK/Punjab	42252660	<50	<50
-BD/Dhaka Division	79788744	<50	<50
-UA/Kyiv Oblast	38322180	<50	<50
-BR/Minas Gerais	19324860	<50	<50
-IT/Veneto	45379436	<50	<50
-BR/Santa Catarina	13691172	<50	<50
-MX/Mexico City	150984119	520	80
-VE/Falcón	7402404	<50	<50
-MY/Selangor	9891708	<50	<50
-AWS/ap-northeast-1	1004803482	<50	<50
-PK/Islamabad	4127004	<50	<50
-BR/Paraná	43104264	<50	<50
-IQ/Basra	26334216	<50	<50
-US/Texas	109002695	<50	<50
-US/South Carolina	88725953	<50	<50
-VN/Hai Phong	11136360	<50	<50
-PH/National Capital Region	2030748	<50	<50
-IN/Uttar Pradesh	1703208	<50	<50
-AWS/ap-northeast-3	438788511	<50	<50
-DE/Schleswig-Holstein	6681816	<50	<50
-US/District of Columbia	497562391	<50	<50
-DO/Santo Domingo Province	11398392	<50	<50
-MX/México	19848924	<50	<50
-AL/Tirana	1375668	<50	<50
-JP/Tokyo	1570236109	280	60
-US/Delaware	23582880	<50	<50
-PE/Arequipa	11987964	<50	<50
-TH/Bangkok	1113636	<50	<50
-RU/Karachayevo-Cherkesiya Republic	10022724	<50	<50
-AU/New South Wales	16639032	<50	<50
-FR/Normandy	1441176	<50	<50
-BO/Cochabamba	6419784	<50	<50
-KG/Osh Region	2358288	<50	<50
-IQ/Baghdad	91511890	<50	<50
-AR/Tucuman	1506684	<50	<50
-BR/Pará	16966572	<50	<50
-DZ/Annaba	1375668	<50	<50
-LB/Beirut	20831544	<50	<50
-BR/Rio Grande do Sul	30788760	<50	<50
-BD/Mymensingh Division	17228604	<50	<50
-US/Connecticut	15852936	<50	<50
-NZ/Hawke's Bay Region	10153740	<50	<50
-BD/Chittagong	12446520	<50	<50
-IQ/Wasit	12708552	<50	<50
-BR/São Paulo	136059830	<50	<50
-BY/Brest	14411760	<50	<50
-BO/La Paz Department	11791440	<50	<50
-MY/Kuala Lumpur	8254008	<50	<50
-PY/Alto Paraná Department	1113636	<50	<50
-IN/Madhya Pradesh	27154138	<50	<50
-BR/Bahia	10808820	<50	<50
-SY/Damascus Governorate	26006676	<50	<50
-PA/Panamá	19062828	<50	<50
-IN/Maharashtra	11332884	<50	<50
-UZ/Tashkent	45397044	<50	<50
-VN/Dong Nai	9498660	<50	<50
-UA/Vinnytsia	11791440	<50	<50
-US/Colorado	14804808	<50	<50
-IN/Gujarat	42987067	<50	<50
-IQ/Sulaymaniyah	10022724	<50	<50
-ZA/Western Cape	12184488	<50	<50
-PK/Sindh	34326192	<50	<50
-ET/Addis Ababa	7795452	<50	<50
-VE/Anzoátegui	27809914	<50	<50
-RU/Bryansk Oblast	9891708	<50	<50
-US/Minnesota	6157752	<50	<50
-RU/Astrakhan Oblast	27840900	<50	<50
-KG/Chuy Region	8712564	<50	<50
-AR/Buenos Aires	123417072	<50	<50
-RS/Central Serbia	26727264	<50	<50
-BD/Rajshahi Division	15066840	<50	<50
-VE/Zulia	15197856	<50	<50
-JO/Amman	36749988	<50	<50
-AE/Dubai	13036092	<50	<50
-VN/Bac Ninh	6681816	<50	<50
-TR/Konya	1048128	<50	<50
-TR/Istanbul	3930480	<50	<50
-UA/Kyiv City	1965240	<50	<50
-US/Wyoming	110615375	520	<50
-OM/Muscat	28758012	<50	<50
-NG/Lagos	851604	<50	<50
-KZ/Pavlodar Region	9105612	<50	<50
-MX/Puebla	6092244	<50	<50
-XK/Ferizaj	11922456	<50	<50
-JM/Kingston	24434484	<50	<50
-PY/Asuncion	8516040	<50	<50
-IQ/Maysan	917112	<50	<50
-HK/Yau Tsim Mong District	12643044	<50	<50
-VE/Apure	9695184	<50	<50
-NG/Abia State	1375668	<50	<50
-US/Iowa	72630029	360	<50
-AR/Santiago del Estero	11201868	<50	<50
-AWS/us-east-2	205397375	17280	<50
-CN/Zhejiang	48893535	<50	<50
-TN/Tunis Governorate	13691172	<50	<50
-US/North Carolina	32472894	<50	<50
-IE/Leinster	32472894	<50	<50
-AR/San Luis	15132348	<50	<50
-AR/Buenos Aires F.D.	31902396	<50	<50
-EC/Pichincha	16311492	<50	<50
-US/Alabama	11922456	<50	<50
-CA/Saskatchewan	12053472	<50	<50
-MR/Mauritania	1310160	<50	<50
-SN/Thies	1113636	<50	<50
-UA/Odesa	9302136	<50	<50
-RU/Saratov Oblast	26006676	<50	<50
-UY/Montevideo Department	2096256	<50	<50
-CO/Bogota D.C.	1113636	<50	<50
-SY/Aleppo	7926468	<50	<50
-MA/Marrakesh-Safi	6288768	<50	<50
-CW/Curacao	1375668	<50	<50
-IQ/Babil	10088232	<50	<50
-MX/Tamaulipas	2751336	<50	<50
-TH/Phuket	1113636	<50	<50
-BY/Minsk City	1310160	<50	<50
-MX/Nuevo León	12905076	<50	<50
-VN/Da Nang City	51489288	<50	<50
-MA/Casablanca-Settat	13822188	<50	<50
-DZ/Bouira	9760692	<50	<50
-US/Ohio	19652400	<50	<50
-UA/Kharkiv	13232616	<50	<50
-AR/Cordoba	2816844	<50	<50
-PE/Apurímac Department	1179144	<50	<50
-VN/Sơn La Province	917112	<50	<50
-VN/Quảng Ninh	11070852	<50	<50
-US/Pennsylvania	1179144	<50	<50
-BR/Maranhão	16245984	<50	<50
-ID/East Java	9891708	<50	<50
-TW/Taiwan	1113636	<50	<50
-TT/Siparia Regional Corporation	12249996	<50	<50
-VN/Phu Tho	16704540	<50	<50
-KZ/Zhambyl	1113636	<50	<50
-FR/Grand Est	1375668	<50	<50
-VN/Thanh Hóa Province	25482612	<50	<50
-AR/Neuquen	8057484	<50	<50
-IL/Jerusalem	8516040	<50	<50
-KZ/Karaganda	7140372	<50	<50
-TR/Şırnak	3340908	<50	<50
-IQ/Nineveh	11660424	<50	<50
-US/Arizona	1179144	<50	<50
-SA/Riyadh Region	19979940	<50	<50
-LB/South Governorate	1179144	<50	<50
-AR/Salta	12839568	<50	<50
-VN/Ninh Binh	9367644	<50	<50
-NZ/Auckland	7926468	<50	<50
-BR/Federal District	1703208	<50	<50
-ID/Jakarta	917112	<50	<50
-SN/Dakar	9695184	<50	<50
-BR/Acre	9695184	<50	<50
-ZA/North West	1441176	<50	<50
-BA/Federation of B&H	10350264	<50	<50
-UA/Lviv	1113636	<50	<50
-BR/Mato Grosso	4127004	<50	<50
-MX/Sinaloa	15132348	<50	<50
-DO/Monte Plata Province	7926468	<50	<50
-PY/Central Department	11922456	<50	<50
-ID/West Kalimantan	9891708	<50	<50
-KE/Mombasa County	12446520	<50	<50
-IT/The Marches	1048128	<50	<50
-DZ/Constantine	7926468	<50	<50
-CI/Abidjan Autonomous District	5502672	<50	<50
-KE/Nairobi County	19783416	<50	<50
-AL/Korçë County	14018712	<50	<50
-IQ/Najaf	851604	<50	<50
-QA/Baladiyat ad Dawhah	16901064	<50	<50
-AR/Santa Fe	12643044	<50	<50
-CL/O'Higgins Region	1244652	<50	<50
-NP/Bagmati Province	7991976	<50	<50
-CA/Manitoba	14346252	<50	<50
-US/Georgia	45162164	<50	<50
-AZ/Baki	24368976	<50	<50
-ID/West Java	7664436	<50	<50
-AU/Victoria	14284553	<50	<50
-NL/North Brabant	14284553	<50	<50
-VE/Mérida	16180476	<50	<50
-PE/Lima Province	21945180	<50	<50
-DE/North Rhine-Westphalia	7074864	<50	<50
-MX/Durango	2947860	<50	<50
-PT/Lisbon	4192512	<50	<50
-IN/Delhi	15656412	<50	<50
-BR/Piauí	1113636	<50	<50
-VN/Gia Lai	17490636	<50	<50
-GB/Wales	17883684	<50	<50
-PS/West Bank	30526728	<50	<50
-IT/Piedmont	1048128	<50	<50
-US/Louisiana	14215236	<50	<50
-LB/Bekaa	1113636	<50	<50
-CL/Santiago Metropolitan	15132348	<50	<50
-UA/Dnipropetrovsk	3471924	<50	<50
-TN/Sousse Governorate	1113636	<50	<50
-AE/Abu Dhabi	11201868	<50	<50
-US/Kentucky	33556646	<50	<50
-BW/Gaborone	9564168	<50	<50
-PE/Lima region	6223260	<50	<50
-IN/Karnataka	917112	<50	<50
-MX/Baja California	3668448	<50	<50
-HU/Fejér	14346252	<50	<50
-PY/Paraguarí	9629676	<50	<50
-CO/Antioquia	2423796	<50	<50
-KZ/Almaty	4127004	<50	<50
-VE/Distrito Federal	3078876	<50	<50
-AWS/us-west-2	163370004	680	<50
-AZ/Nakhchivan	5895720	<50	<50
-ID/Riau Islands	14870316	<50	<50
-IE/Munster	13036092	<50	<50
-US/Tennessee	5764704	<50	<50
-IN/Assam	1113636	<50	<50
-SA/Medina Region	917112	<50	<50
-IQ/Anbar	11791440	<50	<50
-GB/Scotland	18014700	<50	<50
-EC/Guayas	1113636	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	824435993868	3599804	36864	19011
+undetermined	183810334595	131663	6739	3224
+HK/Hong Kong	4449498830	217	127	23
+CA/Ontario	8957074352	300	300	0
+AWS/ap-southeast-1	2860362524	350	349	1
+AWS/us-east-1	26165438662	3931	1217	465
+SG/Singapore	1821152868	79	79	0
+CN/Shanxi	707034892	98	0	25
+CA/Quebec	9439569903	319	319	0
+GitHub	103193705133	609927	4096	3248
+VPN	50484048855	2848	2314	17
+US/California	16583588629	2478	521	73
+US/Virginia	14108400554	48781	686	257
+GCP/us-central1	9320059290	314	314	0
+GCP/us-west1	4316362810	144	144	0
+US/New York	17082052107	3967	575	4
+US/Massachusetts	4996114689	203	7	161
+DE/State of Berlin	3791906602	125	125	0
+GCP/us-east4	7583813204	250	250	0
+CN/Shanghai	8714381807	1034	20	163
+NL/North Holland	3703649168	124	124	0
+GCP/us-east1	65704524	6	6	0
+CN/Hebei	3102939998	1250	105	967
+US/Michigan	7587416144	251	251	0
+CH/Vaud	837480558	3011	435	147
+GCP/asia-east1	3794138284	735	125	3
+AWS/us-east-2	972074134	17300	32	6
+US/New Jersey	9097791144	2251	2	2
+US/Florida	135371604	8	8	0
+BR/Pernambuco	15066840	2	2	0
+PH/Northern Mindanao	1113636	1	1	0
+US/Pennsylvania	738444631	42	42	0
+GB/England	203000598	13	13	0
+VN/Ho Chi Minh City (HCMC)	90925104	17	17	0
+KH/Phnom Penh	7991976	2	2	0
+IN/West Bengal	1113636	1	1	0
+IN/Manipur	1179144	1	1	0
+US/Illinois	2268888989	4843	101	36
+BR/Rio de Janeiro	11922456	2	2	0
+MA/Fes-Meknes	12381012	2	2	0
+ZA/Gauteng	64721904	7	7	0
+IQ/Erbil	9826200	1	1	0
+VN/Hanoi	61446504	9	9	0
+HU/Baranya	82383041	197	3	3
+US/Washington	232913654	6	6	0
+CH/Zurich	15852936	1	1	0
+BR/Mato Grosso do Sul	4782084	2	2	0
+PK/Punjab	42252660	8	8	0
+BD/Dhaka Division	79788744	8	8	0
+UA/Kyiv Oblast	38322180	7	7	0
+BR/Minas Gerais	20569512	6	6	0
+IT/Veneto	45379436	1	1	0
+BR/Santa Catarina	13691172	3	3	0
+MX/Mexico City	150984119	519	90	56
+VE/Falcón	7402404	1	1	0
+MY/Selangor	9891708	1	1	0
+AWS/ap-northeast-1	1004803482	29	29	0
+PK/Islamabad	4127004	1	1	0
+BR/Paraná	43104264	4	4	0
+IQ/Basra	26334216	3	3	0
+US/Texas	131864987	8	8	0
+US/South Carolina	88725953	4	4	0
+VN/Hai Phong	11136360	2	2	0
+PH/National Capital Region	2030748	2	2	0
+IN/Uttar Pradesh	2816844	2	2	0
+AWS/ap-northeast-3	438788511	14	14	0
+DE/Schleswig-Holstein	6681816	1	1	0
+US/District of Columbia	497562391	18	18	0
+BE/Wallonia	497562391	18	18	0
+DO/Santo Domingo Province	11398392	1	1	0
+MX/México	19848924	3	3	0
+AL/Tirana	1375668	1	1	0
+JP/Tokyo	1570236109	277	52	8
+BR/São Paulo	137435498	16	16	0
+US/Delaware	23582880	1	1	0
+PE/Arequipa	11987964	1	1	0
+TH/Bangkok	1113636	1	1	0
+UY/Montevideo Department	3930480	2	2	0
+RU/Karachayevo-Cherkesiya Republic	10022724	1	1	0
+AU/New South Wales	16639032	2	2	0
+FR/Normandy	1441176	1	1	0
+BO/Cochabamba	6419784	1	1	0
+KG/Osh Region	2358288	1	1	0
+IQ/Baghdad	92625526	11	11	0
+AR/Tucuman	1506684	1	1	0
+BR/Pará	18604272	3	3	0
+DZ/Annaba	1375668	1	1	0
+BR/Rio Grande do Sul	31836888	4	4	0
+LB/Beirut	20831544	2	2	0
+BD/Mymensingh Division	17228604	2	2	0
+US/Connecticut	15852936	1	1	0
+NZ/Hawke's Bay Region	10153740	1	1	0
+BD/Chittagong	12446520	4	4	0
+IQ/Wasit	12708552	2	2	0
+BY/Brest	14411760	1	1	0
+BO/La Paz Department	11791440	1	1	0
+MY/Kuala Lumpur	8254008	1	1	0
+PY/Alto Paraná Department	1113636	1	1	0
+ZA/Western Cape	14804808	5	5	0
+IN/Madhya Pradesh	27154138	2	2	0
+BR/Bahia	10808820	2	2	0
+MX/Sinaloa	16377000	3	3	0
+SY/Damascus Governorate	26006676	3	3	0
+PA/Panamá	19062828	2	2	0
+IN/Maharashtra	12249996	3	3	0
+UZ/Tashkent	45397044	5	5	0
+VN/Dong Nai	11201868	3	3	0
+UA/Vinnytsia	11791440	1	1	0
+US/Colorado	14804808	1	1	0
+IN/Gujarat	44035195	6	6	0
+IQ/Sulaymaniyah	10022724	1	1	0
+AR/Misiones	1179144	1	1	0
+PK/Sindh	34326192	3	3	0
+ET/Addis Ababa	7795452	2	2	0
+VE/Anzoátegui	27809914	3	3	0
+RU/Bryansk Oblast	9891708	1	1	0
+US/Minnesota	6157752	1	1	0
+RU/Astrakhan Oblast	27840900	2	2	0
+KG/Chuy Region	8712564	1	1	0
+AR/Buenos Aires	123417072	14	14	0
+RS/Central Serbia	26727264	2	2	0
+BD/Rajshahi Division	15066840	2	2	0
+VE/Zulia	15197856	2	2	0
+JO/Amman	36749988	6	6	0
+MX/Nuevo León	15459888	3	3	0
+AE/Dubai	13036092	1	1	0
+VN/Bac Ninh	6681816	1	1	0
+TR/Konya	1048128	1	1	0
+TR/Istanbul	3930480	1	1	0
+UA/Kyiv City	1965240	2	2	0
+US/Wyoming	110615375	521	5	4
+OM/Muscat	28758012	4	4	0
+NG/Lagos	851604	1	1	0
+KZ/Pavlodar Region	9105612	1	1	0
+MX/Puebla	6092244	1	1	0
+IQ/Nineveh	12774060	2	2	0
+XK/Ferizaj	11922456	1	1	0
+JM/Kingston	24434484	2	2	0
+PY/Asuncion	8516040	1	1	0
+IQ/Maysan	917112	1	1	0
+HK/Yau Tsim Mong District	12643044	2	2	0
+VE/Apure	9695184	1	1	0
+VN/Dak Lak	851604	1	1	0
+CO/Bogota D.C.	2161764	2	2	0
+NG/Abia State	1375668	1	1	0
+US/Iowa	72630029	359	6	3
+AR/Santiago del Estero	11201868	1	1	0
+CN/Zhejiang	48893535	2	2	0
+TN/Tunis Governorate	13691172	2	2	0
+US/North Carolina	34176102	2	2	0
+IE/Leinster	32472894	1	1	0
+AR/San Luis	15132348	1	1	0
+AR/Buenos Aires F.D.	31902396	3	3	0
+EC/Pichincha	18931812	2	2	0
+US/Alabama	11922456	1	1	0
+CA/Saskatchewan	12053472	1	1	0
+MR/Mauritania	1310160	1	1	0
+SN/Thies	1113636	1	1	0
+UA/Odesa	9302136	2	2	0
+TR/Diyarbakır Province	1375668	1	1	0
+RU/Saratov Oblast	26006676	2	2	0
+SY/Aleppo	7926468	1	1	0
+MA/Marrakesh-Safi	6288768	1	1	0
+CW/Curacao	1375668	1	1	0
+ES/Andalusia	2816844	1	1	0
+IQ/Babil	10088232	1	1	0
+MX/Tamaulipas	2751336	1	1	0
+TH/Phuket	1113636	1	1	0
+BY/Minsk City	1310160	1	1	0
+SA/Riyadh Region	21093576	3	3	0
+VN/Da Nang City	51489288	3	3	0
+MA/Casablanca-Settat	13822188	2	2	0
+DZ/Bouira	9760692	1	1	0
+US/Ohio	19652400	2	2	0
+UA/Kharkiv	13232616	1	1	0
+AR/Cordoba	2816844	1	1	0
+PE/Apurímac Department	1179144	1	1	0
+VN/Sơn La Province	917112	1	1	0
+VN/Quảng Ninh	11070852	1	1	0
+BR/Maranhão	16245984	1	1	0
+ID/East Java	9891708	1	1	0
+TW/Taiwan	1113636	1	1	0
+NZ/Wellington Region	1113636	1	1	0
+TT/Siparia Regional Corporation	12249996	1	1	0
+VN/Phu Tho	16704540	2	2	0
+KZ/Zhambyl	1113636	1	1	0
+FR/Grand Est	1375668	1	1	0
+VN/Thanh Hóa Province	25482612	3	3	0
+AR/Neuquen	8057484	1	1	0
+IL/Jerusalem	8516040	2	2	0
+IN/Kerala	1048128	1	1	0
+KZ/Karaganda	7140372	1	1	0
+TR/Şırnak	3340908	1	1	0
+US/Arizona	1179144	1	1	0
+LB/South Governorate	1179144	1	1	0
+FR/Île-de-France	1310160	1	1	0
+AR/Salta	12839568	1	1	0
+VN/Ninh Binh	10481280	3	3	0
+NZ/Auckland	7926468	1	1	0
+BR/Federal District	1703208	1	1	0
+ID/Jakarta	917112	1	1	0
+SN/Dakar	9695184	1	1	0
+BR/Acre	9695184	1	1	0
+ZA/North West	1441176	1	1	0
+BA/Federation of B&H	10350264	1	1	0
+DO/Nacional	4978608	1	1	0
+UA/Lviv	1113636	1	1	0
+BR/Mato Grosso	4127004	1	1	0
+DO/Monte Plata Province	7926468	1	1	0
+DE/Bavaria	1048128	1	1	0
+BR/Rio Grande do Norte	1113636	1	1	0
+PY/Central Department	11922456	1	1	0
+ID/West Kalimantan	9891708	1	1	0
+KE/Mombasa County	12446520	1	1	0
+IT/The Marches	1048128	1	1	0
+DZ/Constantine	7926468	1	1	0
+CI/Abidjan Autonomous District	5502672	2	2	0
+KE/Nairobi County	19783416	2	2	0
+AL/Korçë County	14018712	1	1	0
+IQ/Najaf	851604	1	1	0
+QA/Baladiyat ad Dawhah	16901064	1	1	0
+AR/Santa Fe	12643044	1	1	0
+CL/O'Higgins Region	1244652	1	1	0
+NP/Bagmati Province	10350264	2	2	0
+CA/Manitoba	14346252	1	1	0
+US/Georgia	45162164	1	1	0
+AZ/Baki	24368976	2	2	0
+ID/West Java	7664436	1	1	0
+AU/Victoria	14284553	1	1	0
+NL/North Brabant	14284553	1	1	0
+VE/Mérida	16180476	1	1	0
+PE/Lima Province	21945180	3	3	0
+DE/North Rhine-Westphalia	7074864	1	1	0
+MX/Durango	2947860	1	1	0
+PT/Lisbon	4192512	1	1	0
+IN/Delhi	15656412	3	3	0
+BR/Piauí	1113636	1	1	0
+VN/Gia Lai	17490636	1	1	0
+GB/Wales	17883684	1	1	0
+PY/Cordillera Department	1375668	1	1	0
+PS/West Bank	30526728	2	2	0
+IT/Piedmont	1048128	1	1	0
+US/Arkansas	19714813	1	1	0
+US/Louisiana	14215236	1	1	0
+LB/Bekaa	1113636	1	1	0
+CL/Santiago Metropolitan	15132348	1	1	0
+HK/Yuen Long	917112	1	1	0
+UA/Dnipropetrovsk	3471924	2	2	0
+TN/Sousse Governorate	1113636	1	1	0
+AE/Abu Dhabi	11201868	1	1	0
+US/Kentucky	33556646	1	1	0
+BW/Gaborone	9564168	1	1	0
+PE/Lima region	6223260	1	1	0
+IN/Karnataka	917112	1	1	0
+MX/Baja California	3668448	1	1	0
+HU/Fejér	14346252	1	1	0
+PY/Paraguarí	9629676	1	1	0
+CO/Antioquia	2423796	1	1	0
+KZ/Almaty	4127004	1	1	0
+VE/Distrito Federal	3078876	1	1	0
+AWS/us-west-2	163370004	672	6	2
+AZ/Nakhchivan	5895720	1	1	0
+ID/Riau Islands	14870316	1	1	0
+IE/Munster	13036092	1	1	0
+US/Tennessee	5764704	1	1	0
+IN/Assam	1113636	1	1	0
+SA/Medina Region	917112	1	1	0
+IQ/Anbar	11791440	1	1	0
+GB/Scotland	18014700	1	1	0
+EC/Guayas	1113636	1	1	0

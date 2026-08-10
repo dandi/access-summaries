@@ -1,34 +1,36 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/Massachusetts	3804669646736	50220	<50
-undetermined	3735386618031	14780	260
-AWS/us-east-1	1389265437720	165640	<50
-US/California	368080785786	20860	<50
-missing	212719600707	7940	400
-US/Maryland	35065002388	6820	<50
-VPN	1162728716510	1020	140
-US/New York	2574124088349	4420	60
-CN/Shanghai	1088288949143	58060	<50
-AWS/ap-southeast-1	119421084	<50	<50
-GitHub	4158371603	9460	880
-US/Washington	327433425	260	<50
-MX/Mexico City	109313930	400	60
-US/Virginia	31037919	120	<50
-CA/Quebec	243681596	<50	<50
-DE/North Rhine-Westphalia	6241212	<50	<50
-SV/San Salvador Department	6354276	<50	<50
-US/Arizona	3572127	<50	<50
-KE/Nairobi County	192050329	260	<50
-GCP/us-central1	342095120	<50	<50
-US/Georgia	96327	<50	<50
-CH/Vaud	237455224	660	<50
-DE/Baden-Wurttemberg	422976340	60	<50
-NP/Gandaki Pradesh	9695184	<50	<50
-MY/Penang	917112	<50	<50
-MA/Souss-Massa	7860960	<50	<50
-AWS/us-east-2	108129882768	33580	<50
-NI/Managua Department	8843580	<50	<50
-AM/Yerevan	9760692	<50	<50
-BD/Dhaka Division	1768716	<50	<50
-US/Pennsylvania	284689046	5400	<50
-US/Illinois	45240	<50	<50
-US/Wyoming	15080	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/Massachusetts	3804669646736	50218	18	29
+undetermined	3735386618031	14782	258	76
+AWS/us-east-1	1389265437720	165647	44	20
+US/California	368080785786	20862	6	10
+missing	212725131427	8035	406	363
+US/Maryland	35065002388	6827	0	57
+VPN	1162741097523	1023	145	97
+US/New York	2574124088349	4427	68	20
+CN/Shanghai	1088288949143	58056	0	17
+AWS/ap-southeast-1	136911720	24	24	0
+GitHub	4686088516	11915	916	987
+US/Washington	327433425	256	27	21
+MX/Mexico City	109313930	399	65	44
+US/Virginia	31037919	126	21	26
+CA/Quebec	243681596	3	3	0
+DE/North Rhine-Westphalia	6241212	30	3	3
+JP/Kyoto	146803356	356	13	10
+SV/San Salvador Department	6354276	1	1	0
+US/Arizona	3572127	12	3	1
+KE/Nairobi County	192050329	264	10	4
+GCP/us-central1	342095120	1	1	0
+US/Georgia	96327	4	0	1
+CH/Vaud	237455224	669	6	6
+DE/Baden-Wurttemberg	422976340	64	5	2
+NP/Gandaki Pradesh	9695184	1	1	0
+MY/Penang	917112	1	1	0
+MA/Souss-Massa	7860960	1	1	0
+US/Ohio	228340413	1132	3	2
+AWS/us-east-2	108129882768	33582	32	8
+NI/Managua Department	8843580	1	1	0
+AM/Yerevan	9760692	1	1	0
+BD/Dhaka Division	1768716	1	1	0
+US/Pennsylvania	284689046	5405	0	3
+US/Illinois	45240	3	0	3
+US/Wyoming	15080	1	0	1

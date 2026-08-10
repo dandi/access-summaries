@@ -1,62 +1,65 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	11290669587	1640	1360
-missing	4778670869	12560	1580
-GitHub	17234103120	62320	8540
-AWS/ap-southeast-1	893390852	100	100
-US/Massachusetts	1632688480	160	<50
-US/California	843016836	340	60
-CN/Shanghai	2415294194	440	140
-US/New York	3262323728	5680	320
-undetermined	5483889558	1200	620
-US/Virginia	1859951356	1340	320
-SG/Singapore	321129932	<50	<50
-AWS/us-east-1	1864026208	280	100
-US/Washington	573671484	760	160
-US/Iowa	39683228	240	<50
-VN/Lam Dong	5287608	<50	<50
-VN/Ho Chi Minh City (HCMC)	26905248	<50	<50
-MX/Mexico City	116269740	520	80
-UY/Montevideo Department	6026736	<50	<50
-BR/Goiás	5287608	<50	<50
-AR/Buenos Aires F.D.	4454544	<50	<50
-AWS/us-west-2	40001096	160	<50
-GB/England	27381680	<50	<50
-ID/East Java	8909088	<50	<50
-US/Illinois	39151360	240	<50
-RU/Krasnodar Krai	3144384	<50	<50
-UZ/Tashkent	8647056	<50	<50
-DE/North Rhine-Westphalia	11552028	80	<50
-GCP/us-central1	412446280	<50	<50
-BR/Minas Gerais	3982704	<50	<50
-CN/Hebei	213129497	<50	<50
-MX/Coahuila	5287608	<50	<50
-HK/Hong Kong	12161256	<50	<50
-VN/Vinh Long	12161256	<50	<50
-HK/Yau Tsim Mong District	12905076	<50	<50
-ID/East Kalimantan	2685828	<50	<50
-IN/Madhya Pradesh	5287608	<50	<50
-IN/Maharashtra	17477352	<50	<50
-US/Maryland	22741748	<50	<50
-IR/Tehran	4651068	<50	<50
-US/Wyoming	28538856	160	<50
-ID/Yogyakarta	2685828	<50	<50
-AR/Buenos Aires	1048128	<50	<50
-ZA/KwaZulu-Natal	2685828	<50	<50
-SN/Dakar	9891708	<50	<50
-PE/Cuzco Department	7926468	<50	<50
-IQ/Kirkuk	5287608	<50	<50
-PK/Punjab	4258020	<50	<50
-US/Connecticut	17700416	<50	<50
-BR/Rio Grande do Sul	5287608	<50	<50
-IQ/Baghdad	13691172	<50	<50
-CN/Beijing	30067901	<50	<50
-IQ/Nineveh	1113636	<50	<50
-US/New Jersey	5945232	<50	<50
-US/Georgia	5290448	<50	<50
-VN/Thanh Hóa Province	5287608	<50	<50
-NG/FCT	7336896	<50	<50
-VN/Hanoi	12381012	<50	<50
-PK/Gilgit-Baltistan	1113636	<50	<50
-PH/National Capital Region	4454544	<50	<50
-IL/Central District	2489304	<50	<50
-CH/Vaud	5330952	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	11313593595	1670	1368	48
+missing	4367990869	12785	1470	1282
+GitHub	17854283376	65442	8892	8647
+AWS/ap-southeast-1	1048088372	202	202	0
+US/Massachusetts	1632688480	164	1	153
+US/California	843016836	334	54	40
+CN/Shanghai	2415294194	434	142	67
+US/New York	3262323728	5670	329	101
+undetermined	5483889558	1198	614	110
+US/Virginia	1859951356	1349	321	160
+SG/Singapore	321129932	40	40	0
+AWS/us-east-1	1864026208	289	108	76
+US/Washington	573671484	755	152	152
+AWS/us-east-2	285429288	26	26	0
+US/Iowa	39683228	238	8	4
+VN/Lam Dong	5287608	1	1	0
+VN/Ho Chi Minh City (HCMC)	26905248	4	4	0
+MX/Mexico City	116269740	524	83	43
+UY/Montevideo Department	6026736	2	2	0
+BR/Goiás	5287608	1	1	0
+AR/Buenos Aires F.D.	4454544	1	1	0
+AWS/us-west-2	40001096	153	7	2
+GB/England	27381680	1	1	0
+ID/East Java	8909088	1	1	0
+US/Illinois	39151360	249	6	4
+RU/Krasnodar Krai	3144384	1	1	0
+UZ/Tashkent	8647056	1	1	0
+DE/North Rhine-Westphalia	11552028	83	3	3
+GCP/us-central1	412446280	36	36	0
+BR/Minas Gerais	3982704	1	1	0
+CN/Hebei	213129497	19	17	2
+MX/Coahuila	5287608	1	1	0
+HK/Hong Kong	12161256	1	1	0
+VN/Vinh Long	12161256	1	1	0
+HK/Yau Tsim Mong District	12905076	2	2	0
+ID/East Kalimantan	2685828	1	1	0
+IN/Madhya Pradesh	5287608	1	1	0
+IN/Maharashtra	17477352	2	2	0
+US/Maryland	22741748	2	2	0
+IR/Tehran	4651068	1	1	0
+BR/Paraná	11463900	1	1	0
+US/Wyoming	28538856	152	6	3
+ID/Yogyakarta	2685828	1	1	0
+AR/Buenos Aires	1048128	1	1	0
+ZA/KwaZulu-Natal	2685828	1	1	0
+SN/Dakar	9891708	1	1	0
+PE/Cuzco Department	7926468	1	1	0
+IQ/Kirkuk	5287608	1	1	0
+PK/Punjab	4258020	1	1	0
+US/Connecticut	17700416	3	1	1
+BR/Rio Grande do Sul	5287608	1	1	0
+IQ/Baghdad	13691172	1	1	0
+IQ/Sulaymaniyah	15459888	1	1	0
+CN/Beijing	30067901	4	3	1
+IQ/Nineveh	1113636	1	1	0
+US/New Jersey	5945232	1	1	0
+US/Georgia	5290448	1	1	0
+VN/Thanh Hóa Province	5287608	1	1	0
+NG/FCT	7336896	1	1	0
+VN/Hanoi	12381012	1	1	0
+PK/Gilgit-Baltistan	1113636	1	1	0
+PH/National Capital Region	4454544	1	1	0
+IL/Central District	2489304	1	1	0
+CH/Vaud	5330952	28	2	1

@@ -1,34 +1,36 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	4825056579	15400	540
-CN/Shanghai	62486279165	5460	<50
-US/California	57266099141	3040	<50
-AWS/us-east-1	43632802235	5200	100
-CN/Shanxi	7205506155	860	<50
-US/Massachusetts	40946527527	740	<50
-undetermined	61010076077	3300	200
-VPN	83117428148	260	220
-missing	14102652369	10520	820
-AWS/ap-southeast-1	359180364	<50	<50
-US/Virginia	1795161986	180	<50
-AWS/us-west-2	23744348	<50	<50
-MX/Mexico City	55897418	220	<50
-BR/Bahia	2161764	<50	<50
-BR/São Paulo	5306148	<50	<50
-VN/Ho Chi Minh City (HCMC)	9302136	<50	<50
-SG/Singapore	46969236	<50	<50
-US/Iowa	7759286	<50	<50
-US/Illinois	206481216	<50	<50
-ID/West Java	1375668	<50	<50
-SY/Damascus Governorate	1113636	<50	<50
-SA/Eastern Province	1244652	<50	<50
-ID/West Kalimantan	982620	<50	<50
-CN/Beijing	5519924	<50	<50
-EG/Giza	3668448	<50	<50
-CH/Vaud	2456900	<50	<50
-MX/Querétaro	2030748	<50	<50
-VN/Quảng Ninh	33867636	<50	<50
-BD/Dhaka Division	1572192	<50	<50
-CR/San José	2685828	<50	<50
-US/New Jersey	534427203	200	<50
-AWS/us-east-2	98292586	<50	<50
-JP/Tokyo	6005457	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	4832837461	15441	549	497
+CN/Shanghai	62486279165	5456	0	23
+US/California	57266099141	3042	41	25
+AWS/us-east-1	43632802235	5206	99	24
+CN/Shanxi	7205506155	861	0	4
+US/Massachusetts	40946527527	737	2	22
+undetermined	61010927681	3292	208	93
+VPN	83146644716	273	220	13
+missing	14105745815	10477	807	622
+AWS/ap-southeast-1	376736508	46	46	0
+US/Virginia	1795161986	185	2	1
+AWS/us-west-2	23744348	26	6	2
+MX/Mexico City	55897418	220	41	39
+BR/Bahia	2161764	1	1	0
+BR/São Paulo	5306148	1	1	0
+VN/Ho Chi Minh City (HCMC)	9302136	2	2	0
+SG/Singapore	46969236	8	8	0
+US/Iowa	7759286	35	4	2
+US/Illinois	206481216	6	6	0
+ID/West Java	1375668	1	1	0
+SY/Damascus Governorate	1113636	1	1	0
+SA/Eastern Province	1244652	1	1	0
+ID/West Kalimantan	982620	1	1	0
+CN/Beijing	5519924	24	4	4
+EG/Giza	3668448	1	1	0
+CH/Vaud	2456900	10	2	1
+MX/Querétaro	2030748	1	1	0
+VN/Quảng Ninh	33867636	1	1	0
+BD/Dhaka Division	1572192	1	1	0
+CR/San José	2685828	1	1	0
+UG/Central Region	1113636	1	1	0
+BR/Paraná	1441176	1	1	0
+US/New Jersey	534427203	192	1	2
+AWS/us-east-2	98292586	20	0	2
+JP/Tokyo	6005457	12	1	1

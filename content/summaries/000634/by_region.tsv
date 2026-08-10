@@ -1,32 +1,35 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	1453860567	4720	240
-missing	9945863046	7360	1300
-HK/Hong Kong	106355281	<50	<50
-AWS/us-east-1	1497000990	180	<50
-VPN	5235217923	160	120
-undetermined	3317416421	1400	240
-US/California	1551412206	160	<50
-AWS/us-west-2	24343870	<50	<50
-AWS/us-east-2	51800523	580	<50
-CN/Shanxi	207758381	<50	<50
-US/Virginia	1299439727	60	<50
-AWS/ap-southeast-1	116538732	<50	<50
-CN/Shanghai	1053849651	140	<50
-MX/Mexico City	27528212	80	<50
-DE/North Rhine-Westphalia	4039256	<50	<50
-AU/New South Wales	9695184	<50	<50
-US/Illinois	107105580	<50	<50
-US/Massachusetts	722495062	<50	<50
-CO/Tolima Department	2227272	<50	<50
-SG/Singapore	215385043	<50	<50
-CO/Huila Department	1375668	<50	<50
-BR/Rondônia	1899732	<50	<50
-IN/Maharashtra	917112	<50	<50
-UZ/Tashkent	11529408	<50	<50
-US/New Jersey	174842633	80	<50
-JP/Tokyo	4936893	<50	<50
-CN/Beijing	1363604	<50	<50
-CH/Vaud	2448624	<50	<50
-MY/Kuala Lumpur	14346252	<50	<50
-IQ/Anbar	4323528	<50	<50
-BR/Pernambuco	1768716	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	1456185017	4726	244	227
+missing	9842447349	7342	1297	1001
+HK/Hong Kong	107468917	14	1	1
+AWS/us-east-1	1497000990	172	43	10
+VPN	5235422723	161	129	12
+undetermined	3317416421	1392	240	87
+US/California	1551412206	160	24	18
+AWS/us-west-2	24343870	29	6	2
+AWS/us-east-2	158155804	590	4	3
+CN/Shanxi	207758381	26	0	2
+US/Virginia	1299439727	63	15	2
+AWS/ap-southeast-1	126954504	20	20	0
+CN/Shanghai	1053849651	131	3	8
+MX/Mexico City	27528212	86	20	20
+DE/North Rhine-Westphalia	4039256	14	3	3
+AU/New South Wales	9695184	1	1	0
+US/Illinois	107105580	2	2	0
+IQ/Baghdad	1113636	1	1	0
+US/Massachusetts	722495062	16	0	7
+CO/Tolima Department	2227272	1	1	0
+SG/Singapore	215385043	3	3	0
+CO/Huila Department	1375668	1	1	0
+BR/Rondônia	1899732	1	1	0
+IN/Maharashtra	917112	1	1	0
+MX/Michoacán	3668448	1	1	0
+UZ/Tashkent	11529408	1	1	0
+AL/Dibër County	1179144	1	1	0
+US/New Jersey	174842633	77	2	2
+JP/Tokyo	4936893	6	1	1
+CN/Beijing	1363604	5	1	1
+CH/Vaud	2448624	8	2	1
+MY/Kuala Lumpur	14346252	1	1	0
+IQ/Anbar	4323528	1	1	0
+BR/Pernambuco	1768716	1	1	0

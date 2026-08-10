@@ -1,31 +1,33 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-SE/Södermanland	107226764344	<50	<50
-JP/Tokyo	9650716	<50	<50
-VPN	55852120968	580	160
-US/California	18606300471	3680	<50
-MX/Mexico City	316050190	740	80
-undetermined	64532034128	2200	180
-AWS/ap-southeast-1	213482184	<50	<50
-CN/Shanghai	41605992906	4260	<50
-AWS/us-east-1	40876097810	4920	60
-US/Massachusetts	78902054460	1040	60
-US/Pennsylvania	40636589615	<50	<50
-missing	9326004206	4540	320
-US/District of Columbia	40636589615	<50	<50
-US/New York	774539870	760	<50
-GitHub	10639956929	1940	80
-US/Virginia	40521708127	<50	<50
-US/Illinois	5659589	<50	<50
-GCP/us-west2	33666329	240	<50
-IT/Apulia	83951141	60	<50
-AT/State of Salzburg	104387947	140	<50
-SG/Singapore	68448871	<50	<50
-CH/Vaud	3882224	<50	<50
-US/Tennessee	230483123	60	<50
-BR/Rio Grande do Sul	7402404	<50	<50
-CO/Bogota D.C.	8974596	<50	<50
-BD/Dhaka Division	1441176	<50	<50
-IT/Lombardy	933173578	140	<50
-IQ/Erbil	7271388	<50	<50
-GCP/us-central1	1158804	<50	<50
-VN/Hanoi	1310160	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+SE/Södermanland	107226764344	36	35	1
+JP/Tokyo	9650716	8	1	1
+VPN	55852120968	577	157	39
+US/California	18606300471	3682	15	17
+MX/Mexico City	316050190	732	77	55
+undetermined	64532034128	2202	177	105
+AWS/ap-southeast-1	255865860	39	39	0
+CN/Shanghai	41605992906	4266	0	16
+AWS/us-east-1	40876097810	4910	55	20
+US/Massachusetts	78902054460	1030	52	32
+US/Pennsylvania	40636589615	20	20	0
+US/District of Columbia	40636589615	20	20	0
+AWS/us-east-2	34075107	3	3	0
+missing	15077925051	4546	311	243
+US/New York	774539870	765	31	18
+GitHub	11514855118	2052	94	86
+US/Virginia	40521708127	12	12	0
+US/Illinois	5659589	13	1	1
+GCP/us-west2	33666329	236	0	1
+IT/Apulia	83951141	52	2	4
+AT/State of Salzburg	104387947	149	3	3
+SG/Singapore	68448871	4	4	0
+CH/Vaud	3882224	22	2	2
+US/Tennessee	230483123	64	1	1
+BR/Rio Grande do Sul	7402404	1	1	0
+CO/Bogota D.C.	8974596	1	1	0
+SN/Diourbel Region	917112	1	1	0
+BD/Dhaka Division	1441176	1	1	0
+IT/Lombardy	933173578	143	5	4
+IQ/Erbil	7271388	1	1	0
+GCP/us-central1	1158804	4	1	1
+VN/Hanoi	1310160	1	1	0

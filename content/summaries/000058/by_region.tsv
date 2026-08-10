@@ -1,42 +1,43 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	71217058667	80	80
-undetermined	146840871769	2500	120
-AWS/us-east-1	35602724541	4320	100
-CN/Shanghai	41493230794	5860	<50
-HK/Hong Kong	415	<50	<50
-AWS/ap-southeast-1	139234800	<50	<50
-CN/Shanxi	639	<50	<50
-US/Massachusetts	45649527508	580	<50
-US/California	4846944229	920	<50
-missing	4814320011	<50	<50
-VN/Gia Lai	224	<50	<50
-NL/Flevoland	18824545573	<50	<50
-SG/Singapore	15662777	<50	<50
-US/Connecticut	3084133823	<50	<50
-US/Illinois	60922829	<50	<50
-BR/São Paulo	1863940847	<50	<50
-US/North Carolina	1863940394	<50	<50
-IN/Uttar Pradesh	1128188	<50	<50
-ID/Central Java	1061824	<50	<50
-TR/Istanbul	1128188	<50	<50
-ZA/Mpumalanga	929096	<50	<50
-IN/Rajasthan	1061824	<50	<50
-US/Virginia	1099	<50	<50
-ES/Castille and León	82704404	<50	<50
-UA/Odesa	26379221	<50	<50
-US/New York	5267422513	<50	<50
-KR/Seoul	63510348	<50	<50
-AM/Kotayk	82423150	<50	<50
-US/Kansas	4934149429	<50	<50
-US/Pennsylvania	192087136	<50	<50
-BD/Mymensingh Division	32551073	<50	<50
-US/South Carolina	4934149429	<50	<50
-US/Oklahoma	4934149429	<50	<50
-AWS/us-east-2	4934149429	<50	<50
-RU/Moscow	135710449	<50	<50
-US/Utah	4934149429	<50	<50
-IE/Leinster	4934149429	<50	<50
-IN/Haryana	1194552	<50	<50
-JP/Tokyo	1804	<50	<50
-FR/Grand Est	422	<50	<50
-VN/Ho Chi Minh City (HCMC)	422	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	71217058985	79	79	0
+undetermined	146840871769	2501	123	25
+AWS/us-east-1	35602727043	4321	105	8
+CN/Shanghai	41493230794	5861	31	9
+HK/Hong Kong	415	1	1	0
+AWS/ap-southeast-1	141957768	35	35	0
+CN/Shanxi	639	2	2	0
+US/Massachusetts	45649527508	588	7	15
+US/California	4846944229	929	4	1
+AWS/us-east-2	4934150068	3	3	0
+missing	4811596277	26	26	0
+VN/Gia Lai	224	1	1	0
+NL/Flevoland	18824545573	8	8	0
+VE/Carabobo	224	1	1	0
+SG/Singapore	15662777	4	4	0
+US/Connecticut	3084133823	15	15	0
+US/Illinois	60922829	4	4	0
+BR/São Paulo	1863940847	2	2	0
+US/North Carolina	1863940394	1	1	0
+IN/Uttar Pradesh	1128188	1	1	0
+ID/Central Java	1061824	1	1	0
+TR/Istanbul	1128188	1	1	0
+ZA/Mpumalanga	929096	1	1	0
+IN/Rajasthan	1061824	1	1	0
+US/Virginia	1099	3	3	0
+ES/Castille and León	82704404	1	1	0
+UA/Odesa	26379221	2	2	0
+US/New York	5267422513	2	2	0
+KR/Seoul	63510348	2	2	0
+AM/Kotayk	82423150	2	2	0
+US/Kansas	4934149429	1	1	0
+US/Pennsylvania	192087136	1	1	0
+BD/Mymensingh Division	32551073	2	2	0
+US/South Carolina	4934149429	1	1	0
+US/Oklahoma	4934149429	1	1	0
+RU/Moscow	135710449	2	2	0
+US/Utah	4934149429	1	1	0
+IE/Leinster	4934149429	1	1	0
+IN/Haryana	1194552	1	1	0
+JP/Tokyo	1804	4	2	1
+FR/Grand Est	422	1	1	0
+VN/Ho Chi Minh City (HCMC)	422	1	1	0

@@ -1,50 +1,53 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	2465898032	1229880	140
-AWS/us-east-2	5537219288	171340	<50
-US/New Jersey	77891679615	16460	<50
-US/California	208951152	45240	<50
-undetermined	2377173326	16660	140
-US/Virginia	575411545	107280	<50
-missing	4168641351	48300	140
-US/Texas	64598472	21780	<50
-US/Illinois	18634422	10880	<50
-US/New York	153537444	5360	<50
-GCP/us-central1	464603676	<50	<50
-AWS/us-east-1	182113774	<50	<50
-US/Arizona	9939216	21760	<50
-DE/Lower Saxony	85629721	<50	<50
-UA/Kyiv City	13664814	<50	<50
-CA/Ontario	13664814	<50	<50
-KE/Nairobi County	13664814	<50	<50
-VPN	196480720	100	<50
-AWS/ap-southeast-1	20174656	<50	<50
-IN/Punjab	27329628	<50	<50
-JP/Tokyo	39788936	200	<50
-US/Massachusetts	13664814	<50	<50
-AWS/ap-northeast-2	13664814	<50	<50
-GB/England	27329628	<50	<50
-IT/Lombardy	73566950	<50	<50
-TR/Bursa Province	27329628	<50	<50
-AR/Buenos Aires F.D.	40994442	<50	<50
-US/New Mexico	13664814	<50	<50
-IR/Tehran	27329628	<50	<50
-US/Washington	13664814	<50	<50
-US/Colorado	13664814	<50	<50
-US/Iowa	27329628	<50	<50
-US/Nebraska	1309140	<50	<50
-HU/Csongrád	13664814	<50	<50
-FR/Île-de-France	27329628	<50	<50
-US/Indiana	13664814	<50	<50
-US/Missouri	13664814	<50	<50
-NL/Flevoland	13664814	<50	<50
-CA/Quebec	13664814	<50	<50
-DE/Baden-Wurttemberg	13664814	<50	<50
-IT/Apulia	1975616	60	<50
-PK/Khyber Pakhtunkhwa	38153130	<50	<50
-MX/Mexico City	116948863	3420	<50
-FR/Provence-Alpes-Côte d'Azur	15236682	<50	<50
-VN/Thanh Hóa Province	9954600	<50	<50
-CH/Vaud	13736592	80	<50
-SE/Stockholm	1690368	80	<50
-VE/Zulia	13664814	<50	<50
-US/District of Columbia	28277636	200	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	2494575346	1229938	147	149
+AWS/us-east-2	5537219288	171332	1	20
+US/New Jersey	77891679615	16453	2	4
+US/California	208951152	45240	15	12
+undetermined	2385070642	16652	143	41
+US/Virginia	575411545	107272	34	16
+missing	4146512273	48307	131	73
+US/Texas	64598472	21774	4	2
+US/Illinois	18634422	10886	1	1
+US/New York	153537444	5353	3	4
+GCP/us-central1	464603676	34	34	0
+AWS/us-east-1	182113774	35	6	7
+US/Arizona	9939216	21770	0	2
+DE/Lower Saxony	85629721	43	5	2
+UA/Kyiv City	13664814	1	1	0
+CA/Ontario	13664814	1	1	0
+KE/Nairobi County	13664814	1	1	0
+VPN	196480720	99	15	5
+AWS/ap-southeast-1	25550140	5	5	0
+IN/Punjab	27329628	2	2	0
+JP/Tokyo	39788936	198	2	1
+US/Massachusetts	13664814	1	1	0
+AWS/ap-northeast-2	13664814	1	1	0
+GB/England	27329628	2	2	0
+IT/Lombardy	73566950	16	0	1
+TR/Bursa Province	27329628	3	1	1
+AR/Buenos Aires F.D.	40994442	3	3	0
+US/New Mexico	13664814	1	1	0
+IR/Tehran	27329628	2	2	0
+US/Washington	13664814	1	1	0
+US/Colorado	13664814	1	1	0
+US/Iowa	27329628	2	2	0
+US/Nebraska	1309140	14	0	1
+HU/Csongrád	13664814	1	1	0
+FR/Île-de-France	27329628	2	2	0
+US/Indiana	13664814	1	1	0
+US/Missouri	13664814	1	1	0
+NL/Flevoland	13664814	1	1	0
+CA/Quebec	13664814	1	1	0
+DE/Baden-Wurttemberg	13664814	1	1	0
+IT/Apulia	1975616	68	0	1
+PK/Khyber Pakhtunkhwa	38153130	6	6	0
+MX/Mexico City	116948863	3425	4	5
+FR/Provence-Alpes-Côte d'Azur	15236682	42	1	1
+VN/Thanh Hóa Province	9954600	1	1	0
+CH/Vaud	13736592	90	2	1
+SE/Stockholm	1690368	86	0	1
+VE/Zulia	13664814	1	1	0
+US/District of Columbia	28277636	200	2	1
+BR/Mato Grosso do Sul	1128188	1	1	0
+SG/Singapore	13664814	1	1	0
+TR/Ankara	13664814	1	1	0

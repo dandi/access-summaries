@@ -1,36 +1,37 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	364321987	60	<50
-GitHub	12824027313	39660	780
-missing	6861638005	4120	120
-US/Virginia	1550322516	1780	80
-VPN	2802517962	500	100
-undetermined	5085725820	1060	120
-CN/Shanghai	1486835752	140	<50
-HK/Hong Kong	172766379	<50	<50
-AWS/ap-southeast-1	154140324	<50	<50
-US/Illinois	117433057	<50	<50
-AWS/us-east-1	1094028292	160	<50
-CA/Ontario	850249917	<50	<50
-US/Massachusetts	752219479	<50	<50
-CA/Quebec	755815585	<50	<50
-MX/Mexico City	143479339	760	<50
-CN/Hebei	221640936	60	<50
-GCP/us-central1	485460757	<50	<50
-PH/National Capital Region	1113636	<50	<50
-IQ/Erbil	11005344	<50	<50
-CH/Zurich	13625664	<50	<50
-CH/Geneva	47217166	<50	<50
-US/New York	47217166	<50	<50
-US/Maryland	47217166	<50	<50
-DE/North Rhine-Westphalia	43632113	160	<50
-US/Wyoming	43	<50	<50
-AWS/us-west-2	140118382	480	<50
-AWS/us-east-2	130342514	<50	<50
-CH/Vaud	9207024	60	<50
-US/District of Columbia	96472380	360	<50
-US/Iowa	47529446	180	<50
-DZ/Oran	51440443	<50	<50
-DZ/Annaba	8647056	<50	<50
-PA/Panamá	10088232	<50	<50
-PE/Junin	6419784	<50	<50
-SG/Singapore	4258020	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	364321987	52	6	6
+GitHub	13400958525	41406	830	866
+missing	6247225604	3249	93	103
+US/Virginia	1550322516	1781	84	42
+VPN	2838940410	498	105	15
+undetermined	5085725820	1058	117	156
+CN/Shanghai	1486835752	142	2	14
+HK/Hong Kong	172766379	22	0	3
+AWS/ap-southeast-1	163704492	18	18	0
+US/Illinois	117433057	7	4	3
+AWS/us-east-1	1094028292	166	28	13
+CA/Ontario	850249917	15	15	0
+US/Massachusetts	752219479	29	0	14
+CA/Quebec	755815585	13	13	0
+MX/Mexico City	143479339	756	43	30
+CN/Hebei	229684084	53	4	46
+GCP/us-central1	485460757	9	9	0
+AWS/us-east-2	303108893	21	4	1
+US/New York	69293362	2	2	0
+PH/National Capital Region	1113636	1	1	0
+IQ/Erbil	11005344	1	1	0
+CH/Zurich	13625664	1	1	0
+CH/Geneva	47217166	1	1	0
+US/Maryland	47217166	1	1	0
+DE/North Rhine-Westphalia	43632113	166	3	3
+US/Wyoming	43	1	0	1
+AWS/us-west-2	140118382	474	6	2
+CH/Vaud	9207024	54	2	1
+US/District of Columbia	96472380	350	4	2
+US/Iowa	47529446	173	2	1
+DZ/Oran	51440443	1	1	0
+DZ/Annaba	8647056	1	1	0
+PA/Panamá	10088232	1	1	0
+MA/Casablanca-Settat	1899732	1	1	0
+PE/Junin	6419784	1	1	0
+SG/Singapore	4258020	1	1	0

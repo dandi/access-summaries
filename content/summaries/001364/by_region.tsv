@@ -1,13 +1,14 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	1208833	<50	<50
-CN/Shanghai	805784	<50	<50
-AWS/us-east-1	605077	<50	<50
-undetermined	404713	<50	<50
-AWS/ap-southeast-1	200	<50	<50
-US/Massachusetts	201437	<50	<50
-US/California	252	<50	<50
-US/Virginia	172	<50	<50
-missing	11750	160	80
-GitHub	150	<50	<50
-US/Wisconsin	75	<50	<50
-MX/Guanajuato	75	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	1208833	27	27	0
+CN/Shanghai	805784	17	17	0
+AWS/us-east-1	605077	22	22	0
+undetermined	404713	33	18	6
+AWS/ap-southeast-1	400	4	4	0
+US/Massachusetts	201437	4	0	4
+US/California	252	3	3	0
+US/Virginia	172	2	2	0
+AWS/us-east-2	100	1	1	0
+missing	11300	150	76	56
+GitHub	300	4	2	2
+US/Wisconsin	75	1	1	0
+MX/Guanajuato	75	1	1	0

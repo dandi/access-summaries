@@ -1,51 +1,51 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	140857523350	42620	16520
-AWS/us-east-1	4820643778	8700	8440
-missing	24401418062	5280	4020
-US/California	7392660877	2100	1720
-GitHub	297148065	<50	<50
-CN/Shanghai	3371955195	60	<50
-US/Texas	10314869257	1920	1780
-US/Massachusetts	15156296881	1780	120
-US/New York	1320678126	140	140
-VPN	2512587206	420	420
-AWS/ap-southeast-1	46843530	<50	<50
-US/Virginia	592215888	420	400
-GB/England	5356033448	820	260
-US/Illinois	682319742	200	200
-GCP/us-central1	4214511594	5300	5300
-FR/Rhône-Alpes	3531364624	4480	4480
-GCP/europe-west4	47844	80	80
-bogon	100912419	<50	<50
-GCP/us-east1	31896	<50	<50
-GCP/us-west3	15948	<50	<50
-US/Connecticut	355640848	<50	<50
-US/Wyoming	155222800	<50	<50
-US/New Jersey	21802365	<50	<50
-US/Mississippi	155222800	<50	<50
-CN/Beijing	22868874	<50	<50
-US/Oregon	2187	<50	<50
-US/Washington	2363	<50	<50
-EC/Pichincha	1579	<50	<50
-IN/Tamil Nadu	784	<50	<50
-US/Maryland	1512	<50	<50
-US/South Carolina	111910742	<50	<50
-US/Iowa	8872	<50	<50
-SG/Singapore	111626220	<50	<50
-FR/Normandy	608	<50	<50
-DK/Capital Region	608	<50	<50
-US/North Carolina	664	<50	<50
-IT/Lombardy	332	<50	<50
-US/Utah	1216	<50	<50
-DE/Baden-Wurttemberg	332	<50	<50
-GB/Scotland	884	<50	<50
-US/Florida	3489146965	100	<50
-AWS/us-east-2	11922456	<50	<50
-GCP/europe-central2	111622892	<50	<50
-CN/Fujian	11791440	<50	<50
-US/Georgia	276	<50	<50
-PK/Punjab	276	<50	<50
-JO/Amman	276	<50	<50
-BD/Barisal Division	276	<50	<50
-ZA/Gauteng	276	<50	<50
-EC/Guayas	276	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	140859522877	42630	16532	83
+AWS/us-east-1	4831458961	8750	8481	35
+missing	24292947901	5225	3961	22
+US/California	7596803943	2097	1734	5
+GitHub	297148065	9	9	0
+CN/Shanghai	3371955195	54	20	3
+US/Texas	10315097409	1923	1780	7
+US/Massachusetts	15156296881	1772	120	19
+US/New York	1320678126	149	140	2
+VPN	2600331090	418	415	3
+AWS/ap-southeast-1	53726764	21	21	0
+US/Virginia	594849245	428	411	3
+GB/England	5356033448	825	261	3
+US/Illinois	682319742	199	198	1
+GCP/us-central1	4214511594	5305	5305	0
+FR/Rhône-Alpes	3531364624	4487	4483	2
+GCP/europe-west4	47844	72	72	0
+bogon	100912419	9	9	0
+GCP/us-east1	31896	48	48	0
+GCP/us-west3	15948	24	24	0
+US/Connecticut	355640848	21	21	0
+US/Wyoming	155222800	3	3	0
+US/New Jersey	21802365	4	4	0
+US/Mississippi	155222800	3	3	0
+CN/Beijing	22868874	8	8	0
+US/Oregon	2187	3	3	0
+US/Washington	2363	3	3	0
+EC/Pichincha	1579	1	1	0
+IN/Tamil Nadu	784	2	2	0
+US/Maryland	1512	4	4	0
+US/South Carolina	111910742	2	2	0
+US/Iowa	8872	2	2	0
+SG/Singapore	111626220	9	9	0
+FR/Normandy	608	2	2	0
+DK/Capital Region	608	2	2	0
+US/North Carolina	664	2	2	0
+IT/Lombardy	332	1	1	0
+US/Utah	1216	4	4	0
+DE/Baden-Wurttemberg	332	1	1	0
+GB/Scotland	884	3	3	0
+US/Florida	3489146965	91	0	4
+AWS/us-east-2	11922456	2	2	0
+GCP/europe-central2	111622892	1	1	0
+CN/Fujian	11791440	1	1	0
+US/Georgia	276	1	1	0
+PK/Punjab	276	1	1	0
+JO/Amman	276	1	1	0
+BD/Barisal Division	276	1	1	0
+ZA/Gauteng	276	1	1	0
+EC/Guayas	276	1	1	0

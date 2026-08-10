@@ -1,35 +1,36 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	28292467948	53980	6920
-GitHub	3119093258	7360	1180
-undetermined	5327167266	2160	940
-US/California	213055060	60	<50
-AWS/us-east-1	1134274704	280	240
-CN/Shanghai	802639656	180	120
-VPN	3390396454	1220	620
-AWS/ap-southeast-1	271311364	60	60
-GCP/us-east1	542008910	80	80
-GCP/asia-southeast1	1626026730	260	260
-GCP/us-west4	542008910	80	80
-US/Virginia	198806228	380	100
-US/New York	563152992	80	80
-JP/Kyoto	1653093494	660	320
-ES/Catalonia	2001710	<50	<50
-US/Indiana	2001710	<50	<50
-US/Illinois	17911724	<50	<50
-SG/Singapore	102695996	<50	<50
-CL/Santiago Metropolitan	4173738	<50	<50
-MX/Mexico City	115547956	520	80
-EG/Giza	3995988	<50	<50
-US/Arizona	9839550	<50	<50
-XK/Pristina	6354276	<50	<50
-VN/Phu Tho	9433152	<50	<50
-BD/Dhaka Division	10249068	<50	<50
-GCP/us-central1	29525816	<50	<50
-VN/Hanoi	5591560	<50	<50
-US/District of Columbia	3132928	60	<50
-NL/Limburg	23146448	<50	<50
-AWS/us-west-2	21942300	<50	<50
-US/Massachusetts	93489536	<50	<50
-CH/Vaud	1119774	<50	<50
-EC/Guayas	607774	<50	<50
-US/Iowa	23077442	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	28729324562	54080	6955	5681
+GitHub	3286798382	7875	1276	1298
+undetermined	5327167266	2150	943	381
+US/California	213055060	59	36	6
+AWS/us-east-1	1134274704	287	235	24
+CN/Shanghai	802639656	189	127	16
+VPN	3421035392	1223	630	103
+AWS/ap-southeast-1	335700580	95	95	0
+GCP/us-east1	542008910	87	87	0
+GCP/asia-southeast1	1626026730	261	261	0
+GCP/us-west4	542008910	87	87	0
+US/Virginia	198806228	389	94	87
+US/New York	563152992	88	88	0
+AWS/us-east-2	75068112	10	10	0
+JP/Kyoto	1653093494	665	320	70
+ES/Catalonia	2001710	1	1	0
+US/Indiana	2001710	1	1	0
+US/Illinois	17911724	36	4	4
+SG/Singapore	102695996	17	17	0
+CL/Santiago Metropolitan	4173738	5	5	0
+MX/Mexico City	115547956	514	81	41
+EG/Giza	3995988	1	1	0
+US/Arizona	9839550	22	2	2
+XK/Pristina	6354276	1	1	0
+VN/Phu Tho	9433152	1	1	0
+BD/Dhaka Division	10249068	1	1	0
+GCP/us-central1	29525816	5	5	0
+VN/Hanoi	5591560	1	1	0
+US/District of Columbia	3132928	56	0	3
+NL/Limburg	23146448	2	2	0
+AWS/us-west-2	21942300	40	6	2
+US/Massachusetts	93489536	12	0	12
+CH/Vaud	1119774	6	1	1
+EC/Guayas	607774	1	1	0
+US/Iowa	23077442	39	3	3

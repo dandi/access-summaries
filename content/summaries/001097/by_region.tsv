@@ -1,34 +1,35 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	457751809	120	120
-DK/Capital Region	470678177	1620	320
-GitHub	1109237993	4020	920
-missing	469559016	840	240
-US/Massachusetts	322032852	80	<50
-US/California	654420913	140	140
-undetermined	1027711440	2640	180
-US/Illinois	16322844	<50	<50
-VPN	177312581	60	<50
-US/Virginia	36158061	<50	<50
-CH/Vaud	1261204	<50	<50
-GCP/us-central1	224645630	<50	<50
-AWS/us-west-2	23293812	<50	<50
-MX/Mexico City	15116496	<50	<50
-CN/Beijing	34044824	<50	<50
-FR/Occitanie	15616440	<50	<50
-AWS/us-east-2	6301280	<50	<50
-CN/Guangdong	21917720	<50	<50
-CN/Shanghai	68565104	<50	<50
-SE/Stockholm	24931600	<50	<50
-US/New York	32268496	<50	<50
-SG/Singapore	68906840	<50	<50
-US/Wyoming	2567576	<50	<50
-DE/Bavaria	9315160	<50	<50
-US/Colorado	44073472	<50	<50
-HK/Hong Kong	4061496	<50	<50
-CN/Hubei	5961228	<50	<50
-TW/Taiwan	9315160	<50	<50
-PR/San Juan	9315160	<50	<50
-US/New Jersey	9315160	<50	<50
-KR/Gyeongsangbuk-do	9315160	<50	<50
-AWS/ap-southeast-5	9315160	<50	<50
-GCP/us-east4	9315160	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	457751809	118	112	3
+DK/Capital Region	470678177	1624	325	107
+GitHub	1400721095	5073	1179	725
+missing	295480242	815	154	164
+US/Massachusetts	322032852	84	0	84
+US/California	654420913	143	139	2
+AWS/ap-southeast-1	114628790	74	74	0
+AWS/us-east-2	69831671	19	17	1
+undetermined	1027711440	2648	175	41
+US/Illinois	16322844	44	9	4
+VPN	202612896	56	32	6
+US/Virginia	37508557	31	10	3
+CH/Vaud	1261204	4	1	1
+GCP/us-central1	224645630	33	33	0
+SE/Stockholm	40548040	5	5	0
+AWS/us-west-2	23293812	22	6	2
+MX/Mexico City	15116496	18	6	6
+CN/Beijing	38248876	9	4	1
+FR/Occitanie	15616440	2	2	0
+CN/Guangdong	21917720	3	3	0
+CN/Shanghai	68565104	10	8	1
+US/New York	32268496	4	4	0
+SG/Singapore	68906840	9	9	0
+US/Wyoming	2567576	11	2	1
+DE/Bavaria	9315160	2	0	1
+US/Colorado	44073472	5	5	0
+HK/Hong Kong	4061496	1	1	0
+CN/Hubei	5961228	1	1	0
+TW/Taiwan	9315160	1	1	0
+PR/San Juan	9315160	1	1	0
+US/New Jersey	9315160	1	1	0
+KR/Gyeongsangbuk-do	9315160	1	1	0
+AWS/ap-southeast-5	9315160	1	1	0
+GCP/us-east4	9315160	2	0	1

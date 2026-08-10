@@ -1,45 +1,45 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-west-2	26544148	80	<50
-GCP/us-east1	106463376	400	120
-AWS/us-east-1	375243840	120	100
-VPN	1816438116	360	340
-HK/Hong Kong	97913800	<50	<50
-missing	571201094	800	200
-US/California	109322336	<50	<50
-GCP/us-west4	2975845342	840	120
-GitHub	463586544	1120	260
-US/Pennsylvania	208220320	<50	<50
-US/New York	83342065	380	80
-AWS/ap-southeast-1	37573916	<50	<50
-undetermined	822738467	340	220
-GCP/us-central1	335044148	80	80
-US/Massachusetts	206985248	<50	<50
-GCP/us-west1	282600500	120	80
-CN/Shanghai	438101480	160	100
-US/Nevada	416440640	60	60
-GCP/europe-west4	206353152	40	<50
-MX/Mexico City	51343288	240	60
-GCP/us-west3	1486804	<50	<50
-US/Illinois	10550464	<50	<50
-DE/Bavaria	327280	<50	<50
-BD/Chittagong	1078640	<50	<50
-BD/Dhaka Division	327280	<50	<50
-BR/Amazonas	327280	<50	<50
-US/Wyoming	2065120	<50	<50
-SG/Singapore	975888	<50	<50
-NL/Limburg	648728	<50	<50
-NO/Innlandet	327160	<50	<50
-BR/São Paulo	351592	<50	<50
-BY/Homyel’ Voblasc’	351592	<50	<50
-DE/North Rhine-Westphalia	1223320	<50	<50
-US/Virginia	17910380	<50	<50
-VN/Lam Dong	751360	<50	<50
-AWS/us-east-2	216568	<50	<50
-DE/Saxony	1515976	<50	<50
-US/Connecticut	433136	<50	<50
-US/New Jersey	216568	<50	<50
-AWS/eu-central-1	649704	<50	<50
-CH/Vaud	318968	<50	<50
-VN/Khanh Hoa	493392	<50	<50
-VN/Ho Chi Minh City (HCMC)	445440	<50	<50
-CN/Beijing	608576	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-west-2	26544148	82	6	2
+GCP/us-east1	106463376	408	120	30
+AWS/us-east-1	375243840	115	91	2
+VPN	1817110948	363	336	12
+HK/Hong Kong	97913800	12	0	1
+missing	334433930	188	58	37
+US/California	109322336	49	25	4
+GCP/us-west4	3100011242	1411	236	60
+GitHub	472577680	1174	267	165
+US/Pennsylvania	208220320	30	30	0
+US/New York	83342065	379	83	61
+AWS/ap-southeast-1	49183372	39	39	0
+undetermined	822738467	348	217	44
+GCP/us-central1	335044148	80	80	0
+US/Massachusetts	206985248	28	1	26
+GCP/us-west1	282600500	122	90	30
+CN/Shanghai	438101480	152	108	3
+US/Nevada	416440640	60	60	0
+GCP/europe-west4	206353152	50	19	7
+MX/Mexico City	51343288	237	61	41
+AWS/us-east-2	100302248	6	5	1
+GCP/us-west3	1486804	7	1	1
+US/Illinois	10550464	43	15	4
+DE/Bavaria	327280	1	1	0
+BD/Chittagong	1078640	2	2	0
+BD/Dhaka Division	327280	1	1	0
+BR/Amazonas	327280	1	1	0
+US/Wyoming	2065120	11	2	1
+SG/Singapore	975888	2	2	0
+NL/Limburg	648728	1	1	0
+NO/Innlandet	327160	1	1	0
+BR/São Paulo	351592	1	1	0
+BY/Homyel’ Voblasc’	351592	1	1	0
+DE/North Rhine-Westphalia	1223320	4	4	0
+US/Virginia	18518956	18	6	3
+VN/Lam Dong	751360	1	1	0
+DE/Saxony	1515976	9	5	1
+US/Connecticut	433136	2	2	0
+US/New Jersey	216568	1	1	0
+AWS/eu-central-1	649704	3	3	0
+CH/Vaud	318968	2	1	1
+VN/Khanh Hoa	493392	1	1	0
+VN/Ho Chi Minh City (HCMC)	445440	1	1	0
+CN/Beijing	608576	3	1	1

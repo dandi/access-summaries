@@ -1,32 +1,32 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-SE/Stockholm	2867189320	580	<50
-US/California	1492959454	140	<50
-GCP/asia-southeast1	1566654465	220	<50
-GitHub	78560729	220	<50
-US/New York	3628302387	120	<50
-missing	1740433007	220	<50
-GCP/europe-west4	3679045984	480	<50
-GCP/us-east1	1503010407	200	<50
-VPN	3100451407	140	<50
-US/Virginia	677646221	<50	<50
-AWS/us-east-1	727990202	100	<50
-GCP/us-west1	252741812	<50	<50
-GCP/us-west4	37999375	<50	<50
-US/New Jersey	104766119	<50	<50
-undetermined	2625095270	240	<50
-US/Connecticut	44535386	<50	<50
-US/Massachusetts	677262221	<50	<50
-KE/Nairobi County	223196198	<50	<50
-AWS/us-east-2	27145101	<50	<50
-IN/Delhi	677262221	<50	<50
-HK/Hong Kong	26072184	<50	<50
-MX/Mexico City	26099068	<50	<50
-US/Illinois	96000	<50	<50
-GCP/us-central1	1028185092	<50	<50
-AWS/ap-southeast-1	22534752	<50	<50
-TW/Taipei	677262221	<50	<50
-FR/Île-de-France	1354524442	<50	<50
-CH/Vaud	42901112	<50	<50
-US/District of Columbia	5571650	<50	<50
-KR/Seoul	677262221	<50	<50
-US/Wyoming	32000	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+SE/Stockholm	2867189320	580	8	10
+US/California	1492959454	139	4	2
+GCP/asia-southeast1	1566654465	225	0	2
+GitHub	78624729	213	5	128
+US/New York	3628302387	121	9	5
+missing	1809918607	278	7	10
+GCP/europe-west4	3679045984	487	0	1
+GCP/us-east1	1503010407	208	0	2
+VPN	3101065807	140	19	14
+US/Virginia	677646221	13	1	6
+AWS/us-east-1	727990202	92	5	2
+GCP/us-west1	252741812	47	1	4
+GCP/us-west4	37999375	6	0	1
+US/New Jersey	104766119	27	0	1
+undetermined	2625095270	230	21	19
+US/Connecticut	44535386	10	0	1
+US/Massachusetts	677262221	13	0	1
+KE/Nairobi County	223196198	33	0	1
+AWS/us-east-2	27145101	6	0	1
+IN/Delhi	677262221	1	1	0
+HK/Hong Kong	26072184	1	1	0
+MX/Mexico City	26099068	38	4	4
+US/Illinois	96000	3	0	3
+GCP/us-central1	1028185092	3	3	0
+AWS/ap-southeast-1	25286088	4	4	0
+TW/Taipei	677262221	1	1	0
+FR/Île-de-France	1354524442	2	2	0
+CH/Vaud	42901112	19	1	1
+US/District of Columbia	5571650	31	2	1
+KR/Seoul	677262221	1	1	0
+US/Wyoming	32000	1	0	1

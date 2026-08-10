@@ -1,59 +1,62 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	36174321314	6440	1040
-GitHub	59198913163	261960	2660
-AWS/ap-southeast-1	4540369601	360	360
-AWS/us-east-1	20981123669	2720	500
-US/Massachusetts	11833288888	440	<50
-VPN	4117541735	6960	500
-MX/Mexico City	184621587	780	80
-CN/Hebei	5442089373	240	200
-missing	12680239141	30200	1180
-US/Illinois	1948426194	7860	520
-US/Iowa	3523342842	14440	200
-TR/Ankara	9508347484	13800	380
-BD/Khulna Division	2096256	<50	<50
-US/California	96061694	420	<50
-US/Virginia	1178040435	4660	60
-AE/Sharjah	1113636	<50	<50
-VN/Ho Chi Minh City (HCMC)	45069504	<50	<50
-US/Wyoming	175158922	900	<50
-BR/São Paulo	11398392	<50	<50
-GCP/us-central1	167622099	<50	<50
-NP/Bagmati Province	2751336	<50	<50
-BD/Dhaka Division	19979940	<50	<50
-US/Arizona	83279486	380	<50
-CL/Biobio	4651068	<50	<50
-QA/Baladiyat ad Dawhah	851604	<50	<50
-CA/Ontario	187115124	<50	<50
-AWS/ap-northeast-1	558719677	<50	<50
-HK/Yau Tsim Mong District	16311492	<50	<50
-ES/Catalonia	54790847	160	<50
-PK/Khyber Pakhtunkhwa	11987964	<50	<50
-NI/Managua Department	4978608	<50	<50
-NL/Limburg	46874788	<50	<50
-AR/Cordoba	13298124	<50	<50
-GR/Attica	2489304	<50	<50
-CH/Vaud	7470863	<50	<50
-US/District of Columbia	16810756	80	<50
-VN/Hai Phong	8647056	<50	<50
-MX/Nuevo León	8909088	<50	<50
-VE/Zulia	4716576	<50	<50
-IQ/Diyala	3340908	<50	<50
-BR/Federal District	5764704	<50	<50
-PE/Lima Province	17761026	<50	<50
-US/Florida	26909769	<50	<50
-GE/Imereti	3013368	<50	<50
-VN/Hanoi	11922456	<50	<50
-RO/Vaslui County	10808820	<50	<50
-PK/Punjab	18276732	<50	<50
-MA/Casablanca-Settat	7729944	<50	<50
-GCP/europe-west4	36939165	160	<50
-VN/Da Nang City	10546788	<50	<50
-VE/Distrito Federal	8581548	<50	<50
-JO/Amman	23320848	<50	<50
-BR/Rio Grande do Sul	11136360	<50	<50
-MX/Michoacán	2030748	<50	<50
-CR/Limón Province	15197856	<50	<50
-AR/Buenos Aires	6026736	<50	<50
-BR/Rio de Janeiro	4061496	<50	<50
-US/Vermont	20369200	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+undetermined	36174321314	6437	1039	352
+GitHub	62913978232	280403	2809	2068
+AWS/ap-southeast-1	5151755765	710	710	0
+AWS/us-east-1	20981123669	2713	502	476
+US/Massachusetts	11833288888	450	0	327
+VPN	4117541735	6952	501	103
+MX/Mexico City	184621587	777	71	49
+CN/Hebei	5722493203	258	198	55
+AWS/us-east-2	3290483345	97	97	0
+missing	13377779196	37794	930	276
+US/Illinois	1983474739	8049	522	510
+US/Iowa	3523342842	14436	207	197
+TR/Ankara	9508347484	13797	383	20
+BD/Khulna Division	2096256	1	1	0
+US/California	96061694	411	5	6
+US/Virginia	1216438043	4859	55	49
+AE/Sharjah	1113636	1	1	0
+VN/Ho Chi Minh City (HCMC)	45069504	4	4	0
+US/Wyoming	175158922	901	8	4
+IE/Leinster	5306148	1	1	0
+BR/São Paulo	11398392	1	1	0
+GCP/us-central1	167622099	8	8	0
+NP/Bagmati Province	2751336	1	1	0
+BD/Dhaka Division	19979940	3	3	0
+US/Arizona	83279486	377	8	4
+CL/Biobio	4651068	1	1	0
+QA/Baladiyat ad Dawhah	851604	1	1	0
+CA/Ontario	187115124	11	11	0
+AWS/ap-northeast-1	558719677	21	21	0
+HK/Yau Tsim Mong District	16311492	2	2	0
+TR/Konya	80181709	3	3	0
+ES/Catalonia	54790847	157	2	2
+PK/Khyber Pakhtunkhwa	11987964	1	1	0
+NI/Managua Department	4978608	1	1	0
+NL/Limburg	46874788	2	2	0
+AR/Cordoba	13298124	1	1	0
+GR/Attica	2489304	1	1	0
+CH/Vaud	7470863	32	2	2
+US/District of Columbia	16810756	78	4	2
+VN/Hai Phong	8647056	1	1	0
+MX/Nuevo León	8909088	1	1	0
+VE/Zulia	4716576	1	1	0
+IQ/Diyala	3340908	1	1	0
+BR/Federal District	5764704	1	1	0
+PE/Lima Province	17761026	2	2	0
+US/Florida	26909769	1	1	0
+GE/Imereti	3013368	1	1	0
+VN/Hanoi	11922456	1	1	0
+RO/Vaslui County	10808820	1	1	0
+PK/Punjab	18276732	3	3	0
+MA/Casablanca-Settat	7729944	1	1	0
+GCP/europe-west4	36939165	159	3	1
+VN/Da Nang City	10546788	1	1	0
+VE/Distrito Federal	8581548	1	1	0
+JO/Amman	23320848	1	1	0
+BR/Rio Grande do Sul	11136360	1	1	0
+MX/Michoacán	2030748	1	1	0
+CR/Limón Province	15197856	1	1	0
+AR/Buenos Aires	6026736	1	1	0
+BR/Rio de Janeiro	4061496	1	1	0
+US/Vermont	20369200	42	3	1

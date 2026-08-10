@@ -1,104 +1,120 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-GitHub	2273666712	17660	6080
-US/Virginia	63624429	680	260
-AWS/us-east-1	330904168	1720	1720
-CN/Shanghai	248974288	1300	1300
-US/Massachusetts	72079680	380	<50
-undetermined	594937208	3460	2520
-VPN	376763496	1960	1940
-GB/Scotland	55104960	280	280
-US/Ohio	55299432	300	280
-AWS/ap-southeast-1	76435024	400	400
-US/California	72934848	380	380
-US/Illinois	32933216	200	160
-missing	231385032	1400	1020
-SG/Singapore	2118440	<50	<50
-VE/Distrito Federal	183224	<50	<50
-GB/England	384176	<50	<50
-US/Pennsylvania	610832	<50	<50
-AWS/us-east-2	576264	<50	<50
-MX/Mexico City	11732336	80	<50
-GCP/us-central1	1711144	<50	<50
-VN/Hanoi	1149136	<50	<50
-US/New York	7093720	<50	<50
-PK/Sindh	192088	<50	<50
-US/South Carolina	2892016	<50	<50
-TT/Port of Spain	192088	<50	<50
-US/Iowa	8612064	60	<50
-US/Texas	3276440	<50	<50
-VN/Phu Tho	192088	<50	<50
-GCP/us-east1	196440	<50	<50
-RU/Moscow Oblast	192088	<50	<50
-AE/Dubai	192088	<50	<50
-VE/Zulia	183256	<50	<50
-LT/Vilnius	194824	<50	<50
-US/New Jersey	194824	<50	<50
-VN/Thanh Hóa Province	576264	<50	<50
-UY/Maldonado	375312	<50	<50
-US/Wyoming	4259792	<50	<50
-PH/Calabarzon	192088	<50	<50
-BR/Minas Gerais	776560	<50	<50
-VN/Ninh Binh	183256	<50	<50
-MX/Guanajuato	192088	<50	<50
-BR/Rio Grande do Sul	579000	<50	<50
-TN/Ariana Governorate	192088	<50	<50
-VN/Da Nang City	192088	<50	<50
-AR/Buenos Aires	576264	<50	<50
-UZ/Tashkent	192088	<50	<50
-LB/Mount Lebanon	192088	<50	<50
-VN/Dong Nai	192088	<50	<50
-PA/Chiriquí Province	183256	<50	<50
-SY/Damascus Governorate	192088	<50	<50
-CL/Santiago Metropolitan	192088	<50	<50
-BR/Goiás	183224	<50	<50
-BR/Rio de Janeiro	183224	<50	<50
-EC/Pichincha	192088	<50	<50
-AT/State of Vienna	192088	<50	<50
-PT/Lisbon	192088	<50	<50
-MN/Ulaanbaatar	192088	<50	<50
-UA/Kirovohrad	194824	<50	<50
-VN/Ho Chi Minh City (HCMC)	576264	<50	<50
-IN/Haryana	194824	<50	<50
-BR/Federal District	375312	<50	<50
-BR/São Paulo	192088	<50	<50
-CR/Alajuela Province	192088	<50	<50
-MA/Tanger-Tetouan-Al Hoceima	384176	<50	<50
-VN/Dak Lak	183256	<50	<50
-VE/Vargas	192088	<50	<50
-HK/Yau Tsim Mong District	366544	<50	<50
-VE/Lara	192088	<50	<50
-CH/Vaud	571312	<50	<50
-IN/Tripura	183256	<50	<50
-JP/Tokyo	570168	<50	<50
-US/Arizona	2305056	<50	<50
-VE/Aragua	192088	<50	<50
-TR/Istanbul	192088	<50	<50
-RU/Rostov	194824	<50	<50
-MX/Baja California Sur	194824	<50	<50
-PY/Central Department	194824	<50	<50
-CA/Quebec	386912	<50	<50
-JO/Irbid	194824	<50	<50
-FR/Hauts-de-France	194824	<50	<50
-VE/Falcón	192088	<50	<50
-PH/Central Luzon	192088	<50	<50
-ES/Madrid	192088	<50	<50
-NG/Enugu State	192088	<50	<50
-UY/Montevideo Department	192088	<50	<50
-PE/Lima Province	192088	<50	<50
-US/Connecticut	192088	<50	<50
-VN/Quảng Ninh	192088	<50	<50
-VN/Bac Ninh	192088	<50	<50
-JM/Saint Thomas Parish	192088	<50	<50
-CA/Ontario	192088	<50	<50
-CN/Beijing	183224	<50	<50
-NG/Lagos	192088	<50	<50
-MA/Casablanca-Settat	386912	<50	<50
-ID/Jakarta	192088	<50	<50
-AZ/Abşeron	192088	<50	<50
-PK/Punjab	192088	<50	<50
-ZA/Gauteng	183224	<50	<50
-VE/Miranda	183224	<50	<50
-BD/Sylhet Division	192088	<50	<50
-BD/Dhaka Division	192088	<50	<50
-AU/Victoria	192088	<50	<50
-BR/Paraná	192088	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GitHub	2432998768	18787	6573	5695
+US/Virginia	66266013	710	268	90
+AWS/us-east-1	330904168	1723	1723	0
+CN/Shanghai	248974288	1292	1292	0
+US/Massachusetts	72079680	373	4	369
+undetermined	595321384	3470	2529	901
+VPN	378101984	1976	1952	17
+GB/Scotland	55104960	288	288	0
+US/Ohio	55299432	291	289	1
+AWS/ap-southeast-1	123883624	645	645	0
+US/California	73118072	384	373	7
+US/Illinois	32933216	192	150	13
+missing	200942696	1299	795	181
+AWS/us-east-2	14395032	75	73	2
+SG/Singapore	2118440	11	11	0
+VE/Distrito Federal	183224	1	1	0
+GB/England	384176	2	2	0
+US/Pennsylvania	610832	6	1	1
+MX/Mexico City	11732336	80	40	40
+GCP/us-central1	1711144	9	9	0
+VN/Hanoi	1716568	9	9	0
+US/New York	7285808	38	38	0
+PK/Sindh	192088	1	1	0
+US/South Carolina	2892016	15	15	0
+TT/Port of Spain	192088	1	1	0
+EG/Cairo	192088	1	1	0
+MX/Guanajuato	384176	2	2	0
+US/Iowa	8612064	66	22	11
+US/Texas	3468528	18	18	0
+VN/Phu Tho	192088	1	1	0
+GCP/us-east1	196440	1	1	0
+VE/Anzoátegui	192088	1	1	0
+VN/Khanh Hoa	194824	1	1	0
+RU/Moscow Oblast	192088	1	1	0
+AE/Dubai	192088	1	1	0
+VE/Zulia	183256	1	1	0
+VN/Ho Chi Minh City (HCMC)	1143664	6	6	0
+TW/Taiwan	192088	1	1	0
+LT/Vilnius	194824	1	1	0
+US/New Jersey	194824	1	1	0
+VN/Thanh Hóa Province	576264	3	3	0
+UY/Maldonado	375312	2	2	0
+US/Wyoming	4259792	33	11	7
+PH/Calabarzon	192088	1	1	0
+BR/Minas Gerais	968648	5	5	0
+VN/Ninh Binh	183256	1	1	0
+BR/Rio Grande do Sul	762224	4	4	0
+BR/São Paulo	567432	3	3	0
+TN/Ariana Governorate	192088	1	1	0
+VN/Da Nang City	192088	1	1	0
+AR/Buenos Aires	576264	3	3	0
+UZ/Tashkent	192088	1	1	0
+LB/Mount Lebanon	192088	1	1	0
+NG/FCT	192088	1	1	0
+VN/Dong Nai	192088	1	1	0
+PA/Chiriquí Province	183256	1	1	0
+SY/Damascus Governorate	192088	1	1	0
+CO/Arauca Department	192088	1	1	0
+CL/Santiago Metropolitan	375344	2	2	0
+BR/Goiás	375312	2	2	0
+TR/Istanbul	384176	2	2	0
+BR/Rio de Janeiro	375312	2	2	0
+IN/Haryana	378048	2	2	0
+EC/Pichincha	192088	1	1	0
+AT/State of Vienna	192088	1	1	0
+PT/Lisbon	192088	1	1	0
+MN/Ulaanbaatar	192088	1	1	0
+UA/Kirovohrad	194824	1	1	0
+BR/Federal District	375312	2	2	0
+CR/Alajuela Province	192088	1	1	0
+MA/Tanger-Tetouan-Al Hoceima	384176	2	2	0
+VN/Dak Lak	183256	1	1	0
+VE/Vargas	192088	1	1	0
+MY/Selangor	194824	1	1	0
+HK/Yau Tsim Mong District	366544	2	2	0
+BR/Paraná	384176	2	2	0
+VE/Lara	192088	1	1	0
+CH/Vaud	571312	4	2	1
+IN/Tripura	183256	1	1	0
+JP/Tokyo	753424	4	4	0
+US/Arizona	2305056	18	6	3
+JO/Amman	192088	1	1	0
+VE/Aragua	192088	1	1	0
+KE/Nairobi County	194824	1	1	0
+RU/Rostov	194824	1	1	0
+PK/Punjab	384176	2	2	0
+VN/Dong Thap	192088	1	1	0
+MX/Baja California Sur	194824	1	1	0
+PY/Central Department	194824	1	1	0
+CA/Quebec	386912	2	2	0
+JO/Irbid	194824	1	1	0
+FR/Hauts-de-France	194824	1	1	0
+US/Delaware	192088	1	1	0
+VE/Falcón	192088	1	1	0
+FR/Rhône-Alpes	194824	1	1	0
+PH/Central Luzon	192088	1	1	0
+ES/Madrid	192088	1	1	0
+NG/Enugu State	192088	1	1	0
+UY/Montevideo Department	192088	1	1	0
+HU/Budapest	192088	1	1	0
+PE/Lima Province	192088	1	1	0
+US/Connecticut	192088	1	1	0
+MA/Casablanca-Settat	581736	3	3	0
+VN/Quảng Ninh	192088	1	1	0
+VN/Bac Ninh	192088	1	1	0
+JM/Saint Thomas Parish	192088	1	1	0
+CA/Ontario	192088	1	1	0
+CN/Beijing	183224	1	1	0
+IT/The Marches	183224	1	1	0
+NG/Lagos	192088	1	1	0
+ID/Jakarta	192088	1	1	0
+AZ/Abşeron	192088	1	1	0
+ZA/Gauteng	375312	2	2	0
+DZ/Blida	194824	1	1	0
+VE/Miranda	183224	1	1	0
+BD/Sylhet Division	192088	1	1	0
+US/Georgia	192088	1	1	0
+BD/Dhaka Division	192088	1	1	0
+AU/Victoria	192088	1	1	0

@@ -1,49 +1,50 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	42349856864	5080	<50
-VPN	111457313576	1060	340
-AWS/us-east-1	95750406180	11500	120
-US/Massachusetts	95527711548	1780	<50
-undetermined	58434301630	2560	160
-US/New York	600756444	500	80
-GitHub	2058962988	2900	280
-CN/Shanghai	161012375389	13280	<50
-AWS/ap-southeast-1	320399628	<50	<50
-US/District of Columbia	70617624	<50	<50
-MX/Mexico City	166348140	500	80
-missing	5294317497	820	100
-US/Iowa	49305524	80	<50
-GCP/us-central1	1862839044	<50	<50
-VN/Hanoi	33081540	<50	<50
-GCP/asia-south1	12295804	<50	<50
-CH/Vaud	3932344	<50	<50
-DE/Baden-Wurttemberg	976914320	<50	<50
-TR/Istanbul	12211588	<50	<50
-SG/Singapore	38453196	<50	<50
-US/Virginia	5653236	<50	<50
-US/Wyoming	20066820	<50	<50
-VN/Ho Chi Minh City (HCMC)	22010688	<50	<50
-BD/Dhaka Division	917112	<50	<50
-VE/Distrito Federal	2096256	<50	<50
-KH/Phnom Penh	18538764	<50	<50
-PE/Lambayeque	4323528	<50	<50
-US/Ohio	49327524	<50	<50
-NP/Koshi	16114968	<50	<50
-AWS/us-west-2	15109192	<50	<50
-VN/Hưng Yên Province	6092244	<50	<50
-CL/Santiago Metropolitan	6943848	<50	<50
-DO/La Altagracia Province	3406416	<50	<50
-HK/Hong Kong	1048129	<50	<50
-BR/São Paulo	5764704	<50	<50
-AE/Abu Dhabi	917112	<50	<50
-DO/Barahona Province	12774060	<50	<50
-US/Texas	12905076	<50	<50
-IN/Punjab	1	<50	<50
-AR/Buenos Aires	9891708	<50	<50
-VN/Ca Mau	5044116	<50	<50
-VN/Thai Nguyen	1768716	<50	<50
-NG/Lagos	14346252	<50	<50
-VE/Apure	4389036	<50	<50
-PH/Calabarzon	1703208	<50	<50
-OM/Ad Dakhiliyah	1113636	<50	<50
-CA/Prince Edward Island	14870316	<50	<50
-ID/North Sumatra	13167108	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	42349856864	5090	17	17
+VPN	111466030628	1075	351	82
+AWS/us-east-1	95750406180	11495	115	38
+US/Massachusetts	95527711548	1776	10	36
+undetermined	58520742662	2885	157	207
+US/New York	600756444	496	85	41
+GitHub	2243753592	3264	329	252
+CN/Shanghai	161023909725	13284	1	48
+AWS/ap-southeast-1	361604160	47	47	0
+US/District of Columbia	70617624	20	20	0
+MX/Mexico City	166348140	504	85	44
+missing	4780711349	778	71	45
+US/Iowa	49305524	71	6	2
+GCP/us-central1	1862839044	4	4	0
+VN/Hanoi	33081540	4	4	0
+GCP/asia-south1	12295804	44	6	4
+CH/Vaud	3932344	15	2	2
+DE/Baden-Wurttemberg	976914320	7	2	1
+TR/Istanbul	12211588	44	5	4
+AWS/us-east-2	485835720	1	1	0
+SG/Singapore	38453196	9	9	0
+US/Virginia	7696748	18	2	2
+US/Wyoming	20066820	44	4	1
+VN/Ho Chi Minh City (HCMC)	22010688	2	2	0
+BD/Dhaka Division	917112	1	1	0
+VE/Distrito Federal	2096256	1	1	0
+KH/Phnom Penh	18538764	1	1	0
+PE/Lambayeque	4323528	1	1	0
+US/Ohio	49327524	1	1	0
+NP/Koshi	16114968	1	1	0
+AWS/us-west-2	15109192	46	6	2
+VN/Hưng Yên Province	6092244	1	1	0
+CL/Santiago Metropolitan	6943848	1	1	0
+DO/La Altagracia Province	3406416	1	1	0
+HK/Hong Kong	1048129	2	1	1
+BR/São Paulo	5764704	1	1	0
+AE/Abu Dhabi	917112	1	1	0
+DO/Barahona Province	12774060	1	1	0
+US/Texas	12905076	1	1	0
+IN/Punjab	1	1	0	1
+AR/Buenos Aires	9891708	2	2	0
+VN/Ca Mau	5044116	1	1	0
+VN/Thai Nguyen	1768716	1	1	0
+NG/Lagos	14346252	1	1	0
+VE/Apure	4389036	1	1	0
+PH/Calabarzon	1703208	1	1	0
+OM/Ad Dakhiliyah	1113636	1	1	0
+CA/Prince Edward Island	14870316	1	1	0
+ID/North Sumatra	13167108	1	1	0

@@ -1,93 +1,98 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-CN/Shanghai	942000074	1340	1340
-US/Massachusetts	200207038	280	<50
-VPN	1523478795	2200	2140
-AWS/ap-southeast-1	139412374	200	200
-GCP/us-west1	2093338	<50	<50
-US/California	140075222	220	200
-missing	834284903	2320	960
-US/New York	313823351	720	400
-AWS/us-east-1	439167945	620	620
-GitHub	1755468214	6900	1760
-undetermined	834996300	2200	860
-GCP/us-east1	1440315	<50	<50
-BD/Dhaka Division	2102205	<50	<50
-MX/Nuevo León	697996	<50	<50
-KZ/Aktobe	695606	<50	<50
-AR/Buenos Aires F.D.	695606	<50	<50
-US/Iowa	10380336	<50	<50
-MX/Mexico City	36652337	120	<50
-PK/Punjab	1400145	<50	<50
-SG/Singapore	26300860	<50	<50
-VN/Dak Lak	1445637	<50	<50
-HK/Hong Kong	5660455	<50	<50
-US/Virginia	9055963	<50	<50
-BR/Rio Grande do Sul	705941	<50	<50
-US/Illinois	14409796	60	<50
-CH/Vaud	1769836	<50	<50
-UA/Lviv	710939	<50	<50
-ZW/Harare	718877	<50	<50
-VN/Ho Chi Minh City (HCMC)	4995269	<50	<50
-UY/Montevideo Department	1433890	<50	<50
-VN/Dong Thap	707192	<50	<50
-PK/Sindh	707192	<50	<50
-US/Arizona	6039420	<50	<50
-CL/Santiago Metropolitan	1423794	<50	<50
-VE/Vargas	705123	<50	<50
-AR/Buenos Aires	1433493	<50	<50
-SA/Mecca Region	701278	<50	<50
-BD/Chittagong	709250	<50	<50
-UZ/Tashkent	709250	<50	<50
-MA/Tanger-Tetouan-Al Hoceima	697060	<50	<50
-KZ/Almaty	697060	<50	<50
-MX/Tabasco	697060	<50	<50
-EC/Pichincha	1413179	<50	<50
-GCP/us-central1	3616931	<50	<50
-VN/Phu Tho	2100406	<50	<50
-TR/Tokat Province	716051	<50	<50
-DZ/Algiers	1429818	<50	<50
-VE/Miranda	698679	<50	<50
-VN/Quang Ngai	709215	<50	<50
-AWS/us-west-2	6098290	<50	<50
-MX/Hidalgo	709734	<50	<50
-IQ/Nineveh	709008	<50	<50
-JO/Amman	722840	<50	<50
-BR/Rio de Janeiro	1436216	<50	<50
-AR/Mendoza	695695	<50	<50
-VN/Hanoi	2085461	<50	<50
-US/Wyoming	3126536	<50	<50
-PH/Central Luzon	722449	<50	<50
-SA/Eastern Province	722449	<50	<50
-KE/Nairobi County	5055415	<50	<50
-US/New Jersey	327472	<50	<50
-IQ/Basra	712215	<50	<50
-IN/Mizoram	722095	<50	<50
-CO/Bogota D.C.	701134	<50	<50
-LK/Central Province	724391	<50	<50
-HK/Yau Tsim Mong District	2127936	<50	<50
-BY/Minsk City	697594	<50	<50
-MY/Selangor	725033	<50	<50
-ZA/Gauteng	710857	<50	<50
-PH/Calabarzon	1400815	<50	<50
-BR/Paraná	1402627	<50	<50
-UY/Maldonado	709523	<50	<50
-EC/Imbabura	709523	<50	<50
-GB/England	1409677	<50	<50
-LT/Vilnius	722178	<50	<50
-MD/Chișinău Municipality	705334	<50	<50
-GT/Guatemala	695019	<50	<50
-VN/Khanh Hoa	681607	<50	<50
-CR/Puntarenas Province	723511	<50	<50
-CO/Boyacá	713122	<50	<50
-TT/Port of Spain	700610	<50	<50
-BR/São Paulo	700610	<50	<50
-KE/Mombasa County	726797	<50	<50
-BD/Rajshahi Division	726797	<50	<50
-CN/Beijing	713530	<50	<50
-AR/Salta	704063	<50	<50
-AR/Cordoba	704063	<50	<50
-BR/Santa Catarina	726698	<50	<50
-ZA/Western Cape	726698	<50	<50
-OM/Muscat	714723	<50	<50
-MM/Yangon	714723	<50	<50
-VN/Hai Phong	722287	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+CN/Shanghai	942000074	1331	1331	0
+US/Massachusetts	200207038	283	4	279
+VPN	1533675077	2226	2156	31
+AWS/ap-southeast-1	268203076	379	379	0
+GCP/us-west1	2093338	3	3	0
+US/California	140075222	211	196	6
+missing	683087316	2172	735	409
+US/New York	313823351	715	390	101
+AWS/us-east-1	439167945	621	621	0
+GitHub	2082930290	8038	2106	1652
+undetermined	834996300	2201	862	726
+AWS/us-east-2	36149364	51	51	0
+GCP/us-east1	1440315	2	2	0
+BD/Dhaka Division	2102205	3	3	0
+MX/Nuevo León	697996	1	1	0
+KZ/Aktobe	695606	1	1	0
+AR/Buenos Aires F.D.	695606	1	1	0
+US/Iowa	10380336	42	10	5
+MX/Mexico City	36652337	124	40	40
+PK/Punjab	2797875	4	4	0
+SG/Singapore	26300860	37	37	0
+VN/Dak Lak	1445637	2	2	0
+HK/Hong Kong	5660455	8	8	0
+US/Virginia	9055963	42	9	7
+VN/Thanh Hóa Province	705941	1	1	0
+BR/Rio Grande do Sul	705941	1	1	0
+US/Illinois	15363866	61	15	12
+CH/Vaud	1769836	6	2	1
+UA/Lviv	710939	1	1	0
+ZW/Harare	718877	1	1	0
+VN/Ho Chi Minh City (HCMC)	4995269	7	7	0
+UY/Montevideo Department	1433890	2	2	0
+VN/Dong Thap	707192	1	1	0
+PK/Sindh	707192	1	1	0
+US/Arizona	6039420	24	6	3
+CL/Santiago Metropolitan	1423794	2	2	0
+VE/Vargas	705123	1	1	0
+AR/Buenos Aires	1433493	2	2	0
+SA/Mecca Region	701278	1	1	0
+BD/Chittagong	709250	1	1	0
+UZ/Tashkent	709250	1	1	0
+MA/Tanger-Tetouan-Al Hoceima	697060	1	1	0
+KZ/Almaty	697060	1	1	0
+MX/Tabasco	697060	1	1	0
+LB/North Lebanon	696542	1	1	0
+EC/Pichincha	1413179	2	2	0
+GCP/us-central1	3616931	5	5	0
+VN/Phu Tho	2100406	3	3	0
+TR/Tokat Province	716051	1	1	0
+DZ/Algiers	1429818	2	2	0
+VE/Miranda	698679	1	1	0
+JM/Kingston	695959	1	1	0
+CN/Beijing	1430665	2	2	0
+VN/Quang Ngai	709215	1	1	0
+AWS/us-west-2	6098290	22	6	2
+MX/Hidalgo	709734	1	1	0
+IQ/Nineveh	709008	1	1	0
+JO/Amman	722840	1	1	0
+BR/Rio de Janeiro	1436216	2	2	0
+AR/Mendoza	695695	1	1	0
+VN/Hanoi	2085461	3	3	0
+US/Wyoming	3126536	12	3	2
+PH/Central Luzon	722449	1	1	0
+SA/Eastern Province	722449	1	1	0
+KE/Nairobi County	5055415	19	5	1
+US/New Jersey	327472	3	0	1
+IQ/Basra	712215	1	1	0
+IN/Mizoram	722095	1	1	0
+CO/Bogota D.C.	701134	1	1	0
+LK/Central Province	724391	1	1	0
+HK/Yau Tsim Mong District	2127936	3	3	0
+BY/Minsk City	697594	1	1	0
+MY/Selangor	725033	1	1	0
+ZA/Gauteng	710857	1	1	0
+PH/Calabarzon	1400815	2	2	0
+BR/Paraná	1402627	2	2	0
+UY/Maldonado	709523	1	1	0
+EC/Imbabura	709523	1	1	0
+GB/England	1409677	2	2	0
+LT/Vilnius	722178	1	1	0
+MD/Chișinău Municipality	705334	1	1	0
+BR/Pernambuco	680386	1	1	0
+GT/Guatemala	695019	1	1	0
+VN/Khanh Hoa	681607	1	1	0
+CR/Puntarenas Province	723511	1	1	0
+CO/Boyacá	713122	1	1	0
+TT/Port of Spain	700610	1	1	0
+BR/São Paulo	700610	1	1	0
+KE/Mombasa County	726797	1	1	0
+BD/Rajshahi Division	726797	1	1	0
+AR/Salta	704063	1	1	0
+AR/Cordoba	704063	1	1	0
+BR/Santa Catarina	726698	1	1	0
+ZA/Western Cape	726698	1	1	0
+OM/Muscat	714723	1	1	0
+MM/Yangon	714723	1	1	0
+VN/Hai Phong	722287	1	1	0

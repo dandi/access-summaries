@@ -1,46 +1,48 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	11561245986	1680	360
-US/California	294924487	60	<50
-GitHub	1086679304	3600	200
-AWS/ap-southeast-1	124596216	<50	<50
-undetermined	1630681319	660	100
-CN/Shanghai	2652985363	320	<50
-HK/Hong Kong	140982195	<50	<50
-missing	1815360308	560	60
-US/Massachusetts	1674395747	60	<50
-AWS/us-east-1	720400455	80	80
-US/Illinois	249123793	<50	<50
-DE/Baden-Wurttemberg	1267438793	<50	<50
-SG/Singapore	200900541	<50	<50
-MX/Mexico City	84321788	280	<50
-US/Virginia	100074276	100	<50
-AR/Formosa	1	<50	<50
-US/Wisconsin	7926468	<50	<50
-GCP/us-central1	246111340	<50	<50
-CL/Santiago Metropolitan	173934396	<50	<50
-LB/South Governorate	4847592	<50	<50
-MX/Guanajuato	34834444	<50	<50
-DE/Bavaria	35241818	60	<50
-VN/Dak Lak	11791440	<50	<50
-VE/Distrito Federal	7074864	<50	<50
-CR/San José	11332884	<50	<50
-CH/Vaud	2653424	<50	<50
-BO/Potosí Department	35163808	<50	<50
-MA/Morocco	2030748	<50	<50
-MX/Chihuahua	8254008	<50	<50
-PS/West Bank	11332884	<50	<50
-MA/Marrakesh-Safi	1048128	<50	<50
-TN/Tunis Governorate	1768716	<50	<50
-ID/Jakarta	15656412	<50	<50
-MA/Souss-Massa	12774060	<50	<50
-JP/Tokyo	11066578	<50	<50
-US/New Jersey	4127004	<50	<50
-CN/Beijing	1429112	<50	<50
-EC/Guayas	22927800	<50	<50
-HK/Yau Tsim Mong District	9236628	<50	<50
-US/Iowa	4274942	<50	<50
-MX/Coahuila	35390451	<50	<50
-VN/Hanoi	10546788	<50	<50
-AWS/us-west-2	28847488	60	<50
-US/Arizona	6195900	<50	<50
-AR/Buenos Aires	35130031	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	11632395041	1680	371	128
+US/California	294924487	63	8	8
+GitHub	1104995456	3678	208	157
+AWS/ap-southeast-1	143265996	16	16	0
+undetermined	1630681319	663	107	36
+CN/Shanghai	2652985363	315	10	48
+HK/Hong Kong	140982195	20	0	4
+missing	1550717730	455	47	34
+US/Massachusetts	1674395747	57	0	47
+AWS/us-east-1	727868367	73	73	0
+US/Illinois	249123793	38	12	1
+DE/Baden-Wurttemberg	1267438793	36	36	0
+AWS/us-east-2	140982195	4	4	0
+SG/Singapore	200900541	8	8	0
+MX/Mexico City	84321788	286	45	44
+US/Virginia	100074276	104	10	4
+AR/Formosa	1	1	0	1
+US/Wisconsin	7926468	1	1	0
+GCP/us-central1	246111340	7	7	0
+CL/Santiago Metropolitan	173934396	5	5	0
+LB/South Governorate	4847592	1	1	0
+MX/Guanajuato	34834444	1	1	0
+DE/Bavaria	35241818	65	1	1
+VN/Dak Lak	11791440	1	1	0
+VE/Distrito Federal	7074864	2	2	0
+CR/San José	11332884	1	1	0
+CH/Vaud	2653424	10	2	1
+BO/Potosí Department	35163808	1	1	0
+MA/Morocco	2030748	1	1	0
+MX/Chihuahua	8254008	1	1	0
+PS/West Bank	11332884	1	1	0
+MA/Marrakesh-Safi	1048128	1	1	0
+TN/Tunis Governorate	1768716	1	1	0
+ID/Jakarta	15656412	2	2	0
+MA/Souss-Massa	12774060	1	1	0
+JP/Tokyo	11066578	14	1	1
+US/New Jersey	4127004	1	1	0
+CN/Beijing	1429112	6	1	1
+EC/Guayas	22927800	1	1	0
+HK/Yau Tsim Mong District	9236628	2	2	0
+US/Iowa	4274942	27	2	1
+MX/Coahuila	35390451	1	1	0
+BR/Paraná	8057484	1	1	0
+VN/Hanoi	10546788	1	1	0
+AWS/us-west-2	28847488	68	6	2
+US/Arizona	6195900	29	2	1
+AR/Buenos Aires	35130031	1	1	0

@@ -1,7 +1,9 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/Massachusetts	1114530	180	60
-missing	1546042	220	220
-undetermined	502409	140	100
-AWS/us-east-1	1208107	160	160
-US/Vermont	2269539	420	420
-IT/Tuscany	33881	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/Massachusetts	1114530	181	67	114
+AWS/ap-southeast-1	691635	91	91	0
+undetermined	502409	134	99	35
+AWS/us-east-1	1208107	165	165	0
+AWS/us-east-2	178801	23	23	0
+missing	675606	104	104	0
+US/Vermont	2269539	419	419	0
+IT/Tuscany	33881	3	3	0

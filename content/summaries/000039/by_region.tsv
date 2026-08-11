@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	87749633869	251996	11949	10448
+missing	87671548013	251912	11934	10445
 US/District of Columbia	22673623956	138	104	2
 AWS/us-east-2	125919771140	1485611	217	655
-GitHub	16990085732	462754	1463	1860
+GitHub	16996423896	462795	1465	1862
 undetermined	330127045016	20987	2636	1142
-VPN	87716530754	8363	1096	242
+VPN	87772616542	8399	1102	243
 HK/Hong Kong	3948624744	479	0	15
 CN/Shanghai	35897617392	3104	2	98
 US/Washington	30168641320	190	132	14
@@ -12,7 +12,7 @@ CN/Shanxi	4235113488	514	0	16
 US/California	32654928952	5474	195	64
 US/Massachusetts	45517185508	603	103	96
 CA/British Columbia	18487283152	98	98	0
-AWS/us-east-1	58569559928	9793	227	748
+AWS/us-east-1	58578319976	9794	228	748
 AWS/us-west-2	662505616	2237	106	102
 AWS/ap-southeast-1	1813926384	220	220	0
 US/Minnesota	384389456	46	0	1
@@ -53,7 +53,7 @@ BR/Bahia	3981840	1	1	0
 SA/Mecca Region	298892176	4	4	0
 MX/Tabasco	1260916	1	1	0
 DE/State of Berlin	987754480	2	2	0
-VN/Hanoi	11547336	4	4	0
+VN/Hanoi	12410068	5	5	0
 AE/Abu Dhabi	9423688	1	1	0
 PL/West Pomerania	995460	1	1	0
 UA/Kyiv Oblast	8162772	2	2	0
@@ -69,11 +69,12 @@ EC/Pichincha	1061824	1	1	0
 SG/Singapore	131848660	13	13	0
 US/Pennsylvania	63467872	84	4	2
 CL/Santiago Metropolitan	176735408	6	6	0
+BR/Rio Grande do Sul	6304580	2	2	0
 US/Kentucky	24089304	2	2	0
 DE/Saxony	11945520	1	1	0
 BR/Federal District	1128188	1	1	0
 RO/Vâlcea County	1061824	1	1	0
-VN/Ho Chi Minh City (HCMC)	34841100	4	4	0
+VN/Ho Chi Minh City (HCMC)	36765656	6	6	0
 VE/Distrito Federal	929096	1	1	0
 CA/Quebec	8162772	2	2	0
 MA/Marrakesh-Safi	4180932	1	1	0
@@ -85,7 +86,6 @@ US/Iowa	127602960	50	6	2
 BR/Santa Catarina	15860996	4	4	0
 IQ/Basra	7034584	1	1	0
 DO/Santo Domingo Province	1128188	1	1	0
-BR/Rio Grande do Sul	4844572	1	1	0
 MX/Jalisco	1327280	1	1	0
 CN/Tianjin	51519776	1	1	0
 JO/Amman	5242756	1	1	0
@@ -100,6 +100,7 @@ VN/Hai Phong	7830952	2	2	0
 TR/Diyarbakır Province	1260916	1	1	0
 CO/Quindío Department	2389104	1	1	0
 US/South Carolina	191290768	2	2	0
+DE/Baden-Wurttemberg	1327280	1	1	0
 DK/Capital Region	995460	1	1	0
 IN/Punjab	31313992	1	1	0
 GCP/us-west1	213169840	4	4	0
@@ -123,6 +124,7 @@ VN/Dak Lak	862732	1	1	0
 IN/Telangana	1128188	1	1	0
 ZA/Western Cape	1128188	1	1	0
 CZ/Prague	796368	1	1	0
+UA/Khmelnytskyi	1327280	1	1	0
 KZ/Aqmola	1061824	1	1	0
 VN/Da Nang City	1725464	2	2	0
 AR/San Luis	1327280	1	1	0

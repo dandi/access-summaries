@@ -2,11 +2,11 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/California	2390914212	9070	868	383
 undetermined	18168482104	23388	6062	711
 US/North Carolina	315719820	274	164	15
-GitHub	27456946028	389178	8232	28785
-SG/Singapore	1667860049	557	556	1
+GitHub	27498866272	389300	8249	28839
+SG/Singapore	1675520149	558	557	1
 US/New York	906371500	3494	292	77
-VPN	3093545759	5432	1039	168
-AWS/ap-southeast-1	350158072	130	130	0
+VPN	3100197947	5434	1041	168
+AWS/ap-southeast-1	356551268	131	131	0
 US/Virginia	9694617832	17458	3610	717
 AWS/us-east-2	2339794700	111898	482	247
 US/Maryland	152888572	55	55	0
@@ -14,12 +14,12 @@ US/New Jersey	26511392	18	7	4
 US/Ohio	168245060	163	72	2
 US/Arizona	82419624	2797	26	79
 CA/Quebec	853118488	322	322	0
-missing	3840241948	19657	1413	1482
+missing	3772254532	19525	1386	1428
 GCP/asia-east1	123558004	264	53	54
 CN/Shanghai	580191506	286	275	6
 CN/Beijing	166698877	338	115	89
 JP/Tokyo	2368480	10	2	1
-US/Texas	139998856	2464	48	86
+US/Texas	140603700	2465	49	86
 US/Mississippi	139600500	53	53	0
 AWS/us-east-1	2678102403	6643	272	213
 US/Michigan	136739516	73	3	54
@@ -98,8 +98,8 @@ UA/Lviv	6644036	1	1	0
 IQ/Nineveh	2153040	3	3	0
 LT/Vilnius	6644036	1	1	0
 MX/Baja California	1061824	1	1	0
+VN/Ho Chi Minh City (HCMC)	7372236	7	7	0
 US/Iowa	53613452	483	16	51
-VN/Ho Chi Minh City (HCMC)	6443140	6	6	0
 ZA/Gauteng	7542044	4	4	0
 SA/Mecca Region	276632	1	1	0
 IL/Central District	7273472	3	3	0
@@ -122,7 +122,7 @@ VE/Carabobo	258992	1	1	0
 CO/Antioquia	6012628	2	2	0
 US/Colorado	11038224	2	2	0
 IQ/Sulaymaniyah	5967548	2	2	0
-PK/Punjab	6946428	4	4	0
+PK/Punjab	9534624	5	5	0
 SY/Damascus Governorate	5868840	2	2	0
 TN/Tunis Governorate	737388	2	2	0
 UY/Montevideo Department	900784	2	1	1
@@ -143,6 +143,7 @@ US/Missouri	904696	2	2	0
 KZ/Almaty Region	904696	2	2	0
 MY/Sarawak	493516	1	1	0
 MX/Jalisco	493516	1	1	0
+MA/Casablanca-Settat	493516	1	1	0
 VN/Thừa Thiên Huế Province	813220	1	1	0
 UA/Mykolaiv	813220	1	1	0
 IN/Haryana	813220	1	1	0
@@ -155,13 +156,13 @@ UZ/Tashkent	12853816	3	3	0
 PK/Sindh	6416848	3	3	0
 TG/Maritime	707552	2	2	0
 IQ/Baghdad	357824	1	1	0
+BR/Minas Gerais	5707408	4	4	0
 IQ/Najaf	604844	1	1	0
 JM/Kingston	604844	1	1	0
 EG/Dakahlia	604844	1	1	0
 SV/San Salvador Department	444520	1	1	0
 VN/Hai Phong	444520	1	1	0
 KZ/Shymkent	344024	1	1	0
-BR/Minas Gerais	5349584	3	3	0
 BR/Ceará	4751624	1	1	0
 AR/Buenos Aires	2057016	3	3	0
 KZ/Astana	1128188	1	1	0
@@ -169,6 +170,7 @@ MX/Guanajuato	438876	1	1	0
 GE/Tbilisi	553420	1	1	0
 VN/Phu Tho	737940	2	2	0
 LB/Mount Lebanon	388212	1	1	0
+FR/Rhône-Alpes	388212	1	1	0
 CA/Alberta	426444	1	1	0
 US/Rhode Island	426444	1	1	0
 BD/Rajshahi Division	338864	1	1	0

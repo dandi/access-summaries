@@ -1,19 +1,20 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	22301491292	33994	6814	6077
+GitHub	22325319272	34055	6826	6085
 CN/Shanghai	2059240392	523	523	0
 US/Massachusetts	1272127058	327	10	305
-VPN	8039874280	2603	2219	50
+VPN	8064152168	2609	2225	50
 HK/Hong Kong	132361208	36	36	0
-AWS/us-east-1	7336928980	2089	1578	446
+AWS/us-east-1	7345813580	2091	1580	446
 US/California	658251356	621	177	43
-US/New York	2437559836	788	618	15
+US/New York	2439263044	789	619	15
 undetermined	8564929780	4038	2181	1053
 AWS/ap-southeast-1	1541809927	503	501	1
 CN/Shanxi	102512304	27	27	0
 GCP/us-central1	110017016	57	9	48
 AWS/us-east-2	1317582952	642	330	3
 US/Illinois	540044912	350	154	44
-missing	3198295070	2533	1215	350
+missing	3123952442	2452	1183	342
+BD/Dhaka Division	5307976	3	3	0
 BR/Rondônia	3671672	1	1	0
 CL/Santiago Metropolitan	6873724	6	6	0
 CH/Vaud	1740336	6	1	1
@@ -28,16 +29,19 @@ BR/Piauí	1834224	1	1	0
 KE/Nairobi County	3962836	2	2	0
 BR/São Paulo	12535740	4	4	0
 VN/Thừa Thiên Huế Province	3326148	2	2	0
-BR/Paraná	3363516	2	2	0
+MX/Sinaloa	2227272	1	1	0
+BR/Paraná	4608168	3	3	0
 MX/Querétaro	4827528	1	1	0
 BD/Rajshahi Division	6203196	2	2	0
 CD/Kinshasa	1703208	1	1	0
+FR/Île-de-France	1048128	1	1	0
 IQ/Dhi Qar	917112	1	1	0
-VN/Ho Chi Minh City (HCMC)	21368308	7	7	0
+VN/Ho Chi Minh City (HCMC)	23071516	9	9	0
 IQ/Baghdad	3209892	2	2	0
 IN/Punjab	2259452	2	2	0
 US/Kansas	4178216	1	1	0
 DO/Santo Domingo Province	5409432	1	1	0
+JO/Amman	2161764	2	2	0
 EC/Pichincha	2816844	2	2	0
 AR/Buenos Aires	8242688	2	2	0
 ZA/Gauteng	1113636	1	1	0
@@ -49,6 +53,7 @@ IE/Leinster	5389288	1	1	0
 CZ/Prague	1048128	1	1	0
 SA/Riyadh Region	3340908	3	3	0
 OM/Muscat	5031268	3	3	0
+AE/Sharjah	3078876	3	3	0
 AWS/us-west-2	16706504	22	6	2
 US/Arizona	22358120	47	8	4
 PK/Sindh	917112	1	1	0
@@ -56,7 +61,6 @@ UA/Vinnytsia	1113636	1	1	0
 US/Iowa	35892340	81	14	7
 GB/England	8798728	3	3	0
 PK/Punjab	10387880	6	6	0
-AE/Sharjah	2030748	2	2	0
 VE/Falcón	2714320	1	1	0
 UA/Cherkasy	2358288	1	1	0
 IN/Maharashtra	1048128	1	1	0
@@ -72,7 +76,7 @@ CA/Ontario	1768716	1	1	0
 BR/Bahia	11553896	2	2	0
 US/New Jersey	11987540	7	2	2
 SV/San Salvador Department	4860096	1	1	0
-AR/Buenos Aires F.D.	9937456	2	2	0
+AR/Buenos Aires F.D.	11313124	3	3	0
 MA/Rabat-Salé-Kénitra	2358288	2	2	0
 NG/Lagos	2227272	2	2	0
 CO/Quindío Department	1375668	1	1	0
@@ -86,15 +90,14 @@ UA/Kirovohrad	4383256	1	1	0
 UY/Canelones	917112	1	1	0
 RU/Moscow	1113636	1	1	0
 PH/Bicol Region	1441176	1	1	0
-JO/Amman	1113636	1	1	0
 IT/Apulia	1375668	1	1	0
 IN/Uttar Pradesh	917112	1	1	0
+VN/Hanoi	2554812	3	3	0
 UZ/Tashkent	1113636	1	1	0
 VN/Quảng Ninh	3124672	1	1	0
 IL/Central District	1048128	1	1	0
 NZ/Otago	1113636	1	1	0
 VN/Thai Nguyen	4498944	1	1	0
-VN/Hanoi	1703208	2	2	0
 NP/Madhesh	3340908	1	1	0
 BR/Pernambuco	8059312	3	3	0
 KZ/West Kazakhstan	1113636	1	1	0
@@ -124,7 +127,6 @@ ID/West Java	1113636	1	1	0
 TN/Tunis Governorate	2030748	2	2	0
 CO/Cundinamarca	1703208	1	1	0
 VN/Dong Thap	851604	1	1	0
-BD/Dhaka Division	3539260	2	2	0
 ID/Aceh	4862600	1	1	0
 VE/Zulia	1441176	1	1	0
 IN/Rajasthan	2096256	1	1	0
@@ -134,5 +136,6 @@ VE/Barinas	4096616	1	1	0
 ET/Addis Ababa	2751336	1	1	0
 TR/Istanbul	2358288	1	1	0
 MY/Pahang	1113636	1	1	0
+LT/Vilnius	3333448	1	1	0
 JP/Tokyo	2661920	4	1	1
 CN/Beijing	1158804	3	1	1

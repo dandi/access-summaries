@@ -1,7 +1,7 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/California	22232868965	100578	92	41
 HK/Hong Kong	2988618231	359	0	9
-GitHub	181750520880	4681600	1494	1081
+GitHub	182669258026	4683837	1496	1082
 US/Minnesota	518395680	62	0	1
 undetermined	118249372190	13021	488	290
 CN/Shanxi	2424440316	292	0	9
@@ -11,7 +11,7 @@ US/Massachusetts	17395695419	334	17	50
 CN/Shanghai	23498115911	1745	2	58
 AWS/ap-southeast-1	1058041252	135	135	0
 AWS/us-east-1	54512225006	9338	154	250
-missing	13831495302	168774	354	104
+missing	12894906240	166530	345	103
 GCP/us-west1	518395680	1	1	0
 US/New Mexico	13745152235	60	60	0
 US/Virginia	4720393007	268118	145	92
@@ -28,8 +28,10 @@ US/New York	6813742466	11373	31	16
 GCP/us-central1	1204168673	14	14	0
 US/Iowa	1199619928	3052	10	3
 IN/Kerala	929096	1	1	0
+VE/Zulia	2123648	2	2	0
 AR/Buenos Aires	3119108	2	2	0
 VN/Ho Chi Minh City (HCMC)	22546330	5	5	0
+BR/Goiás	1260916	1	1	0
 PK/Punjab	929096	1	1	0
 CL/Santiago Metropolitan	116694362	6	6	0
 US/Texas	165651810	91337	5	2
@@ -44,6 +46,7 @@ SE/Stockholm	80073818	16	0	1
 US/District of Columbia	40036909	1	1	0
 US/Pennsylvania	4114568	1	1	0
 MA/Casablanca-Settat	1460008	1	1	0
+PK/Sindh	2057284	2	2	0
 EC/Pichincha	3650020	1	1	0
 TR/Konya	862732	1	1	0
 KE/Nairobi County	1194552	1	1	0
@@ -54,10 +57,10 @@ VN/Gia Lai	862732	1	1	0
 LB/Mount Lebanon	3849112	1	1	0
 BO/La Paz Department	2057284	1	1	0
 CN/Beijing	1436312	5	1	1
-VE/Zulia	995460	1	1	0
 ES/Catalonia	1393644	1	1	0
 US/South Carolina	62893350	1	1	0
 IN/Delhi	1194552	1	1	0
+SY/Damascus Governorate	862732	1	1	0
 UA/Lviv	1128188	1	1	0
 IN/Maharashtra	1061824	1	1	0
 NG/Rivers State	1128188	1	1	0
@@ -65,8 +68,9 @@ DE/Baden-Wurttemberg	6039124	1	1	0
 VN/Da Nang City	6570036	1	1	0
 ES/Cantabria	1659100	1	1	0
 VN/An Giang	862732	1	1	0
-BR/Santa Catarina	2190012	1	1	0
+BR/Santa Catarina	13670984	2	2	0
 BR/Rio Grande do Sul	9622780	1	1	0
+KE/Mombasa County	1061824	1	1	0
 CA/Ontario	244928603	1	1	0
 PY/Alto Paraná Department	13073708	1	1	0
 KG/Bishkek	7631860	1	1	0

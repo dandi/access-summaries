@@ -1,5 +1,5 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	1742457680	4412	4110	75
+VPN	1744627168	4418	4115	76
 AWS/ap-southeast-1	1044104336	1883	1883	0
 CN/Shanghai	2623006016	4778	4778	0
 US/California	437060128	844	808	5
@@ -7,11 +7,12 @@ AWS/us-east-1	939569968	1711	1711	0
 US/Massachusetts	744902240	1340	1	1338
 undetermined	861046656	1482	776	552
 AWS/us-east-2	190321456	524	338	28
-missing	800530107	1812	1467	76
+missing	780150239	1749	1439	68
+AWS/ap-south-1	1776016	3	3	0
 NG/FCT	1550080	2	2	0
 AR/Misiones	727440	1	1	0
 ID/Bali	727440	1	1	0
-VN/Ho Chi Minh City (HCMC)	11926000	15	15	0
+VN/Ho Chi Minh City (HCMC)	12748640	16	16	0
 GCP/us-west1	24835280	47	32	2
 SG/Singapore	27401984	116	116	0
 GCP/us-east1	3421296	5	5	0
@@ -19,7 +20,7 @@ BD/Chittagong	2372720	3	3	0
 OM/Southeastern Governorate	822640	1	1	0
 BD/Dhaka Division	6485920	8	8	0
 US/Pennsylvania	90059712	313	76	16
-GitHub	529838712	2329	658	468
+GitHub	540609796	2376	671	475
 GB/England	30077472	54	54	0
 KR/Seoul	30790880	60	60	0
 US/Maryland	30985344	56	55	1
@@ -58,7 +59,7 @@ PE/Arequipa	727440	1	1	0
 BD/Khulna Division	727440	1	1	0
 UZ/Tashkent	4018000	5	5	0
 UY/Montevideo Department	1550080	2	2	0
-NG/Lagos	727440	1	1	0
+NG/Lagos	1550080	2	2	0
 MX/Veracruz	727440	1	1	0
 DZ/Sétif	727440	1	1	0
 US/Florida	2372720	3	3	0
@@ -66,7 +67,7 @@ CL/Biobio	822640	1	1	0
 VN/Dong Nai	1550080	2	2	0
 KE/Nairobi County	4018000	5	5	0
 US/Wyoming	3181104	18	6	4
-VN/Hanoi	8131200	10	10	0
+VN/Hanoi	8953840	11	11	0
 NI/Managua Department	1645280	2	2	0
 BR/Minas Gerais	3890000	5	5	0
 VN/Hà Tĩnh Province	822640	1	1	0
@@ -89,6 +90,7 @@ PK/Punjab	2211920	3	3	0
 MX/Sinaloa	822640	1	1	0
 UA/Kyiv City	727440	1	1	0
 AR/Chaco	727440	1	1	0
+EC/Guayas	822640	1	1	0
 SA/Mecca Region	727440	1	1	0
 HK/Yau Tsim Mong District	5377680	7	7	0
 PY/Alto Paraná Department	822640	1	1	0
@@ -108,7 +110,7 @@ SN/Dakar	822640	1	1	0
 IL/Jerusalem	822640	1	1	0
 MX/Tabasco	822640	1	1	0
 MA/Souss-Massa	822640	1	1	0
-PK/Sindh	2467920	3	3	0
+PK/Sindh	3195360	4	4	0
 ZA/Gauteng	1550080	2	2	0
 BR/Ceará	822640	1	1	0
 CZ/South Moravian	822640	1	1	0
@@ -143,9 +145,11 @@ MT/Saint Paul’s Bay	727440	1	1	0
 IQ/Duhok	822640	1	1	0
 AO/Luanda	822640	1	1	0
 VN/Tuyen Quang	822640	1	1	0
+IQ/Baghdad	822640	1	1	0
 CG/Brazzaville	822640	1	1	0
 GY/Demerara-Mahaica	822640	1	1	0
 VN/Da Nang City	822640	1	1	0
+TN/Tunis Governorate	822640	1	1	0
 IQ/Sulaymaniyah	727440	1	1	0
 AE/Abu Dhabi	1550080	2	2	0
 IQ/Babil	822640	1	1	0

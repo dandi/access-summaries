@@ -1,7 +1,7 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	2432998768	18787	6573	5695
+GitHub	2439879216	18841	6591	5706
 US/Virginia	66266013	710	268	90
-AWS/us-east-1	330904168	1723	1723	0
+AWS/us-east-1	331096256	1724	1724	0
 CN/Shanghai	248974288	1292	1292	0
 US/Massachusetts	72079680	373	4	369
 undetermined	595321384	3470	2529	901
@@ -9,13 +9,14 @@ VPN	378101984	1976	1952	17
 GB/Scotland	55104960	288	288	0
 US/Ohio	55299432	291	289	1
 AWS/ap-southeast-1	123883624	645	645	0
-US/California	73118072	384	373	7
+US/California	73310160	385	374	7
 US/Illinois	32933216	192	150	13
-missing	200942696	1299	795	181
 AWS/us-east-2	14395032	75	73	2
+AWS/ap-south-1	183256	1	1	0
+missing	190835504	1228	760	170
 SG/Singapore	2118440	11	11	0
 VE/Distrito Federal	183224	1	1	0
-GB/England	384176	2	2	0
+GB/England	576264	3	3	0
 US/Pennsylvania	610832	6	1	1
 MX/Mexico City	11732336	80	40	40
 GCP/us-central1	1711144	9	9	0
@@ -25,7 +26,7 @@ PK/Sindh	192088	1	1	0
 US/South Carolina	2892016	15	15	0
 TT/Port of Spain	192088	1	1	0
 EG/Cairo	192088	1	1	0
-MX/Guanajuato	384176	2	2	0
+MX/Guanajuato	567432	3	3	0
 US/Iowa	8612064	66	22	11
 US/Texas	3468528	18	18	0
 VN/Phu Tho	192088	1	1	0
@@ -35,18 +36,23 @@ VN/Khanh Hoa	194824	1	1	0
 RU/Moscow Oblast	192088	1	1	0
 AE/Dubai	192088	1	1	0
 VE/Zulia	183256	1	1	0
-VN/Ho Chi Minh City (HCMC)	1143664	6	6	0
+VN/Ho Chi Minh City (HCMC)	1335752	7	7	0
 TW/Taiwan	192088	1	1	0
 LT/Vilnius	194824	1	1	0
 US/New Jersey	194824	1	1	0
 VN/Thanh Hóa Province	576264	3	3	0
 UY/Maldonado	375312	2	2	0
+CO/Cundinamarca	183224	1	1	0
+TN/Sfax Governorate	183256	1	1	0
 US/Wyoming	4259792	33	11	7
 PH/Calabarzon	192088	1	1	0
+RO/Bucharest	194824	1	1	0
 BR/Minas Gerais	968648	5	5	0
 VN/Ninh Binh	183256	1	1	0
+MX/Jalisco	192088	1	1	0
 BR/Rio Grande do Sul	762224	4	4	0
 BR/São Paulo	567432	3	3	0
+TR/Antalya	183224	1	1	0
 TN/Ariana Governorate	192088	1	1	0
 VN/Da Nang City	192088	1	1	0
 AR/Buenos Aires	576264	3	3	0
@@ -60,10 +66,10 @@ CO/Arauca Department	192088	1	1	0
 CL/Santiago Metropolitan	375344	2	2	0
 BR/Goiás	375312	2	2	0
 TR/Istanbul	384176	2	2	0
-BR/Rio de Janeiro	375312	2	2	0
+BR/Rio de Janeiro	570136	3	3	0
 IN/Haryana	378048	2	2	0
 EC/Pichincha	192088	1	1	0
-AT/State of Vienna	192088	1	1	0
+AT/State of Vienna	384176	2	2	0
 PT/Lisbon	192088	1	1	0
 MN/Ulaanbaatar	192088	1	1	0
 UA/Kirovohrad	194824	1	1	0
@@ -73,8 +79,9 @@ MA/Tanger-Tetouan-Al Hoceima	384176	2	2	0
 VN/Dak Lak	183256	1	1	0
 VE/Vargas	192088	1	1	0
 MY/Selangor	194824	1	1	0
+AZ/Gǝncǝ	192088	1	1	0
 HK/Yau Tsim Mong District	366544	2	2	0
-BR/Paraná	384176	2	2	0
+BR/Paraná	576264	3	3	0
 VE/Lara	192088	1	1	0
 CH/Vaud	571312	4	2	1
 IN/Tripura	183256	1	1	0
@@ -83,8 +90,10 @@ US/Arizona	2305056	18	6	3
 JO/Amman	192088	1	1	0
 VE/Aragua	192088	1	1	0
 KE/Nairobi County	194824	1	1	0
+MX/Baja California	192088	1	1	0
 RU/Rostov	194824	1	1	0
 PK/Punjab	384176	2	2	0
+CO/Bogota D.C.	192088	1	1	0
 VN/Dong Thap	192088	1	1	0
 MX/Baja California Sur	194824	1	1	0
 PY/Central Department	194824	1	1	0

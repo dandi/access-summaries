@@ -1,20 +1,20 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 AWS/us-east-1	23389416263	2883	517	308
-VPN	106379471832	14335	2892	167
+VPN	106545807078	14337	2894	167
 undetermined	45775539308	6684	1222	2817
-GitHub	103527435150	361505	17042	16610
+GitHub	104513802266	366199	17367	16929
 US/California	8419139261	2185	50	112
 AWS/ap-southeast-1	2832172872	378	378	0
-CN/Shanghai	32668115593	3150	23	321
+CN/Shanghai	32699690449	3151	24	321
 US/Massachusetts	19360805120	570	0	320
 GCP/us-west1	61937494	1	1	0
-missing	18855655483	39653	2200	1974
+missing	17507014536	34931	1863	1640
 US/Washington	1193420433	3126	308	308
-CN/Hebei	5659393930	1504	99	1144
+CN/Hebei	5727647343	1521	100	1159
 US/Virginia	1766751975	7046	341	334
 AWS/us-east-2	3122653163	50	50	0
 SA/Mecca Region	8974596	2	2	0
-SG/Singapore	4269552277	86	86	0
+SG/Singapore	4274203345	88	88	0
 MX/Mexico City	305555066	782	70	44
 CI/Abidjan Autonomous District	22338228	2	2	0
 VN/Tuyen Quang	34522716	2	2	0
@@ -39,7 +39,7 @@ AL/Shkodër County	18538764	2	2	0
 HK/Yau Tsim Mong District	24565500	3	3	0
 MA/Casablanca-Settat	16245984	3	3	0
 BR/Rio Grande do Sul	2751336	1	1	0
-MN/Ulaanbaatar	15787428	1	1	0
+MN/Ulaanbaatar	34129668	2	2	0
 US/Iowa	168011474	516	6	3
 MX/México	10808820	1	1	0
 AR/Salta	6288768	1	1	0
@@ -81,9 +81,12 @@ MX/Nayarit	4716576	1	1	0
 BO/Cochabamba	7205880	1	1	0
 CR/Cartago Province	5633688	1	1	0
 UZ/Samarqand Region	917112	1	1	0
+ID/Lampung	1113636	1	1	0
 UA/Kyiv City	1703208	1	1	0
 BR/Santa Catarina	13822188	1	1	0
+GB/England	92900424	3	3	0
 KW/Hawalli	4782084	2	2	0
+VN/Khanh Hoa	1113636	1	1	0
 BR/Ceará	12643044	1	1	0
 RU/Yaroslavl Oblast	1506684	1	1	0
 MX/Chihuahua	1375668	1	1	0
@@ -103,10 +106,10 @@ CO/Bogota D.C.	11725932	3	3	0
 MX/Baja California	4258020	1	1	0
 IQ/Erbil	2751336	1	1	0
 IN/Delhi	1113636	1	1	0
+ID/Yogyakarta	11201868	2	2	0
 KG/Chuy Region	4651068	1	1	0
 US/Alabama	1048128	1	1	0
 BR/Paraná	7009356	1	1	0
-GB/England	27447852	2	2	0
 MY/Selangor	851604	1	1	0
 MA/Rabat-Salé-Kénitra	1768716	1	1	0
 KZ/Atyrau Oblisi	19783416	1	1	0
@@ -133,7 +136,6 @@ CH/Zurich	156421	20	0	1
 US/Texas	68580443	2	2	0
 IQ/Basra	49255583	1	1	0
 MA/Tanger-Tetouan-Al Hoceima	7336896	1	1	0
-ID/Yogyakarta	8057484	1	1	0
 MX/Guanajuato	5502672	1	1	0
 EC/Manabí	11332884	1	1	0
 SY/Damascus Governorate	4061496	1	1	0
@@ -153,6 +155,7 @@ ID/Central Java	7009356	1	1	0
 CL/Santiago Metropolitan	6485292	1	1	0
 IN/Haryana	2685828	1	1	0
 VE/Trujillo	27382344	2	2	0
+UA/Kharkiv	2292780	1	1	0
 PH/National Capital Region	9564168	1	1	0
 JO/Zarqa	8909088	1	1	0
 SA/Riyadh Region	6288768	1	1	0

@@ -1,16 +1,16 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	40805101319	191107	29827	20165
+missing	40788782579	191064	29811	20159
 undetermined	5203940252	181754	4540	956
 CN/Shanghai	406300876	624	624	0
-GitHub	6361620132	108278	4932	4684
+GitHub	6367356514	108308	4937	4689
 US/Massachusetts	146781813	205	5	200
 HK/Hong Kong	27608756	25	25	0
 AWS/us-east-2	132280675	187996	47	214
 SE/Västra Götaland	142552658	197	197	0
-VPN	1005496234	1433	1379	15
+VPN	1006960439	1436	1380	16
 CA/Ontario	143641561	198	198	0
 AWS/us-east-1	901170787	999	617	376
-US/California	257372819	3642	352	27
+US/California	257999611	3643	353	27
 NL/Flevoland	106519465	154	154	0
 AWS/ap-southeast-1	243134140	334	334	0
 US/Illinois	87349813	243	101	29
@@ -31,7 +31,7 @@ ID/West Java	585370	1	1	0
 CO/Santander Department	585370	1	1	0
 US/Michigan	585370	1	1	0
 DO/San Juan Province	339293	1	1	0
-GCP/us-central1	3306233	6	6	0
+GCP/us-central1	5791504	9	9	0
 VN/Ho Chi Minh City (HCMC)	2588784	3	3	0
 AZ/Baki	1039000	1	1	0
 MX/Mexico City	71014483	287	68	43
@@ -41,7 +41,7 @@ TN/Tunis Governorate	339336	1	1	0
 DZ/Algiers	339336	1	1	0
 SA/Mecca Region	1431090	2	2	0
 AR/Buenos Aires	4009599	5	5	0
-US/New York	5011404	4315	3	3
+US/New York	6100307	4316	4	3
 US/West Virginia	1129879	1	1	0
 US/Arizona	4428112	1370	2	4
 JO/Zarqa	557155	1	1	0
@@ -65,6 +65,7 @@ CN/Gansu	614930	2	0	1
 CA/British Columbia	307465	1	1	0
 DE/Free and Hanseatic City of Hamburg	307465	1	1	0
 CO/Bogota D.C.	2817455	4	4	0
+BR/Rio Grande do Sul	1458584	2	2	0
 US/Iowa	8764182	43	11	7
 VN/Hanoi	2135880	4	4	0
 ZA/Gauteng	800101	2	2	0
@@ -81,10 +82,13 @@ VE/Aragua	606618	1	1	0
 BD/Khulna Division	626792	1	1	0
 MX/Guanajuato	342985	1	1	0
 MY/Selangor	342985	1	1	0
+ES/Madrid	553998	1	1	0
+CO/Valle del Cauca Department	553998	1	1	0
 US/Tennessee	582035	1	1	0
 IN/Uttar Pradesh	582035	1	1	0
 VN/Quảng Ninh	410965	1	1	0
 BR/Paraná	1393644	1	1	0
+TR/Ankara	2124881	1	1	0
 BD/Chittagong	500485	1	1	0
 BD/Dhaka Division	3030444	4	4	0
 CH/Vaud	625724	4	2	1
@@ -93,7 +97,6 @@ NG/FCT	433476	1	1	0
 NA/Khomas Region	433476	1	1	0
 VN/Hai Phong	410957	1	1	0
 DE/North Rhine-Westphalia	4447874	17	4	3
-BR/Rio Grande do Sul	358292	1	1	0
 ES/Catalonia	358292	1	1	0
 GE/Tbilisi	358292	1	1	0
 AR/Cordoba	1113353	1	1	0
@@ -116,6 +119,7 @@ LT/Vilnius	227227	1	1	0
 EG/Giza	387284	1	1	0
 QA/Baladiyat ad Dawhah	575553	1	1	0
 AR/La Pampa	584018	1	1	0
+GH/Greater Accra	584018	1	1	0
 US/Missouri	2159211	3	1	1
 DE/Bavaria	1088903	1	1	0
 CO/Cesar Department	391907	1	1	0

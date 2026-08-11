@@ -1,16 +1,16 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	127805706467	90785	9701	8490
+missing	127706485124	90721	9682	8485
 US/Massachusetts	60406141571	1266	0	85
 US/California	30924877389	4497	20	44
 US/Vermont	133132275962	6388	190	12
 HK/Hong Kong	8700514751	1044	2	16
-AWS/us-east-1	62883000709	7439	345	85
-GitHub	11902802401	22866	1708	1478
+AWS/us-east-1	62890861669	7440	346	85
+GitHub	11914554247	22915	1715	1482
 CN/Shanghai	103566229206	7132	7	87
 undetermined	130426765253	6288	842	358
 US/Virginia	59534112018	121	107	2
 DK/Capital Region	49058776326	83	70	13
-VPN	111796147840	755	706	11
+VPN	111796491697	758	706	12
 AWS/ap-southeast-1	1621519524	205	205	0
 US/Illinois	901425844	50	34	2
 CN/Beijing	1787210654	362	88	87
@@ -18,15 +18,15 @@ IN/Haryana	1113636	1	1	0
 NL/North Brabant	3144384	1	1	0
 AWS/us-east-2	1724869666	26	6	2
 ZA/Gauteng	10088232	2	2	0
-SG/Singapore	128276026	24	24	0
+SG/Singapore	129193138	25	25	0
 ID/North Sumatra	1637700	1	1	0
 US/Nevada	6681816	1	1	0
 ZW/Harare	1244652	1	1	0
 PK/Sindh	917112	1	1	0
 MX/Mexico City	51417750	173	41	40
 GB/England	1113636	1	1	0
-VN/Hanoi	2096256	2	2	0
-VN/Ho Chi Minh City (HCMC)	9105612	4	4	0
+VN/Hanoi	4192512	4	4	0
+VN/Ho Chi Minh City (HCMC)	10219248	5	5	0
 VN/Thanh Hóa Province	9760692	2	2	0
 GCP/us-east1	23189832	2	2	0
 DZ/Blida	1113636	1	1	0
@@ -37,7 +37,7 @@ IN/Maharashtra	1048128	1	1	0
 BR/Paraná	7926468	1	1	0
 US/New York	196001904	22	11	1
 DE/North Rhine-Westphalia	9012374	38	3	3
-US/Texas	41859612	1	1	0
+US/Texas	54568164	2	2	0
 BR/Goiás	10481280	1	1	0
 CA/Quebec	1190084034	6	2	2
 US/Kansas	1703208	1	1	0
@@ -56,12 +56,14 @@ US/Wisconsin	1048128	1	1	0
 PK/Islamabad	1048128	1	1	0
 US/South Carolina	90626236	1	1	0
 IQ/Baghdad	10677804	1	1	0
-BR/São Paulo	23908666	5	5	0
+BR/São Paulo	63147958	6	6	0
 US/Connecticut	59350248	3	3	0
 JP/Osaka	92462408	103	1	1
+UZ/Tashkent	1375668	1	1	0
+CO/Bogota D.C.	6747324	1	1	0
 AWS/us-west-2	30158711	58	6	2
 BE/Brussels Capital	1048128	1	1	0
-BR/Santa Catarina	4716576	1	1	0
+BR/Santa Catarina	17621652	2	2	0
 NP/Bagmati Province	10546788	1	1	0
 SY/Damascus Governorate	1048128	1	1	0
 IE/Leinster	1048128	1	1	0
@@ -70,6 +72,7 @@ BD/Dhaka Division	2227272	2	2	0
 PH/National Capital Region	4389036	1	1	0
 NP/Madhesh	11529408	1	1	0
 ID/Yogyakarta	7598928	1	1	0
+IQ/Nineveh	1113636	1	1	0
 MX/Guanajuato	1048128	1	1	0
 BD/Chittagong	1310160	1	1	0
 DZ/Sétif	917112	1	1	0
@@ -88,3 +91,4 @@ EC/Santo Domingo de los Tsáchilas	1703208	1	1	0
 BR/Rio de Janeiro	112702432	1	1	0
 FR/Normandy	1310160	1	1	0
 ID/Riau	8778072	1	1	0
+VN/Quảng Ninh	1048128	1	1	0

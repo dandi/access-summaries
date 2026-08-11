@@ -1,12 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	147123235700	203857	32445	28658
-GitHub	26184228172	72995	5754	5146
+missing	147031461884	203758	32419	28651
+GitHub	26202254032	73081	5767	5153
 CN/Shanghai	6801568464	993	242	134
 HK/Hong Kong	751120676	121	24	35
 undetermined	37287555066	12507	3795	1947
 US/California	5918068370	2040	417	83
 US/Massachusetts	8063222876	585	280	292
-VPN	18332061838	1819	1778	16
+VPN	18386171446	1822	1781	16
 AWS/ap-southeast-1	2936943732	523	523	0
 AWS/us-east-1	28089263360	5228	1516	1260
 US/Illinois	1207241976	378	147	40
@@ -31,7 +31,8 @@ BR/São Paulo	23479384	11	11	0
 MA/Rabat-Salé-Kénitra	12840552	1	1	0
 MY/Perak	12053472	1	1	0
 UZ/Tashkent	37905924	5	5	0
-SG/Singapore	72966732	13	13	0
+SG/Singapore	74080368	14	14	0
+HN/Francisco Morazán Department	917112	1	1	0
 PH/Calabarzon	7467912	1	1	0
 BR/Mato Grosso	1375668	1	1	0
 MX/Veracruz	4061496	1	1	0
@@ -48,9 +49,9 @@ US/Arizona	12319468	685	8	6
 US/Texas	24861380	630	2	2
 US/New Jersey	10911428	10	1	3
 JP/Tokyo	6871232	10	3	1
-BD/Dhaka Division	23688356	5	5	0
+BD/Dhaka Division	24605468	6	6	0
 BD/Chittagong	7140372	2	2	0
-AR/Buenos Aires	15852936	6	6	0
+AR/Buenos Aires	18262680	7	7	0
 PY/Asuncion	18473256	3	3	0
 MX/Sonora	1048128	1	1	0
 US/South Carolina	20700528	1	1	0
@@ -74,6 +75,7 @@ VN/Hanoi	7633100	3	3	0
 AR/Misiones	2947860	1	1	0
 VN/Khanh Hoa	10939836	1	1	0
 PE/Cuzco Department	2161764	1	1	0
+DZ/Algiers	1244652	1	1	0
 AR/Rio Negro	5830212	1	1	0
 BD/Barisal Division	6550800	1	1	0
 SY/Aleppo	1768716	2	2	0
@@ -97,7 +99,7 @@ OM/Muscat	5265396	2	2	0
 US/Florida	18563520	2	2	0
 CO/Bogota D.C.	7074864	2	2	0
 MX/Jalisco	3013368	1	1	0
-PK/Punjab	14215236	2	2	0
+PK/Punjab	15132348	3	3	0
 US/Vermont	6214536	1	1	0
 CH/Geneva	6214536	1	1	0
 BD/Rajshahi Division	1113636	1	1	0
@@ -109,6 +111,9 @@ ID/Yogyakarta	10003928	3	3	0
 MA/Beni Mellal-Khenifra	8038688	1	1	0
 PK/Sindh	1113636	1	1	0
 VE/Zulia	16947288	2	2	0
+PY/Central Department	1899732	1	1	0
+ZA/KwaZulu-Natal	1048128	1	1	0
+VN/Dak Lak	9433152	2	2	0
 VN/Da Nang City	11070852	1	1	0
 BR/Espírito Santo	2620320	1	1	0
 AL/Tirana	4061496	1	1	0
@@ -121,8 +126,8 @@ NP/Bagmati Province	2292780	2	2	0
 BR/Bahia	6354276	1	1	0
 CH/Vaud	1329504	6	2	1
 DO/Santiago Province	1965240	1	1	0
-VN/Dak Lak	1113636	1	1	0
 VN/Bac Ninh	1310160	1	1	0
+VN/Quang Tri	851604	1	1	0
 DE/North Rhine-Westphalia	2161764	1	1	0
 BD/Khulna Division	9558464	2	2	0
 TZ/Dar es Salaam Region	1441176	1	1	0

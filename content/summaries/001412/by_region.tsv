@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/Massachusetts	680454737608511	4436905	2089250	17602
 AWS/ap-southeast-1	12580770241	7694	7694	0
-missing	19954895566472	2441238	42472	1853
+missing	19954874472896	2441232	42466	1853
 AWS/us-east-1	133722543426998	15941964	791	10549
 GCP/us-central1	1428983915	30265	10191	10039
 undetermined	421345475482224	6615300	1723976	4455
 VPN	349960019912	13465	4787	22
 AL/Vlorë County	20307480	1	1	0
-BD/Dhaka Division	440213760	64	64	0
+BD/Dhaka Division	442244508	65	65	0
 NO/Oslo	3476	2	2	0
 SY/Damascus Governorate	17425128	4	4	0
 VN/Hanoi	189907692	25	25	0
@@ -46,7 +46,7 @@ EC/Manabí	10284756	1	1	0
 MX/México	48017364	6	6	0
 PY/Asuncion	27447852	4	4	0
 XK/Pec	22731276	2	2	0
-US/New Jersey	4716576	1	1	0
+US/New Jersey	9367644	2	2	0
 US/Illinois	55253434900	20712	20712	0
 US/Texas	712494218	274	274	0
 US/Georgia	34864048	24	24	0
@@ -116,7 +116,7 @@ PK/Punjab	233601528	44	44	0
 MA/Casablanca-Settat	87125640	11	11	0
 MX/Coahuila	16966572	2	2	0
 VN/Điện Biên Province	6092244	1	1	0
-SY/Aleppo	20700528	6	6	0
+SY/Aleppo	21748656	7	7	0
 MX/Nuevo León	25679136	3	3	0
 FR/Corsica	12970584	1	1	0
 MX/Jalisco	32033412	3	3	0
@@ -185,7 +185,7 @@ UY/Montevideo Department	75137676	6	6	0
 IR/Gilan Province	5371656	2	2	0
 CO/Cundinamarca	15459888	4	4	0
 QA/Baladiyat ad Dawhah	23582880	2	2	0
-CR/San José	51816828	6	6	0
+CR/San José	54109608	7	7	0
 ET/Dire Dawa	2030748	1	1	0
 BN/Brunei-Muara District	917112	1	1	0
 CL/Biobio	43366296	5	5	0
@@ -242,6 +242,7 @@ AZ/Baki	71731260	6	6	0
 DZ/Sétif	31705872	1	1	0
 ET/Sidama Region	1441176	1	1	0
 GE/Tbilisi	24368976	4	4	0
+BO/Cochabamba	2423796	1	1	0
 NG/FCT	9760692	3	3	0
 DZ/Ouargla	7140372	1	1	0
 MX/Tamaulipas	3340908	1	1	0
@@ -268,6 +269,7 @@ CO/Norte de Santander Department	4847592	1	1	0
 TR/Konya	11136360	2	2	0
 KZ/Zhambyl	14870316	2	2	0
 EC/Azuay	4585560	1	1	0
+IQ/Anbar	9826200	2	2	0
 BR/Alagoas	8385024	2	2	0
 TR/Istanbul	19390368	2	2	0
 VN/Hà Tĩnh Province	35832876	1	1	0
@@ -303,7 +305,6 @@ US/Maryland	11791440	1	1	0
 BR/Maranhão	1375668	1	1	0
 ID/West Sumatra	13822188	2	2	0
 VN/Nghệ An Province	27840900	2	2	0
-IQ/Anbar	1179144	1	1	0
 DE/Thuringia	4913100	1	1	0
 BR/Rio Grande do Norte	10546788	2	2	0
 ES/Andalusia	3668448	1	1	0

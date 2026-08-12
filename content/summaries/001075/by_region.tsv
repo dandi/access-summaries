@@ -2,15 +2,15 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/California	3624201256228	559351	315	136
 US/Massachusetts	8587868008552	159967	35	481
 AWS/us-east-1	8190685127061	976978	1202	386
-VPN	7702661959138	4419	3002	331
+VPN	7702929825908	4427	3010	331
 AWS/ap-southeast-1	3848824144	624	624	0
-GitHub	13696808559	38957	2073	2068
+GitHub	13765599500	39196	2098	2092
 RU/Mordoviya Republic	4151868228598	1005	315	256
 CN/Shanghai	6416464676257	972205	202	336
 undetermined	4719295768674	81150	2021	1146
 JP/Yamanashi	4074735112479	229	229	0
 US/Virginia	4194984515459	626	314	35
-missing	228018213316	8790	1613	351
+missing	227644267387	8537	1574	327
 CN/Guangdong	1335077663515	241	222	18
 CO/Atlántico	3340908	1	1	0
 GCP/us-east1	5410127451	4832	441	314
@@ -40,6 +40,7 @@ VN/Hanoi	13036092	2	2	0
 US/Iowa	23740990615	385	20	10
 BD/Chittagong	11267376	1	1	0
 IL/Central District	3275400	1	1	0
+AR/Buenos Aires	18291084	4	4	0
 TN/Tunis Governorate	4978608	1	1	0
 BY/Vitebsk	9142642	1	1	0
 AE/Dubai	32535678	2	2	0
@@ -65,9 +66,9 @@ PY/Central Department	4651068	1	1	0
 QA/Baladiyat ad Dawhah	8122992	1	1	0
 TH/Nakhon Ratchasima	12381012	1	1	0
 CR/San José	19783416	2	2	0
-AR/Buenos Aires	15670764	3	3	0
 US/Georgia	42565632	2	2	0
 CR/Alajuela Province	18437308	1	1	0
+ZA/Western Cape	2110608	1	1	0
 IQ/Karbala	15721920	3	3	0
 BR/Paraná	5993388	2	2	0
 PH/Northern Mindanao	1113636	1	1	0
@@ -89,16 +90,17 @@ PE/Lima Province	2620320	2	2	0
 VN/Tuyen Quang	10022724	1	1	0
 TN/Kairouan	13363632	1	1	0
 BD/Dhaka Division	44324138	6	6	0
-AL/Tirana	1	1	0	1
+AL/Tirana	12512029	2	1	1
 TR/Bursa Province	1113636	1	1	0
 BD/Sylhet Division	9326618	2	2	0
 VN/Lạng Sơn Province	7009356	1	1	0
-GE/Tbilisi	11529408	1	1	0
+GE/Tbilisi	19914246	2	2	0
 TR/Istanbul	8516040	1	1	0
 US/Wyoming	15632960	30	3	3
 EC/Pichincha	14673792	2	2	0
 ID/South Sulawesi	1703208	1	1	0
 TW/Taiwan	1113636	1	1	0
+UA/Kyiv City	9629676	1	1	0
 VN/An Giang	9891708	1	1	0
 MA/Casablanca-Settat	2358288	1	1	0
 VN/Gia Lai	11201868	1	1	0
@@ -154,3 +156,4 @@ CO/Norte de Santander Department	3668448	1	1	0
 RS/Central Serbia	8974596	1	1	0
 MX/Michoacán	8581548	1	1	0
 VE/Barinas	9695184	1	1	0
+ID/Central Java	2030748	1	1	0

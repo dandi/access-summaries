@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 undetermined	17707130318	15027	10306	996
 AWS/us-east-2	452345436	220168	206	1138
-VPN	10823786961	8183	8115	58
+VPN	10860236113	8210	8142	58
 US/California	2927941538	2963	1782	88
 AWS/us-west-2	885768492	3513	1127	1123
 HK/Hong Kong	300022200	94	56	18
-GitHub	11108445900	57371	11587	11125
+GitHub	11115169896	57420	11603	11141
 AWS/us-east-1	7417612148	5879	5618	122
 AWS/ap-southeast-1	2139642776	2382	2382	0
 NL/Flevoland	2072877680	912	912	0
-missing	10937973253	55408	19456	11813
+missing	10892157857	55324	19405	11797
 CN/Shanghai	3724947787	4150	3610	131
 US/Massachusetts	2422410912	1167	30	1136
 US/Minnesota	37001580	32	28	2
@@ -32,7 +32,7 @@ PK/Sindh	7508440	13	13	0
 ZA/Gauteng	5693360	15	15	0
 US/New York	20113212	18	18	0
 BD/Khulna Division	1750732	5	5	0
-VN/Ho Chi Minh City (HCMC)	24290348	37	37	0
+VN/Ho Chi Minh City (HCMC)	24476124	38	38	0
 CL/Santiago Metropolitan	16845628	7	7	0
 VN/Dak Lak	1559780	4	4	0
 IN/West Bengal	931060	5	5	0
@@ -52,7 +52,7 @@ CA/Ontario	1488228	8	8	0
 GB/England	2976240	8	8	0
 SA/Medina Region	4902160	2	2	0
 AR/Buenos Aires	4867296	20	20	0
-MA/Casablanca-Settat	762772	4	4	0
+MA/Casablanca-Settat	952800	5	5	0
 UA/Zaporizhzhia	189488	1	1	0
 BR/Rio Grande do Norte	182464	1	1	0
 CO/Bogota D.C.	2637436	9	9	0
@@ -62,8 +62,8 @@ FR/Île-de-France	930576	5	5	0
 VN/Gia Lai	561676	3	3	0
 LT/Vilnius	15000064	5	5	0
 US/Nebraska	568864	3	3	0
-EC/Pichincha	4039436	9	9	0
-VN/Hai Phong	12639952	6	6	0
+EC/Pichincha	4217876	10	10	0
+VN/Hai Phong	12829836	7	7	0
 AU/Northern Territory	189380	1	1	0
 VN/Khanh Hoa	569760	3	3	0
 TR/Ankara	379696	2	2	0
@@ -74,7 +74,7 @@ US/Wyoming	18979604	48	15	15
 IN/Punjab	1937876	5	5	0
 BR/Paraná	4131328	7	7	0
 BR/Pará	562945	4	3	1
-PK/Punjab	4183580	17	17	0
+PK/Punjab	4373680	18	18	0
 IN/Uttar Pradesh	555468	3	3	0
 AR/Tucuman	377132	2	2	0
 ZA/Western Cape	2825192	11	11	0
@@ -92,9 +92,9 @@ ID/North Sumatra	189812	1	1	0
 DZ/Blida	189812	1	1	0
 MX/Mexico City	15885812	89	44	40
 IQ/Kirkuk	9499856	6	6	0
-US/Texas	22268616	405	27	2
+US/Texas	22458932	406	28	2
 PY/Amambay Department	189740	1	1	0
-BR/São Paulo	10743720	34	34	0
+BR/São Paulo	12071000	35	35	0
 BR/Ceará	20297036	3	3	0
 BY/Minsk City	187536	1	1	0
 VE/Distrito Federal	3744012	4	4	0
@@ -102,7 +102,7 @@ DZ/Sétif	187536	1	1	0
 MY/Kedah	6370944	1	1	0
 PH/National Capital Region	3148844	4	4	0
 AZ/Abşeron	187536	1	1	0
-BR/Santa Catarina	2625700	9	9	0
+BR/Santa Catarina	2816124	10	10	0
 UA/Lviv	1128188	1	1	0
 TH/Phra Nakhon Si Ayutthaya	187816	1	1	0
 US/West Virginia	182512	1	1	0

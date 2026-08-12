@@ -1,7 +1,7 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 undetermined	619137208137	73494	6943	4435
 US/California	129204000612	8980	634	213
-GitHub	58150070780	110006	7732	6342
+GitHub	58311674912	110173	7750	6353
 NL/Flevoland	71665948272	403	403	0
 US/Minnesota	1439454176	175	0	8
 HK/Hong Kong	16881560584	2055	6	99
@@ -12,13 +12,13 @@ AWS/us-east-2	35918159088	779804	93	1732
 CN/Shanxi	11782341712	1435	0	71
 AWS/ap-southeast-1	8314338268	1020	1020	0
 AWS/us-west-2	2383069048	4013	578	573
-VPN	318765513036	13875	6344	520
+VPN	319571024228	13885	6354	520
 CN/Shanghai	171560979188	14157	2	594
 US/Virginia	17144087804	9208	727	1014
 US/Vermont	98363413870	578	575	3
 MX/Mexico City	2668352724	3691	639	611
 US/Illinois	6557352040	561	241	38
-missing	77791358297	87117	13289	10557
+missing	76815682017	86932	13253	10546
 MA/Marrakesh-Safi	38491120	5	5	0
 EC/Pichincha	16723728	4	4	0
 CN/Beijing	835892360	2283	572	570
@@ -55,7 +55,7 @@ FR/Hauts-de-France	1327280	1	1	0
 US/Indiana	208752	440	0	1
 IT/Lombardy	13670984	1	1	0
 SA/'Asir Region	13339164	2	2	0
-BR/Minas Gerais	39884764	6	6	0
+BR/Minas Gerais	41012952	7	7	0
 VN/Ho Chi Minh City (HCMC)	196570168	31	31	0
 JP/Tokyo	10218964	10	4	1
 BR/Goiás	6570036	3	3	0
@@ -73,6 +73,7 @@ IR/Isfahan	3318200	1	1	0
 MA/Tanger-Tetouan-Al Hoceima	1393644	1	1	0
 MA/Casablanca-Settat	9622780	3	3	0
 CL/Araucania	1128188	1	1	0
+VE/Miranda	13538256	2	2	0
 BR/Rio de Janeiro	18050180	6	6	0
 VN/Thanh Hóa Province	20307384	4	4	0
 VE/Zulia	9689144	3	3	0
@@ -85,7 +86,7 @@ PH/Calabarzon	1128188	1	1	0
 KE/Nairobi County	11613700	6	6	0
 MY/Kuala Lumpur	12144612	2	2	0
 IR/Tehran	3052744	1	1	0
-BD/Dhaka Division	53091200	14	14	0
+BD/Dhaka Division	54020296	15	15	0
 VN/Dak Lak	20971024	5	5	0
 IN/Madhya Pradesh	2057284	2	2	0
 DE/Lower Saxony	11480972	1	1	0
@@ -98,7 +99,6 @@ LB/Mount Lebanon	11414608	2	2	0
 IQ/Erbil	14400988	2	2	0
 RO/Buzău County	14600080	1	1	0
 RU/Krasnodar Krai	10352784	1	1	0
-VE/Miranda	12343704	1	1	0
 UZ/Tashkent	44662972	10	10	0
 AU/New South Wales	368325224	4	4	0
 NZ/Auckland	39353852	5	5	0
@@ -143,6 +143,7 @@ RO/Ilfov	13206436	1	1	0
 MX/México	4048204	3	3	0
 VN/Hưng Yên Province	10684604	4	4	0
 UA/Cherkasy	14666444	2	2	0
+KH/Phnom Penh	929096	1	1	0
 CR/Guanacaste Province	7499132	1	1	0
 AZ/Zaqatala District	1128188	1	1	0
 AE/Abu Dhabi	12741888	1	1	0
@@ -150,7 +151,7 @@ MX/Tlaxcala	1061824	1	1	0
 GE/Imereti	4579116	1	1	0
 MY/Sarawak	1128188	1	1	0
 UY/Maldonado	16723728	1	1	0
-GB/England	84680464	9	9	0
+GB/England	86007744	10	10	0
 AU/South Australia	14201896	2	2	0
 TW/Taiwan	90269900	3	3	0
 PE/Lima region	10286420	1	1	0
@@ -193,9 +194,10 @@ NZ/Otago	9821872	1	1	0
 VN/Thai Nguyen	6968220	1	1	0
 BR/Ceará	6039124	2	2	0
 LY/Tripoli	2454640	2	2	0
-VN/Khanh Hoa	11746428	2	2	0
+VN/Khanh Hoa	12609160	3	3	0
 ID/Yogyakarta	3583656	3	3	0
 MY/Selangor	1990920	2	2	0
+IN/West Bengal	1128188	1	1	0
 US/New Jersey	1512291992	93	14	5
 PH/National Capital Region	57338496	5	5	0
 MA/Guelmim-Oued Noun	1327280	1	1	0
@@ -280,6 +282,7 @@ IQ/Karbala	1460008	1	1	0
 TR/Ankara	1725464	1	1	0
 PH/Western Visayas	1128188	1	1	0
 CO/Risaralda Department	2588196	2	2	0
+IQ/Nineveh	3583656	3	3	0
 CO/Antioquia	4977300	3	3	0
 CH/Vaud	3496504	11	2	2
 ES/Madrid	14135532	1	1	0
@@ -322,7 +325,6 @@ DZ/Laghouat	1393644	1	1	0
 PE/Piura	2190012	1	1	0
 TR/Bursa Province	929096	1	1	0
 PA/Panamá Oeste Province	7034584	1	1	0
-IQ/Nineveh	2521832	2	2	0
 AR/Santa Cruz	6901856	1	1	0
 MX/Aguascalientes	5242756	1	1	0
 PH/Cagayan Valley	2057284	1	1	0

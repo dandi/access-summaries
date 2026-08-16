@@ -1,7 +1,9 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-US/California	1118509392	37100	37100
-missing	16125986	320	320
-undetermined	229170550	7300	7300
-ES/Canary Islands	30561330	400	400
-US/Massachusetts	98341112	3360	<50
-AWS/us-east-1	179	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+US/California	1118509392	37109	37109	0
+ES/Canary Islands	46687316	726	726	0
+undetermined	235842592	7364	7362	1
+missing	12043216	181	181	0
+US/Massachusetts	98341112	3360	0	1
+AWS/us-east-1	179	1	0	1
+US/Virginia	1302058	41	41	0
+GB/England	358	2	2	0

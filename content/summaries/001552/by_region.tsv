@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	9838651063	23109	4233	2803
-undetermined	3063880513	2704	1425	111
-GitHub	6686399795	22416	3295	2482
+missing	11129498237	23996	4806	2857
+undetermined	3084709595	2721	1440	113
+GitHub	6909785622	23396	3428	2615
 AWS/us-east-1	2642506764	1288	1242	23
-VPN	8096933643	4309	3587	128
-CN/Shanghai	2089525918	1002	945	13
+VPN	8181706046	4339	3616	129
+CN/Shanghai	2121133660	1010	952	14
 US/Massachusetts	1170164687	521	0	521
 CN/Guangdong	1423404145	570	570	0
 AWS/ap-southeast-1	1409791846	757	757	0
@@ -13,9 +13,9 @@ US/California	657824428	350	278	17
 FR/Provence-Alpes-Côte d'Azur	1902397	1	1	0
 AWS/us-east-2	258636666	101	101	0
 AWS/ap-south-1	5401098	3	3	0
-US/Illinois	71491092	265	41	27
+US/Illinois	76548425	283	43	29
 EC/Pichincha	5521806	2	2	0
-BR/São Paulo	2213983	1	1	0
+BR/São Paulo	5540889	2	2	0
 GCP/us-west1	13959780	2	2	0
 PK/Punjab	21895938	9	9	0
 US/New York	472392100	154	154	0
@@ -24,23 +24,25 @@ CH/Vaud	267560188	762	66	31
 ZA/Mpumalanga	1113636	1	1	0
 GT/Guatemala	3413238	1	1	0
 US/Rhode Island	1573307	1	1	0
-BD/Dhaka Division	9001619	7	7	0
+BD/Dhaka Division	17845199	8	8	0
 VN/Tay Ninh	806445	1	1	0
 ZA/Western Cape	1947470	2	2	0
 IQ/Maysan	1113636	1	1	0
 AR/Mendoza	3208418	2	2	0
-JO/Amman	10601707	2	2	0
+JO/Amman	21536586	4	4	0
 VN/Phu Tho	8849815	1	1	0
 US/Georgia	10184851	2	2	0
-US/Virginia	49890166	178	26	19
+US/Virginia	56365554	203	30	23
 CN/Beijing	6462589	4	3	1
-MX/Mexico City	47771354	136	42	41
+MX/Mexico City	49643494	137	43	41
 BR/Ceará	2154196	1	1	0
+CO/Caldas Department	1480363	1	1	0
 US/Arizona	5438986	24	4	2
+AR/Buenos Aires	5644564	2	2	0
 GCP/us-east1	757491	1	1	0
 VN/Hanoi	7956878	5	5	0
 VE/Distrito Federal	3845958	2	2	0
-IQ/Erbil	1531695	1	1	0
+IQ/Erbil	3517703	2	2	0
 BR/Minas Gerais	4878626	2	2	0
 KE/Kisii County	1531695	1	1	0
 ID/East Java	2601140	2	2	0
@@ -50,7 +52,6 @@ BD/Sylhet Division	851604	1	1	0
 VN/Ho Chi Minh City (HCMC)	11353605	3	3	0
 GE/Tbilisi	562768	1	1	0
 FR/Île-de-France	8355843	3	3	0
-AR/Buenos Aires	3459539	1	1	0
 IQ/Basra	917112	1	1	0
 JM/Kingston	1113636	1	1	0
 UZ/Tashkent	3339335	2	2	0
@@ -68,9 +69,11 @@ VE/Falcón	608801	1	1	0
 TR/Afyonkarahisar Province	608801	1	1	0
 DE/North Rhine-Westphalia	4705212	19	3	3
 US/Iowa	36617746	162	24	12
+SY/Aleppo	910354	1	1	0
 VN/Ninh Binh	8148473	2	2	0
 GCP/us-west2	4966492	1	1	0
 GCP/us-west4	4966492	1	0	1
+HK/Hong Kong	1754851	1	1	0
 HU/Budapest	1244652	1	1	0
 SA/Mecca Region	1116819	1	1	0
 MD/Chișinău Municipality	865050	1	1	0
@@ -85,11 +88,11 @@ HK/Yau Tsim Mong District	1499668	1	1	0
 SN/Dakar	1499668	1	1	0
 ZA/Gauteng	1311103	1	1	0
 US/Wisconsin	1751892	1	1	0
+IQ/Baghdad	3118759	2	2	0
 VN/Lam Dong	1309461	1	1	0
 NG/FCT	1309461	1	1	0
 VN/Khanh Hoa	1309461	1	1	0
 CO/Bogota D.C.	3013598	1	1	0
-IQ/Baghdad	1522138	1	1	0
 CI/Abidjan Autonomous District	1593819	1	1	0
 TH/Kamphaeng Phet	3346931	1	1	0
 IQ/Duhok	1069445	1	1	0

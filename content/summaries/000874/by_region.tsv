@@ -1,7 +1,10 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	10407	<50	<50
-US/Massachusetts	3672688483	120	<50
-undetermined	11996959252	14800	<50
-US/Connecticut	23140	120	120
-US/Virginia	71744	120	120
-US/New York	12909	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+missing	939561250	1409	1387	4
+AWS/us-east-1	10407	12	12	0
+US/Massachusetts	30061400281	31869	30259	69
+US/Colorado	3547434926	5881	5879	1
+undetermined	13248962087	16256	1406	30
+US/Connecticut	23140	110	110	0
+US/Virginia	71744	114	114	0
+US/New York	1728561443	2856	2802	2
+US/Texas	167011013	1	1	0

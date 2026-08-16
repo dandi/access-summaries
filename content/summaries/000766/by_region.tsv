@@ -1,19 +1,19 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	2439879216	18841	6591	5706
-US/Virginia	66266013	710	268	90
+GitHub	2467533648	19057	6663	5777
+US/Virginia	66650189	713	269	91
 AWS/us-east-1	331096256	1724	1724	0
 CN/Shanghai	248974288	1292	1292	0
 US/Massachusetts	72079680	373	4	369
-undetermined	595321384	3470	2529	901
-VPN	378101984	1976	1952	17
+undetermined	596086360	3474	2533	901
+VPN	384102264	2007	1983	17
 GB/Scotland	55104960	288	288	0
 US/Ohio	55299432	291	289	1
 AWS/ap-southeast-1	123883624	645	645	0
 US/California	73310160	385	374	7
-US/Illinois	32933216	192	150	13
+US/Illinois	34093952	200	154	15
 AWS/us-east-2	14395032	75	73	2
 AWS/ap-south-1	183256	1	1	0
-missing	190835504	1228	760	170
+missing	204229416	1327	801	201
 SG/Singapore	2118440	11	11	0
 VE/Distrito Federal	183224	1	1	0
 GB/England	576264	3	3	0
@@ -55,12 +55,12 @@ BR/São Paulo	567432	3	3	0
 TR/Antalya	183224	1	1	0
 TN/Ariana Governorate	192088	1	1	0
 VN/Da Nang City	192088	1	1	0
-AR/Buenos Aires	576264	3	3	0
+AR/Buenos Aires	768352	4	4	0
 UZ/Tashkent	192088	1	1	0
 LB/Mount Lebanon	192088	1	1	0
 NG/FCT	192088	1	1	0
 VN/Dong Nai	192088	1	1	0
-PA/Chiriquí Province	183256	1	1	0
+PA/Chiriquí Province	375344	2	2	0
 SY/Damascus Governorate	192088	1	1	0
 CO/Arauca Department	192088	1	1	0
 CL/Santiago Metropolitan	375344	2	2	0
@@ -83,6 +83,7 @@ AZ/Gǝncǝ	192088	1	1	0
 HK/Yau Tsim Mong District	366544	2	2	0
 BR/Paraná	576264	3	3	0
 VE/Lara	192088	1	1	0
+US/Florida	192088	1	1	0
 CH/Vaud	571312	4	2	1
 IN/Tripura	183256	1	1	0
 JP/Tokyo	753424	4	4	0
@@ -93,6 +94,7 @@ KE/Nairobi County	194824	1	1	0
 MX/Baja California	192088	1	1	0
 RU/Rostov	194824	1	1	0
 PK/Punjab	384176	2	2	0
+AR/Buenos Aires F.D.	192088	1	1	0
 CO/Bogota D.C.	192088	1	1	0
 VN/Dong Thap	192088	1	1	0
 MX/Baja California Sur	194824	1	1	0

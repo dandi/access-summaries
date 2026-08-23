@@ -2,14 +2,14 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 AWS/us-east-1	276586210186	33299	1147	407
 US/Massachusetts	265944082995	5453	0	478
 US/California	143310762622	20837	126	179
-undetermined	124041673335	3725	1405	218
+undetermined	124041679059	3726	1406	218
 CN/Shanghai	468295776210	34758	41	502
 AWS/ap-southeast-1	4511968504	696	696	0
-VPN	240688687211	2997	2994	3
+VPN	240726878375	3001	2998	3
 GCP/us-west1	147357426	2	2	0
 FR/Pays de la Loire	2804298480	12	12	0
 AWS/us-east-2	5574067386	41	41	0
-missing	34487715074	2360	495	88
+missing	34806720412	2372	507	88
 GCP/us-east1	26137692	3	3	0
 US/Florida	15721920	1	1	0
 IQ/Karbala	7598928	2	2	0
@@ -38,7 +38,7 @@ CL/Santiago Metropolitan	11791890	4	4	0
 BR/Paraná	6288991	3	3	0
 MX/Nuevo León	27120537	3	3	0
 KG/Bishkek	6223260	3	3	0
-VN/Hanoi	37995090	6	6	0
+VN/Hanoi	39305250	7	7	0
 UA/Zakarpattia	5895720	2	2	0
 GCP/us-central1	2158311347	34	34	0
 CA/Quebec	6747324	1	1	0
@@ -55,6 +55,7 @@ ZA/Eastern Cape	7271609	3	3	0
 VN/Tuyen Quang	10808820	1	1	0
 GB/Scotland	11332884	1	1	0
 US/Georgia	13298124	1	1	0
+US/Illinois	9907	3	3	0
 MY/Perak	3995988	1	1	0
 VN/Thanh Hóa Province	1310594	3	3	0
 BR/São Paulo	59481923	10	10	0
@@ -71,13 +72,15 @@ BD/Chittagong	6485963	5	5	0
 ID/South Kalimantan	15001332	1	1	0
 AZ/Abşeron	5633688	1	1	0
 CO/Valle del Cauca Department	1768716	1	1	0
+IN/Gujarat	2751336	2	2	0
 VE/Falcón	2358288	1	1	0
 GB/England	44872980	2	2	0
 VE/Carabobo	7795452	1	1	0
 VN/Dak Lak	14477268	3	3	0
+ZA/Mpumalanga	1179144	1	1	0
 FR/Île-de-France	718	1	1	0
 BO/La Paz Department	718	1	1	0
-AR/Buenos Aires	7992199	5	5	0
+AR/Buenos Aires	14215459	6	6	0
 IQ/Baghdad	6158196	4	4	0
 ID/Riau	22338228	1	1	0
 ZA/Western Cape	3865193	3	3	0
@@ -147,7 +150,6 @@ PH/National Capital Region	3078876	1	1	0
 AE/Sharjah	6288768	1	1	0
 NI/Chinandega Department	17097588	1	1	0
 MY/Kuala Lumpur	9040104	1	1	0
-IN/Gujarat	1441176	1	1	0
 NI/Managua Department	9760692	1	1	0
 US/Indiana	11448	2	2	0
 BR/Rio Grande do Norte	5724	1	1	0
@@ -167,6 +169,7 @@ CO/Tolima Department	223	1	1	0
 KW/Al Farwaniyah	9433152	1	1	0
 IN/Manipur	4061496	1	1	0
 SY/Damascus Governorate	917112	1	1	0
+FR/Hauts-de-France	18014700	1	1	0
 MX/Sonora	14542776	1	1	0
 VN/Bac Ninh	10939836	1	1	0
 VN/Lam Dong	13756680	1	1	0

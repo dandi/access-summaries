@@ -1,21 +1,23 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 AWS/us-east-1	774331902297	92375	28	95
 US/California	387117720091	55944	17	37
-undetermined	2020077061602	17006	339	126
+undetermined	2020141299742	18638	341	128
 CN/Shanghai	902144360307	92054	1	99
-GitHub	13095218485	60115	622	474
+GitHub	25653595213	122167	654	506
 VPN	1404216839120	1361	830	163
 AWS/ap-southeast-1	958054500	134	134	0
 US/New York	774226457223	96	95	1
 SG/Singapore	530970402416	196	106	48
-missing	439356839688	41033	199	81
-GCP/us-central1	90218274331	23	23	0
+missing	463240849313	113457	418	204
+GCP/us-central1	90222732795	33	24	1
 US/Virginia	1407833297	2592	43	34
 CA/British Columbia	9817796677	7	7	0
 AWS/us-east-2	27522027528	10	8	1
 JP/Tokyo	82540080	4	4	0
 BA/Federation of B&H	1703208	1	1	0
+ZA/Western Cape	9236628	1	1	0
 MX/Mexico City	42344694	138	40	40
+ZA/Gauteng	23255340	1	1	0
 GCP/us-east4	69075901574	8	8	0
 JP/Kanagawa	372265636	4	4	0
 HK/Yau Tsim Mong District	6354276	2	2	0
@@ -23,7 +25,7 @@ PY/Amambay Department	6223260	1	1	0
 VE/Distrito Federal	1113636	1	1	0
 NP/Lumbini Province	11201868	1	1	0
 IQ/Baghdad	5568180	2	2	0
-US/Illinois	12439531	48	10	5
+US/Illinois	13714238	53	11	6
 US/Florida	15197856	1	1	0
 VN/Hanoi	10219248	1	1	0
 US/Arizona	5596772	20	4	2
@@ -37,6 +39,7 @@ AR/Buenos Aires	3799464	1	1	0
 BR/São Paulo	9826200	2	2	0
 FR/Provence-Alpes-Côte d'Azur	5961228	1	1	0
 VN/Ho Chi Minh City (HCMC)	12643044	3	3	0
+GE/Tbilisi	21028068	1	1	0
 US/Texas	65639016	3	3	0
 CH/Vaud	2551024	9	2	2
 US/Massachusetts	52087566977	1098	0	9
@@ -50,6 +53,7 @@ GCP/us-east1	253238988	1235	1	1
 NP/Bagmati Province	2030748	1	1	0
 ZA/Mpumalanga	5502672	1	1	0
 SA/Mecca Region	6616308	1	1	0
+BO/La Paz Department	17163096	1	1	0
 US/Wyoming	15416383	45	9	5
 US/Maryland	8163874989	1	1	0
 AU/New South Wales	8163874989	1	1	0
@@ -58,3 +62,4 @@ US/District of Columbia	12315504	1	1	0
 AWS/us-west-2	18225484	32	6	2
 DK/Capital Region	12451792	25	0	1
 GB/England	5311179626	6	3	1
+US/Iowa	1036349098	5130	1	1

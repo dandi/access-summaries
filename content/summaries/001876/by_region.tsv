@@ -1,7 +1,11 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	1221757012	480	<50
-VPN	82461393	320	<50
-AWS/us-east-1	155558581	<50	<50
-undetermined	230261430	<50	<50
-GitHub	151849239	700	<50
-GCP/us-central1	234790165	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/ap-southeast-1	8909088	7	7	0
+VPN	82461393	323	13	13
+AWS/us-east-1	155558581	25	1	11
+AWS/us-east-2	10904558	1	1	0
+undetermined	243592698	24	18	2
+missing	1398080420	580	36	28
+GitHub	219474487	981	60	39
+GCP/us-central1	234790165	18	18	0
+US/New York	9775167	1	1	0
+CN/Shanghai	7877552	2	0	1

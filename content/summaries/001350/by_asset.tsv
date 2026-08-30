@@ -12,7 +12,7 @@ sub-372/micr/sub-372_sample-0002_TEM.png	534081524	50	38	4
 samples.tsv	136584	56	55	1
 sub-369B/micr/sub-369B_sample-0006_TEM.png	336641820	45	42	2
 derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-process-manual.png	2393872	52	51	1
-samples.json	43565	137	129	8
+samples.json	44555	140	132	8
 derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-01_TEM_seg-uaxon-manual.png	387515	47	46	1
 sub-373C/micr/sub-373C_sample-0007_TEM.png	506409973	48	36	4
 sub-372/micr/sub-372_sample-0001_TEM.png	563152338	53	41	4
@@ -42,7 +42,7 @@ derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-nuclei-manual.png	15
 sub-370/micr/sub-370_sample-0003_TEM.png	496507489	46	40	3
 sub-374/micr/sub-374_sample-0007_TEM.png	437977584	42	36	3
 sub-368A/micr/sub-368A_sample-0004_TEM.png	569410884	50	44	3
-derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-axonmyelin-manual.png	29047392	53	52	1
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-axonmyelin-manual.png	29047393	54	52	2
 sub-374/micr/sub-374_sample-0006_TEM.png	454370376	42	36	3
 derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-uaxon-manual.png	22399325	41	40	1
 derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-uaxon-manual.png	12276543	43	42	1
@@ -51,7 +51,7 @@ derivatives/labels/sub-370/micr/sub-370_sample-0007_TEM_seg-process-manual.png	2
 sub-368A/micr/sub-368A_sample-0003_TEM.png	492454830	36	28	3
 sub-374/micr/sub-374_sample-0008_TEM.png	375138048	31	25	3
 sub-375/micr/sub-375_sample-0004_TEM.png	430797483	37	25	4
-sub-366A/micr/sub-366A_sample-0002_TEM.png	61841142	33	32	1
+sub-366A/micr/sub-366A_sample-0002_TEM.png	61841144	35	32	2
 derivatives/labels/sub-373C/micr/sub-373C_sample-0001_acq-roi_chunk-02_TEM_seg-uaxon-manual.png	181195	35	34	1
 sub-373C/micr/sub-373C_sample-0002_TEM.png	429665468	37	31	3
 derivatives/labels/sub-374/micr/sub-374_sample-0004_TEM_seg-axonmyelin-manual.png	16889316	37	36	1
@@ -59,7 +59,7 @@ derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-uaxon-manual.png	114
 sub-370/micr/sub-370_sample-0008_TEM.png	405756088	38	26	4
 sub-366A/micr/sub-366A_sample-0015_TEM.png	118858620	30	29	1
 sub-372/micr/sub-372_sample-0006_TEM.png	397572023	32	26	3
-sub-366A/micr/sub-366A_TEM.json	50688	264	263	1
+sub-366A/micr/sub-366A_TEM.json	50689	265	263	2
 sub-372/micr/sub-372_sample-0004_TEM.png	422367351	38	31	4
 participants.json	13767	39	38	1
 sub-374/micr/sub-374_sample-0004_TEM.png	439438686	34	27	4
@@ -79,7 +79,7 @@ sub-373C/micr/sub-373C_sample-0003_TEM.png	404888927	32	25	4
 derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-axonmyelin-manual.png	12011298	39	37	2
 sub-366A/micr/sub-366A_sample-0012_TEM.png	137310795	33	31	2
 sub-366A/micr/sub-366A_sample-0008_TEM.png	155996499	35	33	2
-derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-nuclei-manual.png	1206360	40	38	2
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-nuclei-manual.png	1206361	41	38	3
 derivatives/labels/sub-375/micr/sub-375_sample-0007_TEM_seg-nuclei-manual.png	892675	35	34	1
 sub-371/micr/sub-371_sample-0004_TEM.png	433231788	38	26	4
 sub-372/micr/sub-372_sample-0007_TEM.png	524176688	45	30	7
@@ -95,7 +95,7 @@ derivatives/labels/sub-375/micr/sub-375_sample-0006_TEM_seg-nuclei-manual.png	97
 sub-369B/micr/sub-369B_sample-0001_TEM.png	467031438	41	28	5
 sub-375/micr/sub-375_sample-0001_TEM.png	572992104	46	33	5
 sub-373C/micr/sub-373C_sample-0006_TEM.png	422140914	34	27	4
-derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-uaxon-manual.png	8357920	40	39	1
+derivatives/labels/sub-370/micr/sub-370_sample-0006_TEM_seg-uaxon-manual.png	8357921	41	39	2
 sub-370/micr/sub-370_sample-0004_TEM.png	425291658	34	27	4
 sub-372/micr/sub-372_sample-0003_TEM.png	483472936	41	27	6
 sub-369B/micr/sub-369B_sample-0003_TEM.png	440492239	39	26	5
@@ -108,7 +108,7 @@ sub-371/micr/sub-371_sample-0002_TEM.png	404534458	33	26	4
 sub-373C/micr/sub-373C_sample-0004_TEM.png	434200340	38	25	5
 derivatives/labels/dataset_description.json	14514	41	39	2
 derivatives/labels/sub-372/micr/sub-372_sample-0005_TEM_seg-nuclei-manual.png	1063512	36	34	2
-sub-370/micr/sub-370_sample-0006_TEM.png	400922606	36	29	4
+sub-370/micr/sub-370_sample-0006_TEM.png	400922607	37	29	5
 sub-366A/micr/sub-366A_sample-0014_TEM.png	56324220	30	28	2
 sub-373C/micr/sub-373C_sample-0001_TEM.png	413312352	39	33	3
 sub-375/micr/sub-375_sample-0008_TEM.png	384454200	31	25	3

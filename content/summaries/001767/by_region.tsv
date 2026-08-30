@@ -1,6 +1,6 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 AWS/ap-southeast-1	1712516810	465	465	0
-GitHub	14127162912	56351	2351	1770
+GitHub	15398187663	61838	2576	1984
 VPN	4266534189	2826	778	105
 AWS/us-east-1	4023008024	936	934	1
 GB/England	2240487014	450	384	1
@@ -8,13 +8,13 @@ US/Massachusetts	1270471176	223	1	212
 US/New York	5868297182	1132	1131	1
 AR/La Rioja	5262608	1	1	0
 AWS/us-east-2	386776944	65	65	0
-missing	5927101368	6806	1434	168
+missing	4585423851	8657	976	266
 DE/Hesse	2572749372	858	431	51
-undetermined	4484332687	2634	763	239
+undetermined	4486226351	2641	764	240
 FR/Île-de-France	32216008	10	8	2
 MX/Jalisco	4841008	1	1	0
 IL/Tel Aviv	4841008	1	1	0
-US/Maryland	2306207836	2330	524	35
+US/Maryland	4239320832	2876	1070	35
 GCP/asia-east1	140194980	337	13	13
 GCP/us-central1	151921600	25	25	0
 AWS/us-west-2	47719532	114	6	2
@@ -26,7 +26,7 @@ NP/Lumbini Province	1113636	1	1	0
 BD/Barisal Division	13910560	2	2	0
 BR/São Paulo	32126848	6	6	0
 ET/Addis Ababa	2882352	1	1	0
-UZ/Tashkent	24045216	4	4	0
+UZ/Tashkent	27165984	5	5	0
 MX/Mexico City	88735242	333	44	43
 MX/San Luis Potosí	3882232	1	1	0
 GY/Demerara-Mahaica	917112	1	1	0
@@ -49,8 +49,9 @@ VN/Hanoi	20611608	4	4	0
 NG/Lagos	1113636	1	1	0
 KE/Nairobi County	8742008	2	2	0
 BD/Dhaka Division	19682152	6	6	0
-US/Wyoming	42820012	214	8	4
+US/Wyoming	49702364	232	9	5
 AE/Dubai	11949704	2	2	0
+CO/Caldas Department	4913100	1	1	0
 VE/Carabobo	5623408	1	1	0
 US/Arizona	49917696	230	10	5
 IN/Telangana	2483848	1	1	0
@@ -75,6 +76,7 @@ EC/Guayas	8804248	2	2	0
 KZ/Almaty	3132392	1	1	0
 CR/San José	15535956	3	3	0
 MA/Fes-Meknes	7679408	1	1	0
+CA/Ontario	8124304	1	1	0
 AO/Luanda	4192512	1	1	0
 PK/Punjab	7773538	3	3	0
 VN/Thanh Hóa Province	3922952	1	1	0
@@ -100,6 +102,7 @@ CG/Brazzaville	8126024	1	1	0
 IN/Maharashtra	9153176	2	2	0
 BR/Pará	5410176	1	1	0
 SV/San Salvador Department	6224440	1	1	0
+BR/Minas Gerais	3733956	1	1	0
 SY/Damascus Governorate	1048128	1	1	0
 ES/Madrid	15040197	42	2	1
 BR/Rio de Janeiro	10249741	2	2	0

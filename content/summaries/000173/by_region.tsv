@@ -1,8 +1,8 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-CN/Shanghai	273929192	169	169	0
+CN/Shanghai	289811400	174	169	3
 AWS/ap-southeast-1	354864528	184	184	0
-GitHub	3296858776	34052	1642	915
-undetermined	4847833237	3061	2267	302
+GitHub	3311381832	34099	1651	924
+undetermined	4849409869	3065	2268	304
 AWS/us-west-2	244942960	488	124	60
 US/Mississippi	242546760	119	119	0
 KR/Seoul	240963992	118	118	0
@@ -10,8 +10,8 @@ US/Massachusetts	145204256	74	1	63
 VPN	3746177780	2966	1584	121
 NL/Flevoland	85355136	49	49	0
 AWS/us-east-1	1733509936	744	387	293
-missing	1416263234	1992	786	26
-US/California	337072968	1283	180	10
+missing	1772084458	2237	985	38
+US/California	338493048	1288	181	11
 FR/Grand Est	3597952	4	4	0
 US/Arizona	242839672	555	120	3
 CN/Shanxi	11373520	8	8	0
@@ -22,7 +22,7 @@ LB/Beirut	1871616	2	2	0
 US/Minnesota	831120	1	1	0
 US/New Mexico	243784888	119	119	0
 HK/Hong Kong	26657232	9	9	0
-SG/Singapore	92431086	46	44	1
+SG/Singapore	93143326	47	45	1
 PA/Chiriquí Province	831120	1	1	0
 IN/Maharashtra	7884408	5	5	0
 US/Georgia	23276072	11	11	0
@@ -89,6 +89,7 @@ US/Ohio	3394856	5	5	0
 ET/Addis Ababa	2198856	4	4	0
 AR/Buenos Aires F.D.	955056	2	2	0
 KG/Issyk-Kul	3973776	1	1	0
+MX/Guanajuato	2853652	1	1	0
 RU/Krasnodar Krai	4513376	2	2	0
 BR/Minas Gerais	6244512	5	5	0
 BG/Plovdiv	3425520	1	1	0
@@ -100,7 +101,7 @@ AE/Abu Dhabi	813264	2	2	0
 JO/Amman	10950416	7	7	0
 GCP/us-west1	441216	1	0	1
 PA/Panamá	2500400	3	3	0
-CO/Bogota D.C.	1040496	1	1	0
+CO/Bogota D.C.	5101232	2	2	0
 IQ/Kirkuk	2102320	2	2	0
 BD/Chittagong	4723472	4	4	0
 BR/Paraná	16326120	6	6	0
@@ -108,6 +109,7 @@ IQ/Sulaymaniyah	914544	1	1	0
 VN/Khanh Hoa	914544	1	1	0
 IN/Bihar	1976368	2	2	0
 VE/Lara	1192224	2	2	0
+TR/Ankara	914544	1	1	0
 EC/Tungurahua Province	710040	1	1	0
 BR/Federal District	1904832	3	3	0
 US/Maryland	710040	1	1	0
@@ -231,6 +233,7 @@ KZ/Atyrau Oblisi	1061824	1	1	0
 LB/Mount Lebanon	1897480	1	1	0
 CL/Maule Region	1897480	1	1	0
 VN/Ca Mau	1897480	1	1	0
+CG/Pointe-Noire	1128188	1	1	0
 RU/Irkutsk Oblast	3036712	2	2	0
 VN/Vinh Long	2022856	1	1	0
 AR/Chubut	2022856	1	1	0

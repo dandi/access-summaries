@@ -1,19 +1,19 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	220626884956	350011	59406	52991
-CN/Shanghai	3539661096	885	843	11
-US/Virginia	3740977012	5004	418	751
-VPN	18979435996	5367	4776	22
-undetermined	33805894536	21711	7542	2482
+missing	221952358680	350337	59620	53014
+CN/Shanghai	3541082464	886	843	12
+US/Virginia	3757247704	5029	423	755
+VPN	19007162088	5398	4782	28
+undetermined	33827182736	21718	7547	2483
 MX/Mexico City	1605449912	2804	577	553
-GitHub	27112047276	80219	7532	7266
+GitHub	27187288396	80436	7568	7302
 AWS/ap-southeast-1	2488664296	828	828	0
 AWS/us-east-1	20314789092	5912	1559	3240
 CN/Shanxi	259481320	66	58	4
 GCP/us-central1	203267040	27	27	0
 US/Minnesota	5419272	2	2	0
-US/California	3560155023	2540	825	54
+US/California	3567216147	2549	828	55
 US/Massachusetts	4299350176	1009	518	491
-IT/Lombardy	2236667408	522	522	0
+IT/Lombardy	2240202712	523	523	0
 HK/Hong Kong	282395452	77	67	5
 GCP/us-west1	9640168	2	2	0
 CA/Quebec	2170119624	513	513	0
@@ -26,11 +26,12 @@ IN/Bihar	3209892	3	3	0
 BR/São Paulo	33736620	18	18	0
 MZ/Maputo City	1113636	1	1	0
 PE/Junin	1375668	1	1	0
-AR/Buenos Aires F.D.	1113636	1	1	0
+AR/Buenos Aires F.D.	2227272	2	2	0
 IN/Punjab	1113636	1	1	0
 BY/Minsk	2457368	1	1	0
-US/Illinois	1279541032	475	277	42
-UY/Montevideo Department	1637700	1	1	0
+US/Illinois	1330030996	484	286	42
+CO/Norte de Santander Department	1375668	1	1	0
+UY/Montevideo Department	3144384	2	2	0
 PS/West Bank	1375668	1	1	0
 BG/Vratsa	6223260	1	1	0
 RU/Krasnodar Krai	2292780	1	1	0
@@ -101,7 +102,7 @@ MX/Veracruz	821120	1	1	0
 ID/East Java	917112	1	1	0
 AE/Dubai	2423796	2	2	0
 VN/An Giang	5177304	3	3	0
-ZA/Gauteng	16534300	7	7	0
+ZA/Gauteng	17647936	8	8	0
 MX/Jalisco	8539176	2	2	0
 SA/Riyadh Region	3078876	2	2	0
 VN/Can Tho City	1965240	2	2	0
@@ -139,6 +140,7 @@ US/Florida	3930480	1	1	0
 BR/Rio de Janeiro	9891708	6	6	0
 PY/Asuncion	5359904	3	3	0
 IN/West Bengal	5952896	4	4	0
+VE/Distrito Federal	2947860	1	1	0
 BO/Oruro	7467912	1	1	0
 VE/Zulia	1310160	1	1	0
 BD/Mymensingh Division	8199408	1	1	0
@@ -155,6 +157,7 @@ VN/Gia Lai	2685828	3	3	0
 US/Wyoming	14754592	20	3	3
 RU/Stavropol Kray	2210808	1	1	0
 BF/Centre	2423796	2	2	0
+SY/Damascus Governorate	2227272	2	2	0
 JP/Tokyo	9410964	7	2	1
 US/New Jersey	22287900	10	1	3
 US/Mississippi	1703208	1	1	0
@@ -193,7 +196,7 @@ DZ/Laghouat	1375668	1	1	0
 EC/Guayas	2030748	1	1	0
 IN/Uttarakhand	1048128	1	1	0
 TR/Tekirdağ	1113636	1	1	0
-FR/Provence-Alpes-Côte d'Azur	1048128	1	1	0
+FR/Provence-Alpes-Côte d'Azur	2816844	2	2	0
 AU/New South Wales	2783856	1	1	0
 CL/Los Lagos Region	1113636	1	1	0
 SR/Paramaribo District	2194128	1	1	0
@@ -211,6 +214,7 @@ GB/Scotland	2544928	1	1	0
 DE/Hesse	1048128	1	1	0
 CL/Maule Region	2161764	1	1	0
 BR/Espírito Santo	1375668	1	1	0
+FJ/Western	1244652	1	1	0
 ZA/Northern Cape	917112	1	1	0
 CR/San José	4968140	2	2	0
 KZ/Astana	3199424	1	1	0
@@ -245,7 +249,6 @@ CO/Huila Department	1113636	1	1	0
 ID/South Sulawesi	1113636	1	1	0
 VN/Bac Ninh	851604	1	1	0
 AR/Tucuman	1244652	1	1	0
-SY/Damascus Governorate	1113636	1	1	0
 PA/Colón	1113636	1	1	0
 AE/Ras Al Khaimah	1113636	1	1	0
 PA/Veraguas Province	2511184	1	1	0

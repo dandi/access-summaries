@@ -1,11 +1,11 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/New Jersey	19998682	100	100	0
 undetermined	70499502	334	316	13
-VPN	65718182	335	333	2
+VPN	65718617	336	334	2
 GCP/us-central1	79225060	388	388	0
 CN/Shanghai	34155022	172	172	0
 NL/Gelderland	63647779	304	304	0
-AWS/us-east-1	34642822	307	307	0
+AWS/us-east-1	34666064	361	361	0
 AWS/ap-southeast-1	19389485	101	101	0
 US/North Carolina	10847913	58	58	0
 NL/Flevoland	5484669	31	31	0
@@ -14,7 +14,7 @@ US/California	8806185	38	38	0
 BR/Bahia	445	1	1	0
 US/Illinois	2857525	19	19	0
 AWS/us-east-2	2507676	11	11	0
-missing	14088094	119	117	2
+missing	16053979	136	134	2
 GCP/us-east1	438	1	1	0
 MA/Casablanca-Settat	1087	2	2	0
 US/Massachusetts	12526513	60	0	60
@@ -38,12 +38,13 @@ US/Florida	1310159	3	3	0
 MY/Selangor	443	1	1	0
 CN/Beijing	443	1	1	0
 VN/Hanoi	2163	5	5	0
-VN/Lam Dong	429	1	1	0
+VN/Lam Dong	868	2	2	0
 US/New York	1273885	4	4	0
 IN/Maharashtra	451664	2	2	0
 IQ/Duhok	451597	1	1	0
 MX/Veracruz	451597	1	1	0
 BY/Minsk City	451597	1	1	0
+VN/Da Nang City	451597	1	1	0
 VN/Thanh Hóa Province	385395	1	1	0
 TN/Tunis Governorate	808811	2	2	0
 US/Pennsylvania	393181	1	1	0
@@ -57,6 +58,7 @@ BR/São Paulo	439450	1	1	0
 JP/Tokyo	1490706	6	2	2
 FR/Provence-Alpes-Côte d'Azur	1606975	7	1	1
 US/Connecticut	438588	2	2	0
+BD/Chittagong	438153	1	1	0
 IQ/Erbil	423878	2	2	0
 KE/Nairobi County	423124	2	2	0
 ES/Castille-La Mancha	429	1	1	0
@@ -68,12 +70,14 @@ IQ/Nineveh	434174	1	1	0
 GB/Wales	402541	1	1	0
 VN/Phu Tho	429	1	1	0
 BD/Dhaka Division	429	1	1	0
+MA/Fes-Meknes	449	1	1	0
 KZ/Shymkent	67	1	1	0
 US/Minnesota	444	1	1	0
 BR/Minas Gerais	444	1	1	0
 TR/Istanbul	444	1	1	0
 GB/England	821953	2	2	0
 CA/Ontario	406323	1	1	0
+AR/Buenos Aires	406323	1	1	0
 BO/Cochabamba	437242	1	1	0
 UY/Montevideo Department	395493	1	1	0
 AZ/Baki	395493	1	1	0

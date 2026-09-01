@@ -1,18 +1,18 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	86844119592	379167	50822	27632
+GitHub	97799086024	385758	51894	27910
 AWS/us-east-1	7690778232	1277	425	275
 US/Massachusetts	5925964697	457	0	420
-missing	16848849947	43910	6700	4374
-VPN	3140594352	1321	513	87
-undetermined	7030038504	1427	859	100
-US/Virginia	1913218213	9278	1365	463
+missing	18411753104	49307	6928	4599
+VPN	3153695952	1322	514	87
+undetermined	7031531000	1432	860	101
+US/Virginia	1933810635	9385	1370	468
 AWS/ap-southeast-1	396907628	264	264	0
 AWS/us-east-2	1178731552	77	77	0
-US/California	626754143	3074	450	449
+US/California	629221873	3086	451	450
 US/New York	6417876637	447	447	0
 BR/São Paulo	16456473	5	5	0
 VN/Hanoi	21604955	3	3	0
-VN/Ho Chi Minh City (HCMC)	115363031	14	14	0
+VN/Ho Chi Minh City (HCMC)	126237359	15	15	0
 UA/Zakarpattia	10780795	2	2	0
 OM/Al Batinah North	8057484	1	1	0
 IQ/Anbar	2227272	1	1	0
@@ -30,8 +30,9 @@ KE/Nakuru County	917112	1	1	0
 EG/Cairo	4716576	2	2	0
 PK/Punjab	55156103	10	10	0
 VE/Falcón	4323528	1	1	0
+US/Wyoming	26729350	175	9	6
 MX/Querétaro	1113636	1	1	0
-US/Iowa	81088619	567	28	14
+US/Iowa	92229658	640	31	17
 BR/Santa Catarina	5360532	3	3	0
 CH/Vaud	11455284	51	8	7
 CN/Shanghai	2131691	2	2	0
@@ -57,6 +58,7 @@ KZ/Shymkent	12184488	1	1	0
 NP/Bagmati Province	2358288	2	2	0
 MN/Ulaanbaatar	11136360	1	1	0
 BY/Mogilev	2358288	1	1	0
+AT/Upper Austria	8909088	1	1	0
 VE/Distrito Federal	9522710	2	2	0
 BD/Chittagong	1672660	2	2	0
 EC/Pichincha	4847592	1	1	0
@@ -78,6 +80,7 @@ IQ/Basra	4782084	1	1	0
 SY/Aleppo	851604	1	1	0
 CO/Risaralda Department	5044116	1	1	0
 UZ/Tashkent	46903728	3	3	0
+HK/Yau Tsim Mong District	22927800	3	3	0
 AR/Buenos Aires	5044116	2	2	0
 UA/Crimea	21110608	1	1	0
 BR/Piauí	1113636	1	1	0
@@ -85,7 +88,6 @@ QA/Baladiyat ad Dawhah	4782084	1	1	0
 UY/Montevideo Department	24916389	3	3	0
 OM/Muscat	7140372	1	1	0
 VN/Hà Tĩnh Province	5633688	1	1	0
-US/Wyoming	16378692	122	6	3
 AR/Rio Negro	9826200	1	1	0
 MY/Kuala Lumpur	21355608	2	2	0
 BH/Southern Governorate	12446520	1	1	0
@@ -117,7 +119,6 @@ TH/Prachuap Khiri Khan	6681816	1	1	0
 ID/Riau	1305505	1	1	0
 US/Alabama	13363632	1	1	0
 KZ/Pavlodar Region	1070614	1	1	0
-HK/Yau Tsim Mong District	7860960	1	1	0
 DZ/Algiers	15787428	2	2	0
 GT/Quetzaltenango	5764704	1	1	0
 JM/Kingston	9891708	2	2	0
@@ -137,6 +138,7 @@ VE/Mérida	1138879	1	1	0
 SN/Dakar	12315504	2	2	0
 CO/Valle del Cauca Department	7976893	1	1	0
 BR/Pernambuco	20241972	1	1	0
+RU/Moscow Oblast	13085405	1	1	0
 CA/Saskatchewan	21486624	1	1	0
 US/Nevada	18145716	1	1	0
 CL/Santiago Metropolitan	25073970	3	3	0
@@ -157,6 +159,7 @@ MM/Mandalay Region	1113636	1	1	0
 CO/Antioquia	5437164	1	1	0
 GR/West Macedonia	4716576	1	1	0
 BR/Rondônia	8254008	1	1	0
+CO/Bogota D.C.	5437164	1	1	0
 BO/La Paz Department	7075107	1	1	0
 UA/Cherkasy	13190457	1	1	0
 MG/Analamanga	2685828	1	1	0

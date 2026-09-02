@@ -2,7 +2,7 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 GitHub	36615381676	29618	1328	1149
 AWS/us-east-2	296283358886	109317	551	205
 HK/Hong Kong	7448076198	901	1	22
-US/California	51700012293	3996	223	53
+US/California	51701273209	3997	224	53
 undetermined	385742744501	18862	1672	796
 VPN	118421170066	3151	864	206
 US/Massachusetts	34701899631	772	2	97
@@ -20,7 +20,7 @@ NL/Flevoland	23685992284	66	66	0
 US/Vermont	32435325542	92	92	0
 GCP/us-east1	32435325542	92	92	0
 CN/Beijing	583435600	844	267	138
-missing	27696508988	6395	979	154
+missing	27642754148	6388	972	154
 TW/Taiwan	137748092	552	71	71
 JP/Kyoto	273794182	702	92	91
 CL/Biobio	1128188	1	1	0
@@ -32,11 +32,12 @@ KE/Nairobi County	11281880	3	3	0
 IN/Haryana	1128188	1	1	0
 MX/Mexico City	91218088	410	60	40
 UA/Kyiv City	40083856	1	1	0
+BR/Ceará	13007344	1	1	0
 VN/Ninh Binh	5773668	2	2	0
 CH/Vaud	10593060	53	8	6
 SG/Singapore	436003508	21	21	0
 BO/La Paz Department	2256376	1	1	0
-VN/Ho Chi Minh City (HCMC)	29945996	6	6	0
+VN/Ho Chi Minh City (HCMC)	57420692	7	7	0
 VN/Hanoi	20904660	3	3	0
 IN/Delhi	1061824	1	1	0
 BD/Chittagong	796368	1	1	0
@@ -95,6 +96,7 @@ IT/Campania	1061824	1	1	0
 VN/Gia Lai	45724796	2	2	0
 AR/Corrientes	5176392	1	1	0
 AZ/Baki	1061824	1	1	0
+AE/Dubai	995460	1	1	0
 PS/West Bank	6569208	1	1	0
 IT/Veneto	13206436	1	1	0
 RU/Samara Oblast	1061824	1	1	0
@@ -110,6 +112,7 @@ IN/Jharkhand	929096	1	1	0
 TH/Phuket	1061824	1	1	0
 PT/Setúbal	2588196	1	1	0
 OM/Muscat	929096	1	1	0
+CO/Antioquia	1592736	1	1	0
 IE/Ulster	8428228	1	1	0
 HK/Yau Tsim Mong District	7233676	2	2	0
 GH/Ashanti	1061824	1	1	0
@@ -129,8 +132,10 @@ BD/Dhaka Division	2256376	2	2	0
 BR/Santa Catarina	2653732	2	2	0
 UY/Montevideo Department	18116544	2	2	0
 TN/Tunis Governorate	1791828	1	1	0
+EC/Pichincha	2057284	1	1	0
 NZ/Auckland	6503672	1	1	0
 IN/Punjab	942362112	8	8	0
 MA/Casablanca-Settat	1061824	1	1	0
+CO/Boyacá	7366404	1	1	0
 EG/Cairo	1128188	1	1	0
 DZ/Algiers	1128188	1	1	0

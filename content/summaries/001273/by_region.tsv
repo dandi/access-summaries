@@ -1,17 +1,18 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/New York	1774592762	690	282	101
 AWS/us-east-1	12454270164	1392	31	181
-VPN	77181994435	2584	2397	77
+VPN	77953361235	2607	2419	78
 US/California	5130538529	794	29	68
-missing	8005895240	5238	539	269
+missing	8204088023	5671	575	306
 CN/Shanghai	20851690325	1884	40	199
 US/Massachusetts	11237217137	425	2	188
-GitHub	2517771612	6629	1349	1059
+GitHub	2814475410	7966	1449	1157
 AWS/ap-southeast-1	1849225332	241	241	0
-undetermined	9009503146	1514	526	462
+undetermined	9839478678	1640	648	464
 AWS/us-east-2	1822721378	31	31	0
-US/Virginia	25715744	97	16	10
-SG/Singapore	3302462079	77	77	0
+US/Illinois	1381206948	259	229	4
+US/Virginia	145753067	142	41	15
+SG/Singapore	3305409939	79	79	0
 GCP/us-central1	347789099	6	6	0
 CN/Beijing	129887126	7	5	2
 VN/Gia Lai	851604	1	1	0
@@ -21,7 +22,8 @@ CO/Bogota D.C.	1375668	1	1	0
 HK/Hong Kong	191931434	14	13	1
 VN/Vinh Long	1244652	1	1	0
 US/Oklahoma	11791440	1	1	0
-US/Wyoming	13880354	15	3	3
+US/Wyoming	14962023	20	4	4
+BR/Bahia	13167108	2	2	0
 JM/Saint Catherine Parish	4127004	1	1	0
 FR/Rhône-Alpes	2	2	0	2
 AM/Yerevan	14608284	1	1	0
@@ -30,6 +32,7 @@ IQ/Maysan	8188500	1	1	0
 US/Arizona	4721572	20	4	2
 EC/Chimborazo Province	11791440	1	1	0
 MA/Casablanca-Settat	4978608	1	1	0
+BR/Ceará	49262016	1	1	0
 CN/Zhejiang	12839568	1	1	0
 CN/Hunan	10415772	1	1	0
 CN/Fujian	1	1	0	1
@@ -38,16 +41,17 @@ VN/Lao Cai	12053472	1	1	0
 CL/Santiago Metropolitan	4520052	1	1	0
 SE/Stockholm	18931812	1	1	0
 ZA/Gauteng	8581548	1	1	0
+VN/Hà Tĩnh Province	8909088	1	1	0
 CN/Jilin	55223244	1	1	0
 CN/Sichuan	59883776	1	1	0
 US/Iowa	5069234	20	4	2
 CH/Vaud	2456900	9	2	2
-US/Illinois	9665952	37	7	4
 CN/Shandong	1	1	0	1
 CN/Shaanxi	59151306	1	1	0
 BD/Khulna Division	19652400	1	1	0
 BD/Dhaka Division	4716576	2	2	0
 ID/West Java	1375668	1	1	0
+JO/Amman	5306148	1	1	0
 BR/Goiás	59119308	1	1	0
 BR/Pernambuco	7729944	1	1	0
 IQ/Diyala	1	1	0	1
@@ -64,7 +68,6 @@ UA/Dnipropetrovsk	1	1	0	1
 BR/Minas Gerais	1	1	0	1
 ET/Addis Ababa	5371656	1	1	0
 PK/Islamabad	58296700	1	1	0
-BR/Bahia	10808820	1	1	0
 NI/Managua Department	9629676	1	1	0
 IN/Kerala	3340908	1	1	0
 PK/Punjab	2620320	1	1	0

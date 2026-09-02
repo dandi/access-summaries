@@ -1,8 +1,8 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	1063651526755	1731383	35485	30583
-VPN	1257389954416	15874	2608	230
+missing	1062957860293	1730945	35453	30575
+VPN	1257413340772	15876	2610	230
 AWS/us-east-1	343632035399	47257	1523	924
-GitHub	182187197376	280032	5302	4552
+GitHub	182819220810	280448	5312	4560
 CN/Shanghai	395238614506	30607	2	306
 AWS/ap-southeast-1	4662466392	602	602	0
 US/Massachusetts	649711750310	5914	516	327
@@ -10,7 +10,7 @@ undetermined	926279996926	85310	3899	1944
 CN/Shanxi	39027787945	4673	0	47
 MX/Mexico City	279466411	1352	71	45
 US/Illinois	5220648750	1944	146	26
-US/California	367538268237	17797	387	128
+US/California	367545343101	17799	389	128
 GCP/us-west1	51550353137	78	78	0
 US/Florida	246428198773	312	312	0
 US/Georgia	42148321170	8202	7	310
@@ -44,26 +44,27 @@ HN/Francisco Morazán Department	129210448	1	1	0
 CA/Ontario	37491399552	65	65	0
 US/Rhode Island	11863388402	158	30	2
 IL/Central District	20410330703	33	33	0
-BD/Rajshahi Division	11725932	2	2	0
+BD/Rajshahi Division	12774060	3	3	0
 US/District of Columbia	749747611	254	9	4
 BR/Paraná	30657744	2	2	0
-BR/São Paulo	42776724	14	14	0
+BR/São Paulo	44938488	15	15	0
 US/New Jersey	682639440	171	2	2
-JP/Tokyo	276792396	14	3	1
+JP/Tokyo	277709508	15	4	1
 bogon	13761549048	41	38	3
 CO/Bogota D.C.	18538764	3	3	0
 NL/North Holland	15263364	1	1	0
+VN/An Giang	1899732	2	2	0
 AWS/us-west-2	6791631782	528	34	10
-VN/An Giang	1048128	1	1	0
 DZ/Oran	1703208	1	1	0
 IT/Veneto	1375668	1	1	0
 ID/Riau	1113636	1	1	0
 MX/Baja California	7533420	3	3	0
 US/New York	90363134	681	8	2
-BD/Dhaka Division	10743312	9	9	0
+BD/Dhaka Division	11791440	10	10	0
 AR/Jujuy	1310160	1	1	0
 US/Iowa	4381232493	3465	60	31
 GCP/us-west3	15230615402	676	36	12
+BR/Ceará	917112	1	1	0
 MX/México	7729944	2	2	0
 AWS/eu-west-1	13459038576	976	34	5
 US/Washington	556451432	1	1	0
@@ -85,6 +86,7 @@ ZA/Western Cape	18866304	3	3	0
 IN/Maharashtra	3144384	3	3	0
 DE/Hamburg	1375668	1	1	0
 VN/Hai Phong	12184488	3	3	0
+IN/Rajasthan	2227272	2	2	0
 CO/Valle del Cauca Department	9367644	3	3	0
 US/Pennsylvania	48475920	6	6	0
 CA/British Columbia	534870848	3	3	0
@@ -100,6 +102,8 @@ RU/Smolensk Oblast	1113636	1	1	0
 JO/Irbid	6943848	1	1	0
 HK/Yau Tsim Mong District	22534752	3	3	0
 BB/Christ Church	1113636	1	1	0
+MN/Ulaanbaatar	1113636	1	1	0
+IN/Tamil Nadu	8188500	3	3	0
 MY/Johor	917112	1	1	0
 SN/Dakar	2620320	1	1	0
 VE/Lara	1637700	1	1	0
@@ -152,8 +156,9 @@ BE/Wallonia	1113636	1	1	0
 CO/Nariño	2030748	1	1	0
 JO/Zarqa	1048128	1	1	0
 MY/Sabah	1113636	1	1	0
-ES/Andalusia	1637700	1	1	0
+ES/Andalusia	2685828	2	2	0
 IN/Delhi	1113636	1	1	0
+MX/Jalisco	1113636	1	1	0
 IT/Emilia-Romagna	1113636	1	1	0
 TN/Ariana Governorate	1048128	1	1	0
 SY/Damascus Governorate	1113636	1	1	0
@@ -168,7 +173,6 @@ BR/Pará	1113636	1	1	0
 CI/Abidjan Autonomous District	3995988	1	1	0
 CL/Tarapacá	3864972	1	1	0
 UZ/Tashkent	1375668	1	1	0
-IN/Rajasthan	1113636	1	1	0
 IQ/Karbala	851604	1	1	0
 VE/Nueva Esparta	4127004	1	1	0
 MX/Veracruz	3406416	1	1	0
@@ -181,7 +185,7 @@ RU/Pskov Oblast	1048128	1	1	0
 MR/Mauritania	1506684	1	1	0
 IN/Punjab	2292780	2	2	0
 SA/Mecca Region	3275400	3	3	0
-MY/Selangor	4127004	1	1	0
+MY/Selangor	6419784	2	2	0
 IL/Jerusalem	10219248	1	1	0
 TR/Istanbul	1244652	1	1	0
 AR/Tucuman	1506684	1	1	0
@@ -195,13 +199,14 @@ US/North Carolina	4651068	1	1	0
 NO/Oslo	2161764	1	1	0
 GH/Ashanti	1375668	1	1	0
 BD/Khulna Division	1899732	1	1	0
-IN/Tamil Nadu	3471924	2	2	0
+EC/Guayas	1375668	1	1	0
 IN/Uttarakhand	1113636	1	1	0
 PH/Western Visayas	1048128	1	1	0
-TW/Taiwan	4724976157	5	5	0
+TW/Taiwan	4726024285	6	6	0
 SE/Stockholm	7140372	1	1	0
-NP/Bagmati Province	9040104	2	2	0
+NP/Bagmati Province	14542776	3	3	0
 IN/Madhya Pradesh	1048128	1	1	0
+TR/Samsun	1310160	1	1	0
 SA/Medina Region	14084220	2	2	0
 ZA/Limpopo	1048128	1	1	0
 UA/Ivano-Frankivsk	1113636	1	1	0
@@ -229,6 +234,7 @@ DE/Brandenburg	55812816	1	1	0
 VN/Quảng Ninh	3209892	1	1	0
 CO/Cauca Department	1048128	1	1	0
 IN/Kerala	1113636	1	1	0
+MX/Tabasco	2423796	1	1	0
 ES/Asturias	1179144	1	1	0
 NO/Telemark	5699196	1	1	0
 MX/Guanajuato	2554812	1	1	0
@@ -245,3 +251,4 @@ ID/Bali	1048128	1	1	0
 MY/Kelantan	917112	1	1	0
 BR/Rio Grande do Norte	1637700	1	1	0
 CO/Antioquia	1113636	1	1	0
+VE/Distrito Federal	1179144	1	1	0

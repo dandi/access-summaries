@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	111229289141	431970	64520	61189
+GitHub	111354014364	432518	64595	61264
 US/California	2596422802061	169121	10622	975
-VPN	5250149790158	68796	67819	265
+VPN	5250181789336	68816	67839	265
 undetermined	7797614806064	171190	24682	17121
 CN/Shanghai	4747191100249	341247	50532	1796
 AWS/ap-southeast-1	33566088017	22577	22577	0
 AWS/us-east-1	6419944421038	780992	18475	1850
 AWS/us-east-2	18710444879	2994	2994	0
-missing	859281355112	256230	47214	30223
+missing	859118853519	255656	47113	30148
 AWS/ap-south-1	31347630	27	27	0
 GCP/us-west1	489569278	78	78	0
 US/Iowa	750171502	3853	565	495
@@ -67,20 +67,22 @@ AR/Buenos Aires	41153798	14	14	0
 LV/Riga	4798392	2	2	0
 DO/Santiago Province	8511864	2	2	0
 GB/England	41143946	5	5	0
-VN/Hanoi	60310736	21	21	0
+VN/Hanoi	61035272	22	22	0
 IN/Assam	632096	1	1	0
 ML/Bamako	719240	1	1	0
 BR/Minas Gerais	12167929	8	8	0
 PK/Islamabad	1802112	1	1	0
 AL/Tirana	1907488	2	2	0
-IL/Central District	1430368	2	2	0
+IL/Central District	2058368	3	3	0
 VN/An Giang	1337192	2	2	0
 CO/Bogota D.C.	17150440	5	5	0
+KE/Nakuru County	3198576	2	2	0
 BR/Rio Grande do Sul	2812624	2	2	0
 MA/Souss-Massa	2194760	1	1	0
 VN/Hà Tĩnh Province	715400	1	1	0
 BR/Rio de Janeiro	10882460	5	5	0
 PA/Panamá	10422744	3	3	0
+SY/Damascus Governorate	2243088	3	3	0
 AR/Chubut	6579092	2	2	0
 CO/La Guajira Department	739312	1	1	0
 BR/Pernambuco	3573528	4	4	0
@@ -121,6 +123,7 @@ VN/Hưng Yên Province	5723550	4	4	0
 AR/Salta	988656	1	1	0
 VN/Thanh Hóa Province	9300193	8	8	0
 SN/Dakar	617864	1	1	0
+JM/Clarendon	897912	1	1	0
 SN/Thies	4141220	2	2	0
 VN/Sơn La Province	7965960	2	2	0
 DE/North Rhine-Westphalia	2663924	10	4	3
@@ -141,6 +144,7 @@ HN/El Paraíso Department	1012562	1	1	0
 SE/Stockholm	710992	1	1	0
 BR/Goiás	917608	1	1	0
 GCP/us-central1	1709456	5	5	0
+BY/Minsk City	714120	1	1	0
 UA/Khmelnytskyi	851604	1	1	0
 NP/Gandaki Pradesh	11594916	1	1	0
 EG/Alexandria	1505288	2	2	0
@@ -161,7 +165,6 @@ VN/Gia Lai	7976352	3	3	0
 VE/Yaracuy	785028	1	1	0
 KE/Kiambu County	785028	1	1	0
 PK/Sindh	10201663	5	5	0
-SY/Damascus Governorate	1625224	2	2	0
 PT/Lisbon	1066352	1	1	0
 AL/Shkodër County	1066352	1	1	0
 VN/Can Tho City	2810856	1	1	0
@@ -170,7 +173,6 @@ MX/Querétaro	714968	1	1	0
 IN/Gujarat	1113636	1	1	0
 VE/Carabobo	20936927	3	3	0
 BR/Santa Catarina	1775448	2	2	0
-KE/Nakuru County	1003816	1	1	0
 KZ/Almaty	1703208	1	1	0
 BO/Beni Department	4585560	1	1	0
 KH/Phnom Penh	4651068	1	1	0

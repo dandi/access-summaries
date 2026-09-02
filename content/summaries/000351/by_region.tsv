@@ -1,7 +1,7 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/California	261642047995	351397	1024	1361
 HK/Hong Kong	1897515072	272	24	68
-GitHub	38941713432	87602	7749	6879
+GitHub	38963950924	87669	7758	6888
 FR/Île-de-France	7300494528	1578	6	239
 undetermined	362029895316	14534	3639	1371
 AWS/us-east-1	130932291345	17662	1862	1408
@@ -19,7 +19,7 @@ US/Texas	197857080080	1249	793	2
 US/Massachusetts	233718572850	3076	588	439
 GB/England	2994075020	1017	11	155
 GCP/us-west1	41080016	2	2	0
-missing	23947719945	19366	3305	1445
+missing	23914067845	19293	3290	1436
 AWS/us-east-2	1799178432	2416	81	19
 CA/Quebec	13850156768	89	83	6
 RU/Moscow	227328	1	1	0
@@ -59,7 +59,7 @@ VN/Khanh Hoa	862732	1	1	0
 PH/Caraga	1061824	1	1	0
 PY/Alto Paraná Department	221056	1	1	0
 IT/Veneto	1327280	1	1	0
-AR/Buenos Aires	5874572	6	6	0
+AR/Buenos Aires	7732764	7	7	0
 VN/Ho Chi Minh City (HCMC)	3801128	5	5	0
 UG/Central Region	1128188	1	1	0
 TR/İzmir Province	234624	1	1	0
@@ -70,8 +70,8 @@ IN/Karnataka	2689100	3	3	0
 ID/Jakarta	6503672	1	1	0
 CN/Beijing	68690896	4	4	0
 UY/Montevideo Department	13604620	3	3	0
-DE/Rheinland-Pfalz	1924556	1	1	0
-PK/Punjab	9884220	7	7	0
+DE/Rheinland-Pfalz	4048204	2	2	0
+PK/Punjab	10879680	8	8	0
 CO/Antioquia	1128188	1	1	0
 US/New York	754145364	8	8	0
 VN/Tuyen Quang	11613700	1	1	0
@@ -93,8 +93,8 @@ IT/Campania	2389104	1	1	0
 PH/Calabarzon	6156856	1	1	0
 CO/Bogota D.C.	13936440	3	3	0
 MX/Querétaro	1194552	1	1	0
+GB/Wales	13936440	2	2	0
 VE/Barinas	929096	1	1	0
-GB/Wales	12808252	1	1	0
 VN/Tay Ninh	5375484	1	1	0
 MX/Durango	5375484	1	1	0
 MX/Baja California	2455468	1	1	0
@@ -103,6 +103,7 @@ SA/Riyadh Region	8494592	3	3	0
 AE/Abu Dhabi	2123648	2	2	0
 DK/Capital Region	19084200	2	2	0
 VN/Dak Lak	284992	1	1	0
+MX/Jalisco	5309120	2	2	0
 BR/Rio Grande do Norte	1393644	1	1	0
 US/Colorado	1494836608	1	1	0
 PK/Balochistan	9954600	1	1	0
@@ -142,7 +143,6 @@ UA/Kyiv City	1128188	1	1	0
 IQ/Diyala	1061824	1	1	0
 PK/Khyber Pakhtunkhwa	1990920	1	1	0
 ES/Galicia	1194552	1	1	0
-MX/Jalisco	1128188	1	1	0
 IN/Madhya Pradesh	929096	1	1	0
 BR/Paraíba	1393644	1	1	0
 VE/Zulia	2766236	2	2	0
@@ -170,6 +170,7 @@ AR/Salta	13936440	1	1	0
 RO/Ilfov	19112832	1	1	0
 IN/Haryana	7698224	1	1	0
 CO/Nariño	2389104	1	1	0
+SY/Damascus Governorate	1128188	1	1	0
 OM/Muscat	929096	1	1	0
 IQ/Duhok	7034584	1	1	0
 NA/Khomas Region	1460008	1	1	0

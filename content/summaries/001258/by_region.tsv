@@ -1,23 +1,26 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	2569795800	1828	542	131
+VPN	2639258752	1858	572	131
 AWS/us-east-1	660934368	278	278	0
 GCP/us-central1	70147728	14	14	0
-GitHub	1041817408	4087	486	367
-undetermined	2349001810	3028	797	80
+GitHub	1109815224	4376	522	400
+undetermined	2354283830	3040	799	82
 CN/Guangdong	1275443840	450	217	139
 US/Massachusetts	440760224	160	88	69
 GCP/us-west1	4860632	1	1	0
 AWS/ap-southeast-1	291154648	125	125	0
-CN/Shanghai	329160057	156	155	1
+CN/Shanghai	340611610	160	158	2
 HK/Hong Kong	35994112	8	8	0
 US/New York	383046412	840	102	69
 US/California	182348852	86	63	4
-missing	4028809620	9568	1221	496
+missing	4850384828	10051	1533	520
 CH/Vaud	203240540	640	65	31
 VN/Lam Dong	4860632	1	1	0
 BD/Rangpur Division	4860632	1	1	0
 AWS/us-east-2	37675888	12	12	0
 BE/Flanders	192918232	69	69	0
+AWS/ap-south-1	4860632	1	1	0
+BR/Paraná	4860632	1	1	0
+BD/Rajshahi Division	4043712	1	1	0
 KE/Nairobi County	1441176	1	1	0
 VN/Hai Phong	4043712	1	1	0
 MX/Mexico City	95682064	364	80	66
@@ -28,11 +31,12 @@ HN/Francisco Morazán Department	464904	1	1	0
 AWS/us-west-2	19215740	48	6	2
 BR/São Paulo	3311520	1	1	0
 VE/Zulia	3916200	1	1	0
-US/Virginia	9542268	29	3	3
+US/Virginia	10568444	35	4	4
 UA/Ternopil	3940896	1	1	0
 VN/Ho Chi Minh City (HCMC)	7173352	2	2	0
 SG/Singapore	21696336	8	5	1
 AR/Buenos Aires	4207896	2	2	0
+MX/Colima	3717992	1	1	0
 US/Pennsylvania	42193664	22	2	1
 US/North Carolina	24429024	12	4	1
 JP/Tokyo	6339152	1	1	0
@@ -41,6 +45,7 @@ GCP/us-west4	6339152	2	0	1
 JO/Amman	1244652	1	1	0
 UZ/Tashkent	1555712	2	2	0
 VN/Lạng Sơn Province	1048128	1	1	0
+BD/Dhaka Division	6770520	2	2	0
 SY/Aleppo	1113636	1	1	0
 PY/Asuncion	4198904	1	1	0
 ID/Central Sulawesi	3625584	1	1	0
@@ -50,6 +55,7 @@ BD/Khulna Division	551552	1	1	0
 UA/Kharkiv	551552	1	1	0
 ZA/Gauteng	459784	1	1	0
 UA/Kyiv City	459784	1	1	0
+HN/Santa Bárbara Department	459784	1	1	0
 DE/Schleswig-Holstein	2951840	1	1	0
 VE/Nueva Esparta	3100640	1	1	0
 US/Illinois	1959616	10	2	1
@@ -58,11 +64,11 @@ IQ/Baghdad	448952	1	1	0
 BR/Minas Gerais	3666072	1	1	0
 ID/North Sulawesi	1113636	1	1	0
 RS/Vojvodina	3666072	1	1	0
+CO/Antioquia	4315072	2	2	0
 VE/Carabobo	2986536	1	1	0
 CR/Heredia Province	2986536	1	1	0
 BY/Minsk City	566736	1	1	0
 NO/Oslo	2988176	1	1	0
-BD/Dhaka Division	2988176	1	1	0
 BO/Tarija Department	4247536	1	1	0
 MA/Marrakesh-Safi	1113636	1	1	0
 VN/Can Tho City	4247536	1	1	0

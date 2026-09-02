@@ -2,14 +2,14 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 AWS/us-east-1	276586210186	33299	1147	407
 US/Massachusetts	265944082995	5453	0	478
 US/California	143310762622	20837	126	179
-undetermined	124041679059	3726	1406	218
+undetermined	124041684783	3727	1407	218
 CN/Shanghai	468295776210	34758	41	502
 AWS/ap-southeast-1	4511968504	696	696	0
-VPN	240726878375	3001	2998	3
+VPN	240736115003	3003	3000	3
 GCP/us-west1	147357426	2	2	0
 FR/Pays de la Loire	2804298480	12	12	0
 AWS/us-east-2	5574067386	41	41	0
-missing	34806720412	2372	507	88
+missing	34779992480	2363	498	88
 GCP/us-east1	26137692	3	3	0
 US/Florida	15721920	1	1	0
 IQ/Karbala	7598928	2	2	0
@@ -18,10 +18,11 @@ KZ/North Kazakhstan	2030748	1	1	0
 US/South Carolina	6157752	1	1	0
 KG/Chuy Region	222	1	1	0
 CO/Bogota D.C.	444	2	2	0
+KZ/Almaty	222	1	1	0
 VN/Ho Chi Minh City (HCMC)	29087129	11	11	0
 IN/Telangana	222	1	1	0
 AR/Buenos Aires F.D.	2358510	2	2	0
-PK/Punjab	35702530	9	9	0
+PK/Punjab	47297446	10	10	0
 PA/Panamá	222	1	1	0
 BD/Khulna Division	222	1	1	0
 BD/Dhaka Division	32493724	13	13	0
@@ -35,7 +36,7 @@ VN/Thừa Thiên Huế Province	222	1	1	0
 ET/Addis Ababa	447	2	2	0
 VE/Distrito Federal	6158199	4	4	0
 CL/Santiago Metropolitan	11791890	4	4	0
-BR/Paraná	6288991	3	3	0
+BR/Paraná	6289212	4	4	0
 MX/Nuevo León	27120537	3	3	0
 KG/Bishkek	6223260	3	3	0
 VN/Hanoi	39305250	7	7	0
@@ -55,7 +56,7 @@ ZA/Eastern Cape	7271609	3	3	0
 VN/Tuyen Quang	10808820	1	1	0
 GB/Scotland	11332884	1	1	0
 US/Georgia	13298124	1	1	0
-US/Illinois	9907	3	3	0
+US/Illinois	20360	6	6	0
 MY/Perak	3995988	1	1	0
 VN/Thanh Hóa Province	1310594	3	3	0
 BR/São Paulo	59481923	10	10	0
@@ -97,12 +98,14 @@ AO/Luanda	221	1	1	0
 MA/Rabat-Salé-Kénitra	221	1	1	0
 MY/Selangor	18604272	1	1	0
 BR/Pará	4978608	1	1	0
-JO/Amman	21748656	4	4	0
+JO/Amman	23713896	5	5	0
+VN/Ninh Binh	917335	2	2	0
 BR/Minas Gerais	1703208	1	1	0
 AR/Cordoba	4913534	3	3	0
 BR/Rio de Janeiro	8647281	2	2	0
 KH/Phnom Penh	3275400	2	2	0
 AR/Santa Fe	7074864	1	1	0
+TT/Princes Town	225	1	1	0
 BR/Pernambuco	6288993	2	2	0
 HK/Yau Tsim Mong District	225	1	1	0
 EC/Pichincha	225	1	1	0
@@ -138,7 +141,7 @@ IE/Leinster	30657955	3	3	0
 IQ/Basra	1376102	3	3	0
 VN/Dong Nai	211	1	1	0
 EC/El Oro	211	1	1	0
-NG/Lagos	211	1	1	0
+NG/Lagos	3013579	2	2	0
 PS/West Bank	211	1	1	0
 IT/Lazio	211	1	1	0
 LB/Mount Lebanon	211	1	1	0
@@ -159,7 +162,6 @@ BD/Rangpur Division	1048351	2	2	0
 EG/Cairo	2358288	1	1	0
 MX/Mexico City	223	1	1	0
 IQ/Nineveh	223	1	1	0
-VN/Ninh Binh	223	1	1	0
 PY/Caaguazú Department	223	1	1	0
 ZA/Gauteng	223	1	1	0
 MX/Jalisco	223	1	1	0

@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 HK/Hong Kong	20079248201	2411	1	31
 AWS/us-east-1	208878756460	25404	462	476
-US/California	87533985884	11819	46	81
+US/California	87538243904	11820	47	81
 VPN	388239281039	4988	2237	236
 undetermined	364853641776	12037	1290	955
-GitHub	32208469721	64049	5498	4634
+GitHub	32232784265	64108	5503	4639
 AWS/ap-southeast-1	3802870416	466	466	0
 GCP/asia-east1	43945161227	118	49	7
 US/Massachusetts	407029446886	4374	252	235
@@ -12,7 +12,7 @@ GCP/us-west1	3107178036	16	1	1
 CN/Shanghai	335994254882	27009	2	246
 CA/Ontario	7500946985	38	11	5
 MA/Rabat-Salé-Kénitra	1113636	1	1	0
-missing	24805394834	4344	821	219
+missing	24764506766	4279	810	214
 EC/Pichincha	3930480	1	1	0
 US/New York	201007264231	292	251	3
 SG/Singapore	579371195	89	89	0
@@ -45,6 +45,7 @@ IR/Qazvin Province	144767904	74	8	1
 ES/Catalonia	227433874	12	0	2
 GCP/us-west3	5443550815	32	2	3
 VE/Distrito Federal	2358288	1	1	0
+BR/Amazonas	4389036	1	1	0
 VN/Nghệ An Province	1048128	1	1	0
 NE/Niamey	1113636	1	1	0
 AU/New South Wales	11070852	2	2	0
@@ -69,7 +70,7 @@ ZA/Western Cape	5633688	2	2	0
 ID/Jakarta	10808820	3	3	0
 ET/Amhara	917112	1	1	0
 CL/Santiago Metropolitan	1310160	1	1	0
-VN/Vinh Long	1179144	1	1	0
+VN/Vinh Long	2227272	2	2	0
 BR/Federal District	4389036	1	1	0
 ID/Banten	917112	1	1	0
 SA/Mecca Region	3471924	2	2	0
@@ -104,11 +105,11 @@ PH/Bicol Region	1048128	1	1	0
 US/Nebraska	10284756	1	1	0
 DO/Peravia	1113636	1	1	0
 BR/Mato Grosso	2161764	1	1	0
-BR/São Paulo	17228604	4	4	0
+BR/São Paulo	18276732	5	5	0
 IE/Connacht	6616308	1	1	0
 ID/East Java	2947860	2	2	0
 HK/Yau Tsim Mong District	8843580	2	2	0
-BR/Rio de Janeiro	917112	1	1	0
+BR/Rio de Janeiro	5633688	2	2	0
 NO/Oslo	3864972	1	1	0
 PL/Pomerania	2489304	1	1	0
 AO/Luanda	1179144	1	1	0
@@ -121,6 +122,7 @@ IN/West Bengal	1113636	1	1	0
 AR/Santa Fe	4127004	1	1	0
 AE/Abu Dhabi	1179144	1	1	0
 PH/Calabarzon	1113636	1	1	0
+MA/Beni Mellal-Khenifra	1113636	1	1	0
 IT/Liguria	259643830	33	2	1
 PL/Mazovia	318614584	2	2	0
 GB/Scotland	696097918	1	1	0

@@ -1,5 +1,5 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	59360789018	4935	515	123
+VPN	59379901850	4937	517	123
 US/California	21521675622	4630	128	46
 US/Massachusetts	10398225183	232	1	49
 US/Illinois	23996017956	342	139	11
@@ -7,7 +7,7 @@ IT/Lombardy	14160245416	2792	0	52
 AWS/us-east-2	55181129406	78980	31	127
 GitHub	69265815414	74575	1348	696
 undetermined	138633355040	13357	905	299
-AWS/ap-southeast-1	951791660	118	118	0
+AWS/ap-southeast-1	959622612	119	119	0
 HK/Hong Kong	1985635536	242	0	8
 AWS/us-east-1	35125290677	5880	230	324
 US/New York	1132488666	2243	61	61
@@ -19,7 +19,7 @@ GCP/us-west1	11408735292	52	52	0
 CN/Shanghai	19308776856	1428	2	51
 US/New Mexico	11408735292	52	52	0
 AWS/us-west-2	353012676	1172	64	56
-missing	21625428438	5874	480	108
+missing	21451156574	5859	465	108
 CA/Ontario	11418822620	53	53	0
 CH/Geneva	11408735292	52	52	0
 CN/Beijing	358638576	227	133	39
@@ -31,14 +31,15 @@ TW/Taiwan	61714652	172	39	39
 CN/Shanxi	1047785330	129	0	7
 PK/Punjab	21103752	2	2	0
 CO/Sucre Department	1061824	1	1	0
+IQ/Sulaymaniyah	21966484	2	2	0
 DE/North Rhine-Westphalia	10673204	56	4	3
 AE/Sharjah	21501936	2	2	0
-VN/Ho Chi Minh City (HCMC)	300394532	2	2	0
+VN/Ho Chi Minh City (HCMC)	301257264	3	3	0
 BY/Grodnenskaya	2389104	1	1	0
-IQ/Sulaymaniyah	1128188	1	1	0
-NG/FCT	1128188	1	1	0
+NG/FCT	2455468	2	2	0
 GCP/us-central1	2880136715	122	18	1
 BF/Centre	2190012	2	2	0
+BR/São Paulo	8030044	2	2	0
 ZA/KwaZulu-Natal	2190012	2	2	0
 VN/Hanoi	2057284	2	2	0
 CL/Santiago Metropolitan	267083464	6	6	0
@@ -57,14 +58,16 @@ VN/Khanh Hoa	1924556	2	2	0
 BE/Flanders	13936440	1	1	0
 BR/Mato Grosso do Sul	862732	1	1	0
 AR/Santa Fe	1128188	1	1	0
-MA/Casablanca-Settat	1128188	1	1	0
+MA/Casablanca-Settat	8627320	2	2	0
 EC/Guayas	1128188	1	1	0
 BD/Dhaka Division	2256376	2	2	0
+VN/Thai Nguyen	22630124	1	1	0
 BR/Minas Gerais	47979264	1	1	0
-BR/Rio Grande do Sul	12675524	1	1	0
-BR/São Paulo	1659100	1	1	0
+BR/Rio Grande do Sul	16657364	2	2	0
+RO/Bucharest	29930164	1	1	0
 ZA/Gauteng	1194552	1	1	0
 NO/Oslo	2256376	1	1	0
+AR/Buenos Aires	20838296	2	2	0
 NI/Managua Department	20838296	1	1	0
 MY/Kelantan	929096	1	1	0
 SA/Mecca Region	1128188	1	1	0
@@ -73,6 +76,8 @@ US/Ohio	2526020	10	1	1
 ID/North Sumatra	9954600	1	1	0
 BO/Santa Cruz Department	2256376	1	1	0
 SA/Eastern Province	1194552	1	1	0
+CO/Bogota D.C.	2057284	1	1	0
+FR/Brittany	30991988	1	1	0
 SE/Stockholm	634106036	123	0	4
 DK/North Denmark	48644812	1	1	0
 GCP/asia-south1	3180240	20	1	1

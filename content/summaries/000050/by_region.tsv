@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	102032190612	146425	6754	5863
+missing	104093862700	147731	6838	5923
 AWS/us-east-2	457975581200	92569	921	143
-VPN	90802961112	4814	687	134
-undetermined	144778368608	12120	876	536
+VPN	90820879392	4817	690	134
+undetermined	144779779376	12127	877	537
 AWS/ap-southeast-1	822117232	103	103	0
 AWS/us-east-1	46350226169	7087	140	401
 US/Virginia	4358548272	6467	14	81
-GitHub	25194717292	95887	1077	1094
-US/California	37029741140	5093	88	42
+GitHub	25236397004	96139	1088	1110
+US/California	37036045720	5096	91	42
 CN/Shanxi	4354253604	528	0	13
 HK/Hong Kong	7904129568	954	0	20
 US/Massachusetts	82704342832	719	114	59
@@ -25,25 +25,27 @@ SG/Singapore	185263280	12	12	0
 KR/Gyeongsangbuk-do	476973304	2	2	0
 ES/Catalonia	9736	2	0	1
 DE/North Rhine-Westphalia	11627912	62	4	3
+BR/Rio de Janeiro	13870076	4	4	0
 BR/São Paulo	2787288	2	2	0
 FR/Provence-Alpes-Côte d'Azur	388131448	2	2	0
 HK/Yau Tsim Mong District	15595540	2	2	0
 US/Arizona	10243424	1292	2	4
 GB/England	556283452	9	9	0
 CI/Abidjan Autonomous District	1061824	1	1	0
-BR/Rio de Janeiro	12808252	3	3	0
 CH/Zurich	5309120	1	1	0
 CA/Quebec	1858192	1	1	0
 ES/Valencia	1327280	1	1	0
 CL/Santiago Metropolitan	583841796	5	5	0
 US/Iowa	449253148	63	7	3
 FR/Pays de la Loire	1393644	1	1	0
+NP/Koshi	929096	1	1	0
 IN/Delhi	2123648	2	2	0
 VN/Ho Chi Minh City (HCMC)	106065288	2	2	0
-ZA/Gauteng	2123648	2	2	0
+ZA/Gauteng	3052744	3	3	0
 TR/Istanbul	12078248	1	1	0
 CH/Vaud	12721532	51	8	7
 US/Wyoming	7744216	25	1	2
+BR/Pernambuco	2256376	1	1	0
 US/Texas	429637756	1253	5	2
 AR/Buenos Aires	3318200	1	1	0
 US/Florida	19112952	3	2	1
@@ -61,6 +63,7 @@ IN/West Bengal	862732	1	1	0
 BR/Bahia	1128188	1	1	0
 CO/Cauca Department	3052744	1	1	0
 PK/Sindh	1659100	1	1	0
+VN/Bac Ninh	995460	1	1	0
 UZ/Tashkent	1128188	1	1	0
 US/South Carolina	1061824	1	1	0
 IN/Rajasthan	1128188	1	1	0
@@ -75,9 +78,10 @@ PK/Punjab	1194552	1	1	0
 TW/Taiwan	713580916	1	1	0
 SA/Riyadh Region	1061824	1	1	0
 BR/Santa Catarina	8560956	1	1	0
+VN/Dak Lak	862732	1	1	0
 UA/Kyiv	9888236	1	1	0
 IN/Tamil Nadu	862732	1	1	0
 VN/Hanoi	1061824	1	1	0
 BD/Dhaka Division	929096	1	1	0
-CL/Valparaiso	1128188	1	1	0
+CL/Valparaiso	2057284	2	2	0
 BR/Piauí	1128188	1	1	0

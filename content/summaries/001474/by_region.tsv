@@ -1,12 +1,12 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	6887570216	18538	2327	1748
-undetermined	7173135801	3955	565	369
+GitHub	7305049008	19756	2478	1899
+undetermined	7176616001	3958	566	370
 US/California	1549549888	338	95	77
 AWS/us-east-1	6367046632	1245	849	198
 CN/Shanghai	5467369668	1004	288	182
 AWS/ap-southeast-1	2290509324	454	454	0
-VPN	21490692479	3458	2679	160
-missing	2598090511	2224	637	187
+VPN	21578829187	3468	2689	160
+missing	2890821633	2739	711	253
 US/New York	3302602376	351	351	0
 AWS/us-east-2	521658200	53	53	0
 IT/Emilia-Romagna	7947312	1	1	0
@@ -22,13 +22,13 @@ US/Colorado	8122992	1	1	0
 GCP/us-east4	11398568	3	0	1
 US/Illinois	67132972	195	24	17
 SG/Singapore	458456720	56	56	0
-US/Virginia	71051492	220	27	19
+US/Virginia	73167764	228	28	20
 BR/Roraima	8843580	1	1	0
 BR/São Paulo	33155428	4	4	0
 PK/Sindh	14927464	2	2	0
 US/Wyoming	23800920	82	10	6
 BR/Minas Gerais	11101943	2	1	1
-US/Iowa	20424804	98	12	6
+US/Iowa	29347496	121	15	9
 DZ/Tlemcen	3406416	1	1	0
 VN/Bac Ninh	11125120	1	1	0
 DE/North Rhine-Westphalia	4594536	21	3	3
@@ -36,6 +36,7 @@ BR/Rio Grande do Sul	5699196	1	1	0
 MY/Selangor	1048128	1	1	0
 MA/Rabat-Salé-Kénitra	4258020	1	1	0
 ZA/KwaZulu-Natal	11133360	1	1	0
+UZ/Tashkent	28343216	4	4	0
 EC/Pichincha	3733956	1	1	0
 CZ/Prague	21755981	1517	1	3
 GB/Scotland	11299960	1	1	0
@@ -44,17 +45,17 @@ IT/Lombardy	11131232	1	1	0
 KE/Nairobi County	8647056	2	2	0
 BO/La Paz Department	7205880	1	1	0
 ID/Jakarta	11922456	2	2	0
+PK/Punjab	18921652	4	4	0
 ID/Lampung	1375668	1	1	0
 BD/Dhaka Division	17379832	2	2	0
 US/Arizona	9335368	48	6	3
 VN/Da Nang City	11126632	1	1	0
 TN/Tunis Governorate	1375668	1	1	0
-UZ/Tashkent	21857924	3	3	0
 KW/Al Jahra Governorate	1441176	1	1	0
 HK/Hong Kong	28163260	3	3	0
 MX/Chihuahua	11270488	1	1	0
 US/Montana	11126200	1	1	0
-PK/Punjab	16497856	3	3	0
+BR/Rio de Janeiro	18668848	2	2	0
 PE/Lima region	11183552	1	1	0
 AWS/us-west-2	29102092	38	6	2
 VN/Hanoi	15583380	3	3	0
@@ -62,6 +63,7 @@ VN/Ho Chi Minh City (HCMC)	38437032	5	5	0
 VN/Dak Lak	9052408	1	1	0
 VN/Vinh Long	6288768	1	1	0
 BO/Chuquisaca Department	8712564	1	1	0
+UY/Montevideo Department	7798872	1	1	0
 US/Connecticut	6142024	1	1	0
 TT/Borough of Arima	6142024	1	1	0
 IN/Punjab	3013368	1	1	0
@@ -79,7 +81,6 @@ PA/Colón	7664976	1	1	0
 KH/Siem Reap	7664976	1	1	0
 US/Massachusetts	413477520	53	0	43
 VN/Thanh Hóa Province	1375668	1	1	0
-BR/Rio de Janeiro	7542648	1	1	0
 UA/Kirovohrad	11142792	1	1	0
 NL/North Holland	7567448	1	1	0
 TR/Trabzon	11053016	1	1	0

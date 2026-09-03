@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	9590584800085	8193551	2058118	1929585
+missing	9579953847431	8190617	2057277	1928886
 US/California	638230822020	98339	4339	5738
-VPN	4202790688704	91536	91108	150
+VPN	4212038819293	91675	91243	152
 GCP/us-west1	6054216192	72	72	0
 IT/Apulia	94475877736	60981	15245	15245
 HK/Hong Kong	207453895988	27138	1	2467
 undetermined	1938175888570	224883	66972	52838
 US/Massachusetts	1295641082628	33313	272	15189
 CN/Shanghai	2186072589280	198709	4	15198
-GitHub	209776898860	390966	97745	73201
+GitHub	211091723620	393750	98441	73897
 AWS/ap-southeast-1	144229880712	20946	20946	0
 AWS/us-east-1	275819716396	7099	7099	0
 AWS/us-east-2	233799168680	3019	2780	2
@@ -22,18 +22,18 @@ US/Iowa	1101075984	3792	948	490
 GCP/us-east1	1413466116	153	153	0
 US/Wyoming	1091195328	2116	529	353
 VN/Thanh Hóa Province	96231252	8	8	0
-GB/England	98655048	6	6	0
+GB/England	116276700	7	7	0
 VE/Vargas	5568180	1	1	0
 LB/North Lebanon	2358288	1	1	0
 RU/Novosibirsk Oblast	2030748	1	1	0
 US/Arizona	305187984	1025	257	128
 AR/Buenos Aires	56271372	7	7	0
 US/Texas	910888740	113	113	0
-VN/Dong Nai	76054788	4	4	0
+VN/Dong Nai	77757996	5	5	0
 ID/Yogyakarta	35898384	7	7	0
 JO/Amman	24696516	4	4	0
 VN/Quang Tri	25286088	3	3	0
-ID/Jakarta	36487956	13	13	0
+ID/Jakarta	36487957	14	13	1
 PK/Punjab	46903728	10	10	0
 BD/Dhaka Division	77823504	12	12	0
 VN/Quang Ngai	82605588	4	4	0
@@ -44,11 +44,12 @@ MX/México	34326192	1	1	0
 HK/Yau Tsim Mong District	110380980	24	24	0
 BR/Rio Grande do Sul	5961228	1	1	0
 BR/Minas Gerais	45986616	5	5	0
+MX/San Luis Potosí	9040104	2	2	0
 VN/Ho Chi Minh City (HCMC)	474867492	42	42	0
 BR/Goiás	3668448	1	1	0
 CO/Antioquia	23648388	3	3	0
 HN/Atlántida Department	7271388	1	1	0
-MX/Querétaro	1375668	1	1	0
+MX/Querétaro	16180476	2	2	0
 BD/Mymensingh Division	30592236	3	3	0
 VN/Tuyen Quang	10612296	1	1	0
 ZA/Gauteng	11987964	6	6	0
@@ -69,7 +70,9 @@ UY/Montevideo Department	8974596	2	2	0
 AE/Abu Dhabi	9171120	3	3	0
 BR/São Paulo	93021360	10	10	0
 VN/Vinh Long	74548104	4	4	0
+AR/Buenos Aires F.D.	17752668	3	3	0
 VN/Gia Lai	11987964	1	1	0
+VN/Ninh Binh	81753984	4	4	0
 BO/Santa Cruz Department	2423796	1	1	0
 VN/Can Tho City	38518704	4	4	0
 IN/Kerala	1441176	1	1	0
@@ -79,11 +82,11 @@ UA/Zaporizhzhia	1375668	1	1	0
 CO/Meta Department	3013368	1	1	0
 FR/Rhône-Alpes	28364964	2	2	0
 NG/Kano State	1113636	1	1	0
-VN/Ninh Binh	67735272	3	3	0
 MX/Nuevo León	5961228	1	1	0
 VN/Hưng Yên Province	18735288	4	4	0
 VE/Mérida	1048128	1	1	0
 DE/North Rhine-Westphalia	3234720	9	3	3
+VN/Hai Phong	87780720	5	5	0
 VN/Ca Mau	1703208	1	1	0
 CR/San José	17359620	2	2	0
 VN/Dak Lak	39894372	5	5	0
@@ -94,7 +97,6 @@ AR/Tucuman	19979940	2	2	0
 VE/Zulia	23189832	2	2	0
 VN/Quảng Ninh	46510680	3	3	0
 SA/Riyadh Region	26072184	4	4	0
-VN/Hai Phong	80771364	4	4	0
 AU/Queensland	11791440	1	1	0
 CL/Valparaiso	2030748	1	1	0
 DE/Lower Saxony	3078876	1	1	0
@@ -115,6 +117,7 @@ ID/Central Java	38322180	5	5	0
 PH/Northern Mindanao	27185820	1	1	0
 MX/Tamaulipas	3013368	1	1	0
 PA/Panamá	23713896	2	2	0
+MA/Casablanca-Settat	64590888	6	6	0
 UA/Kyiv City	4061496	1	1	0
 ID/East Kalimantan	1113636	1	1	0
 HN/Cortés Department	16573524	2	2	0
@@ -155,13 +158,14 @@ IN/Jammu and Kashmir	851604	1	1	0
 US/Delaware	14935824	1	1	0
 ID/East Java	16442508	3	3	0
 UA/Mykolaiv	15787428	1	1	0
+MY/Kuala Lumpur	8581548	2	2	0
 ZA/Limpopo	2685828	1	1	0
 TR/Antalya	3340908	1	1	0
 NI/Managua Department	3275400	1	1	0
 AL/Fier County	16639032	1	1	0
 PK/Khyber Pakhtunkhwa	6681816	2	2	0
-MY/Kuala Lumpur	7664436	1	1	0
 BR/Rondônia	8974596	1	1	0
+KZ/Astana	3078876	1	1	0
 DE/Hamburg	4782084	1	1	0
 IR/Tehran	1703208	1	1	0
 ZA/KwaZulu-Natal	28495980	1	1	0
@@ -192,7 +196,6 @@ IQ/Anbar	917112	1	1	0
 IN/Madhya Pradesh	10284756	1	1	0
 NP/Lumbini Province	1244652	1	1	0
 IQ/Wasit	8385024	2	2	0
-AR/Buenos Aires F.D.	11725932	2	2	0
 SA/Mecca Region	7598928	1	1	0
 LY/Misratah	1703208	1	1	0
 IQ/Basra	10415772	1	1	0
@@ -204,7 +207,6 @@ US/Georgia	51292764	1	1	0
 TW/Taiwan	252259008	3	3	0
 MA/Beni Mellal-Khenifra	2358288	1	1	0
 ID/Central Papua	17228604	1	1	0
-MA/Casablanca-Settat	63477252	5	5	0
 IQ/Duhok	6354276	1	1	0
 CO/Valle del Cauca Department	9040104	1	1	0
 TR/Erzurum	851604	1	1	0
@@ -229,7 +231,6 @@ PS/West Bank	1375668	1	1	0
 ID/Bengkulu	7729944	1	1	0
 DE/Baden-Wurttemberg	168172672	2	2	0
 US/Michigan	14804808	1	1	0
-MX/San Luis Potosí	7336896	1	1	0
 VE/Sucre	11136360	1	1	0
 CL/Tarapacá	2685828	1	1	0
 US/Tennessee	14411760	1	1	0

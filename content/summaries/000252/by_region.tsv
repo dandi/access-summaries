@@ -1,20 +1,20 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	589711248	47849	184	300
+GitHub	594865196	47863	186	302
 US/California	168613728	1919	54	14
 US/Arizona	487712	734	0	2
-missing	4456663858	7819	1663	1300
+missing	4739480475	8017	1728	1356
 AWS/us-east-2	60289368	4066	4	16
 US/Virginia	113414228	3351	21	23
-CN/Shanghai	347055852	86	54	3
+CN/Shanghai	348515664	87	54	4
 TW/Taiwan	38128728	12	12	0
-undetermined	1359472642	982	382	106
+undetermined	1453664487	1015	398	110
 AWS/us-east-1	487840692	183	62	98
 HK/Hong Kong	112944672	32	28	2
-US/Texas	41021520	739	5	2
+US/Texas	79150248	751	17	2
 AWS/ap-southeast-1	90437188	28	28	0
 CA/Ontario	38128728	12	12	0
 JP/Tokyo	32347256	12	6	2
-VPN	497512704	168	137	13
+VPN	503890449	173	141	14
 GCP/us-central1	194616164	189	47	23
 RU/Moscow	38128728	12	12	0
 US/New York	131581796	472	24	21
@@ -44,8 +44,12 @@ ID/Jakarta	851604	1	1	0
 ID/North Sumatra	1113636	1	1	0
 DE/Lower Saxony	15983952	2	2	0
 CO/Meta Department	1375668	1	1	0
+VN/Hanoi	1965240	2	2	0
 HK/Kwun Tong District	6570624	4	4	0
+BR/Bahia	1568016	1	1	0
+ZA/Western Cape	2161764	2	2	0
 PK/Punjab	851604	1	1	0
+SA/Eastern Province	851604	1	1	0
 HU/Budapest	1594224	116	0	1
 GR/Attica	1529792	1	1	0
 BR/Mato Grosso	1375668	1	1	0
@@ -54,5 +58,4 @@ US/District of Columbia	4256832	16	4	2
 VN/Ho Chi Minh City (HCMC)	851604	1	1	0
 AWS/us-west-1	2976932	2	2	0
 ES/Canary Islands	1651448	1	1	0
-ZA/Western Cape	1048128	1	1	0
 MA/Casablanca-Settat	1310160	1	1	0

@@ -1,6 +1,6 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	91891870080	10390	1234	421
-missing	69514925968	202299	9373	8153
+VPN	91896183740	10391	1235	421
+missing	69457286436	202238	9364	8152
 HK/Hong Kong	3644953168	441	0	15
 AWS/us-east-1	50843261632	8273	185	603
 undetermined	216602318223	19394	1309	770
@@ -8,7 +8,7 @@ CN/Shanxi	2688428880	325	0	11
 AWS/us-east-2	57174070080	173030	35	261
 GitHub	15865629920	101551	1281	1261
 US/Iowa	1459988616	94	27	3
-US/California	31925830248	5890	138	55
+US/California	31927754804	5891	139	55
 CN/Shanghai	43615322796	2855	2	82
 AWS/ap-southeast-1	1607534344	189	189	0
 US/New York	22783749276	1539	125	19
@@ -29,7 +29,7 @@ AR/Buenos Aires	6968220	4	4	0
 BR/São Paulo	17586460	5	5	0
 FR/Provence-Alpes-Côte d'Azur	2378296692	10	10	0
 AU/New South Wales	11281880	1	1	0
-SG/Singapore	838604404	739	48	17
+SG/Singapore	870162884	791	48	18
 GCP/us-central1	3454947016	40	40	0
 KR/Seoul	334240392	3	3	0
 MX/Mexico City	1862073168	832	84	40
@@ -37,6 +37,7 @@ US/North Carolina	1128188	1	1	0
 US/Illinois	986104540	233	35	14
 NL/Flevoland	13176486596	50	50	0
 MX/Nuevo León	1061824	1	1	0
+BD/Dhaka Division	18183736	4	4	0
 US/Maryland	594323160	1	1	0
 BR/Santa Catarina	17321004	3	3	0
 IL/Northern District	20838296	1	1	0
@@ -90,21 +91,24 @@ IQ/Nineveh	3517292	2	2	0
 SN/Dakar	3650020	1	1	0
 IN/Kerala	2057284	1	1	0
 SA/Jazan Region	1194552	1	1	0
-BD/Dhaka Division	17121912	3	3	0
+BR/Rio de Janeiro	6901856	3	3	0
 IN/Punjab	83976608	2	2	0
-BR/Rio de Janeiro	4579116	2	2	0
 EG/Alexandria	1128188	1	1	0
 IN/Maharashtra	1128188	1	1	0
 VN/Lam Dong	1725464	2	2	0
+VN/Cao Bằng Province	862732	1	1	0
 VN/Phu Tho	10286420	1	1	0
 VE/Falcón	8892776	1	1	0
+FR/Pays de la Loire	6304580	1	1	0
 PH/National Capital Region	2920016	2	2	0
+MX/Tamaulipas	1128188	1	1	0
 US/Ohio	1327280	1	1	0
 HK/Yau Tsim Mong District	13206436	2	2	0
 BR/Paraná	5110028	1	1	0
 PK/Punjab	1260916	1	1	0
 AU/Queensland	27828504	1	1	0
 ID/East Java	5906396	2	2	0
+RU/Moscow Oblast	862732	1	1	0
 IN/Madhya Pradesh	929096	1	1	0
 VN/Lạng Sơn Province	52626652	1	1	0
 MA/Marrakesh-Safi	14268260	1	1	0
@@ -121,6 +125,7 @@ VN/Gia Lai	929096	1	1	0
 IL/Central District	1061824	1	1	0
 MY/Melaka	1061824	1	1	0
 MX/Tabasco	6304580	1	1	0
+DE/North Rhine-Westphalia	7300040	1	1	0
 MX/Aguascalientes	4512752	1	1	0
 OM/Muscat	7963680	1	1	0
 CI/Abidjan Autonomous District	1061824	1	1	0

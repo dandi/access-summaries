@@ -1,17 +1,17 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/Massachusetts	170594950	243	5	237
-US/California	137842242	215	196	7
-US/Virginia	245785808	406	342	12
+US/California	139855504	223	198	9
+US/Virginia	246860942	411	343	13
 GCP/us-east1	7774962	11	11	0
-GitHub	2389046072	9407	2304	1905
+GitHub	2590609400	10245	2501	2091
 CN/Shanghai	630245972	904	904	0
-VPN	1177042058	1706	1679	12
+VPN	1184183133	1718	1689	13
 AWS/ap-southeast-1	256687068	370	370	0
-undetermined	1003347208	2397	1129	652
-AWS/us-east-1	564884484	802	801	1
+undetermined	1004247563	2400	1130	653
+AWS/us-east-1	566910754	805	804	1
 AWS/us-east-2	38104412	55	54	1
-missing	453729620	1346	512	208
-US/Illinois	83008958	167	111	14
+missing	512974201	1612	566	287
+US/Illinois	85065990	176	113	16
 SG/Singapore	9815863	14	14	0
 US/Wyoming	6961103	28	7	4
 US/South Carolina	5603536	8	8	0
@@ -31,7 +31,7 @@ AR/Buenos Aires	682033	1	1	0
 MA/Souss-Massa	712458	1	1	0
 BD/Dhaka Division	2085495	3	3	0
 DE/North Rhine-Westphalia	2721078	9	3	3
-VN/Ho Chi Minh City (HCMC)	1387563	2	2	0
+VN/Ho Chi Minh City (HCMC)	2071703	3	3	0
 VN/Hanoi	718290	1	1	0
 VN/Thanh Hóa Province	702032	1	1	0
 VN/Da Nang City	678803	1	1	0
@@ -45,5 +45,6 @@ US/Wisconsin	693938	1	1	0
 PH/National Capital Region	693938	1	1	0
 AR/Formosa	702448	1	1	0
 CH/Vaud	1621418	6	2	1
+VN/Can Tho City	677853	1	1	0
 GY/Demerara-Mahaica	711016	1	1	0
 BR/Rio Grande do Sul	711016	1	1	0

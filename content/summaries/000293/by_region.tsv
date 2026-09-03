@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	145698569686	556660	38134	12585
+missing	145673373871	556626	38118	12584
 undetermined	24652754003	74474	7947	722
 GCP/us-west1	234976142	121	121	0
 NL/Flevoland	143821625	81	81	0
-GitHub	13333221408	307432	3915	2758
+GitHub	13336811959	307451	3916	2759
 VPN	2571132993	1459	1318	26
 CN/Shanghai	429943219	236	234	1
 GCP/europe-west4	469952284	242	242	0
-AWS/us-east-1	3376441369	1743	847	448
+AWS/us-east-1	3378706870	1744	848	448
 GCP/us-central1	606295122	358	358	0
-US/California	916582717	12105	468	29
+US/California	919596199	12106	469	29
 AT/Tyrol	463147031	239	239	0
 US/Massachusetts	254930977	124	2	122
 US/Virginia	1712518046	22759	426	275
@@ -26,7 +26,7 @@ US/Washington	248134788	2551	129	1
 NO/Vestland	231099211	118	118	0
 AWS/us-east-2	340484203	21165	146	29
 GCP/asia-east1	234976142	121	121	0
-AR/Buenos Aires	20668760	12	12	0
+AR/Buenos Aires	22128768	13	13	0
 HK/Hong Kong	267046102	139	139	0
 MX/Nuevo León	236549402	122	122	0
 US/New Mexico	466075353	239	239	0
@@ -39,17 +39,17 @@ FR/New Aquitaine	234976142	121	121	0
 US/Illinois	463781008	931	207	30
 CN/Hebei	224615726	119	119	0
 VN/Thai Nguyen	3083231	2	2	0
-NG/Lagos	234976142	121	121	0
+NG/Lagos	236037966	122	122	0
 TR/Ankara	257445690	138	138	0
 VE/Distrito Federal	8336628	3	3	0
-AR/Buenos Aires F.D.	9751213	6	6	0
+AR/Buenos Aires F.D.	10680309	7	7	0
 US/Missouri	1680090	1	1	0
 US/New Hampshire	1680090	1	1	0
 SA/Eastern Province	1061824	1	1	0
 VN/Ninh Binh	4490211	4	4	0
 IN/Delhi	7064515	3	3	0
 MX/Mexico City	179022717	688	137	80
-BR/São Paulo	24806082	16	16	0
+BR/São Paulo	25875073	17	17	0
 VN/Da Nang City	1093343	1	1	0
 PS/West Bank	6572667	3	3	0
 MX/Puebla	1301596	1	1	0
@@ -68,7 +68,7 @@ VN/Ho Chi Minh City (HCMC)	27500080	17	17	0
 MA/Souss-Massa	2154164	1	1	0
 CI/Abidjan Autonomous District	2154164	1	1	0
 RU/Samara Oblast	2207992	1	1	0
-SG/Singapore	48283447	25	25	0
+SG/Singapore	49100680	26	26	0
 ZA/Gauteng	17271040	9	9	0
 RU/Rostov	5705743	3	3	0
 PA/Colón	2724501	1	1	0
@@ -76,6 +76,7 @@ SN/Thies	1858192	1	1	0
 US/South Carolina	12816266	9	9	0
 PH/Central Visayas	1128188	1	1	0
 MX/Oaxaca	2356971	2	2	0
+VE/Zulia	963149	1	1	0
 KZ/Karaganda	934727	1	1	0
 AR/San Juan	934727	1	1	0
 IN/Himachal Pradesh	934727	1	1	0
@@ -90,15 +91,16 @@ MX/Jalisco	2588196	2	2	0
 VN/Dong Thap	2569090	1	1	0
 IQ/Kirkuk	2569090	1	1	0
 BD/Dhaka Division	13186534	8	8	0
-JO/Amman	18790091	12	12	0
+JO/Amman	20574373	13	13	0
 PK/Khyber Pakhtunkhwa	1754180	1	1	0
 BH/Southern Governorate	1128188	1	1	0
 IN/Haryana	4061616	3	3	0
+US/New Jersey	15212998	32	4	3
 KE/Nairobi County	8624749	4	4	0
 NZ/Waikato Region	1109087	1	1	0
 AR/Chaco	1062003	1	1	0
 ZA/Western Cape	2690469	2	2	0
-US/Michigan	1062003	1	1	0
+US/Michigan	2130994	2	2	0
 BR/Minas Gerais	14775979	8	8	0
 LV/Riga	1062003	1	1	0
 VN/Dak Lak	1791828	2	2	0
@@ -133,7 +135,6 @@ VN/Phu Tho	5631222	3	3	0
 IL/Haifa	1819824	1	1	0
 JP/Tokyo	12699704	44	4	2
 US/Texas	33913384	4044	28	2
-US/New Jersey	13224269	31	3	3
 BR/Goiás	5940506	3	3	0
 US/Louisiana	1433863	1	1	0
 HN/Cortés Department	1433863	1	1	0
@@ -141,6 +142,7 @@ KR/Seoul	1433863	1	1	0
 CN/Hubei	1433863	1	1	0
 UZ/Tashkent	3647391	2	2	0
 IQ/Sulaymaniyah	1059658	1	1	0
+MX/México	2335401	1	1	0
 BR/Ceará	3654905	2	2	0
 US/New York	5590055	4	4	0
 US/Alabama	1753365	1	1	0
@@ -165,6 +167,7 @@ DZ/Ouargla	2847765	1	1	0
 AZ/Baki	2847765	1	1	0
 VE/Mérida	1256376	1	1	0
 US/Colorado	1256376	1	1	0
+NP/Madhesh	1061824	1	1	0
 EC/Pichincha	6130353	3	3	0
 RU/Chechnya	1112134	1	1	0
 CO/Atlántico	1214826	1	1	0
@@ -208,6 +211,7 @@ MY/Johor	2265501	1	1	0
 MY/Selangor	3397413	2	2	0
 ZM/Lusaka Province	929096	1	1	0
 NP/Bagmati Province	2208505	2	2	0
+BW/Gaborone	862732	1	1	0
 KG/Bishkek	1028451	1	1	0
 SA/Mecca Region	1028451	1	1	0
 RU/Sverdlovsk Oblast	1128188	1	1	0
@@ -239,6 +243,7 @@ FR/Centre-Val de Loire	2772063	3	3	0
 NO/Oslo	924021	1	1	0
 HU/Baranya	7808	2	0	1
 DE/Bavaria	1848042	2	2	0
+CN/Liaoning	924021	1	1	0
 DE/Lower Saxony	1131912	1	1	0
 AU/Victoria	1131912	1	1	0
 MA/Tanger-Tetouan-Al Hoceima	1131912	1	1	0

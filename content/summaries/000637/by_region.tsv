@@ -1,22 +1,22 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	22742047816	34823	6986	6243
+GitHub	22767262000	34879	6998	6255
 CN/Shanghai	2059240392	523	523	0
 US/Massachusetts	1272127058	327	10	305
-VPN	8064152168	2609	2225	50
+VPN	8075746616	2612	2228	50
 HK/Hong Kong	132361208	36	36	0
-AWS/us-east-1	7345813580	2091	1580	446
-US/California	658251356	621	177	43
-US/New York	2439263044	789	619	15
+AWS/us-east-1	7350202616	2092	1581	446
+US/California	666750128	623	179	43
+US/New York	2445870412	791	621	15
 undetermined	8567202220	4042	2183	1054
 AWS/ap-southeast-1	1541809927	503	501	1
 CN/Shanxi	102512304	27	27	0
 GCP/us-central1	110017016	57	9	48
 AWS/us-east-2	1317582952	642	330	3
 US/Illinois	540044912	350	154	44
-missing	3559719862	3010	1346	462
+missing	3479471922	2931	1311	450
 BD/Dhaka Division	5307976	3	3	0
 BR/Rondônia	3671672	1	1	0
-CL/Santiago Metropolitan	6873724	6	6	0
+CL/Santiago Metropolitan	9232012	7	7	0
 CH/Vaud	1740336	6	1	1
 US/Wyoming	19632212	38	7	4
 SG/Singapore	244073716	68	68	0
@@ -36,24 +36,24 @@ BD/Rajshahi Division	6203196	2	2	0
 CD/Kinshasa	1703208	1	1	0
 FR/Île-de-France	1048128	1	1	0
 IQ/Dhi Qar	917112	1	1	0
-VN/Ho Chi Minh City (HCMC)	23071516	9	9	0
+VN/Ho Chi Minh City (HCMC)	23923120	10	10	0
 IQ/Baghdad	3209892	2	2	0
+AR/Buenos Aires	9356324	3	3	0
 IN/Punjab	2259452	2	2	0
 US/Kansas	4178216	1	1	0
 PK/Punjab	11304992	7	7	0
 DO/Santo Domingo Province	5409432	1	1	0
-JO/Amman	2161764	2	2	0
+JO/Amman	3406416	3	3	0
 EC/Pichincha	2816844	2	2	0
-AR/Buenos Aires	8242688	2	2	0
 ZA/Gauteng	1113636	1	1	0
-VN/Vinh Long	4286712	1	1	0
+VN/Vinh Long	5138316	2	2	0
 BR/Rio de Janeiro	12240520	4	4	0
 KZ/Almaty	4697344	1	1	0
 HN/Cortés Department	2685828	1	1	0
 IE/Leinster	5389288	1	1	0
 CZ/Prague	1048128	1	1	0
 SA/Riyadh Region	3340908	3	3	0
-OM/Muscat	5031268	3	3	0
+OM/Muscat	6210412	4	4	0
 AE/Sharjah	3078876	3	3	0
 AWS/us-west-2	16706504	22	6	2
 DO/Puerto Plata	1441176	1	1	0
@@ -68,7 +68,7 @@ IN/Maharashtra	1048128	1	1	0
 RU/Vladimir Oblast	2096256	1	1	0
 BR/Minas Gerais	6510064	3	3	0
 VN/Dong Nai	6993816	2	2	0
-VN/Can Tho City	4368632	2	2	0
+VN/Can Tho City	7737680	3	3	0
 BD/Chittagong	5949080	2	2	0
 VN/Bac Ninh	1703208	2	2	0
 IT/Liguria	5040992	1	1	0
@@ -80,6 +80,7 @@ US/New Jersey	11987540	7	2	2
 SV/San Salvador Department	4860096	1	1	0
 AR/Buenos Aires F.D.	11313124	3	3	0
 MA/Rabat-Salé-Kénitra	2358288	2	2	0
+AU/Victoria	1591280	1	1	0
 NG/Lagos	2227272	2	2	0
 CO/Quindío Department	1375668	1	1	0
 VN/Thanh Hóa Province	2884992	1	1	0
@@ -94,11 +95,12 @@ RU/Moscow	1113636	1	1	0
 PH/Bicol Region	1441176	1	1	0
 IT/Apulia	1375668	1	1	0
 IN/Uttar Pradesh	917112	1	1	0
-VN/Hanoi	2554812	3	3	0
+VN/Hanoi	3406416	4	4	0
 UZ/Tashkent	1113636	1	1	0
 VN/Quảng Ninh	3124672	1	1	0
 IL/Central District	1048128	1	1	0
 NZ/Otago	1113636	1	1	0
+US/Indiana	4127004	1	1	0
 VN/Thai Nguyen	4498944	1	1	0
 NP/Madhesh	3340908	1	1	0
 BR/Pernambuco	8059312	3	3	0
@@ -107,8 +109,9 @@ CO/Bolívar	3144384	1	1	0
 ID/Jakarta	917112	1	1	0
 ZA/Eastern Cape	3078876	1	1	0
 AR/Cordoba	4272056	1	1	0
+AF/Nangarhar	1113636	1	1	0
 CO/Bogota D.C.	2489304	1	1	0
-VN/Lam Dong	851604	1	1	0
+VN/Lam Dong	1768716	2	2	0
 MY/Selangor	1048128	1	1	0
 CA/Alberta	1113636	1	1	0
 VN/Gia Lai	1048128	1	1	0
@@ -119,10 +122,13 @@ VE/Vargas	3275400	1	1	0
 PT/Lisbon	50026308	77	11	1
 US/Pennsylvania	9648536	8	5	1
 US/Utah	262112	6	0	1
+VN/Dak Lak	2279264	1	1	0
 MW/Central Region	917112	1	1	0
 PH/National Capital Region	1113636	1	1	0
+DK/Capital Region	1048128	1	1	0
 CG/Pointe-Noire	2685828	1	1	0
 VN/Ninh Binh	2898796	2	2	0
+BR/Goiás	1048128	1	1	0
 VE/Carabobo	1899732	1	1	0
 AR/Mendoza	1113636	1	1	0
 ID/West Java	1113636	1	1	0

@@ -1,7 +1,7 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	309354479812	1208194	23815	19655
+missing	309243865526	1207703	23796	19647
 US/Texas	1692391394	6427	191	2
-GitHub	42458642498	546707	3466	2671
+GitHub	42528448365	547185	3473	2678
 AWS/us-east-2	2556758631	935106	212	363
 undetermined	48506791996	52248	4915	1236
 US/Oklahoma	4968499962	555	555	0
@@ -16,8 +16,8 @@ CN/Shanghai	7944655989	892	879	5
 HK/Kwai Tsing District	1656166654	185	185	0
 CN/Fujian	3312333308	370	370	0
 DE/Baden-Wurttemberg	3331250064	372	372	0
-US/California	2434869635	19411	284	25
-US/Massachusetts	1878585535	216	9	197
+US/California	2444424296	19412	285	25
+US/Massachusetts	1883031923	217	10	197
 AWS/us-west-2	2432580428	11210	191	187
 US/Minnesota	52359126	11	1	5
 VPN	20316495744	2608	2433	14
@@ -45,7 +45,7 @@ DE/Bavaria	28470084	3	3	0
 CN/Hunan	1115045296	128	126	2
 JO/Amman	12410068	3	3	0
 AR/Corrientes	6570036	1	1	0
-CN/Hebei	590791824	215	66	143
+CN/Hebei	591840400	216	66	144
 US/Illinois	799213672	1081	89	14
 CN/Zhejiang	393089305	45	45	0
 UZ/Tashkent	36773636	5	5	0
@@ -67,8 +67,8 @@ IN/Maharashtra	3185472	3	3	0
 VN/Sơn La Province	6171852	1	1	0
 GR/Attica	9383530	1	1	0
 VE/Distrito Federal	4247296	2	2	0
-ID/Jakarta	23293764	4	4	0
-VN/Hanoi	19177337	3	3	0
+ID/Jakarta	24222860	5	5	0
+VN/Hanoi	20106433	4	4	0
 AT/State of Vienna	2057284	1	1	0
 NG/FCT	3782748	2	2	0
 VN/Ninh Binh	8428228	1	1	0
@@ -83,6 +83,7 @@ CO/Quindío Department	2256376	1	1	0
 UA/Zhytomyr Oblast	1194552	1	1	0
 US/Pennsylvania	1791828	1	1	0
 AR/San Juan	1327280	1	1	0
+BR/Minas Gerais	4977300	2	2	0
 US/Florida	2588196	1	1	0
 PH/Davao Region	1061824	1	1	0
 CL/Maule Region	3981840	2	2	0
@@ -92,6 +93,7 @@ BR/Rio de Janeiro	16467423	2	2	0
 KE/Nairobi County	11480972	3	3	0
 BD/Dhaka Division	38018149	8	8	0
 PK/Punjab	13215998	5	5	0
+BR/Rio Grande do Sul	17861478	4	4	0
 IT/Tuscany	1128188	1	1	0
 IN/Rajasthan	2190012	2	2	0
 SA/Eastern Province	1061824	1	1	0
@@ -120,7 +122,7 @@ MA/Oriental	3915476	1	1	0
 MY/Perak	2322740	2	2	0
 US/Wyoming	67028800	376	7	4
 CA/Alberta	1659100	1	1	0
-AR/Buenos Aires F.D.	3849112	1	1	0
+AR/Buenos Aires F.D.	5176392	2	2	0
 NG/Enugu State	6039124	1	1	0
 QA/Baladiyat ar Rayyan	1128188	1	1	0
 ES/Valencia	1393644	1	1	0
@@ -137,7 +139,7 @@ TR/Edirne	1327280	1	1	0
 IN/Uttar Pradesh	1061824	1	1	0
 PA/Panamá Oeste Province	3849112	1	1	0
 ES/Andalusia	2588196	2	2	0
-VN/Hai Phong	10153692	3	3	0
+VN/Hai Phong	11016424	4	4	0
 ZA/KwaZulu-Natal	2389104	1	1	0
 DO/La Altagracia Province	5176392	1	1	0
 SA/'Asir Region	1327280	1	1	0
@@ -150,12 +152,12 @@ ET/Addis Ababa	929096	1	1	0
 VN/Phu Tho	1061824	1	1	0
 CO/Antioquia	14799172	2	2	0
 US/Missouri	4844572	1	1	0
-BR/Minas Gerais	1393644	1	1	0
-BR/Rio Grande do Sul	3782748	2	2	0
+KE/Embu County	929096	1	1	0
 AR/San Luis	1061824	1	1	0
 AE/Sharjah	6039124	1	1	0
 AU/Victoria	1128188	1	1	0
 PH/Calabarzon	11317281	3	3	0
+EC/Tungurahua Province	1990920	1	1	0
 JP/Tokyo	29054610	126	2	1
 CA/Quebec	9278841	2	0	1
 NL/North Holland	18560426	2	2	0
@@ -188,6 +190,7 @@ VN/Lai Châu Province	1061824	1	1	0
 AT/Styria	10325543	1	1	0
 PY/Central Department	7167312	1	1	0
 DE/Rheinland-Pfalz	1327280	1	1	0
+MX/Baja California	1128188	1	1	0
 ES/Castille and León	1194552	1	1	0
 VN/An Giang	796368	1	1	0
 ZA/Western Cape	4048204	2	2	0

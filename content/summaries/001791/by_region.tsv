@@ -1,17 +1,17 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 AWS/us-east-1	19323062880	2383	95	9
-GitHub	476711816	1294	253	134
+GitHub	494144000	1381	275	156
 US/Massachusetts	13351449160	305	3	18
-VPN	367687364	264	82	22
-US/Illinois	372347816	11	11	0
+VPN	374621204	268	86	22
+US/Illinois	373461452	12	12	0
 MX/Mexico City	68140448	281	60	36
-CN/Hebei	11463468843	65	16	34
-missing	64814431108	326	121	44
-undetermined	67751556374	500	213	91
+CN/Hebei	13403655599	69	17	36
+missing	125319044129	601	286	78
+undetermined	67797927010	510	218	93
 BD/Dhaka Division	1441176	1	1	0
 VN/Dong Nai	2685828	1	1	0
 UZ/Tashkent	1768716	1	1	0
-AWS/ap-southeast-1	17074212	12	12	0
+AWS/ap-southeast-1	58215316	42	42	0
 VN/Ho Chi Minh City (HCMC)	34129556	10	10	0
 US/Washington	381360	1	1	0
 DO/Santo Domingo Province	381360	1	1	0
@@ -46,7 +46,7 @@ CH/Vaud	2805320	10	3	2
 AZ/Sumqayit	854600	1	1	0
 VN/Nghệ An Province	2979264	1	1	0
 US/Arizona	6703244	28	2	1
-US/New York	5010012	2	2	0
+US/New York	10968540	4	4	0
 AR/La Pampa	7860960	1	1	0
 ID/Central Java	7991976	1	1	0
 BD/Mymensingh Division	34064160	1	1	0
@@ -55,6 +55,8 @@ VN/Thanh Hóa Province	374760	1	1	0
 VN/Lao Cai	374760	1	1	0
 BR/Bahia	374760	1	1	0
 AL/Tirana	374760	1	1	0
+JP/Fukuoka	171960	1	1	0
+US/Iowa	3119072	13	3	2
 VN/Vinh Long	4313520	1	1	0
 CO/Risaralda Department	4313520	1	1	0
 VN/Lam Dong	11791440	1	1	0
@@ -62,4 +64,3 @@ VN/Ninh Binh	4585560	1	1	0
 BR/São Paulo	6092244	1	1	0
 IQ/Dhi Qar	12643044	1	1	0
 MY/Johor	1113636	1	1	0
-US/Iowa	2762288	10	2	1

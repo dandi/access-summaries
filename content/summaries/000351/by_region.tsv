@@ -1,25 +1,25 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-US/California	261642047995	351397	1024	1361
+US/California	261646818707	351399	1026	1361
 HK/Hong Kong	1897515072	272	24	68
-GitHub	38963950924	87669	7758	6888
+GitHub	38992879760	87767	7771	6901
 FR/Île-de-France	7300494528	1578	6	239
 undetermined	362029895316	14534	3639	1371
-AWS/us-east-1	130932291345	17662	1862	1408
+AWS/us-east-1	130938795017	17663	1863	1408
 US/Minnesota	107961480	17	2	5
 CN/Shanxi	8792995456	1077	13	40
-VPN	540038080540	4851	3985	197
-AWS/ap-southeast-1	4240511820	704	704	0
+VPN	540432106037	4877	4009	198
+AWS/ap-southeast-1	4252191884	705	705	0
 GCP/us-central1	776084608	40	40	0
 ES/Madrid	1553893984	225	81	29
 CN/Shanghai	240220769281	14421	627	325
 US/Virginia	4216135468	4375	380	306
 JP/Nara	7120784952	304	304	0
 FI/Southwest Finland	98548166664	428	428	0
-US/Texas	197857080080	1249	793	2
+US/Texas	197875794728	1250	794	2
 US/Massachusetts	233718572850	3076	588	439
 GB/England	2994075020	1017	11	155
 GCP/us-west1	41080016	2	2	0
-missing	23914067845	19293	3290	1436
+missing	23410234044	19153	3237	1422
 AWS/us-east-2	1799178432	2416	81	19
 CA/Quebec	13850156768	89	83	6
 RU/Moscow	227328	1	1	0
@@ -60,6 +60,7 @@ PH/Caraga	1061824	1	1	0
 PY/Alto Paraná Department	221056	1	1	0
 IT/Veneto	1327280	1	1	0
 AR/Buenos Aires	7732764	7	7	0
+AR/Cordoba	2256376	1	1	0
 VN/Ho Chi Minh City (HCMC)	3801128	5	5	0
 UG/Central Region	1128188	1	1	0
 TR/İzmir Province	234624	1	1	0
@@ -73,7 +74,7 @@ UY/Montevideo Department	13604620	3	3	0
 DE/Rheinland-Pfalz	4048204	2	2	0
 PK/Punjab	10879680	8	8	0
 CO/Antioquia	1128188	1	1	0
-US/New York	754145364	8	8	0
+US/New York	761202652	9	9	0
 VN/Tuyen Quang	11613700	1	1	0
 CO/Córdoba	3849112	1	1	0
 KH/Phnom Penh	929096	1	1	0
@@ -89,6 +90,7 @@ AR/Santa Fe	1327280	1	1	0
 TR/Istanbul	1393644	1	1	0
 US/Tennessee	1128188	1	1	0
 EG/Cairo	1858192	2	2	0
+TN/Gafsa	1725464	1	1	0
 IT/Campania	2389104	1	1	0
 PH/Calabarzon	6156856	1	1	0
 CO/Bogota D.C.	13936440	3	3	0
@@ -112,11 +114,15 @@ CH/Vaud	586288	4	2	1
 VE/Táchira	190744	1	1	0
 EC/Pichincha	12799904	2	2	0
 TJ/Dushanbe	190744	1	1	0
+VN/Lao Cai	1858192	2	2	0
 CL/Los Lagos Region	1128188	1	1	0
 CL/Santiago Metropolitan	1061824	1	1	0
 PH/National Capital Region	929096	1	1	0
 NL/North Brabant	1061824	1	1	0
+US/Washington	19760664	1	1	0
 BD/Rajshahi Division	17193944	1	1	0
+CM/Centre	1128188	1	1	0
+JM/Kingston	1460008	1	1	0
 KR/Daejeon	8958776	1	1	0
 BR/Rio Grande do Sul	4048204	1	1	0
 HK/Islands	862732	1	1	0
@@ -126,12 +132,11 @@ PS/West Bank	1990920	2	2	0
 SA/Mecca Region	2256376	2	2	0
 DE/North Rhine-Westphalia	1061824	1	1	0
 BD/Dhaka Division	2123648	2	2	0
+VN/Hai Phong	3318200	3	3	0
 JP/Tokyo	2722492	5	3	1
 JP/Kyoto	266240	1	1	0
 IN/Punjab	3849112	1	1	0
-VN/Hai Phong	2256376	2	2	0
 TW/Takao	862732	1	1	0
-VN/Lao Cai	929096	1	1	0
 IQ/Baghdad	1128188	1	1	0
 PY/Central Department	1061824	1	1	0
 MY/Selangor	1061824	1	1	0
@@ -143,6 +148,7 @@ UA/Kyiv City	1128188	1	1	0
 IQ/Diyala	1061824	1	1	0
 PK/Khyber Pakhtunkhwa	1990920	1	1	0
 ES/Galicia	1194552	1	1	0
+TR/Kahramanmaraş	1327280	1	1	0
 IN/Madhya Pradesh	929096	1	1	0
 BR/Paraíba	1393644	1	1	0
 VE/Zulia	2766236	2	2	0
@@ -154,6 +160,7 @@ EG/Kafr el-Sheikh	1061824	1	1	0
 VN/Can Tho City	11945520	1	1	0
 BD/Chittagong	929096	1	1	0
 MU/Plaines Wilhems	1128188	1	1	0
+KG/Bishkek	2256376	1	1	0
 BR/Bahia	2256376	1	1	0
 IL/Central District	8096408	1	1	0
 AT/State of Vienna	929096	1	1	0
@@ -163,6 +170,7 @@ DZ/Bordj Bou Arréridj	1393644	1	1	0
 DO/Santiago Province	11746428	1	1	0
 BR/Alagoas	9423689	2	1	1
 MX/Coahuila	1659100	1	1	0
+IN/Manipur	247808	1	1	0
 US/Arkansas	995460	1	1	0
 ES/Basque Country	1327280	1	1	0
 JP/Hiroshima	1128188	1	1	0

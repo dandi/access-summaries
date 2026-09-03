@@ -1,11 +1,11 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	144758168260	93218	9751	8530
+missing	144729422684	93176	9743	8528
 US/Massachusetts	60406141571	1266	0	85
 US/California	30924877389	4497	20	44
 US/Vermont	133132275962	6388	190	12
 HK/Hong Kong	8700514751	1044	2	16
 AWS/us-east-1	62890861669	7440	346	85
-GitHub	12259213735	24268	1788	1551
+GitHub	12267258783	24304	1790	1553
 CN/Shanghai	103608239910	7146	7	89
 undetermined	130427847996	6292	843	359
 US/Virginia	59535358367	125	108	3
@@ -34,9 +34,10 @@ GCP/us-east1	23189832	2	2	0
 DZ/Blida	1113636	1	1	0
 US/Iowa	12597824	54	4	2
 GCP/us-central1	1630309817	7	7	0
+VN/Hưng Yên Province	1048128	1	1	0
 MX/Nuevo León	1375668	1	1	0
 IN/Maharashtra	1048128	1	1	0
-BR/Paraná	7926468	1	1	0
+BR/Paraná	11594916	2	2	0
 US/New York	196001904	22	11	1
 DE/North Rhine-Westphalia	9012374	38	3	3
 US/Texas	54568164	2	2	0
@@ -48,6 +49,8 @@ US/Florida	1703208	1	1	0
 CO/Quindío Department	1179144	1	1	0
 CL/Santiago Metropolitan	10481280	2	2	0
 CH/Vaud	2459364	9	2	2
+IN/Rajasthan	12512028	1	1	0
+UA/Kharkiv	1375668	1	1	0
 BR/Minas Gerais	1113636	1	1	0
 MX/Tabasco	10099594	2	2	0
 PK/Punjab	1179144	1	1	0
@@ -58,10 +61,11 @@ US/Wisconsin	1048128	1	1	0
 PK/Islamabad	1048128	1	1	0
 US/South Carolina	90626236	1	1	0
 IQ/Baghdad	10677804	1	1	0
-BR/São Paulo	63147958	6	6	0
+BR/São Paulo	64392610	7	7	0
 US/Connecticut	59350248	3	3	0
 JP/Osaka	92462408	103	1	1
 UZ/Tashkent	1375668	1	1	0
+VN/Quảng Ninh	1899732	2	2	0
 US/North Carolina	10153740	1	1	0
 CO/Bogota D.C.	6747324	1	1	0
 AWS/us-west-2	30158711	58	6	2
@@ -95,4 +99,3 @@ EC/Santo Domingo de los Tsáchilas	1703208	1	1	0
 BR/Rio de Janeiro	112702432	1	1	0
 FR/Normandy	1310160	1	1	0
 ID/Riau	8778072	1	1	0
-VN/Quảng Ninh	1048128	1	1	0

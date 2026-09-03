@@ -2,12 +2,12 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 CN/Shanghai	66815267100	10929	331	2461
 undetermined	106346619106	15899	8572	3227
 GCP/us-west1	186386164	12	12	0
-VPN	96275591876	11193	10235	158
+VPN	96293167108	11195	10237	158
 AWS/ap-southeast-1	23590158980	3657	3657	0
-GitHub	147804672496	173120	17637	13271
+GitHub	149574842864	173774	17800	13334
 US/California	20965330384	4005	513	941
 JP/Tokyo	39967052740	2703	2703	0
-missing	68680548744	52661	7398	4844
+missing	66871185504	51999	7227	4781
 AWS/us-east-1	46980563524	6470	463	2699
 AWS/us-east-2	7095269948	465	465	0
 US/District of Columbia	39976951636	2706	2704	2
@@ -26,6 +26,7 @@ GCP/us-east1	192210904	20	20	0
 US/Iowa	1345814544	1689	164	83
 SG/Singapore	668508768	53	53	0
 BD/Dhaka Division	90007992	14	14	0
+MX/Jalisco	12577536	2	2	0
 VN/Hưng Yên Province	6092244	2	2	0
 JP/Kyoto	366455124	28	28	0
 ET/Central Ethiopia Regional State	4323528	1	1	0
@@ -51,6 +52,7 @@ DE/Baden-Wurttemberg	5961228	1	1	0
 HK/Yau Tsim Mong District	79199172	11	11	0
 BR/Piauí	11136360	1	1	0
 SA/Mecca Region	3668448	1	1	0
+VN/Phu Tho	16442508	2	2	0
 ML/Bamako	917112	1	1	0
 US/Alabama	9861016	1	1	0
 ID/East Java	14280744	3	3	0
@@ -65,7 +67,7 @@ VN/Da Nang City	41663088	5	5	0
 IL/Central District	16186880	2	2	0
 BR/Rondônia	7533420	1	1	0
 ID/Riau	9695184	2	2	0
-PK/Punjab	34653732	9	9	0
+PK/Punjab	35570844	10	10	0
 DE/Brandenburg	10612296	1	1	0
 IQ/Nineveh	5961228	3	3	0
 NG/Delta	7729944	1	1	0
@@ -106,6 +108,7 @@ MY/Selangor	13305900	3	3	0
 CR/San José	8974596	2	2	0
 BR/Federal District	1244652	1	1	0
 TR/Bartın	11267376	1	1	0
+SY/Damascus Governorate	1375668	1	1	0
 IL/Jerusalem	18374772	2	2	0
 MA/Marrakesh-Safi	13953204	3	3	0
 BD/Mymensingh Division	917112	1	1	0
@@ -139,11 +142,10 @@ US/Maryland	11922456	1	1	0
 AT/Lower Austria	6026736	1	1	0
 PY/Canindeyú	4585560	1	1	0
 RU/Krasnodar Krai	4192512	1	1	0
-MX/Jalisco	3995988	1	1	0
 CH/Vaud	10464440	14	2	2
 SY/Aleppo	2030748	1	1	0
 IQ/Al-Qadisiyah	8843580	1	1	0
-ID/Yogyakarta	17228604	3	3	0
+ID/Yogyakarta	18342240	4	4	0
 BR/Pará	24541976	2	2	0
 BR/Maranhão	14346252	1	1	0
 TR/Gaziantep	2030748	1	1	0
@@ -169,7 +171,6 @@ AL/Shkodër County	16377000	1	1	0
 TR/Ankara	4978608	1	1	0
 PH/National Capital Region	8843580	1	1	0
 US/Texas	12053472	1	1	0
-VN/Phu Tho	7860960	1	1	0
 IQ/Sulaymaniyah	4258020	1	1	0
 VN/Nghệ An Province	18342240	2	2	0
 BR/Rio de Janeiro	5437164	2	2	0
@@ -194,6 +195,7 @@ PH/Cagayan Valley	1113636	1	1	0
 AZ/Baki	13281620	1	1	0
 TR/Nevşehir Province	7009356	1	1	0
 IN/Tamil Nadu	9367644	1	1	0
+MY/Johor	1048128	1	1	0
 PH/Calabarzon	18669780	1	1	0
 IT/Liguria	34738756	11	2	1
 TR/Samsun	4651068	1	1	0

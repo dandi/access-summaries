@@ -2,14 +2,14 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 CN/Shanghai	482289204	691	691	0
 US/Massachusetts	131883265	189	4	185
 AWS/us-east-1	421716803	605	605	0
-VPN	1048023256	1531	1497	14
+VPN	1050129017	1534	1500	14
 AWS/ap-southeast-1	179770462	258	258	0
-GitHub	1847447971	7308	1804	1485
-missing	237447979	626	285	82
-undetermined	765569974	1821	881	501
-US/California	92192503	145	130	6
+GitHub	1994724625	7896	1951	1625
+missing	275671312	785	322	131
+undetermined	766478841	1824	882	502
+US/California	93213103	149	131	7
 AWS/us-east-2	23684033	34	33	1
-US/Virginia	26575562	59	35	6
+US/Virginia	28567310	67	37	8
 SG/Singapore	28542858	41	41	0
 US/Illinois	60196225	111	82	6
 GCP/us-east1	4837925	7	7	0
@@ -24,9 +24,10 @@ AE/Dubai	684596	1	1	0
 HK/Yau Tsim Mong District	1369192	2	2	0
 BD/Dhaka Division	684596	1	1	0
 BD/Chittagong	1404868	2	2	0
-US/Iowa	14104888	56	14	7
+US/Iowa	16097644	64	16	9
 US/South Carolina	702411	1	1	0
 GCP/us-central1	3521719	5	5	0
+BR/Rio de Janeiro	702124	1	1	0
 IN/Maharashtra	663029	1	1	0
 ID/Yogyakarta	703132	1	1	0
 RU/Volgograd Oblast	709982	1	1	0
@@ -36,6 +37,7 @@ RU/Sverdlovsk Oblast	714536	1	1	0
 PE/Ancash	714536	1	1	0
 VN/Hưng Yên Province	714536	1	1	0
 KZ/Aktobe	714536	1	1	0
+US/Wyoming	1992830	8	2	2
 AR/Misiones	703373	1	1	0
 VN/Thanh Hóa Province	713164	1	1	0
 MX/Guerrero	713164	1	1	0
@@ -47,6 +49,7 @@ PK/Islamabad	680016	1	1	0
 BD/Khulna Division	703200	1	1	0
 VN/Dak Lak	704584	1	1	0
 DZ/Tizi Ouzou	676054	1	1	0
+VN/Ninh Binh	663182	1	1	0
 JO/Balqa	700184	1	1	0
 PK/Punjab	700184	1	1	0
 CH/Vaud	2005584	8	2	1

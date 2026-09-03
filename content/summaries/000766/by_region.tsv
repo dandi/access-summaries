@@ -1,19 +1,19 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	2534186656	19576	6836	5950
+GitHub	2538806368	19612	6848	5962
 US/Virginia	67016637	716	270	92
 AWS/us-east-1	331096256	1724	1724	0
 CN/Shanghai	248974288	1292	1292	0
 US/Massachusetts	72079680	373	4	369
 undetermined	596380848	3476	2534	902
-VPN	384294352	2008	1984	17
+VPN	384486440	2009	1985	17
 GB/Scotland	55104960	288	288	0
 US/Ohio	55299432	291	289	1
-AWS/ap-southeast-1	123883624	645	645	0
+AWS/ap-southeast-1	124075712	646	646	0
 US/California	73310160	385	374	7
 US/Illinois	34093952	200	154	15
 AWS/us-east-2	14395032	75	73	2
 AWS/ap-south-1	183256	1	1	0
-missing	247741688	1665	913	315
+missing	241611800	1621	893	303
 SG/Singapore	2118440	11	11	0
 VE/Distrito Federal	183224	1	1	0
 GB/England	576264	3	3	0
@@ -21,7 +21,7 @@ US/Iowa	9001680	69	23	12
 US/Pennsylvania	610832	6	1	1
 MX/Mexico City	11732336	80	40	40
 GCP/us-central1	1711144	9	9	0
-VN/Hanoi	1716568	9	9	0
+VN/Hanoi	1908656	10	10	0
 US/New York	7285808	38	38	0
 PK/Sindh	192088	1	1	0
 US/South Carolina	2892016	15	15	0
@@ -36,6 +36,7 @@ VN/Khanh Hoa	194824	1	1	0
 RU/Moscow Oblast	192088	1	1	0
 AE/Dubai	192088	1	1	0
 VE/Zulia	183256	1	1	0
+MX/Jalisco	375344	2	2	0
 VN/Ho Chi Minh City (HCMC)	1335752	7	7	0
 IN/Kerala	192088	1	1	0
 TW/Taiwan	192088	1	1	0
@@ -45,6 +46,7 @@ VN/Thanh Hóa Province	576264	3	3	0
 UY/Maldonado	375312	2	2	0
 CO/Cundinamarca	183224	1	1	0
 BR/Santa Catarina	192088	1	1	0
+IN/Maharashtra	192088	1	1	0
 TN/Sfax Governorate	183256	1	1	0
 US/Wyoming	4643968	36	12	8
 PH/Calabarzon	192088	1	1	0
@@ -52,7 +54,6 @@ RO/Bucharest	194824	1	1	0
 BR/Minas Gerais	968648	5	5	0
 CG/Brazzaville	194824	1	1	0
 VN/Ninh Binh	183256	1	1	0
-MX/Jalisco	192088	1	1	0
 BR/Rio Grande do Sul	957048	5	5	0
 BR/Rio de Janeiro	762224	4	4	0
 BR/São Paulo	567432	3	3	0
@@ -69,8 +70,10 @@ PA/Chiriquí Province	375344	2	2	0
 SY/Damascus Governorate	192088	1	1	0
 CO/Arauca Department	192088	1	1	0
 CL/Santiago Metropolitan	375344	2	2	0
+BD/Sylhet Division	384176	2	2	0
 BR/Goiás	375312	2	2	0
 TR/Istanbul	384176	2	2	0
+CZ/Prague	183224	1	1	0
 IN/Haryana	378048	2	2	0
 EC/Pichincha	192088	1	1	0
 AT/State of Vienna	384176	2	2	0
@@ -92,6 +95,7 @@ US/Florida	192088	1	1	0
 CH/Vaud	571312	4	2	1
 IN/Tripura	183256	1	1	0
 JP/Tokyo	753424	4	4	0
+RU/Khanty-Mansia	183256	1	1	0
 US/Arizona	2305056	18	6	3
 JO/Amman	192088	1	1	0
 VE/Aragua	192088	1	1	0
@@ -130,7 +134,6 @@ AZ/Abşeron	192088	1	1	0
 ZA/Gauteng	375312	2	2	0
 DZ/Blida	194824	1	1	0
 VE/Miranda	183224	1	1	0
-BD/Sylhet Division	192088	1	1	0
 US/Georgia	192088	1	1	0
 BD/Dhaka Division	192088	1	1	0
 AU/Victoria	192088	1	1	0

@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 CN/Shanghai	519026086442	39113	0	294
 HK/Hong Kong	20805195617	2496	3	27
-AWS/us-east-1	18660736386	2532	1431	139
-GitHub	46323757361	113160	4725	4540
+AWS/us-east-1	18678947610	2534	1433	139
+GitHub	46331455585	113185	4726	4541
 undetermined	692159106955	12894	1577	566
-US/California	461723987698	21802	369	127
+US/California	461727787162	21804	371	127
 AWS/ap-southeast-1	4201552104	547	547	0
 GCP/us-east1	44479932	5	5	0
 US/Massachusetts	304960554519	6245	9	283
@@ -15,8 +15,8 @@ VPN	616920487478	9250	2423	232
 CN/Shanxi	35722674529	4276	0	36
 VE/Barinas	42776724	1	1	0
 AWS/us-east-2	4596573952	3645	9	6
-missing	113613104062	9328	1218	318
-US/New York	321462724350	1417	340	17
+missing	113472330418	9289	1203	317
+US/New York	321469340658	1418	341	17
 AE/Sharjah	14542776	2	2	0
 US/Illinois	3458164425	637	131	25
 SG/Singapore	436217772	76	76	0
@@ -62,6 +62,7 @@ TG/Maritime	15459888	1	1	0
 VN/Phu Tho	11070852	2	2	0
 ID/Banten	1113636	1	1	0
 IQ/Salah ad Din	9236628	1	1	0
+RS/Central Serbia	86368216	3	3	0
 BD/Dhaka Division	204450468	24	24	0
 DZ/Oran	31050792	4	4	0
 CH/Vaud	61542100	155	12	12
@@ -105,6 +106,7 @@ US/Rhode Island	8057484	1	1	0
 US/Indiana	12970584	1	1	0
 VE/Distrito Federal	33212556	4	4	0
 US/Washington	40549452	4	4	0
+ES/Andalusia	2489304	2	2	0
 BD/Sylhet Division	16573524	2	2	0
 IQ/Sulaymaniyah	11529408	1	1	0
 PK/Islamabad	24106944	4	4	0
@@ -159,10 +161,10 @@ CG/Pointe-Noire	1113636	1	1	0
 AR/Tucuman	13232616	1	1	0
 OM/Al Batinah North	1113636	1	1	0
 AR/Catamarca	1441176	1	1	0
-BR/Bahia	60267360	5	5	0
+BR/Bahia	63018696	6	6	0
 DZ/Sétif	10612296	2	2	0
 FR/Île-de-France	3537432	3	3	0
-MX/México	4258020	1	1	0
+MX/México	8843580	2	2	0
 AE/Dubai	40811484	4	4	0
 US/Pennsylvania	92628312	5	5	0
 US/Arizona	88426390	106	5	4
@@ -180,8 +182,9 @@ BO/Cochabamba	15066840	1	1	0
 BD/Khulna Division	49393032	5	5	0
 SN/Dakar	30854268	3	3	0
 IN/Madhya Pradesh	18276732	3	3	0
+AE/Ajman	7074864	2	2	0
 IN/Telangana	1048128	1	1	0
-RS/Central Serbia	10808820	2	2	0
+UA/Chernihiv Oblast	13691172	2	2	0
 MA/Oriental	917112	1	1	0
 BW/Central	9760692	1	1	0
 VN/Gia Lai	851604	1	1	0
@@ -217,7 +220,7 @@ GCP/us-central1	799316468	1	1	0
 IN/West Bengal	917112	1	1	0
 VN/Dong Nai	19783416	3	3	0
 BD/Mymensingh Division	22600260	2	2	0
-JM/Saint Catherine Parish	17556144	1	1	0
+JM/Saint Catherine Parish	29151060	2	2	0
 CA/Manitoba	28299456	1	1	0
 SY/Aleppo	10743312	2	2	0
 IQ/Basra	14739300	2	2	0
@@ -259,7 +262,6 @@ RU/Tula Oblast	11529408	1	1	0
 VN/Lạng Sơn Province	982620	1	1	0
 IN/Tamil Nadu	2816844	2	2	0
 US/Alabama	41663088	1	1	0
-AE/Ajman	5961228	1	1	0
 KZ/Astana	7729944	1	1	0
 MY/Selangor	6812832	1	1	0
 RU/Perm Krai	9040104	1	1	0
@@ -277,6 +279,7 @@ RU/Khanty-Mansia	8385024	1	1	0
 MA/Tanger-Tetouan-Al Hoceima	917112	1	1	0
 VN/Khanh Hoa	1703208	2	2	0
 BR/Mato Grosso	18014700	2	2	0
+IN/Kerala	4782084	1	1	0
 MD/Chișinău Municipality	10546788	1	1	0
 US/New Mexico	6616308	1	1	0
 KZ/Almaty Region	12184488	1	1	0
@@ -299,8 +302,8 @@ BR/Maranhão	13101600	1	1	0
 RU/Moscow	15132348	1	1	0
 NI/Managua Department	14018712	2	2	0
 CR/San José	26203200	2	2	0
+ES/Canary Islands	1637700	1	1	0
 BR/Paraíba	9367644	1	1	0
-ES/Andalusia	1179144	1	1	0
 VN/Lao Cai	917112	1	1	0
 RU/Chelyabinsk	15066840	1	1	0
 CA/Alberta	3733956	1	1	0
@@ -339,7 +342,6 @@ IQ/Dhi Qar	15525396	1	1	0
 UA/Dnipropetrovsk	9891708	1	1	0
 NP/Bagmati Province	9760692	1	1	0
 AZ/Gǝncǝ	8188500	1	1	0
-UA/Chernihiv Oblast	12577536	1	1	0
 RU/Irkutsk Oblast	8974596	1	1	0
 AZ/Abşeron	1244652	1	1	0
 ZA/Eastern Cape	1048128	1	1	0

@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	1744627168	4418	4115	76
+VPN	1745530912	4422	4119	76
 AWS/ap-southeast-1	1044104336	1883	1883	0
 CN/Shanghai	2623006016	4778	4778	0
 US/California	437060128	844	808	5
 AWS/us-east-1	939569968	1711	1711	0
 US/Massachusetts	744902240	1340	1	1338
-undetermined	861046656	1482	776	552
+undetermined	862197632	1485	778	553
 AWS/us-east-2	190321456	524	338	28
-missing	780150239	1749	1439	68
+missing	806831439	1875	1479	104
 AWS/ap-south-1	1776016	3	3	0
 NG/FCT	1550080	2	2	0
 AR/Misiones	727440	1	1	0
@@ -20,8 +20,8 @@ BD/Chittagong	2372720	3	3	0
 OM/Southeastern Governorate	822640	1	1	0
 BD/Dhaka Division	6485920	8	8	0
 US/Pennsylvania	90059712	313	76	16
-GitHub	540609796	2376	671	475
-GB/England	30077472	54	54	0
+GitHub	602063244	2623	737	541
+GB/England	30900112	55	55	0
 KR/Seoul	30790880	60	60	0
 US/Maryland	30985344	56	55	1
 GCP/us-central1	34452208	63	63	0
@@ -61,12 +61,13 @@ UZ/Tashkent	4018000	5	5	0
 UY/Montevideo Department	1550080	2	2	0
 NG/Lagos	1550080	2	2	0
 MX/Veracruz	727440	1	1	0
+HN/Francisco Morazán Department	727440	1	1	0
 DZ/Sétif	727440	1	1	0
 US/Florida	2372720	3	3	0
 CL/Biobio	822640	1	1	0
 VN/Dong Nai	1550080	2	2	0
 KE/Nairobi County	4018000	5	5	0
-US/Wyoming	3181104	18	6	4
+US/Wyoming	3632976	21	7	5
 VN/Hanoi	8953840	11	11	0
 NI/Managua Department	1645280	2	2	0
 BR/Minas Gerais	3890000	5	5	0
@@ -91,8 +92,10 @@ MX/Sinaloa	822640	1	1	0
 UA/Kyiv City	727440	1	1	0
 AR/Chaco	727440	1	1	0
 EC/Guayas	822640	1	1	0
+AR/Tucuman	727440	1	1	0
 SA/Mecca Region	727440	1	1	0
 HK/Yau Tsim Mong District	5377680	7	7	0
+VN/Hưng Yên Province	822640	1	1	0
 PY/Alto Paraná Department	822640	1	1	0
 BR/Bahia	2372720	3	3	0
 KZ/Aktobe	822640	1	1	0
@@ -121,7 +124,7 @@ DO/Santo Domingo Province	822640	1	1	0
 GE/Tbilisi	822640	1	1	0
 CO/Caldas Department	822640	1	1	0
 FR/Provence-Alpes-Côte d'Azur	822640	1	1	0
-BR/Maranhão	727440	1	1	0
+BR/Maranhão	1550080	2	2	0
 KZ/Astana	822640	1	1	0
 VE/Zulia	822640	1	1	0
 TR/Gaziantep	822640	1	1	0

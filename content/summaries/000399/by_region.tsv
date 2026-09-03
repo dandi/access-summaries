@@ -1,7 +1,7 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 NL/North Holland	174006248	211	211	0
 CN/Shanghai	274524008	352	351	1
-GitHub	2692951228	39853	2227	1866
+GitHub	2698164380	39871	2231	1870
 US/Massachusetts	97243840	117	12	105
 AWS/us-east-1	668103496	748	627	121
 undetermined	549423926	866	550	102
@@ -15,7 +15,7 @@ CN/Shanxi	15683568	20	20	0
 US/Virginia	133007056	2070	131	30
 GCP/us-west1	546264	1	1	0
 MX/Mexico City	64697048	261	60	40
-missing	491809924	2726	532	145
+missing	481189532	2701	521	141
 AWS/us-east-2	30896432	1620	24	12
 CA/Ontario	88325144	107	107	0
 US/Illinois	75012892	207	70	38
@@ -31,6 +31,7 @@ PK/Punjab	713384	1	1	0
 SA/Mecca Region	713384	1	1	0
 BD/Dhaka Division	1703960	2	2	0
 TN/Sousse Governorate	1068232	1	1	0
+BR/Ceará	1068232	1	1	0
 EG/Giza	835144	1	1	0
 GCP/us-east1	901144	1	1	0
 CL/Santiago Metropolitan	2340344	5	5	0
@@ -44,6 +45,7 @@ ID/West Java	727664	1	1	0
 ZA/Gauteng	2341664	3	3	0
 CA/Manitoba	857312	1	1	0
 ZA/KwaZulu-Natal	857312	1	1	0
+VE/Distrito Federal	613800	1	1	0
 BR/São Paulo	1544088	2	2	0
 CH/Zurich	619192	1	1	0
 VN/Lam Dong	743656	1	1	0
@@ -65,12 +67,14 @@ US/Arizona	4776892	645	4	3
 PK/Sindh	556424	1	1	0
 VN/Hai Phong	851604	1	1	0
 UA/Lviv	912472	1	1	0
-CO/Bogota D.C.	949784	1	1	0
+CO/Bogota D.C.	1631520	2	2	0
 RU/St.-Petersburg	949784	1	1	0
 IL/Southern District	949784	1	1	0
 GB/England	1758832	2	2	0
 FR/Île-de-France	3488624	4	4	0
-VN/Ho Chi Minh City (HCMC)	917112	1	1	0
+VN/Ho Chi Minh City (HCMC)	1427776	2	2	0
+AR/Santa Fe	1011072	1	1	0
+CO/Valle del Cauca Department	1011072	1	1	0
 DE/North Rhine-Westphalia	718424	1	1	0
 IN/Uttarakhand	898568	1	1	0
 VN/Hà Tĩnh Province	851604	1	1	0
@@ -78,6 +82,7 @@ IN/Karnataka	831936	1	1	0
 CO/Cesar Department	831936	1	1	0
 ES/Andalusia	747944	1	1	0
 GY/Demerara-Mahaica	935472	1	1	0
+IQ/Baghdad	510664	1	1	0
 US/Texas	997832	633	1	2
 RU/Tatarstan Republic	696056	1	1	0
 ID/Jakarta	696056	1	1	0

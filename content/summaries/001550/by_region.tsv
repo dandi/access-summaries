@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-AWS/ap-southeast-1	26271159969	21154	21154	0
+AWS/ap-southeast-1	37805599068	31141	31141	0
 undetermined	32962640320	29873	18752	6727
 AWS/us-east-1	29097726665	22853	22778	48
-GitHub	223272723278	1137792	98844	72977
+GitHub	223993210349	1141633	99181	73314
 VPN	14730409466	13303	11452	226
-missing	46235484516	187521	26067	13421
+missing	33972715654	173688	15738	13084
 AWS/us-east-2	3674438584	2834	2834	0
 AWS/eu-west-1	10640791	7	0	1
 AWS/ap-south-1	35085424	24	24	0
@@ -18,7 +18,7 @@ HU/Budapest	74876633	324	27	15
 BF/Hauts-Bassins	920092	1	1	0
 US/Iowa	1849913313	9703	850	441
 VN/Ho Chi Minh City (HCMC)	66964404	55	55	0
-BR/São Paulo	39013932	29	29	0
+BR/São Paulo	40571509	30	30	0
 ID/Riau	2915010	2	2	0
 VN/Khanh Hoa	3765279	3	3	0
 US/Arizona	700512146	3681	320	160
@@ -154,6 +154,7 @@ MX/México	3407164	3	3	0
 SN/Dakar	3198124	3	3	0
 CI/Abidjan Autonomous District	4678859	3	3	0
 DZ/Béchar	899370	1	1	0
+CO/Valle del Cauca Department	3815360	3	3	0
 GCP/us-central1	10756480	9	9	0
 IN/Haryana	871808	1	1	0
 AZ/Abşeron	3123958	2	2	0
@@ -182,7 +183,6 @@ VE/Portuguesa	965023	1	1	0
 AO/Cabinda	889954	1	1	0
 IL/Central District	2858185	2	2	0
 DZ/Algiers	2439144	2	2	0
-CO/Valle del Cauca Department	1986458	2	2	0
 IN/Rajasthan	884191	1	1	0
 IQ/Sulaymaniyah	2420073	2	2	0
 KE/Nyeri County	2998780	2	2	0
@@ -233,7 +233,7 @@ UA/Chernihiv Oblast	1152371	1	1	0
 US/New York	2526992	2	2	0
 MX/San Luis Potosí	895567	1	1	0
 VN/Tuyen Quang	3252196	3	3	0
-ID/West Java	2516948	2	2	0
+ID/West Java	3829457	3	3	0
 SV/San Salvador Department	1077607	1	1	0
 PY/Amambay Department	724745	1	1	0
 NP/Gandaki Pradesh	2661290	1	1	0
@@ -256,7 +256,7 @@ HR/Zagreb	1545273	1	1	0
 SY/Damascus Governorate	2928544	3	3	0
 KE/Mombasa County	1718985	2	2	0
 PL/Mazovia	1251761	1	1	0
-VN/Can Tho City	2760506	2	2	0
+VN/Can Tho City	3998329	3	3	0
 NG/Enugu State	872430	1	1	0
 BR/Alagoas	2390633	2	2	0
 AM/Yerevan	961552	1	1	0
@@ -347,6 +347,7 @@ NL/North Brabant	1594908	1	1	0
 VN/Sơn La Province	1587012	1	1	0
 VN/Điện Biên Province	957837	1	1	0
 IN/Andhra Pradesh	685661	1	1	0
+CO/Cesar Department	1905881	1	1	0
 GCP/us-east1	2746202	12	1	1
 VN/An Giang	1410511	1	1	0
 HK/Hong Kong	1703208	1	1	0

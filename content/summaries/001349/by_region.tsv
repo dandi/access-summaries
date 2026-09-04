@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	67719747272	4289	3712	55
+VPN	67963175242	4298	3721	55
 US/Massachusetts	10406165260	464	1	421
 CN/Shanghai	18905183038	2336	39	414
-GitHub	9584736806	31835	3064	2374
+GitHub	9664358700	32150	3094	2404
 AWS/us-east-1	14004274380	1912	458	416
-AWS/ap-southeast-1	4047344336	592	592	0
+AWS/ap-southeast-1	4478911040	869	869	0
 undetermined	31641300954	5023	1865	262
 US/California	5643663000	959	77	159
-missing	23272232877	39131	4230	2930
+missing	22467229225	38525	3909	2900
 SG/Singapore	2293583426	96	96	0
 US/Illinois	91428754	325	32	23
 AWS/us-east-2	2239999262	429	101	3
@@ -31,6 +31,7 @@ US/Wyoming	53117204	172	17	13
 US/Arizona	25072748	146	14	7
 GCP/us-east1	28299456	3	3	0
 JO/Amman	2685828	1	1	0
+DO/Monseñor Nouel	5044116	1	1	0
 US/Iowa	39067980	221	21	11
 BD/Rajshahi Division	6288768	2	2	0
 GCP/us-central1	236979556	7	7	0
@@ -57,6 +58,7 @@ CH/Vaud	5356504	27	3	2
 US/District of Columbia	75599272	27	0	1
 BO/La Paz Department	5371656	1	1	0
 VN/Vinh Long	9171120	1	1	0
+VN/Dong Thap	22415168	1	1	0
 QA/Baladiyat ad Dawhah	7074864	1	1	0
 AL/Elbasan County	10546788	1	1	0
 ES/Galicia	12774060	1	1	0
@@ -65,6 +67,7 @@ GB/Scotland	35647348	1	1	0
 BR/Rio de Janeiro	23320848	1	1	0
 BR/Federal District	10088232	1	1	0
 HK/Hong Kong	15547782	1	1	0
+MX/Aguascalientes	4192512	1	1	0
 VN/Quang Ngai	4978608	1	1	0
 BR/Espírito Santo	28505978	1	1	0
 TR/Istanbul	26821064	1	1	0
@@ -83,6 +86,7 @@ IQ/Baghdad	12839568	1	1	0
 MY/Kuala Lumpur	1113636	1	1	0
 VN/Thanh Hóa Province	30858530	2	2	0
 ID/East Java	12053472	1	1	0
+KE/Nairobi County	8647056	1	1	0
 AR/Santa Fe	4520052	1	1	0
 ES/Catalonia	14459646	1	1	0
 CR/San José	11922456	1	1	0
@@ -95,6 +99,7 @@ XK/Mitrovica	3340908	1	1	0
 IL/Central District	2620320	1	1	0
 PY/Alto Paraná Department	4520052	1	1	0
 BD/Sylhet Division	13167108	1	1	0
+US/Florida	10088232	1	1	0
 AL/Tirana	13494648	1	1	0
 AWS/us-west-2	22467468	46	6	2
 SA/Eastern Province	9105612	1	1	0

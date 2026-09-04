@@ -1,24 +1,24 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-VPN	61490016716	3499	2634	272
-GitHub	11374937828	38384	6790	6190
-AWS/ap-southeast-1	900113780	601	601	0
+VPN	61490728496	3502	2637	272
+GitHub	11377081668	38396	6793	6193
+AWS/ap-southeast-1	1014758956	823	823	0
 GCP/us-west1	469785820	2	2	0
-AWS/us-east-1	25405856548	5066	1519	167
-US/California	47460917240	6850	627	136
+AWS/us-east-1	25406085204	5067	1520	167
+US/California	47461135976	6851	628	136
 CN/Shanghai	58449541960	5047	944	76
 undetermined	46110874848	6910	3040	1084
 SE/Västra Götaland	226796	1	1	0
 RU/Tomsk Oblast	226796	1	1	0
-US/Virginia	18795578048	3444	287	114
+US/Virginia	18795786104	3445	288	114
 GCP/us-central1	2079708	9	9	0
 SG/Singapore	132197860	71	71	0
-missing	33600744600	2341	1467	132
+missing	33476929612	2080	1215	129
 PK/Punjab	56560500	23	23	0
-US/Massachusetts	63552820396	1218	354	320
-GB/England	93300548	35	35	0
+US/Massachusetts	63553934032	1219	355	320
+GB/England	93519112	36	36	0
 AWS/us-east-2	4742855964	67	65	2
 HK/Hong Kong	5490740224	664	5	11
-VN/Ho Chi Minh City (HCMC)	66927784	49	49	0
+VN/Ho Chi Minh City (HCMC)	67178520	50	50	0
 IT/Lombardy	9564168	2	2	0
 GB/Northern Ireland	8712564	2	2	0
 KH/Phnom Penh	13363632	1	1	0
@@ -29,20 +29,20 @@ RU/Moscow Oblast	9255816	6	6	0
 GA/Estuaire	664844	3	3	0
 US/New York	139068336	25	25	0
 AU/Victoria	680176	3	3	0
-IN/Gujarat	1770868	4	4	0
+IN/Gujarat	1989132	5	5	0
 US/Illinois	868961852	326	185	48
 BD/Dhaka Division	39887740	28	28	0
 KZ/Shymkent	224048	1	1	0
 BJ/Littoral	442784	2	2	0
 IN/Maharashtra	41957676	10	10	0
-VN/Hanoi	35128572	27	27	0
+VN/Hanoi	35353964	28	28	0
 TR/Ankara	224048	1	1	0
 ET/Addis Ababa	10739072	4	4	0
 US/Texas	10551396	17	17	0
 PY/Central Department	1588548	3	3	0
 FR/Île-de-France	691316	3	3	0
 US/Florida	62062848	10	10	0
-MX/Mexico City	43746124	101	46	40
+MX/Mexico City	43970316	102	47	40
 NL/Friesland	214432	1	1	0
 ID/Lampung	223952	1	1	0
 XK/Prizren	223952	1	1	0
@@ -51,7 +51,7 @@ IN/West Bengal	19268052	6	6	0
 CO/Antioquia	13325552	2	2	0
 VN/Vinh Long	223952	1	1	0
 MD/Chișinău Municipality	210128	1	1	0
-ZA/Gauteng	54210132	23	23	0
+ZA/Gauteng	54434628	24	24	0
 AE/Dubai	2645180	5	5	0
 JO/Irbid	16691752	3	3	0
 RU/Orenburg Oblast	253532	1	1	0
@@ -63,13 +63,14 @@ BR/Pará	9111968	3	3	0
 AWS/us-west-2	13255232	22	6	2
 RU/Bashkortostan Republic	22600260	2	2	0
 ID/East Kalimantan	917112	1	1	0
-IN/Delhi	15956044	5	5	0
+IN/Delhi	16174780	6	6	0
 SA/Riyadh Region	1357620	6	6	0
 TR/Bursa Province	218736	1	1	0
 PH/National Capital Region	1608300	4	4	0
 CO/Huila Department	220400	1	1	0
 US/Iowa	36863460	154	28	16
 DZ/Khenchela	220400	1	1	0
+IQ/Baghdad	39801368	22	22	0
 AL/Tirana	440880	2	2	0
 MA/Casablanca-Settat	26850992	10	10	0
 US/Tennessee	12824760	5	5	0
@@ -84,14 +85,13 @@ AE/Sharjah	439476	2	2	0
 AR/Buenos Aires	18624724	19	19	0
 US/Minnesota	208056	1	1	0
 RS/Central Serbia	428872	2	2	0
-IQ/Baghdad	39580968	21	21	0
 OM/Muscat	18682024	8	8	0
 GCP/us-east1	658632	3	3	0
 IL/Jerusalem	435424	2	2	0
 BD/Khulna Division	9654300	6	6	0
 VN/Da Nang City	7358584	5	5	0
 JM/Kingston	4444416	3	3	0
-BR/São Paulo	46302168	38	38	0
+BR/São Paulo	46770860	40	40	0
 BR/Federal District	226100	1	1	0
 VN/Dong Thap	441944	2	2	0
 VN/Quang Ngai	441944	2	2	0
@@ -102,10 +102,10 @@ EG/Alexandria	14686564	3	3	0
 PY/Asuncion	899136	4	4	0
 ZA/KwaZulu-Natal	671060	3	3	0
 UZ/Tashkent	2337148	10	10	0
-BR/Rio de Janeiro	11767692	10	10	0
+BR/Rio de Janeiro	12025640	11	11	0
 BH/Manama	229248	1	1	0
 US/Wyoming	6260844	17	5	3
-BR/Rio Grande do Sul	18570544	8	8	0
+BR/Rio Grande do Sul	18800032	9	9	0
 CA/Alberta	430992	2	2	0
 US/Nevada	6435568	3	3	0
 BR/Paraná	19192104	7	7	0
@@ -127,10 +127,12 @@ MX/Sinaloa	452604	2	2	0
 DZ/Algiers	12661100	4	4	0
 US/Pennsylvania	1841100	8	8	0
 MK/Ohrid	13925768	3	3	0
+IE/Leinster	8078028	4	4	0
 KE/Kakamega County	216688	1	1	0
 EC/Pichincha	8946496	6	6	0
 CA/New Brunswick	216688	1	1	0
 MX/Nayarit	216688	1	1	0
+MA/Marrakesh-Safi	1567860	7	7	0
 AR/Entre Rios	11070852	2	2	0
 DO/Nacional	9520872	2	2	0
 CG/Brazzaville	24526812	4	4	0
@@ -145,7 +147,6 @@ SE/Stockholm	31253140	16	4	1
 HU/Budapest	11594916	1	1	0
 SA/Medina Region	1338132	2	2	0
 CO/Valle del Cauca Department	452440	2	2	0
-IE/Leinster	7861340	3	3	0
 VN/Dong Nai	1106576	5	5	0
 UA/Vinnytsia	458936	2	2	0
 BD/Rangpur Division	240200	1	1	0
@@ -155,8 +156,7 @@ RU/Ulyanovsk	220816	1	1	0
 US/South Dakota	220816	1	1	0
 IN/Haryana	4413328	2	2	0
 IN/Uttarakhand	472036	2	2	0
-MA/Marrakesh-Safi	1349124	6	6	0
-IQ/Basra	15194888	4	4	0
+IQ/Basra	15413624	5	5	0
 TN/Tunis Governorate	9848000	4	4	0
 US/Louisiana	33848460	3	3	0
 MX/Guerrero	1113636	1	1	0
@@ -179,13 +179,14 @@ JM/Portland Parish	231548	1	1	0
 RU/Moscow	26077504	5	5	0
 CA/Ontario	31831676	7	7	0
 ES/Castille-La Mancha	225328	1	1	0
+VN/Dak Lak	11286540	5	5	0
 VN/Phu Tho	1317728	3	3	0
 JO/Balqa	236384	1	1	0
 BR/Pernambuco	917616	4	4	0
 BO/Santa Cruz Department	486412	2	2	0
 TR/Gaziantep	236084	1	1	0
 US/Washington	454836	2	2	0
-VE/Distrito Federal	12361896	5	5	0
+VE/Distrito Federal	12608876	6	6	0
 PY/Caaguazú Department	208056	1	1	0
 IQ/Erbil	15811852	7	7	0
 DE/Baden-Wurttemberg	218736	1	1	0
@@ -225,7 +226,6 @@ VN/Lam Dong	708776	3	3	0
 VN/Tay Ninh	226736	1	1	0
 IQ/Kirkuk	461836	2	2	0
 MA/Souss-Massa	668848	3	3	0
-VN/Dak Lak	11061212	4	4	0
 DZ/Ouargla	212240	1	1	0
 DE/North Rhine-Westphalia	7117240	3	3	0
 IN/Madhya Pradesh	912312	4	4	0
@@ -236,6 +236,7 @@ VN/Ninh Binh	225392	1	1	0
 VN/Can Tho City	459712	2	2	0
 TG/Maritime	2096256	2	2	0
 ID/Central Java	439404	2	2	0
+DE/Saxony	216688	1	1	0
 CO/Bogota D.C.	429072	2	2	0
 RU/Leningradskaya Oblast'	216688	1	1	0
 GP/Guadeloupe	216688	1	1	0
@@ -260,6 +261,7 @@ US/Maryland	81234588	3	3	0
 TH/Bangkok	238028	1	1	0
 IN/Telangana	234320	1	1	0
 VN/Khanh Hoa	234320	1	1	0
+TR/Mardin	216688	1	1	0
 CA/Prince Edward Island	14280744	1	1	0
 MX/Aguascalientes	1113636	1	1	0
 US/Delaware	452716	2	2	0
@@ -358,6 +360,7 @@ RU/Penza Oblast	208056	1	1	0
 US/Kentucky	208056	1	1	0
 ET/Dire Dawa	216688	1	1	0
 AM/Yerevan	463440	2	2	0
+MX/México	228356	1	1	0
 EC/Orellana Province	10808820	1	1	0
 MY/Penang	16311492	1	1	0
 IQ/Sulaymaniyah	8994760	2	2	0

@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-AWS/ap-southeast-1	1842112460	237	237	0
+AWS/ap-southeast-1	1971163220	313	313	0
 HK/Hong Kong	1244516298	161	5	21
 undetermined	56387115601	18429	3183	757
 CY/Nicosia	18061471544	297	296	1
 CN/Shanxi	319395916	46	0	13
 CN/Beijing	7241188872	153	122	19
-GitHub	11809197612	57884	1902	1726
-US/California	10396731494	2160	148	51
-VPN	27703320866	2539	1093	303
+GitHub	11813316504	57900	1904	1728
+US/California	10397910638	2161	149	51
+VPN	27711262070	2540	1094	303
 CN/Shanghai	10232885869	1076	32	111
-AWS/us-east-1	9991581084	1458	581	281
+AWS/us-east-1	9999835092	1459	582	281
 CA/Ontario	6837852772	116	116	0
 US/Virginia	7451463240	3400	164	23
 KR/Seoul	21391440044	405	351	2
@@ -20,7 +20,8 @@ US/Illinois	831592108	279	71	26
 US/New York	7391688679	1638	132	12
 AWS/us-east-2	9257117828	3280	141	23
 US/Georgia	1620947376	356	6	114
-missing	19627336580	5717	1081	453
+missing	18958044612	4807	864	336
+TH/Songkhla	513048764	810	131	115
 PK/Punjab	84701844	12	12	0
 PY/Asuncion	13625664	2	2	0
 SG/Singapore	320877417	22	21	1
@@ -35,10 +36,10 @@ TN/Sfax Governorate	1	1	0	1
 US/Mississippi	44938488	2	2	0
 BD/Chittagong	37208544	5	5	0
 PH/Autonomous Region in Muslim Mindanao	851604	1	1	0
-VN/Ho Chi Minh City (HCMC)	145362252	16	16	0
+VN/Ho Chi Minh City (HCMC)	146213856	17	17	0
 VE/Distrito Federal	21159084	4	4	0
 MX/Jalisco	50367496	4	4	0
-AR/Buenos Aires	63660136	7	7	0
+AR/Buenos Aires	64773772	8	8	0
 AR/Tucuman	28430472	3	3	0
 UA/Odesa	19914432	2	2	0
 DE/State of Berlin	37077528	1	1	0
@@ -88,6 +89,7 @@ UY/Montevideo Department	9629676	1	1	0
 VN/Hanoi	54470884	8	8	0
 ZA/Gauteng	31771381	6	5	1
 US/Wyoming	9929744	48	6	3
+CO/Atlántico	11267376	2	2	0
 RU/St.-Petersburg	19848924	2	2	0
 ID/Jambi	5568180	1	1	0
 CO/Bogota D.C.	11529408	1	1	0
@@ -157,6 +159,7 @@ AU/New South Wales	7941204	1	1	0
 MY/Sarawak	7533420	1	1	0
 CH/Vaud	4938628	23	3	2
 MU/Plaines Wilhems	9367644	1	1	0
+RU/Novosibirsk Oblast	1048128	1	1	0
 BR/Santa Catarina	25220580	3	3	0
 MA/Tanger-Tetouan-Al Hoceima	33867636	4	4	0
 JM/Saint Andrew Parish	16738804	1	1	0
@@ -239,7 +242,6 @@ KZ/North Kazakhstan	7926468	1	1	0
 VN/Dak Lak	10612296	1	1	0
 RU/Yaroslavl Oblast	8057484	1	1	0
 BR/Ceará	12968500	1	1	0
-CO/Atlántico	9564168	1	1	0
 AR/Entre Rios	11987964	1	1	0
 MX/Querétaro	299506100	1	1	0
 KZ/Almaty	13363632	1	1	0
@@ -250,5 +252,6 @@ GR/Central Macedonia	7926468	1	1	0
 BD/Rajshahi Division	982620	1	1	0
 BO/Santa Cruz Department	10808820	1	1	0
 IN/Kerala	851604	1	1	0
+BR/Goiás	982620	1	1	0
 MX/Tamaulipas	2227272	1	1	0
 RU/Chelyabinsk	15263364	1	1	0

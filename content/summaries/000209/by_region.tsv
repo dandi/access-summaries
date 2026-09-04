@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	157582767218	1379001	5594	4535
-missing	1485313189051	6447069	58492	35719
-VPN	119225290629	5080	4324	35
+GitHub	157950595513	1380549	5605	4546
+missing	1484557948023	6445321	58281	35708
+VPN	119253495329	5082	4326	35
 AWS/us-east-2	8349550928	3653385	57	686
 NL/Flevoland	7769339485	200	200	0
 undetermined	394305377352	278907	11217	6081
 CA/Ontario	17351213320	496	456	5
 CN/Shanghai	20260486219	2185	17	301
-US/California	68418691117	24914	1742	134
-AWS/ap-southeast-1	5108208337	624	624	0
+US/California	68422672129	24915	1743	134
+AWS/ap-southeast-1	5393373617	807	807	0
 AWS/us-east-1	23367698441	2869	1242	313
 AWS/us-west-2	6249794174	25696	297	293
 HK/Hong Kong	7319821934	386	154	49
@@ -50,14 +50,14 @@ CL/Santiago Metropolitan	26678328	4	4	0
 MX/Querétaro	1327280	1	1	0
 BD/Dhaka Division	44132060	11	11	0
 IN/Bihar	4114568	4	4	0
-NG/Lagos	8494592	6	6	0
+NG/Lagos	10883696	7	7	0
 CO/Bogota D.C.	2853652	2	2	0
 DE/North Rhine-Westphalia	92770358	159	6	3
 NL/Gelderland	44058116	1	1	0
 US/North Carolina	49632692	2	2	0
 FR/Normandy	1168682	5	1	1
 CN/Hunan	8043192	7	2	1
-PK/Punjab	14998264	7	7	0
+PK/Punjab	16259180	8	8	0
 MX/Nuevo León	1128188	1	1	0
 PH/Central Luzon	929096	1	1	0
 IN/Gujarat	3716384	4	4	0
@@ -76,7 +76,7 @@ HK/Yau Tsim Mong District	57272132	8	8	0
 ET/Addis Ababa	862732	1	1	0
 SA/Eastern Province	3450928	3	3	0
 VN/Tay Ninh	1791828	2	2	0
-US/Texas	127879604	9744	8	2
+US/Texas	149846088	9745	9	2
 AWS/ap-northeast-3	71183786	3	3	0
 SY/Damascus Governorate	2521832	2	2	0
 MZ/Maputo City	1128188	1	1	0
@@ -104,7 +104,7 @@ US/Florida	20307384	3	3	0
 KR/Seoul	146000763	3	3	0
 CA/Saskatchewan	19842836	1	1	0
 IQ/Baghdad	12078248	5	5	0
-AR/Buenos Aires	12410068	7	7	0
+AR/Buenos Aires	15197356	9	9	0
 MX/Michoacán	3650020	2	2	0
 CR/Guanacaste Province	12144612	1	1	0
 VN/Quảng Ninh	862732	1	1	0
@@ -119,7 +119,7 @@ TN/Tunis Governorate	15462812	2	2	0
 BR/Ceará	14002804	3	3	0
 ID/East Java	11149152	2	2	0
 VN/Ninh Binh	37827480	3	3	0
-VN/Hanoi	31589264	9	9	0
+VN/Hanoi	32451996	10	10	0
 VE/Distrito Federal	9158232	2	2	0
 ZA/Gauteng	11348244	6	6	0
 EC/Guayas	10684604	3	3	0
@@ -128,7 +128,7 @@ PY/San Pedro Department	929096	1	1	0
 OM/Muscat	1725464	1	1	0
 CO/Magdalena Department	2986380	2	2	0
 IN/Punjab	2057284	2	2	0
-GB/England	83419548	9	9	0
+GB/England	115653809	10	10	0
 DE/Bavaria	1393644	1	1	0
 SA/Riyadh Region	2455468	2	2	0
 HU/Budapest	929096	1	1	0
@@ -166,10 +166,12 @@ TR/Gaziantep	1327280	1	1	0
 VE/Carabobo	5773668	1	1	0
 ID/East Kalimantan	1061824	1	1	0
 VN/Thanh Hóa Province	2986380	3	3	0
+VN/Vinh Long	1725464	2	2	0
 BD/Chittagong	1128188	1	1	0
 US/Wyoming	130854877	614	5	5
 AR/Mendoza	1393644	1	1	0
 ZA/Western Cape	3052744	3	3	0
+XK/Mitrovica	1260916	1	1	0
 CO/Santander Department	2389104	1	1	0
 LB/Mount Lebanon	14600080	4	4	0
 IE/Munster	9357324	1	1	0
@@ -196,6 +198,7 @@ RU/Kirov Oblast	1460008	1	1	0
 VN/Ca Mau	862732	1	1	0
 AE/Dubai	2256376	2	2	0
 BO/Cochabamba	1128188	1	1	0
+DE/Hesse	3384564	2	2	0
 ID/Yogyakarta	929096	1	1	0
 UA/Lviv	1128188	1	1	0
 AE/Sharjah	10883696	2	2	0
@@ -209,8 +212,8 @@ TR/Istanbul	9224596	4	4	0
 ZA/KwaZulu-Natal	862732	1	1	0
 AZ/Baki	2256376	2	2	0
 IN/West Bengal	2057284	2	2	0
+EC/Chimborazo Province	1128188	1	1	0
 AR/San Luis	2389104	1	1	0
-DE/Hesse	2256376	1	1	0
 SI/Urban Municipality of Celje	1128188	1	1	0
 AR/Neuquen	10551876	3	3	0
 CO/Meta Department	1061824	1	1	0
@@ -226,7 +229,6 @@ SR/Paramaribo District	1725464	1	1	0
 VN/Quang Tri	862732	1	1	0
 BR/Tocantins	2455468	1	1	0
 IE/Leinster	46852984	5	5	0
-VN/Vinh Long	862732	1	1	0
 BR/Bahia	4512752	2	2	0
 BY/Minsk	1725464	1	1	0
 DO/Espaillat Province	1659100	1	1	0
@@ -267,6 +269,7 @@ SA/Medina Region	995460	1	1	0
 SA/Mecca Region	16192816	2	2	0
 AU/Victoria	1128188	1	1	0
 PT/Lisbon	1061824	1	1	0
+DO/Nacional	995460	1	1	0
 BD/Khulna Division	2654560	1	1	0
 VN/Dak Lak	9290960	2	2	0
 XK/Pristina	17055548	1	1	0
@@ -291,6 +294,7 @@ IN/Madhya Pradesh	995460	1	1	0
 MY/Sabah	929096	1	1	0
 VN/Phu Tho	13272800	2	2	0
 ID/North Kalimantan	14799172	1	1	0
+BF/Hauts-Bassins	2190012	1	1	0
 FR/Pays de la Loire	1393644	1	1	0
 US/Indiana	5951440	9350	0	1
 VN/Can Tho City	11746428	1	1	0
@@ -302,4 +306,5 @@ ET/Amhara	1061824	1	1	0
 IQ/Anbar	12277340	1	1	0
 IN/Andhra Pradesh	1128188	1	1	0
 AE/Abu Dhabi	1128188	1	1	0
+IN/Uttar Pradesh	995460	1	1	0
 ID/Banten	1393644	1	1	0

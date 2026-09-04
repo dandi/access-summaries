@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	111354014364	432518	64595	61264
+GitHub	111765756935	434473	64883	61552
 US/California	2596422802061	169121	10622	975
-VPN	5250181789336	68816	67839	265
+VPN	5250473267463	68896	67919	265
 undetermined	7797614806064	171190	24682	17121
 CN/Shanghai	4747191100249	341247	50532	1796
-AWS/ap-southeast-1	33566088017	22577	22577	0
+AWS/ap-southeast-1	41728442213	33125	33125	0
 AWS/us-east-1	6419944421038	780992	18475	1850
 AWS/us-east-2	18710444879	2994	2994	0
-missing	859118853519	255656	47113	30148
 AWS/ap-south-1	31347630	27	27	0
+missing	850231702937	243064	36188	29860
 GCP/us-west1	489569278	78	78	0
 US/Iowa	750171502	3853	565	495
 US/Arizona	254869724	1285	192	170
@@ -17,7 +17,7 @@ GCP/us-east1	1567674491	5948	762	178
 US/Virginia	2243600805	10346	1769	1177
 US/Illinois	1646351852	5307	954	730
 UY/Canelones	716808	1	1	0
-VN/Ho Chi Minh City (HCMC)	57679454	30	30	0
+VN/Ho Chi Minh City (HCMC)	58569718	31	31	0
 US/New York	1882665600	753	752	1
 SG/Singapore	2405963696	753	753	0
 US/South Carolina	3382505580	524	524	0
@@ -26,7 +26,7 @@ MX/Mexico City	65615210	273	86	44
 BR/São Paulo	35786022	16	16	0
 CH/Vaud	6183632	28	10	7
 BO/Cochabamba	726548	1	1	0
-ID/Yogyakarta	10017011	7	7	0
+ID/Yogyakarta	15047851	9	9	0
 TN/Tunis Governorate	1631716	2	2	0
 AR/Santiago del Estero	1638360	2	2	0
 LK/Western Province	15066840	1	1	0
@@ -45,13 +45,13 @@ VN/Lam Dong	9681727	6	6	0
 BD/Mymensingh Division	1424172	2	2	0
 ID/Banten	617864	1	1	0
 ES/Basque Country	27707416	1	1	0
-VN/Hai Phong	14563086	7	7	0
+VN/Hai Phong	15288678	8	8	0
 BR/Paraná	6268862	2	2	0
 BW/Gaborone	2743068	2	2	0
 VE/Barinas	712320	1	1	0
 CO/Antioquia	3021136	1	1	0
 VE/Anzoátegui	617864	1	1	0
-CL/Santiago Metropolitan	40080952	16	16	0
+CL/Santiago Metropolitan	40794976	17	17	0
 ZA/Eastern Cape	1227656	1	1	0
 BR/Mato Grosso do Sul	713304	1	1	0
 CO/Cundinamarca	709664	1	1	0
@@ -82,15 +82,16 @@ MA/Souss-Massa	2194760	1	1	0
 VN/Hà Tĩnh Province	715400	1	1	0
 BR/Rio de Janeiro	10882460	5	5	0
 PA/Panamá	10422744	3	3	0
-SY/Damascus Governorate	2243088	3	3	0
+SY/Damascus Governorate	3684264	4	4	0
 AR/Chubut	6579092	2	2	0
 CO/La Guajira Department	739312	1	1	0
-BR/Pernambuco	3573528	4	4	0
+BR/Pernambuco	4293848	5	5	0
 KE/Nairobi County	6272516	5	5	0
 UY/Montevideo Department	1259353	1	1	0
 VN/Quang Tri	6084265	3	3	0
 MA/Casablanca-Settat	3525848	5	5	0
 US/New Jersey	854464	1	1	0
+AL/Korçë County	9760692	1	1	0
 MY/Penang	714536	1	1	0
 CI/Abidjan Autonomous District	3602940	1	1	0
 HK/Yau Tsim Mong District	22948716	14	14	0
@@ -178,6 +179,7 @@ BO/Beni Department	4585560	1	1	0
 KH/Phnom Penh	4651068	1	1	0
 MX/Yucatán	20110956	2	2	0
 HR/Zagreb	12774060	1	1	0
+CL/Biobio	2292780	1	1	0
 FR/Hauts-de-France	742512	1	1	0
 PR/Humacao	4061496	1	1	0
 PH/Calabarzon	770856	1	1	0

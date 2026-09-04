@@ -1,10 +1,10 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	98709627157	257297	12103	10629
+missing	97936781521	256281	11973	10588
 US/District of Columbia	22673623956	138	104	2
 AWS/us-east-2	125978393820	1485775	217	659
 GitHub	17059971280	463071	1478	1875
 undetermined	330229151240	21038	2639	1147
-VPN	88318759822	8411	1114	243
+VPN	88340925398	8413	1116	243
 HK/Hong Kong	3948624744	479	0	15
 CN/Shanghai	35934213752	3115	2	101
 US/Washington	30168641320	190	132	14
@@ -14,7 +14,7 @@ US/Massachusetts	45517185508	603	103	96
 CA/British Columbia	18487283152	98	98	0
 AWS/us-east-1	58578319976	9794	228	748
 AWS/us-west-2	678003624	2279	106	103
-AWS/ap-southeast-1	1821757336	221	221	0
+AWS/ap-southeast-1	1916058924	282	282	0
 US/Minnesota	384389456	46	0	1
 CN/Beijing	22866210540	629	202	100
 US/Mississippi	22607247880	100	100	0
@@ -50,6 +50,7 @@ MX/Puebla	2389104	1	1	0
 CI/Abidjan Autonomous District	1460008	1	1	0
 FR/Provence-Alpes-Côte d'Azur	3006674717	10	10	0
 PK/Sindh	5441848	3	3	0
+TH/Songkhla	233195904	757	62	34
 BR/Bahia	3981840	1	1	0
 SA/Mecca Region	298892176	4	4	0
 MX/Tabasco	1260916	1	1	0
@@ -63,11 +64,12 @@ SY/Damascus Governorate	1924556	2	2	0
 BD/Rangpur Division	862732	1	1	0
 ID/Jakarta	12144612	1	1	0
 ID/West Java	929096	1	1	0
+GB/England	882075184	75	4	4
 DE/Thuringia	45326612	6	6	0
 NO/Innlandet	32982080	5	5	0
 BD/Dhaka Division	8361864	4	4	0
 EC/Pichincha	1061824	1	1	0
-AWS/ap-northeast-2	32106600	88	0	2
+AWS/ap-northeast-2	45091712	127	0	3
 SG/Singapore	131848660	13	13	0
 US/Pennsylvania	63467872	84	4	2
 CL/Santiago Metropolitan	176735408	6	6	0
@@ -98,8 +100,10 @@ JO/Amman	5242756	1	1	0
 ID/Aceh	1061824	1	1	0
 NG/Lagos	1260916	1	1	0
 IT/Sicily	1061824	1	1	0
+SA/Riyadh Region	1128188	1	1	0
 TN/Tunis Governorate	929096	1	1	0
-GCP/europe-west1	16637904	46	0	1
+NG/Rivers State	8892776	1	1	0
+GCP/europe-west1	45796464	127	0	3
 ES/Andalusia	779178555	55	4	2
 US/Texas	375515252	1301	7	2
 ID/Central Java	1128188	1	1	0
@@ -120,6 +124,7 @@ US/Tennessee	126368864	2	2	0
 AR/Corrientes	2588196	2	2	0
 KE/Nairobi County	1990920	2	2	0
 IQ/Baghdad	5309120	3	3	0
+BR/Minas Gerais	1327280	1	1	0
 VE/Zulia	3849112	1	1	0
 CO/Valle del Cauca Department	1061824	1	1	0
 GCP/asia-east1	178767312	3	3	0
@@ -131,6 +136,7 @@ VN/Bac Ninh	11281880	1	1	0
 ID/Riau	6238216	1	1	0
 MN/Ulaanbaatar	13737348	1	1	0
 KH/Phnom Penh	862732	1	1	0
+EC/Azuay	5309120	1	1	0
 VN/Dak Lak	862732	1	1	0
 IN/Telangana	1128188	1	1	0
 ZA/Western Cape	1128188	1	1	0
@@ -143,8 +149,8 @@ RO/Bucharest	31987448	1	1	0
 HU/Jász-Nagykun-Szolnok	6437308	1	1	0
 IT/Apulia	33102388	2	1	1
 US/Indiana	73877992	1	1	0
-GB/England	518821840	4	4	0
 PA/Panamá	7565496	1	1	0
+MA/Beni Mellal-Khenifra	1128188	1	1	0
 US/Nevada	64016840	3	3	0
 US/New Jersey	1135561904	352	2	4
 JP/Tokyo	13612580	46	2	1

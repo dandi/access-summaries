@@ -1,13 +1,13 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	106440545372	378854	34230	30362
-VPN	3666296279	2520	2372	26
+missing	106215813029	378648	34035	30361
+VPN	3682556405	2531	2383	26
 AWS/us-east-2	424674921	599585	82	614
 US/Virginia	1224700105	4076	382	302
 DE/State of Berlin	487524911	297	297	0
-GitHub	14936239822	88518	5423	4982
+GitHub	14938786648	88530	5424	4983
 undetermined	13959367756	25238	5478	2017
 CN/Shanghai	993834927	736	735	1
-AWS/ap-southeast-1	783161769	538	538	0
+AWS/ap-southeast-1	980403435	713	713	0
 US/Washington	985775700	605	605	0
 US/California	798317874	2135	494	32
 CA/Ontario	490837322	299	299	0
@@ -22,7 +22,7 @@ AWS/us-east-1	3675451097	1919	914	1001
 SG/Singapore	563357911	351	351	0
 GCP/us-east1	499516534	302	302	0
 NL/Flevoland	389689481	235	235	0
-CN/Beijing	170785981	113	113	0
+CN/Beijing	174127689	114	114	0
 US/Illinois	293029991	821	155	41
 BR/Rio Grande do Sul	2125948	2	2	0
 IT/Lombardy	1440767158	668	0	168
@@ -33,16 +33,18 @@ MX/Guanajuato	1393644	1	1	0
 US/Texas	19787753	613	12	5
 VN/Ho Chi Minh City (HCMC)	7987579	9	9	0
 CH/Vaud	1002084	6	2	1
+VN/Hanoi	808817	1	1	0
 VN/Lam Dong	547114	1	1	0
 UA/Lviv	547114	1	1	0
 MY/Kuala Lumpur	547114	1	1	0
+AR/Buenos Aires F.D.	500908	1	1	0
 JP/Kyoto	41951364	68	24	5
 BR/Amazonas	1327280	1	1	0
 BD/Rajshahi Division	929096	1	1	0
 PH/Davao Region	2393937	2	2	0
 NI/Managua Department	1790640	1	1	0
 IQ/Maysan	1790640	1	1	0
-MX/Mexico City	84666789	344	66	43
+MX/Mexico City	85466430	345	67	43
 UZ/Tashkent	1128188	1	1	0
 IE/Leinster	5185533	2	2	0
 KE/Nairobi County	1659100	1	1	0
@@ -52,13 +54,14 @@ UA/Kharkiv	848019	1	1	0
 BR/Minas Gerais	2217027	2	2	0
 BR/São Paulo	4977300	3	3	0
 MX/Veracruz	973703	1	1	0
-PK/Punjab	1933320	2	2	0
+PK/Punjab	2729092	3	3	0
 GR/Attica	1061824	1	1	0
 BR/Rio de Janeiro	1503036	2	2	0
 PH/National Capital Region	348082	1	1	0
 SY/Damascus Governorate	1526372	1	1	0
 RU/Moscow Oblast	770357	1	1	0
 AR/Buenos Aires	6496179	6	6	0
+BH/Muharraq	814934	1	1	0
 DZ/Sétif	804723	1	1	0
 US/Kentucky	3625088	1	1	0
 US/Wyoming	9186372	41	4	4
@@ -68,6 +71,7 @@ IN/Delhi	2493556	2	2	0
 AE/Abu Dhabi	995460	1	1	0
 AR/Entre Rios	1393644	1	1	0
 BD/Chittagong	2618461	2	2	0
+CO/Cauca Department	862732	1	1	0
 UA/Vinnytsia	1061824	1	1	0
 TR/Ankara	1552175	1	1	0
 VN/Thanh Hóa Province	862732	1	1	0
@@ -83,6 +87,7 @@ VN/Dak Lak	764361	1	1	0
 VN/Can Tho City	779189	1	1	0
 PH/Calabarzon	929096	1	1	0
 AE/Ajman	759213	1	1	0
+VN/Thai Nguyen	759213	1	1	0
 BR/Pernambuco	1327280	1	1	0
 MX/México	2102042	1	1	0
 VN/Quang Ngai	772874	1	1	0

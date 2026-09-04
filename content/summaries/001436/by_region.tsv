@@ -1,19 +1,20 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-undetermined	11105969661	6810	6549	261
-missing	2540647867	1821	1821	0
-VPN	8365866060	5016	5014	2
+undetermined	11105975953	6813	6552	261
+missing	2333730041	1447	1447	0
+VPN	8391567753	5023	5021	2
 US/Massachusetts	1131449804	671	0	670
 CN/Shanghai	2030920392	2001	1999	2
 US/California	505659589	411	411	0
 FR/Île-de-France	1042212406	662	662	0
-AWS/ap-southeast-1	844826244	784	784	0
+AWS/ap-southeast-1	1018473735	1146	1146	0
 HK/Hong Kong	1623941098	962	962	0
 DE/Lower Saxony	961578342	306	306	0
 AWS/us-east-1	1242458885	779	779	0
-CA/Quebec	2084424579	1323	1323	0
+CA/Quebec	3126636519	1983	1983	0
 GCP/us-west1	6454755	3	3	0
-US/Virginia	622513921	206	206	0
+US/Virginia	622514504	207	207	0
 AWS/us-east-2	198558954	112	112	0
+AWS/ap-south-1	6454755	3	3	0
 SG/Singapore	127872712	64	64	0
 AR/Tucuman	6566285	1	1	0
 PA/Panamá	6197631	1	1	0
@@ -33,6 +34,7 @@ TR/Ankara	3995988	1	1	0
 ES/Catalonia	6338433	1	1	0
 CN/Beijing	1048128	1	1	0
 MX/Nayarit	6385100	1	1	0
+US/Illinois	10144	10	10	0
 ID/Yogyakarta	6295286	1	1	0
 ID/East Java	851604	1	1	0
 CO/Antioquia	4061496	1	1	0
@@ -50,7 +52,6 @@ MX/Mexico City	1113636	1	1	0
 BD/Chittagong	1113636	1	1	0
 US/Maryland	6419227	1	1	0
 KE/Mombasa County	1048128	1	1	0
-US/Illinois	699	3	3	0
 CN/Shandong	233	1	1	0
 US/Ohio	233	1	1	0
 GB/England	233	1	1	0
@@ -59,6 +60,7 @@ UZ/Tashkent	251	1	1	0
 PK/Sindh	251	1	1	0
 VN/Dak Lak	251	1	1	0
 VN/Tuyen Quang	251	1	1	0
+IQ/Maysan	251	1	1	0
 US/Kentucky	1069	1	1	0
 IQ/Anbar	6536036	1	1	0
 VN/Ho Chi Minh City (HCMC)	12772775	2	2	0
@@ -69,3 +71,4 @@ AL/Tirana	6255320	1	1	0
 BO/La Paz Department	3668448	1	1	0
 AR/Santa Fe	6577082	1	1	0
 KE/Kisumu County	2292780	1	1	0
+PK/Punjab	1113636	1	1	0

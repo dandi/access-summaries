@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-missing	116950207393	57350	13681	11663
-GitHub	20310648995	48485	13235	12353
-AWS/us-east-1	67462946492	7878	639	406
+missing	87592106281	57015	13373	11655
+GitHub	20330722862	48521	13244	12361
+AWS/us-east-1	67477882316	7880	641	406
 US/Massachusetts	58356424491	1329	12	305
 US/California	22663451024	3616	26	94
 HK/Hong Kong	9608066385	1174	5	47
 undetermined	83504706827	4639	1353	625
-VPN	71062807686	1699	1670	14
+VPN	71087700726	1703	1674	14
 US/District of Columbia	72844896	20	20	0
 CN/Shanghai	99399798116	8061	37	302
-AWS/ap-southeast-1	2643440613	361	361	0
+AWS/ap-southeast-1	2904555501	530	530	0
 US/Texas	79395696	12	12	0
 US/Illinois	3862545098	196	138	8
 GCP/us-east1	21879672	2	2	0
@@ -18,6 +18,7 @@ US/Virginia	76055901852	1493	744	313
 US/New Jersey	143000718	398	118	117
 AWS/us-east-2	9828843186	59	57	1
 US/New York	29095816398	133	132	1
+CO/Bogota D.C.	28976685117	119	119	0
 CL/Santiago Metropolitan	23621439	7	7	0
 PS/Gaza Strip	2088815	1	1	0
 SG/Singapore	417310145	31	31	0
@@ -27,10 +28,11 @@ NG/FCT	1113636	1	1	0
 GB/England	23451864	2	2	0
 GCP/us-central1	1181711321	16	16	0
 MX/Mexico City	183114803	248	80	41
-BD/Khulna Division	7402404	2	2	0
+BD/Khulna Division	11398392	3	3	0
 MX/Baja California	10939836	1	1	0
 US/South Carolina	184923681	3	3	0
 BD/Chittagong	2705503	1	1	0
+VN/Ho Chi Minh City (HCMC)	92038740	10	10	0
 BR/Goiás	5895720	1	1	0
 BR/Paraná	8057484	2	2	0
 JO/Irbid	5306148	1	1	0
@@ -38,7 +40,7 @@ UA/Cherkasy	7795452	1	1	0
 TW/Taiwan	851604	1	1	0
 UA/Kyiv Oblast	14149728	3	3	0
 KG/Bishkek	14870316	1	1	0
-BD/Dhaka Division	56140356	6	6	0
+BD/Dhaka Division	57253992	7	7	0
 AWS/us-west-2	20304538	24	6	2
 GE/Tbilisi	3995988	1	1	0
 LB/North Lebanon	2751336	1	1	0
@@ -49,7 +51,6 @@ MY/Kuala Lumpur	5633688	4	4	0
 KE/Nakuru County	3406416	1	1	0
 IQ/Nineveh	1048128	1	1	0
 ZA/Gauteng	9695184	1	1	0
-VN/Ho Chi Minh City (HCMC)	69372972	8	8	0
 VN/Hanoi	5499534	1	1	0
 BR/Minas Gerais	9757554	2	2	0
 BR/São Paulo	34847118	5	5	0
@@ -58,6 +59,7 @@ BD/Sylhet Division	1048128	1	1	0
 PS/West Bank	28495980	1	1	0
 UZ/Tashkent	6288768	1	1	0
 ZA/Western Cape	28037424	4	4	0
+MY/Selangor	13298124	1	1	0
 PK/Punjab	10677804	5	5	0
 IR/Isfahan	3668448	1	1	0
 IN/Kerala	8385024	1	1	0
@@ -90,11 +92,11 @@ IQ/Dhi Qar	9498660	1	1	0
 VN/Nghệ An Province	11398392	1	1	0
 US/Ohio	962280	4	1	1
 PH/National Capital Region	3340908	1	1	0
-CO/Bogota D.C.	3078876	2	2	0
 IQ/Kirkuk	4127004	1	1	0
 LT/Vilnius	1113636	1	1	0
 AZ/Baki	7205880	1	1	0
 US/Tennessee	13009968	1	1	0
+VN/Gia Lai	12315504	1	1	0
 AU/Western Australia	11005344	1	1	0
 VN/Ninh Binh	12577536	1	1	0
 MA/Souss-Massa	3013368	1	1	0
@@ -109,6 +111,7 @@ IT/Lombardy	532171290	17	7	2
 GCP/us-west4	54961571	1	1	0
 VN/Vinh Long	1179144	1	1	0
 MA/Casablanca-Settat	7336896	1	1	0
+BR/Rio Grande do Sul	13429140	2	2	0
 SA/Eastern Province	1834224	1	1	0
 KZ/Almaty	9695184	1	1	0
 CO/Valle del Cauca Department	1441176	1	1	0
@@ -129,6 +132,5 @@ JO/Amman	11072046	2	2	0
 CR/San José	3276594	1	1	0
 BR/Rio Grande do Norte	11594916	1	1	0
 CO/Antioquia	2030748	1	1	0
-BR/Rio Grande do Sul	3340908	1	1	0
 IQ/Baghdad	2030748	1	1	0
 BR/Ceará	7467912	1	1	0

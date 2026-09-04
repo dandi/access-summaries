@@ -2,13 +2,13 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/California	2344010175887	113579	3127	715
 CN/Shanghai	5183705224249	348373	12842	1710
 AWS/us-east-1	5687872140236	682698	6437	1755
-GitHub	71804318594	189937	24691	22980
-VPN	5253048213702	25310	23098	181
+GitHub	71951387135	190480	24763	23052
+VPN	5253141394698	25323	23111	181
 undetermined	8694287202621	183689	9018	6532
-AWS/ap-southeast-1	22281550402	8124	8124	0
+AWS/ap-southeast-1	26210681630	11920	11920	0
 GCP/us-west1	313722752	15	15	0
 AWS/us-east-2	15658398792	1045	1045	0
-missing	1317269399174	167811	12674	6700
+missing	1313075808634	163450	8784	6628
 AWS/ap-south-1	37540930	5	5	0
 VN/Hanoi	270586090	53	53	0
 US/Iowa	351497390	1660	208	175
@@ -50,7 +50,7 @@ VN/Da Nang City	17637592	7	7	0
 AE/Sharjah	12176904	2	2	0
 US/Arizona	83209868	419	59	49
 IN/Delhi	23896080	3	3	0
-BR/São Paulo	54873643	22	22	0
+BR/São Paulo	56041715	23	23	0
 AO/Luanda	8010708	2	2	0
 CO/Bogota D.C.	19926812	7	7	0
 AZ/Baki	31042992	8	8	0
@@ -70,7 +70,7 @@ SY/Idlib	483256	1	1	0
 SA/Riyadh Region	5707428	2	2	0
 GE/Tbilisi	1119160	2	2	0
 BR/Rio de Janeiro	18050470	10	10	0
-BR/Minas Gerais	11606294	10	10	0
+BR/Minas Gerais	12230198	11	11	0
 PK/Punjab	33316877	19	19	0
 US/Florida	15777776	3	3	0
 IQ/Maysan	1224824	2	2	0
@@ -87,7 +87,8 @@ DE/North Rhine-Westphalia	32682971	3	3	0
 US/New York	14668273	3	2	1
 ET/Oromiya	1008466	1	1	0
 NG/Lagos	7533420	3	3	0
-VN/Nghệ An Province	11966005	4	4	0
+PK/Khyber Pakhtunkhwa	807863	1	1	0
+VN/Nghệ An Province	12317261	5	5	0
 AR/Entre Rios	484408	1	1	0
 AR/Buenos Aires F.D.	9957284	5	5	0
 NP/Koshi	3771688	1	1	0
@@ -124,7 +125,7 @@ VE/Bolívar	7926468	1	1	0
 ID/Central Java	4230556	3	3	0
 SN/Thies	759272	1	1	0
 VN/Can Tho City	1393520	2	2	0
-TG/Maritime	12522784	2	2	0
+TG/Maritime	12904600	3	3	0
 VN/Dak Lak	25885644	4	4	0
 VN/Thừa Thiên Huế Province	6126568	1	1	0
 EC/Pichincha	1533804	2	2	0
@@ -213,7 +214,7 @@ CL/Antofagasta	459656	1	1	0
 BD/Mymensingh Division	346272	1	1	0
 IL/Jerusalem	14215236	1	1	0
 IN/Maharashtra	5109624	1	1	0
-TN/Sousse Governorate	3471924	1	1	0
+TN/Sousse Governorate	6288768	2	2	0
 DO/Nacional	404192	1	1	0
 BR/Maranhão	1965240	1	1	0
 PY/Alto Paraná Department	881246	1	1	0
@@ -223,7 +224,7 @@ US/New Jersey	13822188	1	1	0
 CL/O'Higgins Region	3920688	1	1	0
 MX/Tabasco	1703208	1	1	0
 MA/Tanger-Tetouan-Al Hoceima	2944944	1	1	0
-FR/Île-de-France	11660424	1	1	0
+FR/Île-de-France	24172452	2	2	0
 TR/Mersin	11070852	1	1	0
 MX/Nuevo León	11880652	2	2	0
 VE/Zulia	4192512	1	1	0
@@ -236,6 +237,7 @@ DZ/Algiers	7437472	4	4	0
 AR/Chubut	723544	1	1	0
 MX/Coahuila	6979320	2	2	0
 UY/Rivera Department	399424	1	1	0
+TR/Ankara	1008256	2	2	0
 BR/Espírito Santo	2743856	1	1	0
 CO/Santander Department	2743856	1	1	0
 IQ/Babil	1113636	1	1	0
@@ -319,10 +321,10 @@ FR/Grand Est	6569064	1	1	0
 IN/West Bengal	21909712	1	1	0
 PA/Colón	17207912	3	3	0
 CL/Maule Region	351256	1	1	0
+HK/Hong Kong	5112704	1	1	0
 CL/Biobio	4323528	1	1	0
 US/District of Columbia	4331257267	117	2	1
 US/Ohio	15457912	84	1	1
-TR/Ankara	572968	1	1	0
 CL/Valparaiso	7467912	1	1	0
 CO/Atlántico	627616	1	1	0
 MX/Colima	626664	1	1	0

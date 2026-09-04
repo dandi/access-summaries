@@ -1,15 +1,15 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-CN/Shanghai	942000074	1331	1331	0
+CN/Shanghai	946246909	1338	1337	1
 US/Massachusetts	200207038	283	4	279
-VPN	1537233471	2231	2161	31
-AWS/ap-southeast-1	268203076	379	379	0
+VPN	1547844916	2246	2176	31
+AWS/ap-southeast-1	392022693	554	554	0
 GCP/us-west1	2093338	3	3	0
-US/California	140075222	211	196	6
-missing	659811659	2080	712	402
+US/California	142099442	219	198	8
+missing	622310249	2227	627	476
 US/New York	313823351	715	390	101
 AWS/us-east-1	439167945	621	621	0
-GitHub	2152152139	8319	2174	1707
-undetermined	834996300	2201	862	726
+GitHub	2304902581	8939	2325	1858
+undetermined	835921788	2204	863	727
 AWS/us-east-2	36149364	51	51	0
 AWS/ap-south-1	705007	1	1	0
 GCP/us-east1	1440315	2	2	0
@@ -17,13 +17,13 @@ BD/Dhaka Division	2102205	3	3	0
 MX/Nuevo León	697996	1	1	0
 KZ/Aktobe	695606	1	1	0
 AR/Buenos Aires F.D.	695606	1	1	0
-US/Iowa	10380336	42	10	5
+US/Iowa	11339560	46	11	6
 MX/Mexico City	36652337	124	40	40
 PK/Punjab	2797875	4	4	0
 SG/Singapore	26300860	37	37	0
 VN/Dak Lak	1445637	2	2	0
 HK/Hong Kong	5660455	8	8	0
-US/Virginia	10074353	46	10	8
+US/Virginia	11106405	50	11	9
 VN/Thanh Hóa Province	705941	1	1	0
 BR/Rio Grande do Sul	705941	1	1	0
 US/Illinois	15363866	61	15	12
@@ -59,7 +59,7 @@ AWS/us-west-2	6098290	22	6	2
 BR/Minas Gerais	731310	1	1	0
 MX/Hidalgo	709734	1	1	0
 IQ/Nineveh	709008	1	1	0
-JO/Amman	722840	1	1	0
+JO/Amman	1431259	2	2	0
 BR/Rio de Janeiro	1436216	2	2	0
 AR/Mendoza	695695	1	1	0
 VN/Hanoi	2085461	3	3	0
@@ -75,6 +75,7 @@ LK/Central Province	724391	1	1	0
 HK/Yau Tsim Mong District	2127936	3	3	0
 BY/Minsk City	697594	1	1	0
 MY/Selangor	725033	1	1	0
+RU/Rostov	723107	1	1	0
 ZA/Gauteng	710857	1	1	0
 KW/Al Farwaniyah	729286	1	1	0
 PH/Calabarzon	1400815	2	2	0

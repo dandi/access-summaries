@@ -1,16 +1,16 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 US/Massachusetts	966452657162182	5324214	2972801	18273
-AWS/ap-southeast-1	12580770241	7694	7694	0
-missing	16110640094122	1991519	48380	1609
+AWS/ap-southeast-1	26441487724	16983	16983	0
 AWS/us-east-1	137589032802457	16403023	791	10820
 GCP/us-central1	1428983915	30265	10191	10039
 undetermined	493978151293688	8982906	3677157	5180
-VPN	350492898279	13494	4816	22
+VPN	350569411623	13502	4824	22
 AL/Vlorë County	20307480	1	1	0
-BD/Dhaka Division	467203056	67	67	0
+BD/Dhaka Division	469233804	68	68	0
 NO/Oslo	3476	2	2	0
+missing	16096559436684	1981238	38099	1609
 SY/Damascus Governorate	17425128	4	4	0
-VN/Hanoi	199864908	26	26	0
+VN/Hanoi	210411696	27	27	0
 UZ/Tashkent	339331440	32	32	0
 MY/Kuala Lumpur	40876992	11	11	0
 ET/Addis Ababa	45397044	10	10	0
@@ -20,6 +20,7 @@ HK/Yau Tsim Mong District	202812768	34	34	0
 ZA/Western Cape	107433120	15	15	0
 IT/Trentino-Alto Adige	29990376984	46958	37135	48
 GB/England	97327193677	47973	40013	106
+PT/Lisbon	1405267	969	969	0
 CL/Santiago Metropolitan	200585496	25	25	0
 PK/Sindh	74941152	20	20	0
 ID/Central Java	31247316	6	6	0
@@ -54,7 +55,7 @@ US/Georgia	34864048	24	24	0
 US/Virginia	4190322052	1041	1041	0
 US/Minnesota	11073155	4	4	0
 DE/State of Berlin	544297846	8	8	0
-IQ/Baghdad	219517308	31	31	0
+IQ/Baghdad	220958484	32	32	0
 DZ/Oran	16245984	4	4	0
 AM/Yerevan	28364964	5	5	0
 CO/Guaviare Department	5306148	1	1	0
@@ -69,7 +70,7 @@ PE/Lima Province	23582880	4	4	0
 IQ/Babil	10939836	2	2	0
 SG/Singapore	279129588	50	50	0
 BR/Santa Catarina	57516024	8	8	0
-CO/Bogota D.C.	216896988	24	24	0
+CO/Bogota D.C.	221679072	25	25	0
 ID/West Java	53716560	8	8	0
 VE/Barinas	58302120	4	4	0
 BR/Rio Grande do Sul	158005296	19	19	0
@@ -99,11 +100,12 @@ PS/West Bank	63870300	8	8	0
 ID/East Java	115228572	15	15	0
 VN/Dak Lak	51292875	7	7	0
 UA/Cherkasy	17883684	2	2	0
-IN/Delhi	26727264	4	4	0
+IN/Delhi	38715228	5	5	0
 TN/Medenine Governorate	6354276	1	1	0
 IN/Punjab	15918444	2	2	0
-BR/São Paulo	331798020	47	47	0
+BR/São Paulo	368351484	48	48	0
 NP/Bagmati Province	144445140	10	10	0
+PH/National Capital Region	47755332	6	6	0
 PA/Panamá	34719240	4	4	0
 AR/Mendoza	56271372	6	6	0
 PK/Khyber Pakhtunkhwa	30068172	3	3	0
@@ -134,7 +136,7 @@ AR/Corrientes	14346252	2	2	0
 PK/Azad Kashmir	21814164	1	1	0
 IQ/Salah ad Din	23124324	4	4	0
 AR/Buenos Aires F.D.	95314140	12	12	0
-MY/Selangor	91252644	20	20	0
+MY/Selangor	92300772	21	21	0
 ID/Yogyakarta	30985284	6	6	0
 BD/Rajshahi Division	89549436	10	10	0
 PK/Islamabad	15459888	4	4	0
@@ -177,7 +179,7 @@ EC/Guayas	23517372	5	5	0
 FR/Île-de-France	134323690	246	74	1
 CH/Zurich	917112	1	1	0
 TR/Antalya	38453196	2	2	0
-IQ/Diyala	4061496	1	1	0
+IQ/Diyala	7533420	3	3	0
 IQ/Najaf	4978608	1	1	0
 SN/Dakar	66621636	10	10	0
 VN/Quang Ngai	10284756	1	1	0
@@ -201,8 +203,7 @@ JO/Irbid	1506684	1	1	0
 DO/Santo Domingo Province	38649720	4	4	0
 UA/Dnipropetrovsk	39828864	4	4	0
 IL/Tel Aviv	9760692	2	2	0
-PH/National Capital Region	15656412	4	4	0
-BR/Mato Grosso do Sul	9826200	1	1	0
+BR/Mato Grosso do Sul	13822188	2	2	0
 MX/Querétaro	16835556	3	3	0
 CH/Geneva	10874328	1	1	0
 EC/Esmeraldas	9564168	1	1	0
@@ -254,6 +255,7 @@ BO/Cochabamba	2423796	1	1	0
 NG/FCT	9760692	3	3	0
 DZ/Ouargla	7140372	1	1	0
 MX/Tamaulipas	3340908	1	1	0
+ID/South Sumatra	24696516	3	3	0
 VN/Hưng Yên Province	30854268	8	8	0
 AL/Berat County	9433152	1	1	0
 SN/Kaolack	2685828	1	1	0
@@ -266,7 +268,7 @@ UA/Donetsk	5633688	1	1	0
 RU/Orenburg Oblast	2096256	1	1	0
 NI/South Caribbean Coast	13429140	1	1	0
 PH/Northern Mindanao	7009356	1	1	0
-IQ/Dhi Qar	11856948	3	3	0
+IQ/Dhi Qar	13625664	4	4	0
 MX/Sonora	31967904	3	3	0
 VE/Yaracuy	13036092	1	1	0
 EG/Red Sea	7467912	1	1	0
@@ -355,7 +357,6 @@ FR/Rhône-Alpes	21814164	2	2	0
 UA/Sumy	12118980	1	1	0
 BO/Potosí Department	8909088	1	1	0
 JO/Mafraq	3340908	1	1	0
-ID/South Sumatra	13625664	2	2	0
 BH/Southern Governorate	10350264	1	1	0
 BR/Amazonas	4978608	1	1	0
 BJ/Littoral	851604	1	1	0
@@ -367,6 +368,7 @@ BO/La Paz Department	5502672	3	3	0
 BR/Amapá	6681816	1	1	0
 FR/Grand Est	13887696	1	1	0
 IQ/Maysan	25482612	4	4	0
+US/Utah	21224592	1	1	0
 MX/Baja California	9105612	1	1	0
 GB/Wales	11725932	1	1	0
 US/South Carolina	9236628	1	1	0

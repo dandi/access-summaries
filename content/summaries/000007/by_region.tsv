@@ -2,8 +2,8 @@ region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 GitHub	80441920367	88306	23684	779
 undetermined	12285951950	10685	3093	549
 IN/Rajasthan	199439472	54	54	0
-missing	1453310866	3917	562	178
-VPN	2337090562	725	687	17
+missing	1346820246	3863	508	178
+VPN	2379217466	740	702	17
 US/Texas	12126720	2380	6	6
 AWS/us-west-2	292153916	1300	171	110
 AWS/us-east-2	951221952	99123	33	235
@@ -15,7 +15,7 @@ US/North Carolina	398878944	108	108	0
 AWS/us-east-1	2284996384	756	308	306
 US/Massachusetts	204962072	59	0	59
 SG/Singapore	77798464	26	26	0
-AWS/ap-southeast-1	295525740	97	97	0
+AWS/ap-southeast-1	346081260	131	131	0
 GCP/us-east1	408768	1	1	0
 HK/Hong Kong	31229536	10	10	0
 AZ/Yevlax City	408768	1	1	0
@@ -26,7 +26,7 @@ SY/Aleppo	947024	2	2	0
 GCP/us-central1	40011704	29	29	0
 US/Iowa	3364800	11	5	1
 SN/Dakar	408768	1	1	0
-US/Washington	199439472	54	54	0
+US/Washington	208961696	55	55	0
 US/New York	352480672	768	88	22
 FR/Île-de-France	408768	1	1	0
 KR/Daejeon	199439472	54	54	0
@@ -61,7 +61,7 @@ TR/Kocaeli	4645480	1	1	0
 AO/Luanda	7907936	2	2	0
 IN/Punjab	6007928	1	1	0
 AR/Chubut	4210488	1	1	0
-AR/Buenos Aires	22126760	4	4	0
+AR/Buenos Aires	23426352	5	5	0
 AR/Buenos Aires F.D.	16476704	6	6	0
 BR/Rio de Janeiro	15062940	4	4	0
 BH/Manama	2925344	2	2	0
@@ -73,14 +73,14 @@ AE/Abu Dhabi	11229536	2	2	0
 ZA/Gauteng	7977720	2	2	0
 US/New Jersey	17667968	17	3	6
 BO/Cochabamba	6915896	1	1	0
-BR/São Paulo	25983996	7	7	0
+BR/São Paulo	27244912	8	8	0
 VE/Bolívar	3501520	1	1	0
 VE/Distrito Federal	1269480	1	1	0
 AT/State of Vienna	1269480	1	1	0
 IQ/Basra	2083376	1	1	0
 CA/Nova Scotia	2083376	1	1	0
 AE/Ajman	1128188	1	1	0
-VN/Phu Tho	1061824	1	1	0
+VN/Phu Tho	1924556	2	2	0
 US/South Carolina	11019680	2	2	0
 MA/Tanger-Tetouan-Al Hoceima	6946024	1	1	0
 NZ/Auckland	5972760	1	1	0
@@ -148,6 +148,7 @@ AR/Neuquen	8820632	1	1	0
 BR/Amazonas	1260916	1	1	0
 CI/Abidjan Autonomous District	4785840	1	1	0
 TR/Istanbul	1990920	1	1	0
+VN/Lam Dong	862732	1	1	0
 VN/Hai Phong	881112	1	1	0
 SA/Riyadh Region	803008	1	1	0
 US/Idaho	1140792	1	1	0

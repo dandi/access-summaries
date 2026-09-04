@@ -1,14 +1,14 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	585828832	1418	341	264
-VPN	1093978212	694	454	66
-undetermined	412747092	216	124	68
+GitHub	662342036	1598	386	309
+VPN	1096386296	695	455	66
+undetermined	418410372	221	126	70
 AWS/us-east-1	353561004	154	154	0
 US/California	62119856	38	26	5
-CN/Shanghai	233558612	97	97	0
-AWS/ap-southeast-1	137231776	71	71	0
-SG/Singapore	21672756	9	9	0
+CN/Shanghai	238362012	99	97	2
+AWS/ap-southeast-1	188377812	106	106	0
+SG/Singapore	24074456	10	10	0
 AWS/us-east-2	21672756	9	9	0
-missing	4099174886	6226	1586	1190
+missing	4110666258	6293	1570	1223
 MX/Mexico City	62778956	181	61	40
 AWS/us-west-2	16298440	22	6	2
 US/Iowa	2161344	8	2	1
@@ -16,9 +16,12 @@ US/Illinois	7745936	20	5	4
 ID/Yogyakarta	4111292	2	2	0
 GCP/us-central1	12027652	5	5	0
 US/Virginia	24364272	46	13	8
+IQ/Baghdad	2408084	1	1	0
+UZ/Tashkent	2408084	1	1	0
 BO/La Paz Department	1768716	1	1	0
 JO/Mafraq	2408084	1	1	0
-VN/Ho Chi Minh City (HCMC)	2408084	1	1	0
+US/Wyoming	3373032	12	3	2
+VN/Ho Chi Minh City (HCMC)	4816168	2	2	0
 US/Louisiana	2408084	1	1	0
 GE/Tbilisi	2408084	1	1	0
 BD/Chittagong	917112	1	1	0
@@ -27,5 +30,4 @@ ID/Jakarta	1113636	1	1	0
 AR/Cordoba	2408084	1	1	0
 US/Michigan	4803400	2	2	0
 CH/Vaud	2178316	6	2	1
-US/Wyoming	2292360	8	2	1
 OM/Muscat	2408084	1	1	0

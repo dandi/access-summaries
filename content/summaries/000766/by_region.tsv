@@ -1,27 +1,27 @@
 region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-GitHub	2538806368	19612	6848	5962
-US/Virginia	67016637	716	270	92
-AWS/us-east-1	331096256	1724	1724	0
+GitHub	2541506544	19633	6855	5969
+US/Virginia	67208725	717	271	92
+AWS/us-east-1	331481304	1726	1726	0
 CN/Shanghai	248974288	1292	1292	0
 US/Massachusetts	72079680	373	4	369
 undetermined	596380848	3476	2534	902
-VPN	384486440	2009	1985	17
+VPN	384681264	2010	1986	17
 GB/Scotland	55104960	288	288	0
 US/Ohio	55299432	291	289	1
-AWS/ap-southeast-1	124075712	646	646	0
+AWS/ap-southeast-1	170773640	889	889	0
 US/California	73310160	385	374	7
 US/Illinois	34093952	200	154	15
 AWS/us-east-2	14395032	75	73	2
 AWS/ap-south-1	183256	1	1	0
-missing	241611800	1621	893	303
-SG/Singapore	2118440	11	11	0
+missing	189146200	1341	627	296
+SG/Singapore	2310528	12	12	0
 VE/Distrito Federal	183224	1	1	0
-GB/England	576264	3	3	0
+GB/England	771088	4	4	0
 US/Iowa	9001680	69	23	12
-US/Pennsylvania	610832	6	1	1
+US/Pennsylvania	802920	7	2	1
 MX/Mexico City	11732336	80	40	40
 GCP/us-central1	1711144	9	9	0
-VN/Hanoi	1908656	10	10	0
+VN/Hanoi	2100744	11	11	0
 US/New York	7285808	38	38	0
 PK/Sindh	192088	1	1	0
 US/South Carolina	2892016	15	15	0
@@ -34,10 +34,10 @@ GCP/us-east1	196440	1	1	0
 VE/Anzoátegui	192088	1	1	0
 VN/Khanh Hoa	194824	1	1	0
 RU/Moscow Oblast	192088	1	1	0
-AE/Dubai	192088	1	1	0
+AE/Dubai	384176	2	2	0
 VE/Zulia	183256	1	1	0
 MX/Jalisco	375344	2	2	0
-VN/Ho Chi Minh City (HCMC)	1335752	7	7	0
+VN/Ho Chi Minh City (HCMC)	1530576	8	8	0
 IN/Kerala	192088	1	1	0
 TW/Taiwan	192088	1	1	0
 LT/Vilnius	194824	1	1	0
@@ -54,9 +54,9 @@ RO/Bucharest	194824	1	1	0
 BR/Minas Gerais	968648	5	5	0
 CG/Brazzaville	194824	1	1	0
 VN/Ninh Binh	183256	1	1	0
-BR/Rio Grande do Sul	957048	5	5	0
+BR/Rio Grande do Sul	1151872	6	6	0
 BR/Rio de Janeiro	762224	4	4	0
-BR/São Paulo	567432	3	3	0
+BR/São Paulo	750656	4	4	0
 TR/Antalya	183224	1	1	0
 TN/Ariana Governorate	192088	1	1	0
 VN/Da Nang City	192088	1	1	0
@@ -70,11 +70,12 @@ PA/Chiriquí Province	375344	2	2	0
 SY/Damascus Governorate	192088	1	1	0
 CO/Arauca Department	192088	1	1	0
 CL/Santiago Metropolitan	375344	2	2	0
+BR/Pará	192088	1	1	0
 BD/Sylhet Division	384176	2	2	0
 BR/Goiás	375312	2	2	0
 TR/Istanbul	384176	2	2	0
 CZ/Prague	183224	1	1	0
-IN/Haryana	378048	2	2	0
+IN/Haryana	570136	3	3	0
 EC/Pichincha	192088	1	1	0
 AT/State of Vienna	384176	2	2	0
 PT/Lisbon	192088	1	1	0
@@ -104,6 +105,7 @@ MX/Baja California	192088	1	1	0
 RU/Rostov	194824	1	1	0
 PK/Punjab	384176	2	2	0
 AR/Buenos Aires F.D.	192088	1	1	0
+NG/Ekiti State	183224	1	1	0
 CO/Bogota D.C.	192088	1	1	0
 VN/Dong Thap	192088	1	1	0
 MX/Baja California Sur	194824	1	1	0
@@ -128,6 +130,7 @@ JM/Saint Thomas Parish	192088	1	1	0
 CA/Ontario	192088	1	1	0
 CN/Beijing	183224	1	1	0
 IT/The Marches	183224	1	1	0
+MA/Souss-Massa	192088	1	1	0
 NG/Lagos	192088	1	1	0
 ID/Jakarta	192088	1	1	0
 AZ/Abşeron	192088	1	1	0

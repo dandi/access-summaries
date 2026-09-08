@@ -1,10 +1,7 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-bogon	134180577	620	620
-AWS/us-east-1	184550812	820	820
-US/Massachusetts	310928315	1400	60
-ES/Catalonia	472115643	2140	2140
-missing	12288374	60	60
-VPN	7505330	<50	<50
-US/Virginia	3552606	<50	<50
-undetermined	19410379	100	100
-SG/Singapore	251200	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+bogon	139729461	641	641	0
+AWS/us-east-1	194629343	862	861	1
+USA/MA	355642800	1629	277	1
+ESP/CT	472115643	2141	2141	0
+VPN	8149276	50	50	0
+USA/VA	20898	34	34	0

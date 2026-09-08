@@ -1,7 +1,11 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-AWS/us-east-1	10721564999	1280	<50
-undetermined	1979619152	60	<50
-GitHub	13440696	60	<50
-US/Massachusetts	8747269247	160	<50
-missing	19387589373	160	<50
-US/Texas	47783392	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	10721564999	1282	0	8
+MEX/CMX	17147944	34	8	6
+GitHub	23118152	91	18	14
+USA/MA	15865509243	364	0	24
+AWS/ap-southeast-1	21683148	16	16	0
+USA/IL	2684871940	17	4	3
+CAN/ON	12234628906	26	10	4
+USA/TX	47783392	3	1	1
+FRA/IDF	10158228	12	3	3
+USA/CA	2913145623	4	4	0

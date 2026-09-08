@@ -1,7 +1,12 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-undetermined	32731959189	24260	12820
-GCP/us-central1	15283535132	11360	11360
-US/Texas	143285048	440	440
-AWS/us-east-1	8502	<50	<50
-US/Virginia	1561986	<50	<50
-US/Washington	914056	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+USA/MA	15371279759	11430	2	4
+GCP/us-central1	15283535132	11361	11361	0
+USA/TX	143285048	438	438	0
+GBR/ENG	779733736	626	612	3
+AWS/us-east-1	8502	3	0	3
+USA	15283535132	11361	11361	0
+KOR/44	151783	67	67	0
+USA/MN	1284892597	762	762	0
+USA/VA	1561986	29	29	0
+FRA/ARA	12523633	84	84	0
+USA/NM	914056	14	14	0

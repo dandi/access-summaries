@@ -1,4 +1,11 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-VPN	1737626	<50	<50
-missing	4641008	<50	<50
-GitHub	6579274	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+VPN	1737626	12	4	4
+GitHub	14883450	99	39	29
+AWS/ap-southeast-1	1302414	6	6	0
+AWS/us-east-1	869282	5	5	0
+USA/IL	638684	4	2	2
+USA/MA	869286	9	1	4
+MEX/CMX	319128	2	1	1
+FRA/IDF	957384	6	3	3
+CHN/SH	216728	1	0	1
+CHN/GS	217197	2	2	0

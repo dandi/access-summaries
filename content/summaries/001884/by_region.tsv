@@ -1,6 +1,12 @@
-region	bytes_sent	number_of_requests	number_of_downloads
-missing	392045747	140	<50
-undetermined	35910793	<50	<50
-VPN	350688	<50	<50
-GitHub	350688	<50	<50
-US/Virginia	350688	<50	<50
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+USA/MA	8065870	92	0	4
+AWS/ap-southeast-1	350688	2	2	0
+USA/CA	152258587	28	10	3
+AWS/us-east-1	383629192	47	1	1
+VPN	350688	3	1	1
+GCP/us-central1	175344	1	1	0
+USA/TN	350688	2	1	1
+GitHub	1256864	10	4	3
+USA/IL	277744	2	1	1
+FRA/IDF	833232	6	3	3
+MEX/CMX	277744	2	1	1

@@ -1042,6 +1042,9 @@ BLZ/CY:
 BLZ/OW:
   latitude: 17.7122
   longitude: -88.8552
+BLZ/TOL:
+  latitude: 16.3761
+  longitude: -88.8117
 BM/Hamilton city:
   latitude: 32.2942679
   longitude: -64.7853167
@@ -1546,6 +1549,9 @@ CHE/GE:
 CHE/GR:
   latitude: 46.6729
   longitude: 9.5595
+CHE/JU:
+  latitude: 47.3636
+  longitude: 7.1982
 CHE/LU:
   latitude: 47.096
   longitude: 8.1722
@@ -3316,6 +3322,9 @@ FIN/11:
 FIN/12:
   latitude: 63.0354
   longitude: 22.1482
+FIN/13:
+  latitude: 62.7879
+  longitude: 29.9637
 FIN/14:
   latitude: 65.1599
   longitude: 26.2356
@@ -4060,12 +4069,18 @@ HRV/06:
 HRV/08:
   latitude: 45.3736
   longitude: 14.6925
+HRV/10:
+  latitude: 45.7303
+  longitude: 17.6078
 HRV/12:
   latitude: 45.2659
   longitude: 17.748
 HRV/14:
   latitude: 45.4948
   longitude: 18.506
+HRV/16:
+  latitude: 45.1467
+  longitude: 18.9549
 HRV/17:
   latitude: 43.5266
   longitude: 16.788
@@ -5577,6 +5592,9 @@ KHM/12:
 KHM/17:
   latitude: 13.5711
   longitude: 104.043
+KHM/18:
+  latitude: 10.4854
+  longitude: 103.775
 KHM/3:
   latitude: 12.1206
   longitude: 105.629
@@ -5829,6 +5847,9 @@ LAO: &id019
 LAO/AT:
   latitude: 14.7848
   longitude: 106.866
+LAO/VI:
+  latitude: 18.5108
+  longitude: 102.3595
 LAO/VT: *id019
 "LB/Aakk\xE2r":
   latitude: 34.5555272
@@ -6313,6 +6334,9 @@ MDA/BD:
 MDA/CA:
   latitude: 45.64
   longitude: 28.3144
+MDA/CL:
+  latitude: 47.2892
+  longitude: 28.3373
 MDA/CM:
   latitude: 46.5885
   longitude: 28.7794
@@ -6709,6 +6733,9 @@ MO/Macao:
 MOZ: &id027
   latitude: -13.9432
   longitude: 37.8379
+MOZ/L:
+  latitude: -25.7531
+  longitude: 32.4519
 MOZ/MPM: *id027
 MOZ/N:
   latitude: -14.9497
@@ -6732,6 +6759,9 @@ MR/Mauritania:
   latitude: 20.2540382
   longitude: -9.2399263
 MRT: &id028
+  latitude: 19.5871
+  longitude: -9.7403
+MRT/13:
   latitude: 19.5871
   longitude: -9.7403
 MRT/14: *id028
@@ -7333,6 +7363,9 @@ NOR/18:
 NOR/19:
   latitude: 68.9053
   longitude: 19.0835
+NOR/20:
+  latitude: 69.5648
+  longitude: 24.4789
 NOR/34: *id030
 NOR/42: *id030
 NOR/46: *id030
@@ -7653,6 +7686,9 @@ PER/CUS:
 PER/HUC:
   latitude: -9.592
   longitude: -75.9161
+PER/HUV:
+  latitude: -13.0523
+  longitude: -75.0416
 PER/ICA:
   latitude: -14.2257
   longitude: -75.6773
@@ -9385,6 +9421,9 @@ SVN/050:
 SVN/052:
   latitude: 46.2382
   longitude: 14.2919
+SVN/057:
+  latitude: 46.1404
+  longitude: 15.248
 SVN/061:
   latitude: 46.0616
   longitude: 14.5799
@@ -9406,6 +9445,9 @@ SVN/111:
 SVN/122:
   latitude: 46.1576
   longitude: 14.2779
+SVN/124:
+  latitude: 46.2188
+  longitude: 15.5302
 SVN/189:
   latitude: 46.2348
   longitude: 14.9474
@@ -9793,6 +9835,9 @@ THA/43:
 THA/45:
   latitude: 15.9601
   longitude: 103.827
+THA/47:
+  latitude: 17.3577
+  longitude: 103.845
 THA/50:
   latitude: 18.8368
   longitude: 98.6967
@@ -9829,6 +9874,9 @@ THA/75:
 THA/77:
   latitude: 12.3053
   longitude: 99.7274
+THA/80:
+  latitude: 8.3745
+  longitude: 99.7819
 THA/82:
   latitude: 8.5768
   longitude: 98.394
@@ -10180,6 +10228,9 @@ TTO/PTF:
 TTO/SFO:
   latitude: 10.2772
   longitude: -61.4589
+TTO/SIP:
+  latitude: 10.118
+  longitude: -61.6987
 TTO/SJL:
   latitude: 10.613
   longitude: -61.4498
@@ -10262,6 +10313,9 @@ TUR/06:
 TUR/07:
   latitude: 37.1141
   longitude: 30.9564
+TUR/08:
+  latitude: 41.0175
+  longitude: 41.8331
 TUR/09:
   latitude: 37.7292
   longitude: 27.9573
@@ -10497,6 +10551,9 @@ TWN/HUA:
 TWN/ILA:
   latitude: 24.5913
   longitude: 121.644
+TWN/KEE:
+  latitude: 25.1131
+  longitude: 121.704
 TWN/KHH:
   latitude: 23.0157
   longitude: 120.609
@@ -10798,6 +10855,9 @@ URY/MA:
 URY/MO:
   latitude: -34.8267
   longitude: -56.2283
+URY/PA:
+  latitude: -32.0933
+  longitude: -57.224
 URY/RO:
   latitude: -33.9106
   longitude: -53.9584

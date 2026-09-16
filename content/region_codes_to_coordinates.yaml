@@ -945,6 +945,9 @@ BGR/23:
 BGR/24:
   latitude: 42.4759
   longitude: 25.5689
+BGR/25:
+  latitude: 43.2251
+  longitude: 26.3637
 BGR/26:
   latitude: 41.8489
   longitude: 25.8816
@@ -1273,6 +1276,9 @@ BRA/TO:
 BRB:
   latitude: 13.1637
   longitude: -59.569
+BRB/01:
+  latitude: 13.0873
+  longitude: -59.538
 BRB/05:
   latitude: 13.1795
   longitude: -59.5039
@@ -1827,6 +1833,12 @@ CMR/NW:
 CMR/OU:
   latitude: 5.3669
   longitude: 10.5889
+CMR/SU:
+  latitude: 2.7926
+  longitude: 11.731
+CMR/SW:
+  latitude: 5.1282
+  longitude: 9.2448
 CN/Anhui:
   latitude: 32.0
   longitude: 117.0
@@ -1993,6 +2005,9 @@ COD/HK: *id005
 COD/KN:
   latitude: -4.4952
   longitude: 15.8492
+COD/LU:
+  latitude: -1.8582
+  longitude: 23.4588
 COD/NK:
   latitude: -0.6591
   longitude: 28.5939
@@ -2782,6 +2797,9 @@ DZA/35:
 DZA/36:
   latitude: 36.7012
   longitude: 8.146
+DZA/38:
+  latitude: 35.7302
+  longitude: 1.7787
 DZA/39:
   latitude: 33.1137
   longitude: 7.0356
@@ -3274,6 +3292,9 @@ ETH/GA:
 ETH/OR:
   latitude: 7.5564
   longitude: 40.2242
+ETH/SI:
+  latitude: 8.0328
+  longitude: 39.0886
 FI/Central Finland:
   latitude: 62.6093658
   longitude: 25.579461
@@ -3316,9 +3337,15 @@ FIN/03:
 FIN/04:
   latitude: 61.8152
   longitude: 27.9693
+FIN/05:
+  latitude: 64.5496
+  longitude: 28.441
 FIN/06:
   latitude: 60.9239
   longitude: 24.4224
+FIN/08:
+  latitude: 62.5246
+  longitude: 25.3934
 FIN/11:
   latitude: 61.6936
   longitude: 23.7573
@@ -3610,6 +3637,9 @@ GEO/AJ:
 GEO/IM:
   latitude: 42.093
   longitude: 42.9894
+GEO/KA:
+  latitude: 41.6527
+  longitude: 45.8579
 GEO/KK:
   latitude: 41.4755
   longitude: 44.5029
@@ -3947,6 +3977,9 @@ HKG/KKT: *id012
 HKG/KSS: *id012
 HKG/KWT: *id012
 HKG/KYT: *id012
+HKG/NIS:
+  latitude: 22.4488
+  longitude: 114.0978
 HKG/NKT: *id012
 HKG/NNO: *id012
 HKG/NSK: *id012
@@ -4012,6 +4045,12 @@ HND/FM:
 HND/IB:
   latitude: 16.1048
   longitude: -86.9319
+HND/IN:
+  latitude: 14.3981
+  longitude: -88.1754
+HND/OC:
+  latitude: 14.5248
+  longitude: -89.0399
 HND/OL:
   latitude: 14.8052
   longitude: -85.9937
@@ -5353,6 +5392,9 @@ JPN/28:
 JPN/29:
   latitude: 34.2815
   longitude: 135.877
+JPN/30:
+  latitude: 33.93
+  longitude: 135.401
 JPN/31:
   latitude: 35.3657
   longitude: 133.819
@@ -5371,6 +5413,9 @@ JPN/36:
 JPN/37:
   latitude: 34.2162
   longitude: 134.001
+JPN/38:
+  latitude: 33.8141
+  longitude: 132.916
 JPN/40:
   latitude: 33.4906
   longitude: 130.616
@@ -5406,6 +5451,9 @@ KAZ/43: *id017
 KAZ/47: *id017
 KAZ/55: *id017
 KAZ/59: *id017
+KAZ/61:
+  latitude: 49.0541
+  longitude: 68.6855
 KAZ/62: *id017
 KAZ/63: *id017
 KAZ/71: *id017
@@ -5516,6 +5564,9 @@ KE/Uasin Gishu County:
 KEN: &id018
   latitude: 0.549
   longitude: 37.9076
+KEN/03: &id019
+  latitude: 0.549
+  longitude: 37.9076
 KEN/04: *id018
 KEN/09: *id018
 KEN/13: *id018
@@ -5523,6 +5574,7 @@ KEN/15: *id018
 KEN/17: *id018
 KEN/18: *id018
 KEN/20: *id018
+KEN/22: *id019
 KEN/25: *id018
 KEN/26: *id018
 KEN/28: *id018
@@ -5530,6 +5582,7 @@ KEN/29: *id018
 KEN/30: *id018
 KEN/31: *id018
 KEN/35: *id018
+KEN/36: *id019
 KEN/41: *id018
 KEN/44: *id018
 KG/Batken:
@@ -5847,7 +5900,7 @@ LA/Savannakhet Province:
 LA/Vientiane Prefecture:
   latitude: 18.120498
   longitude: 102.6505431
-LAO: &id019
+LAO: &id020
   latitude: 19.4318
   longitude: 102.5339
 LAO/AT:
@@ -5856,7 +5909,7 @@ LAO/AT:
 LAO/VI:
   latitude: 18.5108
   longitude: 102.3595
-LAO/VT: *id019
+LAO/VT: *id020
 "LB/Aakk\xE2r":
   latitude: 34.5555272
   longitude: 36.1759575
@@ -5899,17 +5952,17 @@ LB/North Lebanon:
 LB/South Governorate:
   latitude: 33.2855585
   longitude: 35.3038316
-LBN: &id020
+LBN: &id021
   latitude: 34.1334
   longitude: 35.9929
-LBN/AK: *id020
+LBN/AK: *id021
 LBN/AS:
   latitude: 34.3933
   longitude: 36.0424
 LBN/BA:
   latitude: 33.8849
   longitude: 35.5093
-LBN/BH: *id020
+LBN/BH: *id021
 LBN/BI:
   latitude: 34.0494
   longitude: 36.1086
@@ -5919,7 +5972,7 @@ LBN/JA:
 LBN/JL:
   latitude: 33.9291
   longitude: 35.6942
-LBR: &id021
+LBR: &id022
   latitude: 6.4472
   longitude: -9.4604
 LBR/MO:
@@ -5928,14 +5981,17 @@ LBR/MO:
 LBR/NI:
   latitude: 6.8643
   longitude: -8.7363
-LBR/RG: *id021
-LBY: &id022
+LBR/RG: *id022
+LBY: &id023
   latitude: 26.6389
   longitude: 18.011
 LBY/BA:
   latitude: 31.2887
   longitude: 20.6182
-LBY/DR: *id022
+LBY/DR: *id023
+LBY/JG:
+  latitude: 26.6389
+  longitude: 18.011
 LBY/JI:
   latitude: 32.4889
   longitude: 13.0352
@@ -5945,7 +6001,7 @@ LBY/MB:
 LBY/MI:
   latitude: 32.2151
   longitude: 15.0186
-LBY/TB: *id022
+LBY/TB: *id023
 LBY/ZA:
   latitude: 32.4551
   longitude: 12.4868
@@ -5991,6 +6047,12 @@ LKA/1:
 LKA/2:
   latitude: 7.2824
   longitude: 80.7187
+LKA/3:
+  latitude: 6.2103
+  longitude: 80.6516
+LKA/4:
+  latitude: 9.1745
+  longitude: 80.2317
 LKA/6:
   latitude: 7.8312
   longitude: 80.074
@@ -6027,6 +6089,9 @@ LT/Vilnius:
 LTU:
   latitude: 55.1037
   longitude: 24.0899
+LTU/AL:
+  latitude: 54.2544
+  longitude: 24.167
 LTU/KL:
   latitude: 55.6254
   longitude: 21.3879
@@ -6039,6 +6104,9 @@ LTU/PN:
 LTU/SA:
   latitude: 55.9585
   longitude: 23.2677
+LTU/TA:
+  latitude: 55.2657
+  longitude: 22.6458
 LTU/TE:
   latitude: 56.0398
   longitude: 22.1086
@@ -6054,12 +6122,12 @@ LU/Esch-sur-Alzette:
 LU/Luxembourg:
   latitude: 49.8158683
   longitude: 6.1296751
-LUX: &id023
+LUX: &id024
   latitude: 49.7337
   longitude: 6.0776
-LUX/ES: *id023
-LUX/LU: *id023
-LUX/RM: *id023
+LUX/ES: *id024
+LUX/LU: *id024
+LUX/RM: *id024
 LV/Riga:
   latitude: 56.9493977
   longitude: 24.1051846
@@ -6069,19 +6137,25 @@ LV/Ventspils:
 "LV/\u0136ekava":
   latitude: 56.8261827
   longitude: 24.233653
-LVA: &id024
+LVA: &id025
   latitude: 57.0669
   longitude: 25.4587
 LVA/022:
   latitude: 57.2396
   longitude: 25.4307
+LVA/062:
+  latitude: 56.8913
+  longitude: 23.9438
 LVA/067:
   latitude: 56.8577
   longitude: 25.1269
 LVA/068:
   latitude: 56.789
   longitude: 23.9561
-LVA/113: *id024
+LVA/080:
+  latitude: 56.9649
+  longitude: 24.5818
+LVA/113: *id025
 LVA/DGV:
   latitude: 55.9622
   longitude: 26.5703
@@ -6349,6 +6423,9 @@ MDA/CM:
 MDA/CU:
   latitude: 47.0348
   longitude: 28.822
+MDA/DO:
+  latitude: 48.2339
+  longitude: 27.7632
 MDA/DR:
   latitude: 48.0267
   longitude: 27.8915
@@ -6370,9 +6447,18 @@ MDA/IA:
 MDA/LE:
   latitude: 46.5654
   longitude: 28.4105
+MDA/NI:
+  latitude: 47.0476
+  longitude: 28.2369
 MDA/OR:
   latitude: 47.3961
   longitude: 28.8156
+MDA/RI:
+  latitude: 47.9614
+  longitude: 27.5565
+MDA/SI:
+  latitude: 47.6929
+  longitude: 28.1728
 MDA/SN:
   latitude: 47.2074
   longitude: 29.1669
@@ -6382,6 +6468,9 @@ MDA/SO:
 MDA/ST:
   latitude: 47.1828
   longitude: 28.5847
+MDA/SV:
+  latitude: 46.5031
+  longitude: 29.7739
 MDA/TA:
   latitude: 45.8995
   longitude: 28.7033
@@ -6412,7 +6501,7 @@ ME/Herceg Novi:
 ME/Podgorica:
   latitude: 42.4415238
   longitude: 19.2621081
-MEX: &id025
+MEX: &id026
   latitude: 23.92
   longitude: -102.2894
 MEX/AGU:
@@ -6433,7 +6522,7 @@ MEX/CHH:
 MEX/CHP:
   latitude: 16.527
   longitude: -92.581
-MEX/CMX: *id025
+MEX/CMX: *id026
 MEX/COA:
   latitude: 27.4473
   longitude: -101.885
@@ -6563,26 +6652,31 @@ MK/Resen:
 MK/Veles:
   latitude: 41.718869
   longitude: 21.7705695
-MKD: &id026
+MKD: &id027
   latitude: 41.5582
   longitude: 21.5558
-MKD/101: *id026
-MKD/104: *id026
-MKD/106: *id026
-MKD/208: *id026
-MKD/211: *id026
-MKD/310: *id026
-MKD/408: *id026
-MKD/410: *id026
-MKD/501: *id026
-MKD/508: *id026
-MKD/604: *id026
-MKD/605: *id026
-MKD/609: *id026
-MKD/701: *id026
-MKD/703: *id026
-MKD/804: *id026
-MKD/816: *id026
+MKD/101: *id027
+MKD/104: *id027
+MKD/106: *id027
+MKD/208: *id027
+MKD/211: *id027
+MKD/307: &id028
+  latitude: 41.5582
+  longitude: 21.5558
+MKD/310: *id027
+MKD/402: *id028
+MKD/408: *id027
+MKD/410: *id027
+MKD/501: *id027
+MKD/508: *id027
+MKD/509: *id028
+MKD/604: *id027
+MKD/605: *id027
+MKD/609: *id027
+MKD/701: *id027
+MKD/703: *id027
+MKD/804: *id027
+MKD/816: *id027
 ML/Bamako:
   latitude: 12.649319
   longitude: -8.000337
@@ -6601,6 +6695,9 @@ MLT/04:
 MLT/08:
   latitude: 35.8694
   longitude: 14.5196
+MLT/09:
+  latitude: 35.888
+  longitude: 14.503
 MLT/10:
   latitude: 36.0332
   longitude: 14.2398
@@ -6634,6 +6731,9 @@ MLT/40:
 MLT/44:
   latitude: 35.8312
   longitude: 14.4531
+MLT/48:
+  latitude: 35.9126
+  longitude: 14.4897
 MLT/49:
   latitude: 35.905
   longitude: 14.4756
@@ -6736,13 +6836,13 @@ MO/Macao:
 "MO/S\xE3o Francisco Xavier":
   latitude: 22.210928
   longitude: 113.552971
-MOZ: &id027
+MOZ: &id029
   latitude: -13.9432
   longitude: 37.8379
 MOZ/L:
   latitude: -25.7531
   longitude: 32.4519
-MOZ/MPM: *id027
+MOZ/MPM: *id029
 MOZ/N:
   latitude: -14.9497
   longitude: 38.7815
@@ -6764,13 +6864,13 @@ MR/Dakhlet Nouadhibou:
 MR/Mauritania:
   latitude: 20.2540382
   longitude: -9.2399263
-MRT: &id028
+MRT: &id030
   latitude: 19.5871
   longitude: -9.7403
 MRT/13:
   latitude: 19.5871
   longitude: -9.7403
-MRT/14: *id028
+MRT/14: *id030
 MS/Saint Peter:
   latitude: 16.7765724
   longitude: -62.2000778
@@ -7086,10 +7186,10 @@ NAM/OT:
 NC/South Province:
   latitude: -22.275842
   longitude: 166.6417946
-NCL: &id029
+NCL: &id031
   latitude: -21.0647
   longitude: 165.084
-NCL/S: *id029
+NCL/S: *id031
 NE/Niamey:
   latitude: 13.524834
   longitude: 2.109823
@@ -7171,6 +7271,12 @@ NGA/AB:
 NGA/AN:
   latitude: 6.3083
   longitude: 6.9847
+NGA/DE:
+  latitude: 5.4427
+  longitude: 5.8819
+NGA/ED:
+  latitude: 6.5242
+  longitude: 5.8493
 NGA/EN:
   latitude: 6.554
   longitude: 7.3841
@@ -7189,6 +7295,9 @@ NGA/LA:
 NGA/OG:
   latitude: 7.0184
   longitude: 3.2925
+NGA/ON:
+  latitude: 7.1444
+  longitude: 5.1917
 NGA/OY:
   latitude: 8.1897
   longitude: 3.6168
@@ -7213,6 +7322,12 @@ NI/North Caribbean Coast:
 NI/South Caribbean Coast:
   latitude: 12.1793275
   longitude: -83.7774051
+NIC:
+  latitude: 12.6707
+  longitude: -85.0693
+NIC/AS:
+  latitude: 12.2265
+  longitude: -84.2147
 NIC/ES:
   latitude: 13.225
   longitude: -86.4072
@@ -7222,6 +7337,9 @@ NIC/LE:
 NIC/MN:
   latitude: 12.3035
   longitude: -86.2493
+NIC/MS:
+  latitude: 11.9959
+  longitude: -86.1227
 NL/Drenthe:
   latitude: 52.9067922
   longitude: 6.6368423
@@ -7336,7 +7454,7 @@ NO/Vestfold:
 NO/Vestland:
   latitude: 60.9291011
   longitude: 6.1078869
-NOR: &id030
+NOR: &id032
   latitude: 61.3571
   longitude: 9.68
 NOR/01:
@@ -7372,10 +7490,10 @@ NOR/19:
 NOR/20:
   latitude: 69.5648
   longitude: 24.4789
-NOR/34: *id030
-NOR/42: *id030
-NOR/46: *id030
-NOR/50: *id030
+NOR/34: *id032
+NOR/42: *id032
+NOR/46: *id032
+NOR/50: *id032
 NP/Bagmati Province:
   latitude: 27.718333
   longitude: 85.5378341
@@ -7397,16 +7515,16 @@ NP/Madhesh:
 NP/Sudurpashchim Pradesh:
   latitude: 29.4333933
   longitude: 81.0139775
-NPL: &id031
+NPL: &id033
   latitude: 28.2979
   longitude: 83.6399
-NPL/P1: *id031
-NPL/P2: *id031
-NPL/P3: *id031
-NPL/P4: *id031
-NPL/P5: *id031
-NPL/P6: *id031
-NPL/P7: *id031
+NPL/P1: *id033
+NPL/P2: *id033
+NPL/P3: *id033
+NPL/P4: *id033
+NPL/P5: *id033
+NPL/P6: *id033
+NPL/P7: *id033
 NR/Yaren District:
   latitude: -0.5471064
   longitude: 166.9163479
@@ -7512,14 +7630,17 @@ OM/Dhofar:
 OM/Muscat:
   latitude: 23.6123628
   longitude: 58.5938134
-OMN: &id032
+OMN: &id034
   latitude: 22.1204
   longitude: 57.3366
-OMN/BS: *id032
+OMN/BS: *id034
+OMN/DA:
+  latitude: 22.474
+  longitude: 57.3411
 OMN/MA:
   latitude: 23.2505
   longitude: 58.6759
-OMN/SJ: *id032
+OMN/SJ: *id034
 OMN/ZU:
   latitude: 18.4966
   longitude: 54.2927
@@ -7565,10 +7686,10 @@ PAK/PB:
 PAK/SD:
   latitude: 26.3734
   longitude: 68.8685
-PAN: &id033
+PAN: &id035
   latitude: 8.722
   longitude: -80.3521
-PAN/10: *id033
+PAN/10: *id035
 PAN/2:
   latitude: 8.5771
   longitude: -80.4314
@@ -7662,7 +7783,7 @@ PE/Tumbes:
 PE/Ucayali:
   latitude: -9.0
   longitude: -73.5
-PER: &id034
+PER: &id036
   latitude: -12.9767
   longitude: -72.9002
 PER/AMA:
@@ -7710,7 +7831,7 @@ PER/LAM:
 PER/LIM:
   latitude: -11.5863
   longitude: -76.9996
-PER/LMA: *id034
+PER/LMA: *id036
 PER/LOR:
   latitude: -4.2747
   longitude: -73.8868
@@ -7795,10 +7916,10 @@ PH/Western Visayas:
 PH/Zamboanga Peninsula:
   latitude: 7.7787234
   longitude: 122.7570828
-PHL: &id035
+PHL: &id037
   latitude: 11.198
   longitude: 122.465
-PHL/00: *id035
+PHL/00: *id037
 PHL/01:
   latitude: 16.7287
   longitude: 120.4864
@@ -7925,25 +8046,25 @@ PNG/MPL:
 PNG/NCD:
   latitude: -9.4476
   longitude: 147.174
-POL: &id036
+POL: &id038
   latitude: 51.9903
   longitude: 19.4905
-POL/02: *id036
-POL/04: *id036
-POL/06: *id036
-POL/08: *id036
-POL/10: *id036
-POL/12: *id036
-POL/14: *id036
-POL/16: *id036
-POL/18: *id036
-POL/20: *id036
-POL/22: *id036
-POL/24: *id036
-POL/26: *id036
-POL/28: *id036
-POL/30: *id036
-POL/32: *id036
+POL/02: *id038
+POL/04: *id038
+POL/06: *id038
+POL/08: *id038
+POL/10: *id038
+POL/12: *id038
+POL/14: *id038
+POL/16: *id038
+POL/18: *id038
+POL/20: *id038
+POL/22: *id038
+POL/24: *id038
+POL/26: *id038
+POL/28: *id038
+POL/30: *id038
+POL/32: *id038
 PR/Aguadilla:
   latitude: 18.4496551
   longitude: -67.1184764
@@ -8100,19 +8221,19 @@ PS/Gaza Strip:
 PS/West Bank:
   latitude: 32.0254688
   longitude: 35.2888075
-PSE: &id037
+PSE: &id039
   latitude: 32.0474
   longitude: 35.2913
-PSE/BTH: *id037
-PSE/GZA: *id037
-PSE/HBN: *id037
-PSE/JEM: *id037
-PSE/JEN: *id037
-PSE/JRH: *id037
-PSE/NBS: *id037
-PSE/NGZ: *id037
-PSE/RBH: *id037
-PSE/TKM: *id037
+PSE/BTH: *id039
+PSE/GZA: *id039
+PSE/HBN: *id039
+PSE/JEM: *id039
+PSE/JEN: *id039
+PSE/JRH: *id039
+PSE/NBS: *id039
+PSE/NGZ: *id039
+PSE/RBH: *id039
+PSE/TKM: *id039
 PT/Aveiro:
   latitude: 40.640496
   longitude: -8.6537841
@@ -9277,14 +9398,14 @@ SO/Nugaal:
 SO/Woqooyi Galbeed:
   latitude: 9.5051825
   longitude: 44.0731432
-SOM: &id038
+SOM: &id040
   latitude: 3.5689
   longitude: 45.1924
-SOM/AW: *id038
+SOM/AW: *id040
 SOM/BN:
   latitude: 2.1241
   longitude: 45.436
-SOM/WO: *id038
+SOM/WO: *id040
 SR/Commewijne District:
   latitude: 5.8886395
   longitude: -55.092331
@@ -9357,10 +9478,10 @@ SRB/VO:
 "ST/S\xE3o Tom\xE9 Island":
   latitude: 0.339067
   longitude: 6.7297998
-STP: &id039
+STP: &id041
   latitude: 0.9709
   longitude: 7.021
-STP/01: *id039
+STP/01: *id041
 SUR:
   latitude: 4.144
   longitude: -55.9109
@@ -9415,6 +9536,12 @@ SVK/TC:
 SVK/ZI:
   latitude: 49.1656
   longitude: 19.2076
+SVN: &id042
+  latitude: 46.0608
+  longitude: 14.9153
+SVN/001:
+  latitude: 45.9043
+  longitude: 13.9294
 SVN/011:
   latitude: 46.2398
   longitude: 15.2874
@@ -9445,12 +9572,21 @@ SVN/071:
 SVN/082:
   latitude: 46.2932
   longitude: 14.3004
+SVN/085:
+  latitude: 45.7779
+  longitude: 15.1945
 SVN/096:
   latitude: 46.4273
   longitude: 15.8673
+SVN/102:
+  latitude: 46.3361
+  longitude: 14.1929
 SVN/111:
   latitude: 45.7319
   longitude: 13.8449
+SVN/112:
+  latitude: 46.4914
+  longitude: 15.076
 SVN/122:
   latitude: 46.1576
   longitude: 14.2779
@@ -9460,6 +9596,7 @@ SVN/124:
 SVN/189:
   latitude: 46.2348
   longitude: 14.9474
+SVN/206: *id042
 SWE:
   latitude: 65.8592
   longitude: 19.0171
@@ -9580,6 +9717,9 @@ SYR:
 SYR/DI:
   latitude: 33.5101
   longitude: 36.2897
+SYR/DR:
+  latitude: 32.8686
+  longitude: 36.1698
 SYR/HA:
   latitude: 36.3536
   longitude: 40.9092
@@ -9595,6 +9735,9 @@ SYR/HM:
 SYR/ID:
   latitude: 35.8528
   longitude: 36.6829
+SYR/LA:
+  latitude: 35.5494
+  longitude: 36.0061
 SYR/RD:
   latitude: 33.5286
   longitude: 37.0728
@@ -9811,6 +9954,9 @@ THA/22:
 THA/24:
   latitude: 13.6342
   longitude: 101.419
+THA/25:
+  latitude: 14.1081
+  longitude: 101.594
 THA/27:
   latitude: 13.8589
   longitude: 102.384
@@ -9829,6 +9975,9 @@ THA/33:
 THA/34:
   latitude: 15.0137
   longitude: 105.016
+THA/36:
+  latitude: 16.0138
+  longitude: 101.877
 THA/40:
   latitude: 16.5762
   longitude: 102.683
@@ -9853,6 +10002,9 @@ THA/50:
 THA/51:
   latitude: 18.1333
   longitude: 98.9979
+THA/52:
+  latitude: 18.6296
+  longitude: 99.5707
 THA/54:
   latitude: 18.0577
   longitude: 99.9263
@@ -9865,6 +10017,9 @@ THA/62:
 THA/65:
   latitude: 16.9748
   longitude: 100.49
+THA/67:
+  latitude: 16.2589
+  longitude: 101.21
 THA/70:
   latitude: 13.4964
   longitude: 99.6128
@@ -9886,6 +10041,9 @@ THA/77:
 THA/80:
   latitude: 8.3745
   longitude: 99.7819
+THA/81:
+  latitude: 8.1333
+  longitude: 98.984
 THA/82:
   latitude: 8.5768
   longitude: 98.394
@@ -9898,6 +10056,9 @@ THA/84:
 THA/90:
   latitude: 6.8121
   longitude: 100.568
+THA/91:
+  latitude: 6.8583
+  longitude: 99.9633
 TJ/Dushanbe:
   latitude: 38.5762709
   longitude: 68.7863573
@@ -9916,6 +10077,9 @@ TJK/SU:
 TKM/S:
   latitude: 39.8552
   longitude: 58.6766
+TLS:
+  latitude: -8.8037
+  longitude: 125.8547
 TLS/DI:
   latitude: -8.5543
   longitude: 125.668
@@ -10237,6 +10401,9 @@ TTO/PTF:
 TTO/SFO:
   latitude: 10.2772
   longitude: -61.4589
+TTO/SGE:
+  latitude: 10.6838
+  longitude: -61.1277
 TTO/SIP:
   latitude: 10.118
   longitude: -61.6987
@@ -10246,13 +10413,13 @@ TTO/SJL:
 TTO/TUP:
   latitude: 10.6903
   longitude: -61.3254
-TUN: &id040
+TUN: &id043
   latitude: 33.6873
   longitude: 9.0079
 TUN/11:
   latitude: 36.7791
   longitude: 10.1724
-TUN/12: *id040
+TUN/12: *id043
 TUN/13:
   latitude: 36.6125
   longitude: 10.1941
@@ -10271,6 +10438,9 @@ TUN/23:
 TUN/31:
   latitude: 36.5828
   longitude: 9.376
+TUN/32:
+  latitude: 36.6155
+  longitude: 8.6206
 TUN/34:
   latitude: 35.5597
   longitude: 9.3375
@@ -10292,6 +10462,9 @@ TUN/53:
 TUN/61:
   latitude: 34.6495
   longitude: 11.0329
+TUN/73:
+  latitude: 33.3621
+  longitude: 8.8479
 TUN/81:
   latitude: 33.7571
   longitude: 9.8599
@@ -10436,6 +10609,9 @@ TUR/47:
 TUR/48:
   latitude: 37.0501
   longitude: 28.6482
+TUR/49:
+  latitude: 38.9124
+  longitude: 41.9034
 TUR/50:
   latitude: 38.7415
   longitude: 34.6408
@@ -10445,6 +10621,9 @@ TUR/51:
 TUR/52:
   latitude: 40.8376
   longitude: 37.4229
+TUR/53:
+  latitude: 40.9466
+  longitude: 40.8691
 TUR/54:
   latitude: 40.6596
   longitude: 30.4439
@@ -10490,9 +10669,15 @@ TUR/67:
 TUR/68:
   latitude: 38.3566
   longitude: 33.8772
+TUR/69:
+  latitude: 40.2859
+  longitude: 40.3056
 TUR/70:
   latitude: 37.2262
   longitude: 33.3026
+TUR/71:
+  latitude: 39.9011
+  longitude: 33.778
 TUR/72:
   latitude: 37.7343
   longitude: 41.4262
@@ -10520,10 +10705,10 @@ TUR/80:
 TUR/81:
   latitude: 40.8631
   longitude: 31.3231
-TUV: &id041
+TUV: &id044
   latitude: -8.5137
   longitude: 179.2096
-TUV/FUN: *id041
+TUV/FUN: *id044
 TW/Fukien:
   latitude: 24.4376459
   longitude: 118.3184049
@@ -10536,7 +10721,7 @@ TW/Taiwan:
 TW/Takao:
   latitude: 22.6226696
   longitude: 120.2764261
-TWN: &id042
+TWN: &id045
   latitude: 23.6524
   longitude: 120.8682
 TWN/CHA:
@@ -10572,7 +10757,7 @@ TWN/MIA:
 TWN/NAN:
   latitude: 23.7977
   longitude: 120.988
-TWN/NWT: *id042
+TWN/NWT: *id045
 TWN/PEN:
   latitude: 23.5724
   longitude: 119.597
@@ -10870,6 +11055,9 @@ URY/PA:
 URY/RO:
   latitude: -33.9106
   longitude: -53.9584
+URY/RV:
+  latitude: -31.4683
+  longitude: -55.3279
 URY/SA:
   latitude: -31.4398
   longitude: -57.0428
@@ -11548,6 +11736,9 @@ VN/Vinh Long:
 VNM:
   latitude: 21.7154
   longitude: 105.3873
+VNM/02:
+  latitude: 22.3559
+  longitude: 104.096
 VNM/05:
   latitude: 21.3011
   longitude: 104.159
@@ -11647,6 +11838,9 @@ VNM/56:
 VNM/57:
   latitude: 11.1382
   longitude: 106.659
+VNM/58:
+  latitude: 11.6805
+  longitude: 106.897
 VNM/61:
   latitude: 20.9613
   longitude: 106.364
@@ -11773,7 +11967,7 @@ ZA/Northern Cape:
 ZA/Western Cape:
   latitude: -33.546977
   longitude: 20.72753
-ZAF: &id043
+ZAF: &id046
   latitude: -29.7088
   longitude: 23.6657
 ZAF/EC:
@@ -11782,8 +11976,8 @@ ZAF/EC:
 ZAF/FS:
   latitude: -28.5815
   longitude: 26.4914
-ZAF/GP: *id043
-ZAF/KZN: *id043
+ZAF/GP: *id046
+ZAF/KZN: *id046
 ZAF/LP:
   latitude: -23.5859
   longitude: 29.1301
@@ -11814,6 +12008,9 @@ ZM/Southern Province:
 ZMB:
   latitude: -14.6608
   longitude: 26.3953
+ZMB/04:
+  latitude: -11.6471
+  longitude: 29.4045
 ZMB/08:
   latitude: -13.1044
   longitude: 27.9272

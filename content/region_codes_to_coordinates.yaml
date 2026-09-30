@@ -2081,6 +2081,9 @@ COL/CUN:
   latitude: 4.5984
   longitude: -74.1528
 COL/DC: *id006
+COL/GUA:
+  latitude: 2.7054
+  longitude: -68.8925
 COL/GUV:
   latitude: 1.8514
   longitude: -71.8348
@@ -5431,6 +5434,9 @@ JPN/37:
 JPN/38:
   latitude: 33.8141
   longitude: 132.916
+JPN/39:
+  latitude: 33.6129
+  longitude: 133.442
 JPN/40:
   latitude: 33.4906
   longitude: 130.616
@@ -5604,6 +5610,9 @@ KEN/35: *id018
 KEN/36: *id020
 KEN/41: *id018
 KEN/42: *id019
+KEN/43:
+  latitude: 0.549
+  longitude: 37.9076
 KEN/44: *id018
 KG/Batken:
   latitude: 39.7930807
@@ -7366,6 +7375,9 @@ NIC/AS:
 NIC/ES:
   latitude: 13.225
   longitude: -86.4072
+NIC/GR:
+  latitude: 11.8736
+  longitude: -85.9698
 NIC/LE:
   latitude: 12.4168
   longitude: -86.7187
@@ -9604,6 +9616,9 @@ SVN/057:
 SVN/059:
   latitude: 46.5693
   longitude: 16.4217
+SVN/060:
+  latitude: 46.0752
+  longitude: 14.9182
 SVN/061:
   latitude: 46.0616
   longitude: 14.5799
@@ -9619,6 +9634,9 @@ SVN/082:
 SVN/085:
   latitude: 45.7779
   longitude: 15.1945
+SVN/090:
+  latitude: 45.4801
+  longitude: 13.6309
 SVN/096:
   latitude: 46.4273
   longitude: 15.8673
@@ -12091,6 +12109,9 @@ ZW/Midlands Province:
 ZWE:
   latitude: -18.9116
   longitude: 29.9254
+ZWE/BU:
+  latitude: -20.1393
+  longitude: 28.5463
 ZWE/HA:
   latitude: -17.8928
   longitude: 31.0506

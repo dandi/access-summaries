@@ -562,6 +562,9 @@ AWS/eu-central-2:
 AWS/eu-north-1:
   latitude: '59.3294'
   longitude: '18.0687'
+AWS/eu-south-1:
+  latitude: 45.4722
+  longitude: 9.1922
 AWS/eu-south-2:
   latitude: '41.6561'
   longitude: '-0.8773'
@@ -1036,6 +1039,9 @@ BLR/MI:
 BLR/VI:
   latitude: 55.3073
   longitude: 28.6747
+BLZ:
+  latitude: 17.2021
+  longitude: -88.713
 BLZ/BZ:
   latitude: 17.5367
   longitude: -88.4189
@@ -1055,6 +1061,9 @@ BMU/HC:
   latitude: 32.2966
   longitude: -64.7636
 BMU/PB:
+  latitude: 32.2966
+  longitude: -64.7636
+BMU/WA:
   latitude: 32.2966
   longitude: -64.7636
 BN/Belait:
@@ -3535,30 +3544,54 @@ GBR/WLS:
 GCP/asia-east1:
   latitude: '25.0531'
   longitude: '121.5264'
+GCP/asia-east2:
+  latitude: 22.2842
+  longitude: 114.1759
 GCP/asia-northeast1:
   latitude: '35.6895'
   longitude: '139.6917'
+GCP/asia-northeast2:
+  latitude: 34.693
+  longitude: 135.5005
 GCP/asia-northeast3:
   latitude: '37.5660'
   longitude: '126.9784'
 GCP/asia-south1:
   latitude: '19.0728'
   longitude: '72.8826'
+GCP/asia-south2:
+  latitude: 28.6327
+  longitude: 77.2198
 GCP/asia-southeast1:
   latitude: '1.2897'
   longitude: '103.8501'
+GCP/asia-southeast2:
+  latitude: -6.2114
+  longitude: 106.8446
 GCP/australia-southeast1:
   latitude: '-33.8678'
   longitude: '151.2073'
+GCP/australia-southeast2:
+  latitude: -37.8159
+  longitude: 144.9669
 GCP/europe-central2:
   latitude: '52.2298'
   longitude: '21.0118'
+GCP/europe-north1:
+  latitude: 61.0636
+  longitude: 28.189
 GCP/europe-southwest1:
   latitude: '40.4165'
   longitude: '-3.7026'
 GCP/europe-west1:
   latitude: '50.8505'
   longitude: '4.3488'
+GCP/europe-west10:
+  latitude: 52.5196
+  longitude: 13.4069
+GCP/europe-west12:
+  latitude: 45.0729
+  longitude: 7.689
 GCP/europe-west2:
   latitude: '51.5085'
   longitude: '-0.1257'
@@ -3568,15 +3601,30 @@ GCP/europe-west3:
 GCP/europe-west4:
   latitude: '53.2192'
   longitude: '6.5667'
+GCP/europe-west6:
+  latitude: 47.3643
+  longitude: 8.5437
 GCP/europe-west8:
   latitude: '45.4643'
   longitude: '9.1895'
+GCP/europe-west9:
+  latitude: 48.8558
+  longitude: 2.3494
 GCP/me-west1:
   latitude: '32.0809'
   longitude: '34.7806'
 GCP/northamerica-northeast1:
   latitude: '45.5088'
   longitude: '-73.5878'
+GCP/northamerica-northeast2:
+  latitude: 43.709
+  longitude: -79.4057
+GCP/southamerica-east1:
+  latitude: -23.5475
+  longitude: -46.6361
+GCP/southamerica-west1:
+  latitude: -33.4521
+  longitude: -70.6536
 GCP/us-central1:
   latitude: 41.2619
   longitude: -95.8608
@@ -6181,6 +6229,9 @@ LV/Ventspils:
 LVA: &id026
   latitude: 57.0669
   longitude: 25.4587
+LVA/011:
+  latitude: 57.108
+  longitude: 24.3855
 LVA/022:
   latitude: 57.2396
   longitude: 25.4307
@@ -6733,6 +6784,9 @@ ML/Bamako:
 MLI:
   latitude: 18.6927
   longitude: -2.0385
+MLI/4:
+  latitude: 13.5852
+  longitude: -5.5195
 MLI/BKO:
   latitude: 12.643
   longitude: -8.0192
@@ -9531,6 +9585,9 @@ SRB/24:
 SRB/VO:
   latitude: 45.4966
   longitude: 19.977
+SSD/LK:
+  latitude: 6.8802
+  longitude: 30.1369
 "ST/S\xE3o Tom\xE9 Island":
   latitude: 0.339067
   longitude: 6.7297998
@@ -10022,6 +10079,9 @@ THA/24:
 THA/25:
   latitude: 14.1081
   longitude: 101.594
+THA/26:
+  latitude: 14.2249
+  longitude: 101.21
 THA/27:
   latitude: 13.8589
   longitude: 102.384
@@ -10542,6 +10602,9 @@ TUN/81:
 TUN/82:
   latitude: 33.4403
   longitude: 10.6522
+TUN/83:
+  latitude: 32.154
+  longitude: 9.8851
 TUR:
   latitude: 39.3454
   longitude: 34.5083
@@ -11138,6 +11201,9 @@ URY/SA:
 URY/SJ:
   latitude: -34.3117
   longitude: -56.7651
+URY/SO:
+  latitude: -33.4821
+  longitude: -57.7585
 URY/TA:
   latitude: -32.1061
   longitude: -55.6607
@@ -11699,6 +11765,9 @@ VGB:
 VI/Saint Thomas Island:
   latitude: 18.3180435
   longitude: -64.9539234
+VIR/C:
+  latitude: 17.7467
+  longitude: -64.7792
 VIR/T:
   latitude: 17.7467
   longitude: -64.7792

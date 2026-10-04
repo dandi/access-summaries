@@ -2,8 +2,8 @@ asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 PO2_LFP_NWB/sub-exp-29/sub-exp-29_ses-lfp.nwb	49334209	237	98	55
 PO2_LFP_NWB/sub-exp-10/sub-exp-10_ses-lfp.nwb	46984963	229	90	57
 PO2_SU_NWB/sub-exp-36/sub-exp-36_ses-su.nwb	35681817	141	48	21
-PO2_SU_NWB/sub-exp-18/sub-exp-18_ses-su.nwb	16532161	64	35	10
-PO2_LFP_NWB/sub-exp-41/sub-exp-41_ses-lfp.nwb	39349905	191	76	45
+PO2_SU_NWB/sub-exp-18/sub-exp-18_ses-su.nwb	22191809	96	43	18
+PO2_LFP_NWB/sub-exp-41/sub-exp-41_ses-lfp.nwb	43885761	215	84	53
 PO2_SU_NWB/sub-exp-9/sub-exp-9_ses-su.nwb	15730777	62	31	9
 PO2_SU_NWB/sub-exp-22/sub-exp-22_ses-su.nwb	13972681	58	27	8
 PO2_SU_NWB/sub-exp-14/sub-exp-14_ses-su.nwb	13595041	51	28	7
@@ -19,13 +19,13 @@ PO2_LFP_NWB/sub-exp-9/sub-exp-9_ses-lfp.nwb	38175281	185	74	44
 PO2_LFP_NWB/sub-exp-2/sub-exp-2_ses-lfp.nwb	38175281	185	74	44
 PO2_SU_NWB/sub-exp-43/sub-exp-43_ses-su.nwb	12459777	47	24	7
 PO2_SU_NWB/sub-exp-7/sub-exp-7_ses-su.nwb	12839761	49	26	7
-PO2_SU_NWB/sub-exp-39/sub-exp-39_ses-su.nwb	28036321	118	39	19
+PO2_SU_NWB/sub-exp-39/sub-exp-39_ses-su.nwb	28970865	123	40	20
 PO2_SU_NWB/sub-exp-1/sub-exp-1_ses-su.nwb	16271289	65	31	9
 PO2_SU_NWB/sub-exp-27/sub-exp-27_ses-su.nwb	11985353	52	19	8
 PO2_SU_NWB/sub-exp-3/sub-exp-3_ses-su.nwb	11218385	50	21	10
 PO2_LFP_NWB/sub-exp-21/sub-exp-21_ses-lfp.nwb	36119689	178	67	44
 PO2_LFP_NWB/sub-exp-38/sub-exp-38_ses-lfp.nwb	38762593	193	70	48
-PO2_LFP_NWB/sub-exp-39/sub-exp-39_ses-lfp.nwb	41699153	208	75	54
+PO2_LFP_NWB/sub-exp-39/sub-exp-39_ses-lfp.nwb	42286465	211	76	55
 PO2_LFP_NWB/sub-exp-14/sub-exp-14_ses-lfp.nwb	43461089	217	78	57
 PO2_SU_NWB/sub-exp-41/sub-exp-41_ses-su.nwb	13550889	54	19	8
 PO2_SU_NWB/sub-exp-12/sub-exp-12_ses-su.nwb	16562625	87	32	19
@@ -33,7 +33,7 @@ PO2_SU_NWB/sub-exp-35/sub-exp-35_ses-su.nwb	12752881	56	19	9
 PO2_SU_NWB/sub-exp-25/sub-exp-25_ses-su.nwb	9201889	41	18	9
 PO2_LFP_NWB/sub-exp-4/sub-exp-4_ses-lfp.nwb	36381721	181	66	46
 PO2_LFP_NWB/sub-exp-36/sub-exp-36_ses-lfp.nwb	35238721	175	64	44
-PO2_SU_NWB/sub-exp-6/sub-exp-6_ses-su.nwb	18393857	91	30	21
+PO2_SU_NWB/sub-exp-6/sub-exp-6_ses-su.nwb	19101313	95	31	22
 PO2_SU_NWB/sub-exp-2/sub-exp-2_ses-su.nwb	7629113	36	15	8
 PO2_LFP_NWB/sub-exp-30/sub-exp-30_ses-lfp.nwb	37587969	187	68	47
 PO2_LFP_NWB/sub-exp-7/sub-exp-7_ses-lfp.nwb	42873777	214	77	57
@@ -47,7 +47,7 @@ PO2_LFP_NWB/sub-exp-40/sub-exp-40_ses-lfp.nwb	36413345	181	66	45
 PO2_SU_NWB/sub-exp-23/sub-exp-23_ses-su.nwb	17559937	81	29	17
 PO2_LFP_NWB/sub-exp-13/sub-exp-13_ses-lfp.nwb	54620017	271	100	69
 PO2_LFP_NWB/sub-exp-18/sub-exp-18_ses-lfp.nwb	36413345	182	65	47
-PO2_LFP_NWB/sub-exp-22/sub-exp-22_ses-lfp.nwb	43167433	215	77	58
+PO2_LFP_NWB/sub-exp-22/sub-exp-22_ses-lfp.nwb	43754745	218	78	59
 PO2_LFP_NWB/sub-exp-37/sub-exp-37_ses-lfp.nwb	40818185	203	73	54
 PO2_SU_NWB/sub-exp-19/sub-exp-19_ses-su.nwb	14642569	68	20	12
 PO2_LFP_NWB/sub-exp-33/sub-exp-33_ses-lfp.nwb	34651409	173	62	44
@@ -62,7 +62,7 @@ PO2_LFP_NWB/sub-exp-42/sub-exp-42_ses-lfp.nwb	43461089	217	78	57
 PO2_SU_NWB/sub-exp-38/sub-exp-38_ses-su.nwb	16844689	84	31	18
 PO2_SU_NWB/sub-exp-8/sub-exp-8_ses-su.nwb	10261921	49	18	9
 PO2_SU_NWB/sub-exp-26/sub-exp-26_ses-su.nwb	16271489	79	27	17
-PO2_LFP_NWB/sub-exp-35/sub-exp-35_ses-lfp.nwb	42286465	212	75	56
+PO2_LFP_NWB/sub-exp-35/sub-exp-35_ses-lfp.nwb	42873777	215	76	57
 PO2_LFP_NWB/sub-exp-11/sub-exp-11_ses-lfp.nwb	38437315	192	69	48
 PO2_SU_NWB/sub-exp-33/sub-exp-33_ses-su.nwb	9550657	42	17	8
 PO2_LFP_NWB/sub-exp-5/sub-exp-5_ses-lfp.nwb	36413345	181	66	45
@@ -76,9 +76,9 @@ PO2_SU_NWB/sub-exp-24/sub-exp-24_ses-su.nwb	8566097	37	14	7
 PO2_LFP_NWB/sub-exp-8/sub-exp-8_ses-lfp.nwb	36772509	185	66	47
 PO2_SU_NWB/sub-exp-40/sub-exp-40_ses-su.nwb	11291673	50	19	8
 PO2_LFP_NWB/sub-exp-28/sub-exp-28_ses-lfp.nwb	36413345	181	66	45
-PO2_SU_NWB/sub-exp-16/sub-exp-16_ses-su.nwb	17283905	75	26	16
+PO2_SU_NWB/sub-exp-16/sub-exp-16_ses-su.nwb	17543105	102	26	17
 PO2_SU_NWB/sub-exp-28/sub-exp-28_ses-su.nwb	11052497	46	16	9
-PO2_LFP_NWB/sub-exp-16/sub-exp-16_ses-lfp.nwb	40524529	202	73	53
+PO2_LFP_NWB/sub-exp-16/sub-exp-16_ses-lfp.nwb	41111841	205	74	54
 PO2_SU_NWB/sub-exp-17/sub-exp-17_ses-su.nwb	13698017	59	18	10
 PO2_SU_NWB/sub-exp-30/sub-exp-30_ses-su.nwb	10573921	49	18	8
 PO2_LFP_NWB/sub-exp-32/sub-exp-32_ses-lfp.nwb	44635713	223	80	58

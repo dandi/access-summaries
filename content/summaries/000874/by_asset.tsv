@@ -1,5 +1,5 @@
 asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
-derivatives/Scene/sub-SP002_AllSamples_Registration_MRI-OCT_local.json	57432	3	3	0
+derivatives/Scene/sub-SP002_AllSamples_Registration_MRI-OCT_local.json	76576	4	4	0
 derivatives/MRI-pipeline/sub-SP002/anat/sub-SP002_ses-MRI_flip-2_chunk-1_VFA.nii.gz	2681140826	254	5	5
 sub-SP002/ses-MRI/anat/sub-SP002_ses-MRI_echo-1_flip-7_chunk-2_VFA.json	747	3	3	0
 derivatives/MRI-pipeline/sub-SP002/anat/sub-SP002_ses-MRI_flip-3_chunk-1_to-SP002_xfm.lta	10410	6	3	3
@@ -127,7 +127,7 @@ sub-SP002/ses-MRI/anat/sub-SP002_ses-MRI_echo-1_flip-6_chunk-2_VFA.nii.gz	113977
 derivatives/OCT-pipeline/sub-SP002/micr/sub-SP002_ses-OCT_sample-02_res-10um_OCT_MIP.ome.zarr	316906180	675	665	1
 derivatives/MRI-pipeline/sub-SP002/anat/sub-SP002_ses-MRI_chunk-2_PDmap_VFA.json	416	1	1	0
 sub-SP002/ses-OCT/micr/sub-SP002_ses-OCT_sample-03_OCT.json	1467	9	8	1
-sub-SP002/ses-MRI/anat/sub-SP002_ses-MRI_echo-1_flip-1_chunk-2_VFA.json	1230	5	5	0
+sub-SP002/ses-MRI/anat/sub-SP002_ses-MRI_echo-1_flip-1_chunk-2_VFA.json	1476	6	6	0
 sub-SP002/ses-MRI/anat/sub-SP002_ses-MRI_echo-1_flip-4_chunk-2_VFA.nii.gz	1118411524	74	2	4
 sub-SP002/ses-MRI/anat/sub-SP002_ses-MRI_echo-2_flip-1_chunk-2_VFA.json	496	2	2	0
 sub-SP002/ses-OCT/micr/sub-SP002_ses-OCT_sample-01_OCT.json	160	1	1	0

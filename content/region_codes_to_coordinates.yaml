@@ -52,6 +52,9 @@ AF/Nangarhar:
 AFG:
   latitude: 34.1643
   longitude: 66.4966
+AFG/BAL:
+  latitude: 36.6851
+  longitude: 67.2185
 AFG/KAB:
   latitude: 34.4949
   longitude: 69.3846
@@ -680,6 +683,9 @@ Azure/australiacentral:
 Azure/australiaeast:
   latitude: -33.8672
   longitude: 151.1997
+Azure/australiasoutheast:
+  latitude: -37.8159
+  longitude: 144.9669
 Azure/belgiumcentral:
   latitude: 50.8534
   longitude: 4.347
@@ -755,6 +761,9 @@ Azure/switzerlandn:
 Azure/uksouth:
   latitude: 51.5081
   longitude: -0.1278
+Azure/ukwest:
+  latitude: 51.4801
+  longitude: -3.1855
 "BA/Br\u010Dko":
   latitude: 44.8771222
   longitude: 18.8095022
@@ -1929,6 +1938,9 @@ CM/West:
 CMR/CE:
   latitude: 4.7327
   longitude: 11.7383
+CMR/EN:
+  latitude: 10.7227
+  longitude: 14.5367
 CMR/LT:
   latitude: 4.1938
   longitude: 10.0932
@@ -5755,6 +5767,9 @@ KEN/03: &id021
   latitude: 0.549
   longitude: 37.9076
 KEN/04: *id019
+KEN/08:
+  latitude: 0.549
+  longitude: 37.9076
 KEN/09: *id019
 KEN/10: &id020
   latitude: 0.549
@@ -6627,6 +6642,9 @@ MDA/BA:
 MDA/BD:
   latitude: 46.7897
   longitude: 29.6966
+MDA/BS:
+  latitude: 46.3726
+  longitude: 28.8846
 MDA/CA:
   latitude: 45.64
   longitude: 28.3144
@@ -6887,6 +6905,9 @@ MKD/101: *id029
 MKD/104: *id029
 MKD/106: *id029
 MKD/208: *id029
+MKD/209:
+  latitude: 41.5582
+  longitude: 21.5558
 MKD/211: *id029
 MKD/307: &id030
   latitude: 41.5582
@@ -6920,6 +6941,9 @@ MLI/4:
 MLI/BKO:
   latitude: 12.643
   longitude: -8.0192
+MLT/01:
+  latitude: 35.8878
+  longitude: 14.4318
 MLT/04:
   latitude: 35.8934
   longitude: 14.4662
@@ -6968,6 +6992,9 @@ MLT/40:
 MLT/41:
   latitude: 35.8891
   longitude: 14.4927
+MLT/43:
+  latitude: 35.8753
+  longitude: 14.4684
 MLT/44:
   latitude: 35.8312
   longitude: 14.4531
@@ -6992,6 +7019,9 @@ MLT/58:
 MLT/59:
   latitude: 35.8616
   longitude: 14.5088
+MLT/60:
+  latitude: 35.8948
+  longitude: 14.511
 MLT/64:
   latitude: 35.8718
   longitude: 14.5397
@@ -11136,6 +11166,9 @@ TZA/01:
 TZA/02:
   latitude: -6.8929
   longitude: 39.2857
+TZA/03:
+  latitude: -5.7323
+  longitude: 35.9608
 TZA/06:
   latitude: -5.0511
   longitude: 39.777

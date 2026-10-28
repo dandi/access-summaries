@@ -32,8 +32,8 @@ derivatives/sub-M1/dwi/sub-M1_acq-HighRes+UndersampledGrid_dwi.bvecs	117000	18	1
 derivatives/sub-M2/dwi/sub-M2_acq-HighRes+MultiShell_desc-CSD+dec+scalar.nii.gz	107867273	15	10	4
 derivatives/sub-M4/dwi/sub-M4_acq-HighRes+UndersampledGrid_dwi.nii.gz	35277137311	724	8	4
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_run-3_dwi.bvec	152298	18	16	2
-derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_desc-MultiTE+fsoma.nii.gz	11395895	15	13	2
-derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-T2w.nii.gz	833598964	252	249	3
+derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_desc-MultiTE+fsoma.nii.gz	12186838	16	14	2
+derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-T2w.nii.gz	849562864	257	254	3
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_run-4_dwi.nii.gz	7602245152	137	19	3
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_run-4_dwi.nii.gz	6136927520	130	11	3
 derivatives/sub-M4/dwi/sub-M4_acq-MultiDim_run-5_dwi.nii.gz	5174868541	124	8	3
@@ -83,8 +83,8 @@ derivatives/sub-M2/dwi/sub-M2_acq-MultiDim_run-3_dwi.bvec	84450	10	8	2
 derivatives/sub-M4/dwi/sub-M4_acq-MultiDim_run-1_dwi.nii.gz	4210822638	99	6	3
 derivatives/sub-M3/dwi/sub-M3_acq-HighRes+UndersampledGrid_dwi.nii.gz	41500000180	847	7	4
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_desc-SingleTE+fneurite.nii.gz	7656700	10	8	2
-derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+fneurite.nii.gz	216412566	237	234	3
-derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+Rsoma.nii.gz	207962152	234	232	2
+derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+fneurite.nii.gz	220084910	241	238	3
+derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+Rsoma.nii.gz	211526024	238	236	2
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+diravg.nii.gz	1856519822	46	14	5
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_run-3_dwi.json	5549	31	28	3
 derivatives/sub-M4/dwi/sub-M4_acq-MultiDim_run-1_dwi.bvec	29407	7	5	2
@@ -105,7 +105,7 @@ derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_desc-MultiTE+diravg.nii.gz	1353883608
 derivatives/sub-M1/dwi/sub-M1_acq-HighRes+UndersampledGrid_dwi.nii.gz	69333689802	899	16	7
 derivatives/sub-M2/dwi/sub-M2_acq-MultiDim_run-3_dwi.json	1611	9	7	2
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_run-5_dwi.bvec	78683	11	9	2
-derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_desc-SingleTE+fsoma.nii.gz	7706408	10	8	2
+derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_desc-SingleTE+fsoma.nii.gz	9272716	12	10	2
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+T2soma.nii.gz	15275655	17	15	2
 derivatives/sub-M4/dwi/sub-M4_acq-HighRes+MultiShell_desc-CSD+dec+univec.nii.gz	205587109	10	4	3
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_run-2_dwi.nii.gz	8451809564	129	10	3
@@ -127,7 +127,7 @@ derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+T2neurite.nii.gz	1534442
 derivatives/sub-M4/dwi/sub-M4_acq-HighRes+MultiShell_desc-CSD+tdi+scalar.nii.gz	38327464	10	8	2
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_run-6_dwi.bvec	71500	10	8	2
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-SingleTE+diravg.nii.gz	382989496	20	12	4
-derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+fsoma.nii.gz	220046855	240	237	3
+derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-MultiTE+fsoma.nii.gz	224651680	245	242	3
 derivatives/sub-M4/dwi/sub-M4_acq-HighRes+MultiShell_dwi.nii.gz	55647180764	1123	6	4
 derivatives/sub-M2/dwi/sub-M2_acq-HighRes+UndersampledGrid_dwi.bvecs	58779	9	7	2
 derivatives/sub-M1/dwi/sub-M1_acq-MultiDim_run-2_dwi.json	4833	27	24	2
@@ -137,7 +137,7 @@ derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-SingleTE+fneurite.nii.gz	1051647
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_run-3_dwi.bval	69384	42	37	2
 derivatives/sub-M4/dwi/sub-M4_acq-MultiDim_run-6_dwi.nii.gz	4372157784	115	3	3
 derivatives/sub-M3/dwi/sub-M3_acq-MultiDim_desc-SingleTE+Rsoma.nii.gz	12983863	15	13	2
-derivatives/sub-M3/dwi/sub-M3_acq-HighRes+MultiShell_desc-CSD+fodf+l0.nii.gz	4938700862	451	429	12
+derivatives/sub-M3/dwi/sub-M3_acq-HighRes+MultiShell_desc-CSD+fodf+l0.nii.gz	4981226669	455	433	12
 derivatives/sub-M2/dwi/sub-M2_acq-MultiDim_run-5_dwi.nii.gz	5805162146	132	4	3
 derivatives/sub-M4/dwi/sub-M4_acq-MultiDim_run-3_dwi.json	1611	9	7	2
 derivatives/sub-M2/dwi/sub-M2_acq-MultiDim_run-1_dwi.bvec	37674	9	7	2

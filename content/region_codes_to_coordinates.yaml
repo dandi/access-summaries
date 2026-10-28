@@ -984,6 +984,9 @@ BGR/03:
 BGR/04:
   latitude: 42.8079
   longitude: 25.6222
+BGR/05:
+  latitude: 43.8092
+  longitude: 22.7008
 BGR/06:
   latitude: 43.4325
   longitude: 23.832
@@ -1528,6 +1531,9 @@ CA/Quebec:
 CA/Saskatchewan:
   latitude: 55.5321257
   longitude: -106.141224
+CAF:
+  latitude: 6.9897
+  longitude: 20.9069
 CAF/BGF:
   latitude: 4.3833
   longitude: 18.5457
@@ -1555,6 +1561,9 @@ CAN/NS:
 CAN/NT:
   latitude: 64.0831
   longitude: -119.942
+CAN/NU:
+  latitude: 64.3853
+  longitude: -97.1443
 CAN/ON:
   latitude: 50.5244
   longitude: -84.7943
@@ -2683,6 +2692,9 @@ DOM/17:
 DOM/18:
   latitude: 19.7427
   longitude: -70.7972
+DOM/19:
+  latitude: 19.403
+  longitude: -70.352
 DOM/20:
   latitude: 19.2717
   longitude: -69.4756
@@ -2957,6 +2969,9 @@ DZA/48:
   latitude: 35.8174
   longitude: 0.8205
 DZA/49: *id008
+DZA/51:
+  latitude: 27.3974
+  longitude: 2.8082
 DZA/55: *id008
 DZA/57:
   latitude: 27.3974
@@ -3376,6 +3391,9 @@ EST/45: *id009
 EST/64: *id009
 EST/68: *id009
 EST/79: *id009
+EST/81:
+  latitude: 58.7249
+  longitude: 25.8671
 ET/Addis Ababa:
   latitude: 9.0358287
   longitude: 38.7524127
@@ -3865,6 +3883,9 @@ GI/Gibraltar:
 GIB:
   latitude: 36.1294
   longitude: -5.3467
+GIN:
+  latitude: 10.6185
+  longitude: -10.0164
 GIN/C:
   latitude: 9.5392
   longitude: -13.6847
@@ -4062,6 +4083,9 @@ GTM/11: &id012
   latitude: 14.9821
   longitude: -90.4971
 GTM/13: *id011
+GTM/16:
+  latitude: 14.9821
+  longitude: -90.4971
 GTM/18: *id011
 GTM/19: *id012
 GTM/20: *id011
@@ -5285,6 +5309,9 @@ JAM/07:
 JAM/08:
   latitude: 18.3637
   longitude: -77.8715
+JAM/11:
+  latitude: 18.0537
+  longitude: -77.7646
 JAM/12:
   latitude: 18.0219
   longitude: -77.4996
@@ -5775,6 +5802,9 @@ KEN/08:
   longitude: 37.9076
 KEN/09: *id019
 KEN/10: &id020
+  latitude: 0.549
+  longitude: 37.9076
+KEN/12:
   latitude: 0.549
   longitude: 37.9076
 KEN/13: *id019
@@ -6907,6 +6937,9 @@ MKD: &id029
 MKD/101: *id029
 MKD/104: *id029
 MKD/106: *id029
+MKD/206:
+  latitude: 41.5582
+  longitude: 21.5558
 MKD/208: *id029
 MKD/209:
   latitude: 41.5582
@@ -7010,6 +7043,9 @@ MLT/49:
 MLT/51:
   latitude: 35.9405
   longitude: 14.4042
+MLT/53:
+  latitude: 35.8531
+  longitude: 14.5028
 MLT/54:
   latitude: 35.8865
   longitude: 14.4781
@@ -7553,6 +7589,9 @@ NGA/AN:
 NGA/DE:
   latitude: 5.4427
   longitude: 5.8819
+NGA/EB:
+  latitude: 6.3265
+  longitude: 7.9825
 NGA/ED:
   latitude: 6.5242
   longitude: 5.8493
@@ -7571,6 +7610,9 @@ NGA/KN:
 NGA/LA:
   latitude: 6.4331
   longitude: 3.5248
+NGA/NI:
+  latitude: 9.9555
+  longitude: 5.4549
 NGA/OG:
   latitude: 7.0184
   longitude: 3.2925
@@ -8500,6 +8542,9 @@ PRY/6:
 PRY/7:
   latitude: -26.8545
   longitude: -55.6773
+PRY/8:
+  latitude: -26.9861
+  longitude: -57.1187
 PRY/9:
   latitude: -25.9805
   longitude: -57.146
@@ -9775,6 +9820,9 @@ SRB/24:
 SRB/VO:
   latitude: 45.4966
   longitude: 19.977
+SSD/EC:
+  latitude: 4.6814
+  longitude: 31.2854
 SSD/LK:
   latitude: 6.8802
   longitude: 30.1369
@@ -10074,6 +10122,9 @@ TC/Turks and Caicos Islands:
 TCA:
   latitude: 21.8166
   longitude: -71.7527
+TCD:
+  latitude: 15.143
+  longitude: 18.645
 TCD/ND:
   latitude: 12.1413
   longitude: 15.0579
@@ -10341,6 +10392,9 @@ THA/52:
 THA/54:
   latitude: 18.0577
   longitude: 99.9263
+THA/57:
+  latitude: 19.9607
+  longitude: 99.9059
 THA/60:
   latitude: 15.6943
   longitude: 100.25
@@ -10350,12 +10404,18 @@ THA/61:
 THA/62:
   latitude: 16.4009
   longitude: 99.5098
+THA/63:
+  latitude: 17.0043
+  longitude: 98.8441
 THA/64:
   latitude: 17.2435
   longitude: 99.7009
 THA/65:
   latitude: 16.9748
   longitude: 100.49
+THA/66:
+  latitude: 16.2321
+  longitude: 100.374
 THA/67:
   latitude: 16.2589
   longitude: 101.21
@@ -10398,6 +10458,9 @@ THA/90:
 THA/91:
   latitude: 6.8583
   longitude: 99.9633
+THA/92:
+  latitude: 7.5697
+  longitude: 99.6467
 THA/95:
   latitude: 6.1426
   longitude: 101.218
@@ -10804,6 +10867,9 @@ TUN/53:
 TUN/61:
   latitude: 34.6495
   longitude: 11.0329
+TUN/71:
+  latitude: 34.4233
+  longitude: 8.7952
 TUN/73:
   latitude: 33.3621
   longitude: 8.8479

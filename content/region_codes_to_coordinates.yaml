@@ -397,6 +397,9 @@ ARM/KT:
 ARM/SH:
   latitude: 40.8194
   longitude: 43.8178
+ASM/E:
+  latitude: -14.3267
+  longitude: -170.7472
 AT/Burgenland:
   latitude: 47.5000001
   longitude: 16.4166666
@@ -538,6 +541,9 @@ AWS/ap-northeast-3:
 AWS/ap-south-1:
   latitude: '19.0728'
   longitude: '72.8826'
+AWS/ap-south-2:
+  latitude: 17.3843
+  longitude: 78.4583
 AWS/ap-southeast-1:
   latitude: '1.2897'
   longitude: '103.8501'
@@ -1390,6 +1396,9 @@ BRB:
 BRB/01:
   latitude: 13.0873
   longitude: -59.538
+BRB/03:
+  latitude: 13.1489
+  longitude: -59.5479
 BRB/05:
   latitude: 13.1795
   longitude: -59.5039
@@ -2252,6 +2261,9 @@ COL/TOL:
 COL/VAC:
   latitude: 3.5833
   longitude: -76.5923
+COL/VID:
+  latitude: 4.8922
+  longitude: -69.2414
 COM/G:
   latitude: -11.6952
   longitude: 43.3378
@@ -3448,6 +3460,9 @@ ETH/SI:
 ETH/SO:
   latitude: 7.0937
   longitude: 43.5345
+ETH/TI:
+  latitude: 14.1003
+  longitude: 38.2158
 FI/Central Finland:
   latitude: 62.6093658
   longitude: 25.579461
@@ -4034,6 +4049,9 @@ GRD/03:
 GRD/06:
   latitude: 12.2147
   longitude: -61.6342
+GRL/SM:
+  latitude: 64.0596
+  longitude: -44.037
 GT/Baja Verapaz:
   latitude: 15.1170798
   longitude: -90.4109616
@@ -5064,6 +5082,9 @@ IRN/02:
 IRN/03:
   latitude: 38.9113
   longitude: 47.7241
+IRN/04:
+  latitude: 32.9837
+  longitude: 52.4195
 IRN/05:
   latitude: 33.2369
   longitude: 46.8116
@@ -5793,6 +5814,9 @@ KE/Uasin Gishu County:
 KEN: &id019
   latitude: 0.549
   longitude: 37.9076
+KEN/01:
+  latitude: 0.549
+  longitude: 37.9076
 KEN/03: &id021
   latitude: 0.549
   longitude: 37.9076
@@ -6323,6 +6347,9 @@ LR/Montserrado County:
 LS/Maseru District:
   latitude: -29.5816942
   longitude: 27.8243208
+LSO:
+  latitude: -29.4802
+  longitude: 28.2466
 LSO/A:
   latitude: -29.5571
   longitude: 27.7516
@@ -6438,6 +6465,9 @@ LVA/REZ:
 LVA/RIX:
   latitude: 56.9878
   longitude: 24.1235
+LVA/VEN:
+  latitude: 57.3663
+  longitude: 21.7027
 LY/Al Butnan:
   latitude: 30.1782873
   longitude: 24.0530924
@@ -9962,6 +9992,9 @@ SVN/124:
 SVN/140:
   latitude: 45.9491
   longitude: 14.2947
+SVN/164:
+  latitude: 46.2055
+  longitude: 14.5417
 SVN/189:
   latitude: 46.2348
   longitude: 14.9474
@@ -10146,6 +10179,9 @@ TGO/K:
 TGO/M:
   latitude: 6.4252
   longitude: 1.2467
+TGO/P:
+  latitude: 7.3829
+  longitude: 1.0597
 TH/Bangkok:
   latitude: 13.7524938
   longitude: 100.4935089
@@ -10389,6 +10425,9 @@ THA/51:
 THA/52:
   latitude: 18.6296
   longitude: 99.5707
+THA/53:
+  latitude: 17.7188
+  longitude: 100.531
 THA/54:
   latitude: 18.0577
   longitude: 99.9263
@@ -10479,6 +10518,9 @@ TJK/DU:
 TJK/SU:
   latitude: 39.6335
   longitude: 69.1609
+TKM:
+  latitude: 39.8552
+  longitude: 58.6766
 TKM/S:
   latitude: 39.8552
   longitude: 58.6766
@@ -10870,6 +10912,9 @@ TUN/61:
 TUN/71:
   latitude: 34.4233
   longitude: 8.7952
+TUN/72:
+  latitude: 33.9476
+  longitude: 8.0743
 TUN/73:
   latitude: 33.3621
   longitude: 8.8479
@@ -12243,6 +12288,9 @@ VNM/45:
 VNM/46:
   latitude: 10.4581
   longitude: 106.217
+VNM/47:
+  latitude: 9.8596
+  longitude: 105.284
 VNM/49:
   latitude: 10.1042
   longitude: 105.969

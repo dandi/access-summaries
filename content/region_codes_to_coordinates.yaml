@@ -872,6 +872,9 @@ BFA:
 BFA/03:
   latitude: 12.3267
   longitude: -1.4662
+BFA/05:
+  latitude: 13.2807
+  longitude: -1.0541
 BFA/09:
   latitude: 11.3714
   longitude: -4.2089
@@ -2291,6 +2294,9 @@ CPV:
 CPV/PR:
   latitude: 14.9529
   longitude: -23.5159
+CPV/SV:
+  latitude: 16.8449
+  longitude: -24.972
 CR/Alajuela Province:
   latitude: 10.4523317
   longitude: -84.4663284
@@ -3424,6 +3430,9 @@ EST/79: *id009
 EST/81:
   latitude: 58.7249
   longitude: 25.8671
+EST/84:
+  latitude: 58.3005
+  longitude: 25.5603
 ET/Addis Ababa:
   latitude: 9.0358287
   longitude: 38.7524127
@@ -3910,6 +3919,9 @@ GHA/AH:
 GHA/CP:
   latitude: 5.4948
   longitude: -1.2655
+GHA/EP:
+  latitude: 6.4258
+  longitude: -0.4604
 GI/Gibraltar:
   latitude: 36.140807
   longitude: -5.3541295
@@ -4299,6 +4311,9 @@ HND/IB:
 HND/IN:
   latitude: 14.3981
   longitude: -88.1754
+HND/LP:
+  latitude: 14.138
+  longitude: -87.9144
 HND/OC:
   latitude: 14.5248
   longitude: -89.0399
@@ -5673,6 +5688,9 @@ JPN/30:
 JPN/31:
   latitude: 35.3657
   longitude: 133.819
+JPN/32:
+  latitude: 35.0972
+  longitude: 132.603
 JPN/33:
   latitude: 34.8521
   longitude: 133.831
@@ -5697,6 +5715,12 @@ JPN/39:
 JPN/40:
   latitude: 33.4906
   longitude: 130.616
+JPN/41:
+  latitude: 33.0097
+  longitude: 130.147
+JPN/42:
+  latitude: 32.6745
+  longitude: 128.755
 JPN/43:
   latitude: 32.588
   longitude: 130.834
@@ -5970,6 +5994,9 @@ KNA:
 KNA/03:
   latitude: 17.2836
   longitude: -62.6868
+KNA/04:
+  latitude: 17.1301
+  longitude: -62.5571
 KNA/10:
   latitude: 17.135
   longitude: -62.6162
@@ -6214,6 +6241,9 @@ LAO/VI:
   latitude: 18.5108
   longitude: 102.3595
 LAO/VT: *id023
+LAO/XS:
+  latitude: 19.4318
+  longitude: 102.5339
 "LB/Aakk\xE2r":
   latitude: 34.5555272
   longitude: 36.1759575
@@ -6462,6 +6492,9 @@ LVA/022:
 LVA/050:
   latitude: 56.9626
   longitude: 21.9858
+LVA/059:
+  latitude: 56.805
+  longitude: 26.2344
 LVA/062:
   latitude: 56.8913
   longitude: 23.9438
@@ -6745,6 +6778,9 @@ MDA/CL:
 MDA/CM:
   latitude: 46.5885
   longitude: 28.7794
+MDA/CS:
+  latitude: 46.6185
+  longitude: 29.3728
 MDA/CT:
   latitude: 46.262
   longitude: 28.3107
@@ -7015,6 +7051,9 @@ MKD/508: *id030
 MKD/509: *id031
 MKD/604: *id030
 MKD/605: *id030
+MKD/608:
+  latitude: 41.5582
+  longitude: 21.5558
 MKD/609: *id030
 MKD/701: *id030
 MKD/703: *id030
@@ -7032,6 +7071,9 @@ MLI:
 MLI/4:
   latitude: 13.5852
   longitude: -5.5195
+MLI/5:
+  latitude: 14.7873
+  longitude: -3.218
 MLI/BKO:
   latitude: 12.643
   longitude: -8.0192
@@ -7041,6 +7083,9 @@ MLT/01:
 MLT/04:
   latitude: 35.8934
   longitude: 14.4662
+MLT/05:
+  latitude: 35.8281
+  longitude: 14.5236
 MLT/08:
   latitude: 35.8694
   longitude: 14.5196
@@ -8898,6 +8943,9 @@ ROU/BN:
 ROU/BR:
   latitude: 45.1346
   longitude: 27.6204
+ROU/BT:
+  latitude: 47.868
+  longitude: 26.7668
 ROU/BV:
   latitude: 45.7729
   longitude: 25.3749
@@ -9836,6 +9884,9 @@ SRB/08:
 SRB/09:
   latitude: 44.3209
   longitude: 19.9249
+SRB/10:
+  latitude: 44.4765
+  longitude: 20.9527
 SRB/11:
   latitude: 44.4632
   longitude: 21.5363
@@ -9957,6 +10008,15 @@ SVN/001:
 SVN/011:
   latitude: 46.2398
   longitude: 15.2874
+SVN/013:
+  latitude: 45.7886
+  longitude: 14.3817
+SVN/029:
+  latitude: 46.6256
+  longitude: 15.9663
+SVN/039:
+  latitude: 45.9017
+  longitude: 14.8211
 SVN/043:
   latitude: 46.2285
   longitude: 14.733
@@ -10468,6 +10528,9 @@ THA/54:
 THA/57:
   latitude: 19.9607
   longitude: 99.9059
+THA/58:
+  latitude: 18.4043
+  longitude: 97.8911
 THA/60:
   latitude: 15.6943
   longitude: 100.25

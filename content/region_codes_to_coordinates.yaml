@@ -830,6 +830,9 @@ BDI/BL:
 BDI/BM:
   latitude: -3.3986
   longitude: 29.3689
+BDI/NG:
+  latitude: -2.869
+  longitude: 29.896
 BE/Brussels Capital:
   latitude: 50.8387951
   longitude: 4.3753041
@@ -1477,6 +1480,9 @@ BTN/12:
 BTN/15:
   latitude: 27.4828
   longitude: 89.602
+BTN/21:
+  latitude: 27.0316
+  longitude: 90.1671
 BW/Central:
   latitude: -21.4790187
   longitude: 26.2154174
@@ -6396,6 +6402,9 @@ LCA:
 LCA/02:
   latitude: 14.0004
   longitude: -60.9749
+LCA/06:
+  latitude: 14.0664
+  longitude: -60.9446
 LK/Central Province:
   latitude: 7.381949
   longitude: 80.723428
@@ -7785,6 +7794,9 @@ NGA/ON:
 NGA/OY:
   latitude: 8.1897
   longitude: 3.6168
+NGA/PL:
+  latitude: 8.9533
+  longitude: 9.606
 NGA/RI:
   latitude: 4.9979
   longitude: 6.8197
@@ -8120,6 +8132,9 @@ OM/Muscat:
 OMN: &id039
   latitude: 22.1204
   longitude: 57.3366
+OMN/BJ:
+  latitude: 23.4299
+  longitude: 57.6472
 OMN/BS: *id039
 OMN/DA:
   latitude: 22.474
@@ -10119,6 +10134,9 @@ SVN/070:
 SVN/071:
   latitude: 46.1236
   longitude: 14.3971
+SVN/079:
+  latitude: 46.3593
+  longitude: 14.9377
 SVN/082:
   latitude: 46.2932
   longitude: 14.3004
@@ -10146,6 +10164,9 @@ SVN/112:
 SVN/113:
   latitude: 46.4241
   longitude: 15.5283
+SVN/120:
+  latitude: 46.1784
+  longitude: 15.4424
 SVN/122:
   latitude: 46.1576
   longitude: 14.2779
@@ -10588,6 +10609,9 @@ THA/47:
 THA/48:
   latitude: 17.2227
   longitude: 104.628
+THA/49:
+  latitude: 16.5636
+  longitude: 104.531
 THA/50:
   latitude: 18.8368
   longitude: 98.6967
@@ -12572,6 +12596,9 @@ VNM/70:
 VNM/72:
   latitude: 12.1425
   longitude: 107.66
+VNM/73:
+  latitude: 9.8435
+  longitude: 105.663
 VNM/CT:
   latitude: 10.2421
   longitude: 105.685
